@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Video } from '../types';
 import { Disc3 } from 'lucide-react';
+import { translations, Language } from '../translations';
 
 declare global {
   interface Window {
@@ -13,12 +14,14 @@ interface Sector1PlayerProps {
   currentVideo: Video | null;
   onEnded: () => void;
   isSidebarOpen: boolean;
+  language: Language;
 }
 
-export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded }) => {
+export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language }) => {
   const playerWrapperRef = useRef<HTMLDivElement>(null);
   const playerInstanceRef = useRef<any>(null);
   const [isApiReady, setIsApiReady] = useState(false);
+  const t = translations[language].sector1;
   
   // Keep the latest onEnded in a ref to call it from event handlers without stale closures
   const onEndedRef = useRef(onEnded);
@@ -156,9 +159,9 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
             <div className="w-24 h-24 mb-6 rounded-full bg-zinc-900 border border-zinc-800 flex items-center justify-center shadow-2xl">
                 <Disc3 className="w-12 h-12 text-zinc-600 animate-spin-slow" />
             </div>
-            <h2 className="text-2xl font-bold tracking-tight mb-2 text-zinc-200">Awaiting Signal</h2>
+            <h2 className="text-2xl font-bold tracking-tight mb-2 text-zinc-200">{t.awaitingSignal}</h2>
             <p className="max-w-md text-sm opacity-60">
-            Select a frequency (Year/Decade) in Sector 2 and initiate sequence.
+            {t.instruction}
             </p>
         </div>
       </div>
@@ -186,7 +189,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                     </span>
                     <div className="h-px w-8 bg-white/40"></div>
                     <span className="text-xs font-mono text-white/80 uppercase tracking-widest">
-                        Now Playing
+                        {t.nowPlaying}
                     </span>
                 </div>
 

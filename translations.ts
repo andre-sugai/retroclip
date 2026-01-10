@@ -1,0 +1,88 @@
+export type Language = 'pt' | 'en';
+
+export const translations = {
+  pt: {
+    app: {
+      noVideosFound: 'Nenhum vídeo encontrado para esta data.',
+      loadError: 'Falha ao carregar vídeos.',
+      closeSidebar: 'Fechar Barra Lateral',
+      openSidebar: 'Abrir Barra Lateral',
+      collapseSidebar: 'Recolher Barra Lateral',
+      expandSidebar: 'Expandir Barra Lateral',
+    },
+    sector1: {
+      awaitingSignal: 'Aguardando Sinal',
+      instruction: 'Selecione uma frequência (Ano/Década) no Setor 2 e inicie a sequência.',
+      nowPlaying: 'Tocando Agora',
+      year: 'Ano',
+    },
+    sector2: {
+      timeMachine: 'Máquina do Tempo',
+      yearMode: 'Ano Exato',
+      decadeMode: 'Década',
+      play: 'Tocar',
+      traveling: 'Viajando...',
+      comingSoon: 'Em breve!',
+      availabilityNotice: 'Disponível apenas dados de 1994 e anos 90.',
+      totalClips: 'Clipes Catalogados',
+    },
+    sector3: {
+      selectGenre: 'Selecione o Gênero',
+      autoPlay: 'Automático',
+      loading: 'Carregando...',
+      emptyState: 'Selecione um gênero para carregar.',
+      genres: {
+        all: 'Tudo',
+        rockAlt: 'Rock Alt.',
+        punk: 'Punk',
+        metal: 'Metal',
+        rap: 'Rap',
+        pop: 'Pop',
+        dance: 'Dance',
+        electronic: 'Eletrônico',
+      },
+    },
+  },
+  en: {
+    app: {
+      noVideosFound: 'No videos found for this date.',
+      loadError: 'Failed to load videos.',
+      closeSidebar: 'Close Sidebar',
+      openSidebar: 'Open Sidebar',
+      collapseSidebar: 'Collapse Sidebar',
+      expandSidebar: 'Expand Sidebar',
+    },
+    sector1: {
+      awaitingSignal: 'Awaiting Signal',
+      instruction: 'Select a frequency (Year/Decade) in Sector 2 and initiate sequence.',
+      nowPlaying: 'Now Playing',
+      year: 'Year',
+    },
+    sector2: {
+      timeMachine: 'Time Machine',
+      yearMode: 'Exact Year',
+      decadeMode: 'Decade',
+      play: 'Play',
+      traveling: 'Traveling...',
+      comingSoon: 'Coming Soon!',
+      availabilityNotice: 'Currently only 1994 & 90s data available.',
+      totalClips: 'Cataloged Clips',
+    },
+    sector3: {
+      selectGenre: 'Select Genre',
+      autoPlay: 'Auto-Play',
+      loading: 'Loading...',
+      emptyState: 'Select a genre to load clips.',
+      genres: {
+        all: 'All',
+        rockAlt: 'Alt Rock',
+        punk: 'Punk',
+        metal: 'Metal',
+        rap: 'Rap',
+        pop: 'Pop',
+        dance: 'Dance',
+        electronic: 'Electronic',
+      },
+    },
+  },
+};

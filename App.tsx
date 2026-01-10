@@ -6,6 +6,7 @@ import { Sector2Search } from './components/Sector2Search';
 import { Sector3Playlist } from './components/Sector3Playlist';
 import { Button } from './components/ui/Button';
 import { PanelRightClose, PanelRightOpen, Moon, Sun } from 'lucide-react';
+import { translations, Language } from './translations';
 
 const App: React.FC = () => {
   // Theme State
@@ -13,6 +14,10 @@ const App: React.FC = () => {
   
   // Layout State
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
+
+  // Language State
+  const [language, setLanguage] = useState<Language>('pt');
+  const t = translations[language];
 
   // Genre State
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null);
@@ -64,11 +69,11 @@ const App: React.FC = () => {
             ...prev, 
             queue: [],
             isLoading: false, 
-            error: 'No videos found for this date.' 
+            error: 'Nenhum vídeo encontrado para esta data.' 
         }));
       }
     } catch (err) {
-      setState(prev => ({ ...prev, isLoading: false, error: 'Failed to load videos.' }));
+      setState(prev => ({ ...prev, isLoading: false, error: 'Falha ao carregar vídeos.' }));
     }
   };
 
@@ -208,8 +213,8 @@ const App: React.FC = () => {
                 size="icon" 
                 onClick={() => setIsSidebarOpen(!isSidebarOpen)}
                 className="shadow-md rounded-full transition-all"
-                aria-label={isSidebarOpen ? "Close Sidebar" : "Open Sidebar"}
-                title={isSidebarOpen ? "Collapse Sidebar" : "Expand Sidebar"}
+                aria-label={isSidebarOpen ? "Fechar Barra Lateral" : "Abrir Barra Lateral"}
+                title={isSidebarOpen ? "Recolher Barra Lateral" : "Expandir Barra Lateral"}
              >
                 {isSidebarOpen ? <PanelRightClose className="w-4 h-4" /> : <PanelRightOpen className="w-4 h-4" />}
              </Button>
@@ -217,9 +222,10 @@ const App: React.FC = () => {
         </header>
 
         <Sector1Player 
-            currentVideo={state.currentVideo}
+            currentVideo={state.currentVideo} 
             onEnded={handleNext}
             isSidebarOpen={isSidebarOpen}
+            language={language}
         />
       </main>
 
@@ -233,7 +239,12 @@ const App: React.FC = () => {
       >
         {/* SECTOR 2: Top Right (Search) */}
         <div className="flex-none h-auto z-20 relative border-b border-border">
-            <Sector2Search onSearch={handleSearch} isLoading={state.isLoading} />
+            <Sector2Search 
+                onSearch={handleSearch} 
+                isLoading={state.isLoading}
+                language={language}
+                onLanguageChange={setLanguage}
+            />
         </div>
 
         {/* SECTOR 3: Bottom Right (Playlist) */}
@@ -248,6 +259,7 @@ const App: React.FC = () => {
             selectedGenre={selectedGenre}
             onSelectGenre={handleGenreSelect}
             onSelectVideo={handleSelectVideo}
+            language={language}
         />
       </aside>
 

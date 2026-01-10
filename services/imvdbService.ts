@@ -4,6 +4,7 @@ import { Video } from '../types';
 import data1994 from '../data/1994.json';
 
 const RAW_DATA = data1994;
+export const TOTAL_VIDEOS_COUNT = RAW_DATA.length;
 
 /**
  * Helper to extract YouTube ID from various URL formats
