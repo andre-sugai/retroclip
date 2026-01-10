@@ -98,6 +98,9 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
 
     // Reset DOM
     playerWrapperRef.current.innerHTML = '';
+    // Ensure visibility is reset for next video
+    playerWrapperRef.current.style.opacity = '1'; 
+    
     const placeholderDiv = document.createElement('div');
     playerWrapperRef.current.appendChild(placeholderDiv);
 
@@ -119,11 +122,33 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
         events: {
             'onReady': (event: any) => {
                 event.target.playVideo();
+                
+                // Start polling for end of video
+                // We clear any existing interval first just in case
+                if ((player as any)._timeUpdateInterval) {
+                   clearInterval((player as any)._timeUpdateInterval);
+                }
+
+                (player as any)._timeUpdateInterval = setInterval(() => {
+                   try {
+                     const currentTime = event.target.getCurrentTime();
+                     const duration = event.target.getDuration();
+                     
+                     if (duration > 0 && (duration - currentTime) <= 1) { // 1 second before end
+                        event.target.pauseVideo();
+                        clearInterval((player as any)._timeUpdateInterval);
+                        onEndedRef.current(); // Trigger next video
+                     }
+                   } catch (e) {
+                      // Player might be destroyed
+                   }
+                }, 1000); 
             },
             'onStateChange': (event: any) => {
                 // 0 = ENDED
+                // We rely on polling now, but keep this as fallback IF it slips through (unlikely with 1s buffer)
                 if (event.data === 0) {
-                    onEndedRef.current();
+                     onEndedRef.current();
                 }
             },
             'onError': (event: any) => {
@@ -137,9 +162,17 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
     });
 
     playerInstanceRef.current = player;
+    
+    // Attach interval to instance for cleanup
+    (playerInstanceRef.current as any)._timeUpdateInterval = (player as any)._timeUpdateInterval;
 
     return () => {
         if (playerInstanceRef.current) {
+            // Clear interval if it exists
+            if ((playerInstanceRef.current as any)._timeUpdateInterval) {
+                clearInterval((playerInstanceRef.current as any)._timeUpdateInterval);
+            }
+
             try {
                 if (typeof playerInstanceRef.current.destroy === 'function') {
                     playerInstanceRef.current.destroy();

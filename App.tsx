@@ -170,8 +170,8 @@ const App: React.FC = () => {
     setState(prev => ({
        ...prev,
        queue: shuffledFiltered,
-       // Auto-play the first video of the new shuffled list if we are selecting a genre
-       currentVideo: genreId ? shuffledFiltered[0] : prev.currentVideo,
+       // Auto-play the first video of the new shuffled list if 'All' is selected or a specific genre
+       currentVideo: shuffledFiltered[0],
        isPlaying: true,
        hasStarted: true
     }));
