@@ -23,17 +23,29 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
   // Keep the latest onEnded in a ref to call it from event handlers without stale closures
   const onEndedRef = useRef(onEnded);
 
-  // 3. Info Visibility Timer (Moved up to avoid conditional hook call)
+  // 3. Info Visibility Timer (Refactored for interaction)
   const [showInfo, setShowInfo] = useState(true);
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+  const activateInfo = () => {
+    setShowInfo(true);
+    
+    if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+    }
+
+    timeoutRef.current = setTimeout(() => {
+        setShowInfo(false);
+    }, 15000);
+  };
 
   useEffect(() => {
     if (currentVideo) {
-        setShowInfo(true);
-        const timer = setTimeout(() => {
-        setShowInfo(false);
-        }, 15000);
-        return () => clearTimeout(timer);
+        activateInfo();
     }
+    return () => {
+        if (timeoutRef.current) clearTimeout(timeoutRef.current);
+    };
   }, [currentVideo?.id]);
 
   useEffect(() => {
@@ -155,8 +167,16 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
 
   // PLAYING STATE
   return (
-    <div className="relative w-full h-full bg-black overflow-hidden group">
+    <div 
+        className="relative w-full h-full bg-black overflow-hidden group"
+        onMouseEnter={activateInfo}
+        onClick={activateInfo}
+        onMouseMove={activateInfo}
+    >
         <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black" />
+        
+        {/* Interaction Layer - ensuring clicks on video work */}
+        <div className="absolute inset-0 z-10 bg-transparent" onClick={activateInfo} />
         
         <div className="absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end p-8 md:p-12">
             <div key={currentVideo.id} className="flex flex-col justify-end">
