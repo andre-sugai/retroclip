@@ -3,8 +3,7 @@ import { Video } from '../types';
 // Provided Database for 1994 (Validated Subset)
 import data1994 from '../data/1994.json';
 
-// Provided Database for 1994 (Validated Subset)
-const RAW_DATA = data1994;;
+const RAW_DATA = data1994;
 
 /**
  * Helper to extract YouTube ID from various URL formats
