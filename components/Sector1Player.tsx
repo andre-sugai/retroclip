@@ -23,6 +23,19 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
   // Keep the latest onEnded in a ref to call it from event handlers without stale closures
   const onEndedRef = useRef(onEnded);
 
+  // 3. Info Visibility Timer (Moved up to avoid conditional hook call)
+  const [showInfo, setShowInfo] = useState(true);
+
+  useEffect(() => {
+    if (currentVideo) {
+        setShowInfo(true);
+        const timer = setTimeout(() => {
+        setShowInfo(false);
+        }, 15000);
+        return () => clearTimeout(timer);
+    }
+  }, [currentVideo?.id]);
+
   useEffect(() => {
     onEndedRef.current = onEnded;
   }, [onEnded]);
@@ -147,7 +160,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
         
         <div className="absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end p-8 md:p-12">
             <div key={currentVideo.id} className="flex flex-col justify-end">
-                <div className="flex items-center gap-3 mb-2 opacity-0 animate-fade-in" style={{ animationDelay: '0.1s' }}>
+                <div className={`flex items-center gap-3 mb-2 opacity-0 ${showInfo ? 'animate-fade-in' : 'animate-fade-out'}`} style={{ animationDelay: showInfo ? '0.1s' : '0s' }}>
                     <span className="bg-primary/90 text-primary-foreground text-[10px] font-bold px-2 py-0.5 rounded uppercase tracking-wider shadow-sm">
                         {currentVideo.year}
                     </span>
@@ -157,11 +170,11 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                     </span>
                 </div>
 
-                <h1 className="text-4xl md:text-6xl font-black text-white drop-shadow-2xl tracking-tighter uppercase leading-none mb-2 line-clamp-2 opacity-0 animate-slide-up" style={{ animationDelay: '0.2s' }}>
+                <h1 className={`text-4xl md:text-6xl font-black text-white drop-shadow-2xl tracking-tighter uppercase leading-none mb-2 line-clamp-2 opacity-0 ${showInfo ? 'animate-slide-up' : 'animate-slide-down-out'}`} style={{ animationDelay: showInfo ? '0.2s' : '0s' }}>
                     {currentVideo.song_title}
                 </h1>
                 
-                <p className="text-xl md:text-2xl text-white/90 font-medium tracking-wide drop-shadow-lg opacity-0 animate-fade-in" style={{ animationDelay: '0.4s' }}>
+                <p className={`text-xl md:text-2xl text-white/90 font-medium tracking-wide drop-shadow-lg opacity-0 ${showInfo ? 'animate-fade-in' : 'animate-fade-out'}`} style={{ animationDelay: showInfo ? '0.4s' : '0s' }}>
                     {currentVideo.artists.map(a => a.name).join(', ')}
                 </p>
             </div>
