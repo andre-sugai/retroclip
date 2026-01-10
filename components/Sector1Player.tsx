@@ -146,8 +146,8 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
         <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black" />
         
         <div className="absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end p-8 md:p-12">
-            <div className="animate-in slide-in-from-bottom-4 duration-700 fade-in">
-                <div className="flex items-center gap-3 mb-2 opacity-80">
+            <div key={currentVideo.id} className="flex flex-col justify-end">
+                <div className="flex items-center gap-3 mb-2 opacity-0 animate-fade-in" style={{ animationDelay: '0.1s' }}>
                     <span className="bg-primary/90 text-primary-foreground text-[10px] font-bold px-2 py-0.5 rounded uppercase tracking-wider shadow-sm">
                         {currentVideo.year}
                     </span>
@@ -157,11 +157,11 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                     </span>
                 </div>
 
-                <h1 className="text-4xl md:text-6xl font-black text-white drop-shadow-2xl tracking-tighter uppercase leading-none mb-2 line-clamp-2">
+                <h1 className="text-4xl md:text-6xl font-black text-white drop-shadow-2xl tracking-tighter uppercase leading-none mb-2 line-clamp-2 opacity-0 animate-slide-up" style={{ animationDelay: '0.2s' }}>
                     {currentVideo.song_title}
                 </h1>
                 
-                <p className="text-xl md:text-2xl text-white/90 font-medium tracking-wide drop-shadow-lg">
+                <p className="text-xl md:text-2xl text-white/90 font-medium tracking-wide drop-shadow-lg opacity-0 animate-fade-in" style={{ animationDelay: '0.4s' }}>
                     {currentVideo.artists.map(a => a.name).join(', ')}
                 </p>
             </div>
