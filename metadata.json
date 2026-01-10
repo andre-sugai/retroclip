@@ -1,0 +1,5 @@
+{
+  "name": "RetroClip - Music Video Time Machine",
+  "description": "A time-traveling music video player. Select a year or decade to watch a curated stream of music videos from that era. Features a retractable sidebar, dark mode, and seamless playback.",
+  "requestFramePermissions": []
+}

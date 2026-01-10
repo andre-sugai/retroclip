@@ -1,0 +1,25 @@
+:root {
+  --bg-color: #1a1a1a;
+  --text-color: #ffffff;
+  --accent-color: #ff0055;
+  --secondary-bg: #333333;
+  --border-radius: 8px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  overflow: hidden; /* Prevent body scroll, handle in containers */
+}
+
+#root {
+  height: 100vh;
+  width: 100vw;
+}
