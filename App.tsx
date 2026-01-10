@@ -7,6 +7,7 @@ import { Sector3Playlist } from './components/Sector3Playlist';
 import { Button } from './components/ui/Button';
 import { PanelRightClose, PanelRightOpen, Moon, Sun } from 'lucide-react';
 import { translations, Language } from './translations';
+import { TVStatic } from './components/TVStatic';
 
 const App: React.FC = () => {
   // Theme State
@@ -22,6 +23,7 @@ const App: React.FC = () => {
   // Genre State
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null);
   const [allVideos, setAllVideos] = useState<Video[]>([]); // Store full unfiltered list
+  const [isTuning, setIsTuning] = useState(false);
 
   // Player & Data State
   const [state, setState] = useState<PlayerState>({
@@ -142,6 +144,9 @@ const App: React.FC = () => {
         });
       }
     }
+    
+    // Trigger tuning effect if switching genre (or to 'All')
+    setIsTuning(true);
 
     // Shuffle the filtered result for variety
     // Helper shuffle
@@ -226,7 +231,9 @@ const App: React.FC = () => {
             onEnded={handleNext}
             isSidebarOpen={isSidebarOpen}
             language={language}
+            onVideoPlay={() => setIsTuning(false)}
         />
+        <TVStatic active={isTuning} />
       </main>
 
       {/* RIGHT SIDEBAR */}

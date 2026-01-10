@@ -15,9 +15,10 @@ interface Sector1PlayerProps {
   onEnded: () => void;
   isSidebarOpen: boolean;
   language: Language;
+  onVideoPlay?: () => void;
 }
 
-export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language }) => {
+export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language, onVideoPlay }) => {
   const playerWrapperRef = useRef<HTMLDivElement>(null);
   const playerInstanceRef = useRef<any>(null);
   const [isApiReady, setIsApiReady] = useState(false);
@@ -149,6 +150,10 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                 // We rely on polling now, but keep this as fallback IF it slips through (unlikely with 1s buffer)
                 if (event.data === 0) {
                      onEndedRef.current();
+                }
+                // 1 = PLAYING
+                if (event.data === 1) {
+                    if (onVideoPlay) onVideoPlay();
                 }
             },
             'onError': (event: any) => {
