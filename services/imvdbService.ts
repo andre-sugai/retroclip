@@ -4,8 +4,10 @@ import { Video } from '../types';
 import data1994 from '../data/1994.json';
 import data1993 from '../data/1993.json';
 import data1992 from '../data/1992.json';
+import data1991 from '../data/1991.json';
+import data1990 from '../data/1990.json';
 
-const RAW_DATA = [...data1992, ...data1993, ...data1994];
+const RAW_DATA = [...data1990, ...data1991, ...data1992, ...data1993, ...data1994];
 export const TOTAL_VIDEOS_COUNT = RAW_DATA.length;
 
 /**
