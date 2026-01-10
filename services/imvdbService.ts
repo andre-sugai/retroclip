@@ -2,8 +2,9 @@ import { Video } from '../types';
 
 // Provided Database for 1994 (Validated Subset)
 import data1994 from '../data/1994.json';
+import data1993 from '../data/1993.json';
 
-const RAW_DATA = data1994;
+const RAW_DATA = [...data1993, ...data1994];
 export const TOTAL_VIDEOS_COUNT = RAW_DATA.length;
 
 /**
@@ -70,7 +71,7 @@ export const fetchVideosByCriteria = async (type: 'year' | 'decade', value: stri
     return {
       id: index + 1000,
       song_title: item.song_title,
-      artists: [{ name: item.artist, slug: item.artist.toLowerCase().replace(/ /g, '-') }],
+      artists: [{ name: String(item.artist), slug: String(item.artist).toLowerCase().replace(/ /g, '-') }],
       year: item.year,
       url: item.imvdb_url,
       embed_id: embedId,
