@@ -21,6 +21,7 @@ export interface Video {
   // We will add a property for the embeddable ID we try to resolve.
   embed_id?: string;
   source?: 'youtube' | 'vimeo' | 'unknown';
+  artist_genre?: string;
 }
 
 export interface SearchParams {

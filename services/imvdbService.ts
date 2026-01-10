@@ -74,7 +74,8 @@ export const fetchVideosByCriteria = async (type: 'year' | 'decade', value: stri
       url: item.imvdb_url,
       embed_id: embedId,
       image: getHighQualityThumbnail(embedId),
-      source: 'youtube'
+      source: 'youtube',
+      artist_genre: item.artist_genre // Map the genre
     };
   }).filter(Boolean) as Video[];
 };
