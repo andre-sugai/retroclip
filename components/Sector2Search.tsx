@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
-import { Calendar, Film, PlayCircle, Clock } from 'lucide-react';
+import { Calendar, Film, PlayCircle, Clock, Coffee } from 'lucide-react';
 import { Button } from './ui/Button';
+import { DonationModal } from './DonationModal';
 import { TOTAL_VIDEOS_COUNT } from '../services/imvdbService';
 import { translations, Language } from '../translations';
 
@@ -34,6 +35,7 @@ interface Sector2SearchProps {
 export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoading, language, onLanguageChange }) => {
   const [value, setValue] = useState<string>('2000');
   const [mode, setMode] = useState<'year' | 'decade'>('year');
+  const [isDonationModalOpen, setIsDonationModalOpen] = useState(false);
   const t = translations[language].sector2;
 
   const handleSubmit = (e: React.FormEvent) => {
@@ -68,6 +70,16 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
           <div className="inline-block bg-background/50 dark:bg-black/20 rounded px-2 py-1 font-mono text-[10px] tracking-wide mt-1">
              <span className="opacity-70">{t.totalClips}:</span> <span className="font-bold">{TOTAL_VIDEOS_COUNT}</span>
           </div>
+
+           {/* Donation Button */}
+           <button
+             type="button"
+             onClick={() => setIsDonationModalOpen(true)}
+             className="w-full mt-3 bg-yellow-400 hover:bg-yellow-500 text-yellow-950 text-[10px] font-bold py-2 px-3 rounded shadow-sm transition-colors flex items-center justify-center gap-1.5 active:scale-[0.98]"
+           >
+                <Coffee className="w-3 h-3" />
+                Me Pague um Café
+           </button>
       </div>
 
       <form onSubmit={handleSubmit} className="flex flex-col gap-5">
@@ -153,7 +165,14 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
             )}
             {isLoading ? t.traveling : `${t.play} ${value}${mode === 'decade' ? 's' : ''}`}
         </Button>
+
+
       </form>
+
+      <DonationModal 
+        isOpen={isDonationModalOpen} 
+        onClose={() => setIsDonationModalOpen(false)} 
+      />
     </div>
   );
 };
