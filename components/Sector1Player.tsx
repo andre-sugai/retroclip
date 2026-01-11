@@ -118,7 +118,9 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
             'modestbranding': 1,
             'iv_load_policy': 3,
             'origin': window.location.origin,
-            'playsinline': 1
+            'playsinline': 1,
+            'loop': 1,
+            'playlist': currentVideo.embed_id
         },
         events: {
             'onReady': (event: any) => {
@@ -136,14 +138,14 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                      const duration = event.target.getDuration();
                      
                      if (duration > 0 && (duration - currentTime) <= 1) { // 1 second before end
-                        event.target.pauseVideo();
+                        // event.target.pauseVideo(); // Removing pause to avoid triggering pause overlays
                         clearInterval((player as any)._timeUpdateInterval);
                         onEndedRef.current(); // Trigger next video
                      }
                    } catch (e) {
                       // Player might be destroyed
                    }
-                }, 1000); 
+                }, 100); 
             },
             'onStateChange': (event: any) => {
                 // 0 = ENDED
