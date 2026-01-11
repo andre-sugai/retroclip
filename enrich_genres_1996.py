@@ -11,7 +11,7 @@ ARTIST_GENRES = {
     "311": "Rock Alternativo",
     "60ft Dolls": "Rock Alternativo",
     "7 Year Bitch": "Rock Alternativo",
-    "AFI": "Punk", # Early stuff was hardcore punk
+    "AFI": "Hardcore", # Early stuff was hardcore punk
     "Amorphis": "Metal",
     "Apollo 440": "Eletronico",
     "Arch Enemy": "Metal",
@@ -57,7 +57,7 @@ ARTIST_GENRES = {
     "Failure": "Rock Alternativo",
     "Faith No More": "Rock Alternativo",
     "Feeder": "Rock Alternativo",
-    "Filter": "Rock Alternativo", # Industrial Rock
+    "Filter": "Industrial", # Industrial Rock
     "Fiona Apple": "Rock Alternativo", # Art Pop
     "Fish": "Rock Alternativo", # Prog
     "Fun Lovin' Criminals": "Rock Alternativo",
@@ -98,7 +98,7 @@ ARTIST_GENRES = {
     "Lush": "Rock Alternativo", # Shoegaze/Britpop
     "Manic Street Preachers": "Rock Alternativo",
     "Mansun": "Rock Alternativo",
-    "Marilyn Manson": "Metal", # Industrial Metal
+    "Marilyn Manson": "Industrial", # Industrial Metal
     "Matchbox Twenty": "Rock Alternativo",
     "Mazzy Star": "Rock Alternativo",
     "Melissa Etheridge": "Rock Alternativo",
@@ -140,7 +140,7 @@ ARTIST_GENRES = {
     "Quarashi": "Rock Alternativo",
     "Radiohead": "Rock Alternativo",
     "Rage Against The Machine": "Rock Alternativo", # Rap Metal
-    "Rammstein": "Metal", # Industrial
+    "Rammstein": "Industrial", # Industrial
     "Red Hot Chili Peppers": "Rock Alternativo",
     "Red House Painters": "Rock Alternativo",
     "Reef": "Rock Alternativo",
@@ -172,7 +172,7 @@ ARTIST_GENRES = {
     "Space": "Rock Alternativo",
     "Spin Doctors": "Rock Alternativo",
     "Sponge (3)": "Rock Alternativo",
-    "Stabbing Westward": "Rock Alternativo", # Industrial
+    "Stabbing Westward": "Industrial", # Industrial
     "Stigmata A Go Go": "Rock Alternativo",
     "Stone Temple Pilots": "Rock Alternativo",
     "Strangelove": "Rock Alternativo",
@@ -225,7 +225,7 @@ ARTIST_GENRES = {
     "Voice": "Rock Alternativo",
     "Weezer": "Rock Alternativo",
     "Weird Al Yankovic": "Pop", # Parody
-    "White Zombie": "Metal",
+    "White Zombie": "Industrial",
     "Wild Colonials": "Rock Alternativo",
     "ZZ Top": "Rock Alternativo", # Classic Rock
 

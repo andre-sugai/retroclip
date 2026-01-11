@@ -34,7 +34,7 @@ ARTIST_GENRES = {
     "Candlebox": "Rock Alternativo", # Grunge
     "Catherine Wheel": "Rock Alternativo", # Shoegaze
     "Chris Whitley": "Rock Alternativo",
-    "Civ": "Punk",
+    "Civ": "Hardcore",
     "Collective Soul": "Rock Alternativo",
     "Compulsion (2)": "Punk",
     "Crash Test Dummies": "Rock Alternativo",
@@ -63,7 +63,7 @@ ARTIST_GENRES = {
     "Face To Face": "Punk",
     "Faith No More": "Rock Alternativo",
     "Fight": "Metal",
-    "Filter": "Rock Alternativo", # Industrial Rock
+    "Filter": "Industrial", # Industrial Rock
     "Firehouse": "Metal", # Glam Metal
     "Fish": "Rock Alternativo", # Prog
     "Foo Fighters": "Rock Alternativo",
@@ -109,7 +109,7 @@ ARTIST_GENRES = {
     "Luscious Jackson": "Rock Alternativo",
     "Mad Season": "Rock Alternativo",
     "Marillion": "Rock Alternativo", # Prog
-    "Marilyn Manson": "Metal",
+    "Marilyn Manson": "Industrial",
     "Mary Lou Lord": "Rock Alternativo",
     "Matthew Sweet": "Rock Alternativo",
     "Medicine Hat": "Rock Alternativo",
@@ -144,11 +144,11 @@ ARTIST_GENRES = {
     "Pulp": "Rock Alternativo", # Britpop
     "Queen": "Pop", # Rock
     "Queensrÿche": "Metal",
-    "Quicksand (3)": "Post-Hardcore", # Punk/Alt
+    "Quicksand (3)": "Hardcore", # Punk/Alt
     "R.E.M.": "Rock Alternativo",
     "Radiohead": "Rock Alternativo",
     "Rage Against The Machine": "Rock Alternativo", # Rap Metal
-    "Rammstein": "Metal",
+    "Rammstein": "Industrial",
     "Rancid": "Punk",
     "Red Hot Chili Peppers": "Rock Alternativo",
     "Reef": "Rock Alternativo",
@@ -182,7 +182,7 @@ ARTIST_GENRES = {
     "Spacehog": "Rock Alternativo",
     "Spiritualized": "Rock Alternativo", # Space Rock
     "Sponge (3)": "Rock Alternativo",
-    "Stabbing Westward": "Rock Alternativo",
+    "Stabbing Westward": "Industrial",
     "Stone Temple Pilots": "Rock Alternativo",
     "Strangelove": "Rock Alternativo",
     "Sublime": "Rock Alternativo", # Ska Punk
@@ -248,7 +248,7 @@ ARTIST_GENRES = {
     "Weezer": "Rock Alternativo",
     "Wet Wet Wet": "Pop",
     "Whale": "Rock Alternativo",
-    "White Zombie": "Metal",
+    "White Zombie": "Industrial",
     "X Japan": "Metal",
     "Zumpano": "Rock Alternativo",
 
@@ -410,7 +410,7 @@ ARTIST_GENRES = {
     "Soul For Real": "Pop", # R&B
     "Soul II Soul": "Pop", # R&B
     "Spagna": "Dance",
-    "Spahn Ranch": "Eletronico", # Industrial
+    "Spahn Ranch": "Industrial", # Industrial
     "Sting": "Pop",
     "Sweetbox": "Pop", # Hip Hop/Pop
     "SWV": "Pop", # R&B
@@ -449,7 +449,7 @@ ARTIST_GENRES = {
     "5th Ward Juvenilez": "Rap",
     "Aceyalone": "Rap",
     "AZ": "Rap",
-    "Biohazard": "Metal", # Rap Metal
+    "Biohazard": "Hardcore", # Rap Metal
     "Black Grape": "Rock Alternativo", # Alt / Rap
     "Bone Thugs-N-Harmony": "Rap",
     "C-Bo": "Rap",

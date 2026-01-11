@@ -132,7 +132,9 @@ const App: React.FC = () => {
         'Rap': ['Hip Hop', 'Rap', 'Gangsta Rap', 'Alternative Hip Hop', 'Jazz Rap'],
         'Pop': ['Pop', 'Pop Rock', 'Synth-pop', 'Teen Pop', 'Dance-Pop', 'Europop', 'Boy Band', 'Girl Group'],
         'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
-        'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica']
+        'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
+        'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
+        'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock']
       };
 
       const targetGenres = genreMap[genreId] || [];

@@ -27,6 +27,8 @@ const GENRE_IDS = [
   { id: 'Pop', key: 'pop' },
   { id: 'Dance', key: 'dance' },
   { id: 'Eletronico', key: 'electronic' },
+  { id: 'Hardcore', key: 'hardcore' },
+  { id: 'Industrial', key: 'industrial' },
 ] as const;
 
 export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({

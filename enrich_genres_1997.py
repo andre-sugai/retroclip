@@ -7,7 +7,7 @@ ARTIST_GENRES = {
     # Rock Alternativo / Indie / Grunge / Post-Grunge
     "1.8.7.": "Eletronico", # Drum and Bass / Jungle
     "10,000 Maniacs": "Rock Alternativo",
-    "AFI": "Punk",
+    "AFI": "Hardcore",
     "Afterhours": "Rock Alternativo",
     "Allen Ginsberg": "Rock Alternativo", # Spoken Word / Poetry
     "Ambra Angiolini": "Pop",
@@ -92,7 +92,7 @@ ARTIST_GENRES = {
     "Fatboy Slim": "Eletronico", # Big Beat
     "Feeder": "Rock Alternativo",
     "Fenix TX": "Punk", # Pop Punk
-    "Filter": "Rock Alternativo", # Industrial
+    "Filter": "Industrial", # Industrial
     "Fiona Apple": "Rock Alternativo",
     "Fish": "Rock Alternativo",
     "Five Iron Frenzy": "Punk", # Ska Punk
@@ -149,7 +149,7 @@ ARTIST_GENRES = {
     "Malice Mizer": "Rock Alternativo", # Visual Kei
     "Mansun": "Rock Alternativo",
     "Marcy Playground": "Rock Alternativo",
-    "Marilyn Manson": "Metal",
+    "Marilyn Manson": "Industrial",
     "Mark 'Oh": "Dance",
     "Massive Attack": "Eletronico", # Trip Hop
     "Matchbox Twenty": "Rock Alternativo",
@@ -176,7 +176,7 @@ ARTIST_GENRES = {
     "Neneh Cherry": "Pop",
     "Nick Cave & The Bad Seeds": "Rock Alternativo",
     "Nikolai": "Punk",
-    "Nine Inch Nails": "Rock Alternativo", # Industrial
+    "Nine Inch Nails": "Industrial", # Industrial
     "No Doubt": "Rock Alternativo", # Ska Punk
     "Nomansland": "Dance",
     "Oasis": "Rock Alternativo",
@@ -208,7 +208,7 @@ ARTIST_GENRES = {
     "Radiohead": "Rock Alternativo",
     "Rage Against The Machine": "Rock Alternativo",
     "Rainhard Fendrich": "Pop",
-    "Rammstein": "Metal", # Industrial
+    "Rammstein": "Industrial", # Industrial
     "Red 5": "Dance",
     "Reef": "Rock Alternativo",
     "Republica": "Rock Alternativo",

@@ -75,7 +75,7 @@ ARTIST_GENRES = {
     "Morrissey": "Rock Alternativo",
     "Ned's Atomic Dustbin": "Rock Alternativo",
     "Neil Young": "Rock Alternativo", # Folk Rock
-    "Nine Inch Nails": "Rock Alternativo", # Industrial
+    "Nine Inch Nails": "Industrial", # Industrial
     "Nirvana": "Rock Alternativo",
     "No Doubt": "Pop", # Ska/Pop
     "Nymphs": "Rock Alternativo",
@@ -195,7 +195,7 @@ ARTIST_GENRES = {
     "Ugly Kid Joe": "Metal", # Hard Rock
     "W.A.S.P.": "Metal",
     "Warrant": "Metal",
-    "White Zombie": "Metal",
+    "White Zombie": "Industrial",
     "ZZ Top": "Rock Alternativo", # Blues Rock
 
     # Rap / Hip Hop

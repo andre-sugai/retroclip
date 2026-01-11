@@ -21,7 +21,7 @@
     "id": 100127704851,
     "song_title": "Моряк",
     "year": 1996,
-    "artist_genre": "Rock",
+    "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=6okDBeS5WL4",
     "imvdb_url": "https://imvdb.com/video/?????-??????",
     "artist": "Агата Кристи"
@@ -84,7 +84,7 @@
     "id": 254905239726,
     "song_title": "Jurassitol",
     "year": 1996,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=zFj3vXp3R_M",
     "imvdb_url": "https://imvdb.com/video/filter-2/jurassitol",
     "artist": "Filter"
@@ -507,7 +507,7 @@
     "id": 714490278845,
     "song_title": "Seemann",
     "year": 1996,
-    "artist_genre": "Metal",
+    "artist_genre": "Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=NRn5D7tZFbQ",
     "imvdb_url": "https://imvdb.com/video/rammstein/seemann",
     "artist": "Rammstein"
@@ -1479,7 +1479,7 @@
     "id": 304315018061,
     "song_title": "Stuck in Here",
     "year": 1996,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Industrial",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/filter-2/stuck-in-here",
     "artist": "Filter"
@@ -1488,7 +1488,7 @@
     "id": 189093224152,
     "song_title": "Shame",
     "year": 1996,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Industrial",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/stabbing-westward/shame",
     "artist": "Stabbing Westward"
@@ -2595,7 +2595,7 @@
     "id": 121462008541,
     "song_title": "The One",
     "year": 1996,
-    "artist_genre": "Metal",
+    "artist_genre": "Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=cDGJTyCLc04",
     "imvdb_url": "https://imvdb.com/video/white-zombie/the-one",
     "artist": "White Zombie"
@@ -3774,7 +3774,7 @@
     "id": 116948508133,
     "song_title": "I'm Your Boogieman",
     "year": 1996,
-    "artist_genre": "Metal",
+    "artist_genre": "Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=Ks7f-UZNeug",
     "imvdb_url": "https://imvdb.com/video/white-zombie/im-your-boogieman",
     "artist": "White Zombie"
@@ -3990,7 +3990,7 @@
     "id": 175052320465,
     "song_title": "The Beautiful People",
     "year": 1996,
-    "artist_genre": "Metal",
+    "artist_genre": "Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=Ypkv0HeUvTc",
     "imvdb_url": "https://imvdb.com/video/marilyn-manson/the-beautiful-people",
     "artist": "Marilyn Manson"
@@ -4440,7 +4440,7 @@
     "id": 156480670652,
     "song_title": "Tourniquet",
     "year": 1996,
-    "artist_genre": "Metal",
+    "artist_genre": "Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=MmfQ7gSaJgM",
     "imvdb_url": "https://imvdb.com/video/marilyn-manson/tourniquet",
     "artist": "Marilyn Manson"
@@ -5304,7 +5304,7 @@
     "id": 927350025581,
     "song_title": "What Do I Have to Do?",
     "year": 1996,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Industrial",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/stabbing-westward/what-do-i-have-to-do",
     "artist": "Stabbing Westward"
@@ -5565,7 +5565,7 @@
     "id": 267851634939,
     "song_title": "He Who Laughs Last...",
     "year": 1996,
-    "artist_genre": "Punk",
+    "artist_genre": "Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=d_hCYLtmoRQ",
     "imvdb_url": "https://imvdb.com/video/afi/he-who-laughs-last",
     "artist": "AFI"
@@ -6663,7 +6663,7 @@
     "id": 284727550066,
     "song_title": "Sweet Dreams (Are Made Of This)",
     "year": 1996,
-    "artist_genre": "Metal",
+    "artist_genre": "Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=QUvVdTlA23w",
     "imvdb_url": "https://imvdb.com/video/marilyn-manson/sweet-dreams-are-made-of-this/2",
     "artist": "Marilyn Manson"

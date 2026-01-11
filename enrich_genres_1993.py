@@ -126,7 +126,7 @@ ARTIST_GENRES = {
     "Die Krupps": "Metal", # Industrial
     "Entombed": "Metal",
     "Extreme": "Metal", # Hard Rock
-    "Fear Factory": "Metal",
+    "Fear Factory": "Industrial",
     "Fight": "Metal",
     "Firehouse": "Metal", # Glam Metal
     "Gotthard": "Metal",
