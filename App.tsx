@@ -58,6 +58,7 @@ const App: React.FC = () => {
   const handleSearch = async (type: 'year' | 'decade' | 'all', value: string) => {
     setState(prev => ({ ...prev, isLoading: true, error: null, currentVideo: null, hasStarted: false }));
     setShowClickToStart(false); // Dismiss overlay on interaction
+    setShowWelcome(false); // Dismiss welcome screen
     
     // Show TV static while loading
     setIsTuning(true);
@@ -101,6 +102,7 @@ const App: React.FC = () => {
   // Logic: Play / Start (Manual trigger if needed from playlist)
   const handlePlay = () => {
     setShowClickToStart(false); // Dismiss overlay on interaction
+    setShowWelcome(false); // Dismiss welcome screen
     if (state.queue.length > 0) {
       const firstVideo = state.queue[0];
       setState(prev => ({
@@ -229,6 +231,7 @@ const App: React.FC = () => {
   // Logic: Select specific video from playlist
   const handleSelectVideo = (video: Video) => {
     setShowClickToStart(false); // Dismiss overlay on interaction
+    setShowWelcome(false); // Dismiss welcome screen
     setState(prev => ({
       ...prev,
       currentVideo: video,
