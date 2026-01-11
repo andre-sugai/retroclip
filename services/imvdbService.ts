@@ -15,8 +15,9 @@ import data1992 from '../data/1992.json';
 import data1991 from '../data/1991.json';
 import data1990 from '../data/1990.json';
 import data1985 from '../data/1985.json';
+import data2005 from '../data/2005.json';
 
-const RAW_DATA = [...data1985, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999];
+const RAW_DATA = [...data1985, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2005];
 export const TOTAL_VIDEOS_COUNT = RAW_DATA.length;
 
 /**
@@ -55,7 +56,7 @@ function shuffleArray<T>(array: T[]): T[] {
 /**
  * Main Fetch Function
  */
-export const fetchVideosByCriteria = async (type: 'year' | 'decade', value: string): Promise<Video[]> => {
+export const fetchVideosByCriteria = async (type: 'year' | 'decade' | 'all', value: string): Promise<Video[]> => {
   // Simulate API delay
   await new Promise(resolve => setTimeout(resolve, 800));
 
@@ -68,6 +69,9 @@ export const fetchVideosByCriteria = async (type: 'year' | 'decade', value: stri
     const startYear = parseInt(value);
     const endYear = startYear + 9;
     filtered = RAW_DATA.filter(v => v.year >= startYear && v.year <= endYear);
+  } else if (type === 'all') {
+    // No filtering needed, use all data
+    filtered = RAW_DATA;
   }
 
   // Shuffle Results
@@ -80,10 +84,12 @@ export const fetchVideosByCriteria = async (type: 'year' | 'decade', value: stri
     // Fallback if ID extraction fails (shouldn't with this dataset)
     if (!embedId) return null;
 
+    const i = item as any;
+    const artistName = String(i.artist || i.artist_name || 'Unknown');
     return {
       id: index + 1000,
       song_title: item.song_title,
-      artists: [{ name: String(item.artist), slug: String(item.artist).toLowerCase().replace(/ /g, '-') }],
+      artists: [{ name: artistName, slug: artistName.toLowerCase().replace(/ /g, '-') }],
       year: item.year,
       url: item.imvdb_url,
       embed_id: embedId,

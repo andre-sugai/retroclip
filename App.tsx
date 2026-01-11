@@ -204,7 +204,7 @@ const App: React.FC = () => {
         <header className="absolute top-0 left-0 right-0 z-50 p-4 flex justify-between items-start pointer-events-none">
           <div className="pointer-events-auto bg-background/80 backdrop-blur-md p-2 rounded-lg border border-border shadow-sm">
              <h1 className="text-xl font-black tracking-tighter uppercase leading-none">
-               Retro<span className="text-primary">Clip</span>
+               Groov<span className="text-primary">io</span>
              </h1>
              <p className="text-[10px] text-muted-foreground font-mono">V 1.0.0 // ARIA-COMPLIANT</p>
           </div>

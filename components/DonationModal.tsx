@@ -34,7 +34,7 @@ export const DonationModal: React.FC<DonationModalProps> = ({ isOpen, onClose })
             <Coffee className="w-8 h-8 text-primary" />
           </div>
 
-          <h2 className="text-2xl font-bold mb-2">Gostou do RetroClip?</h2>
+          <h2 className="text-2xl font-bold mb-2">Gostou do Groovio?</h2>
           <p className="text-muted-foreground mb-8 text-sm leading-relaxed max-w-xs">
             Se esse projeto te trouxe boas memórias e você quiser apoiar o desenvolvimento, considere me pagar um cafézinho! ☕
           </p>

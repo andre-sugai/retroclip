@@ -18,8 +18,9 @@ export const translations = {
     },
     sector2: {
       timeMachine: 'Máquina do Tempo',
-      yearMode: 'Ano Exato',
+      yearMode: 'Ano',
       decadeMode: 'Década',
+      allMode: 'Tudo',
       play: 'Tocar',
       traveling: 'Viajando...',
       comingSoon: 'Em breve!',
@@ -64,6 +65,7 @@ export const translations = {
       timeMachine: 'Time Machine',
       yearMode: 'Exact Year',
       decadeMode: 'Decade',
+      allMode: 'All',
       play: 'Play',
       traveling: 'Traveling...',
       comingSoon: 'Coming Soon!',

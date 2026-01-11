@@ -26,7 +26,7 @@ const FlagUS = () => (
 );
 
 interface Sector2SearchProps {
-  onSearch: (type: 'year' | 'decade', value: string) => void;
+  onSearch: (type: 'year' | 'decade' | 'all', value: string) => void;
   isLoading: boolean;
   language: Language;
   onLanguageChange: (lang: Language) => void;
@@ -34,7 +34,7 @@ interface Sector2SearchProps {
 
 export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoading, language, onLanguageChange }) => {
   const [value, setValue] = useState<string>('2000');
-  const [mode, setMode] = useState<'year' | 'decade'>('year');
+  const [mode, setMode] = useState<'year' | 'decade' | 'all'>('year');
   const [isDonationModalOpen, setIsDonationModalOpen] = useState(false);
   const t = translations[language].sector2;
 
@@ -85,7 +85,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
       <form onSubmit={handleSubmit} className="flex flex-col gap-5">
         
         {/* Mode Toggles */}
-        <div className="grid grid-cols-2 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
+        <div className="grid grid-cols-3 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
           <button 
             type="button"
             onClick={() => setMode('year')}
@@ -104,30 +104,39 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
           >
             <Film className="w-3 h-3" /> {t.decadeMode}
           </button>
+          <button 
+            type="button"
+            onClick={() => setMode('all')}
+            className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-2 ${mode === 'all' ? 'bg-background shadow-sm text-foreground' : 'text-muted-foreground hover:text-foreground'}`}
+          >
+            <Film className="w-3 h-3" /> {t.allMode}
+          </button>
         </div>
 
-        {/* Input */}
-        <div className="relative group">
-            <input
-                type="number"
-                min="1950"
-                max="2025"
-                step={mode === 'decade' ? 10 : 1}
-                value={value}
-                onChange={(e) => setValue(e.target.value)}
-                className="w-full h-14 pl-4 pr-4 rounded-xl border-2 border-transparent bg-zinc-200 dark:bg-zinc-800 focus:bg-background text-2xl font-black tracking-widest text-center transition-all focus:border-primary focus:outline-none"
-                placeholder="2000"
-            />
-            <span className="absolute right-4 top-1/2 -translate-y-1/2 text-muted-foreground text-xs font-mono opacity-50 pointer-events-none">
-                {mode === 'decade' ? 's' : ''}
-            </span>
-        </div>
+        {/* Input - Hidden in 'all' mode */}
+        {mode !== 'all' && (
+          <div className="relative group">
+              <input
+                  type="number"
+                  min="1950"
+                  max="2025"
+                  step={mode === 'decade' ? 10 : 1}
+                  value={value}
+                  onChange={(e) => setValue(e.target.value)}
+                  className="w-full h-14 pl-4 pr-4 rounded-xl border-2 border-transparent bg-zinc-200 dark:bg-zinc-800 focus:bg-background text-2xl font-black tracking-widest text-center transition-all focus:border-primary focus:outline-none"
+                  placeholder="2000"
+              />
+              <span className="absolute right-4 top-1/2 -translate-y-1/2 text-muted-foreground text-xs font-mono opacity-50 pointer-events-none">
+                  {mode === 'decade' ? 's' : ''}
+              </span>
+          </div>
+        )}
 
         {/* Quick Select Chips */}
         {mode === 'decade' && (
             <div className="flex justify-between gap-2">
                 {quickDecades.map(decade => {
-                    const isAvailable = decade === '1990';
+                    const isAvailable = decade === '1990' || decade === '1980' || decade === '2000';
                     return (
                         <button
                             key={decade}
