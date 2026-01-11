@@ -4,6 +4,8 @@ import { Video } from '../types';
 // Provided Database for 1994 (Validated Subset)
 // Provided Database for 1994 (Validated Subset)
 // Provided Database for 1994 (Validated Subset)
+import data1999 from '../data/1999.json';
+import data1998 from '../data/1998.json';
 import data1997 from '../data/1997.json';
 import data1996 from '../data/1996.json';
 import data1995 from '../data/1995.json';
@@ -12,8 +14,9 @@ import data1993 from '../data/1993.json';
 import data1992 from '../data/1992.json';
 import data1991 from '../data/1991.json';
 import data1990 from '../data/1990.json';
+import data1985 from '../data/1985.json';
 
-const RAW_DATA = [...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997];
+const RAW_DATA = [...data1985, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999];
 export const TOTAL_VIDEOS_COUNT = RAW_DATA.length;
 
 /**

@@ -82,113 +82,142 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
     }
   }, []);
 
-  // 2. Initialize Player
+  // 2. Initialize Player & Handle Updates
   useEffect(() => {
-    if (!currentVideo || !isApiReady || !playerWrapperRef.current) return;
+    // If we have no video or no API, we can't do anything.
+    if (!currentVideo || !isApiReady) return;
 
-    // Destroy existing instance
-    if (playerInstanceRef.current) {
-        try {
-            if (typeof playerInstanceRef.current.destroy === 'function') {
-                playerInstanceRef.current.destroy();
+    // Creation Logic
+    if (!playerInstanceRef.current && playerWrapperRef.current) {
+        // Reset DOM for fresh start (only on first creation)
+        playerWrapperRef.current.innerHTML = '';
+        const placeholderDiv = document.createElement('div');
+        playerWrapperRef.current.appendChild(placeholderDiv);
+
+        const player = new window.YT.Player(placeholderDiv, {
+            height: '100%',
+            width: '100%',
+            videoId: currentVideo.embed_id || '',
+            playerVars: {
+                'autoplay': 1,
+                'controls': 0, 
+                'disablekb': 1,
+                'fs': 0,
+                'rel': 0,
+                'modestbranding': 1,
+                'iv_load_policy': 3,
+                'origin': window.location.origin,
+                'playsinline': 1,
+                'loop': 1,
+                'playlist': currentVideo.embed_id
+            },
+            events: {
+                'onReady': (event: any) => {
+                    event.target.playVideo();
+                    startProgressInterval(event.target);
+                },
+                'onStateChange': (event: any) => {
+                    // 0 = ENDED
+                    if (event.data === 0) {
+                         onEndedRef.current();
+                    }
+                    // 1 = PLAYING
+                    if (event.data === 1) {
+                        if (onVideoPlay) onVideoPlay();
+                        startProgressInterval(event.target);
+                    }
+                },
+                'onError': (event: any) => {
+                    console.warn(`Video unavailable (Code ${event.data}). Skipping...`);
+                    onEndedRef.current();
+                }
             }
-        } catch (e) {
-            console.warn("Player destroy failed", e);
+        });
+        playerInstanceRef.current = player;
+    } 
+    // Update Logic
+    else if (playerInstanceRef.current) {
+        // Safe check if player is destroyed or not valid
+        if (typeof playerInstanceRef.current.getVideoData === 'function') {
+            const currentId = playerInstanceRef.current.getVideoData()?.video_id;
+            if (currentId !== currentVideo.embed_id) {
+                playerInstanceRef.current.loadVideoById(currentVideo.embed_id);
+                // We don't need to manually play, loadVideoById autoplays. 
+                // Checks will resume in onStateChange(PLAYING).
+            }
         }
     }
 
-    // Reset DOM
-    playerWrapperRef.current.innerHTML = '';
-    // Ensure visibility is reset for next video
-    playerWrapperRef.current.style.opacity = '1'; 
-    
-    const placeholderDiv = document.createElement('div');
-    playerWrapperRef.current.appendChild(placeholderDiv);
+  }, [currentVideo?.embed_id, isApiReady]);
 
-    const player = new window.YT.Player(placeholderDiv, {
-        height: '100%',
-        width: '100%',
-        videoId: currentVideo.embed_id || '',
-        playerVars: {
-            'autoplay': 1,
-            'controls': 0, 
-            'disablekb': 1,
-            'fs': 0,
-            'rel': 0,
-            'modestbranding': 1,
-            'iv_load_policy': 3,
-            'origin': window.location.origin,
-            'playsinline': 1,
-            'loop': 1,
-            'playlist': currentVideo.embed_id
-        },
-        events: {
-            'onReady': (event: any) => {
-                event.target.playVideo();
-                
-                // Start polling for end of video
-                // We clear any existing interval first just in case
-                if ((player as any)._timeUpdateInterval) {
-                   clearInterval((player as any)._timeUpdateInterval);
-                }
+  // Cleanup on Unmount or if currentVideo becomes null (view-switching)
+  useEffect(() => {
+      // If currentVideo is null, we should destroy the player if it exists
+      // because the wrapper ref is gone from DOM in that case.
+      // But this effect runs on every render.
+      // We only want to destroy if the COMPONENT unmounts or currentVideo becomes null.
+      
+      return () => {
+          // This cleanup runs when deps change. 
+          // If we restrict deps to [!!currentVideo], it runs when video toggles.
+      };
+  }, []);
 
-                (player as any)._timeUpdateInterval = setInterval(() => {
-                   try {
-                     const currentTime = event.target.getCurrentTime();
-                     const duration = event.target.getDuration();
-                     
-                     if (duration > 0 && (duration - currentTime) <= 1) { // 1 second before end
-                        // event.target.pauseVideo(); // Removing pause to avoid triggering pause overlays
-                        clearInterval((player as any)._timeUpdateInterval);
-                        onEndedRef.current(); // Trigger next video
-                     }
-                   } catch (e) {
-                      // Player might be destroyed
-                   }
-                }, 100); 
-            },
-            'onStateChange': (event: any) => {
-                // 0 = ENDED
-                // We rely on polling now, but keep this as fallback IF it slips through (unlikely with 1s buffer)
-                if (event.data === 0) {
-                     onEndedRef.current();
-                }
-                // 1 = PLAYING
-                if (event.data === 1) {
-                    if (onVideoPlay) onVideoPlay();
-                }
-            },
-            'onError': (event: any) => {
-                // Error 150/153: Restricted content. 
-                // Error 100/101: Not found/Restricted.
-                console.warn(`Video unavailable (Code ${event.data}). Skipping...`);
-                // Immediate skip to keep flow
-                onEndedRef.current();
-            }
-        }
-    });
+  // Dedicated Cleanup Effect
+  useEffect(() => {
+      if (!currentVideo && playerInstanceRef.current) {
+          try {
+             playerInstanceRef.current.destroy();
+          } catch(e) {}
+          playerInstanceRef.current = null;
+      }
+  }, [!currentVideo]); // Trigger when currentVideo becomes falsy
 
-    playerInstanceRef.current = player;
-    
-    // Attach interval to instance for cleanup
-    (playerInstanceRef.current as any)._timeUpdateInterval = (player as any)._timeUpdateInterval;
-
-    return () => {
+  // Component Unmount Cleanup
+  useEffect(() => {
+      return () => {
         if (playerInstanceRef.current) {
-            // Clear interval if it exists
-            if ((playerInstanceRef.current as any)._timeUpdateInterval) {
-                clearInterval((playerInstanceRef.current as any)._timeUpdateInterval);
-            }
-
             try {
-                if (typeof playerInstanceRef.current.destroy === 'function') {
-                    playerInstanceRef.current.destroy();
+                if ((playerInstanceRef.current as any)._timeUpdateInterval) {
+                    clearInterval((playerInstanceRef.current as any)._timeUpdateInterval);
                 }
+                playerInstanceRef.current.destroy();
             } catch (e) {}
             playerInstanceRef.current = null;
         }
-    };
-  }, [currentVideo?.embed_id, isApiReady]);
+      };
+  }, []);
+
+  const startProgressInterval = (player: any) => {
+    // Clear existing
+    if (player._timeUpdateInterval) {
+        clearInterval(player._timeUpdateInterval);
+    }
+
+    player._timeUpdateInterval = setInterval(() => {
+        try {
+            // Check if player is still valid
+            if (typeof player.getCurrentTime !== 'function') return;
+
+            const currentTime = player.getCurrentTime();
+            const duration = player.getDuration();
+            
+            // Background Tab Fix: 
+            // Browsers throttle setInterval to 1s in background. 
+            // If we are close to the end, we might miss the exact <1s window if checks are spaced out.
+            // We increase the threshold slightly to 2s to catch it safely even with throttling, 
+            // but ensure we don't skip too early by checking state.
+            
+            if (duration > 0 && (duration - currentTime) <= 1.5) { 
+                clearInterval(player._timeUpdateInterval);
+                onEndedRef.current(); // Trigger next video
+            }
+        } catch (e) {
+            // Player destroyed
+            if (player._timeUpdateInterval) clearInterval(player._timeUpdateInterval);
+        }
+    }, 250); // Increased from 100ms to 250ms to be less aggressive but still sufficient, aligning closer to throttled rates
+  };
 
   // IDLE STATE
   if (!currentVideo) {
