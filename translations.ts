@@ -37,7 +37,7 @@ export const translations = {
       play: 'Tocar',
       traveling: 'Viajando...',
       comingSoon: 'Em breve!',
-      availabilityNotice: 'Disponível apenas dados de 1994 e anos 90.',
+      availabilityNotice: 'Disponível clipes dos anos 80, 90 e 2000.Expandido o acervo todos os dias',
       totalClips: 'Clipes Catalogados',
     },
     sector3: {
