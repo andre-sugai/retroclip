@@ -3,9 +3,10 @@ import React, { useEffect, useRef } from 'react';
 
 interface TVStaticProps {
   active: boolean;
+  enableAudio?: boolean; // Control when audio can play
 }
 
-export const TVStatic: React.FC<TVStaticProps> = ({ active }) => {
+export const TVStatic: React.FC<TVStaticProps> = ({ active, enableAudio = false }) => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const audioContextRef = useRef<AudioContext | null>(null);
   const gainNodeRef = useRef<GainNode | null>(null);
@@ -14,7 +15,7 @@ export const TVStatic: React.FC<TVStaticProps> = ({ active }) => {
 
   // Audio Logic
   useEffect(() => {
-    if (active) {
+    if (active && enableAudio) {
       if (!audioContextRef.current) {
         audioContextRef.current = new (window.AudioContext || (window as any).webkitAudioContext)();
       }
@@ -69,7 +70,7 @@ export const TVStatic: React.FC<TVStaticProps> = ({ active }) => {
             sourceNodeRef.current.disconnect(); 
         }
     };
-  }, [active]);
+  }, [active, enableAudio]);
 
 
   // Visual Logic (Canvas)

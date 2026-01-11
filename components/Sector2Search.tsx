@@ -34,7 +34,7 @@ interface Sector2SearchProps {
 
 export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoading, language, onLanguageChange }) => {
   const [value, setValue] = useState<string>('2000');
-  const [mode, setMode] = useState<'year' | 'decade' | 'all'>('year');
+  const [mode, setMode] = useState<'year' | 'decade' | 'all'>('all');
   const [isDonationModalOpen, setIsDonationModalOpen] = useState(false);
   const t = translations[language].sector2;
 

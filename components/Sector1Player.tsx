@@ -16,9 +16,10 @@ interface Sector1PlayerProps {
   isSidebarOpen: boolean;
   language: Language;
   onVideoPlay?: () => void;
+  isMuted?: boolean;
 }
 
-export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language, onVideoPlay }) => {
+export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language, onVideoPlay, isMuted = false }) => {
   const playerWrapperRef = useRef<HTMLDivElement>(null);
   const playerInstanceRef = useRef<any>(null);
   const [isApiReady, setIsApiReady] = useState(false);
@@ -100,6 +101,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
             videoId: currentVideo.embed_id || '',
             playerVars: {
                 'autoplay': 1,
+                'mute': 1, // Start muted to bypass browser autoplay restrictions
                 'controls': 0, 
                 'disablekb': 1,
                 'fs': 0,
@@ -114,6 +116,10 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
             events: {
                 'onReady': (event: any) => {
                     event.target.playVideo();
+                    // Unmute after starting (user has interacted by loading the page)
+                    setTimeout(() => {
+                        event.target.unMute();
+                    }, 100);
                     startProgressInterval(event.target);
                 },
                 'onStateChange': (event: any) => {
@@ -172,6 +178,17 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
           playerInstanceRef.current = null;
       }
   }, [!currentVideo]); // Trigger when currentVideo becomes falsy
+
+  // Handle Mute/Unmute
+  useEffect(() => {
+    if (playerInstanceRef.current && typeof playerInstanceRef.current.isMuted === 'function') {
+      if (isMuted) {
+        playerInstanceRef.current.mute();
+      } else {
+        playerInstanceRef.current.unMute();
+      }
+    }
+  }, [isMuted]);
 
   // Component Unmount Cleanup
   useEffect(() => {

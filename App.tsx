@@ -4,14 +4,16 @@ import { fetchVideosByCriteria } from './services/imvdbService';
 import { Sector1Player } from './components/Sector1Player';
 import { Sector2Search } from './components/Sector2Search';
 import { Sector3Playlist } from './components/Sector3Playlist';
+import { WelcomeScreen } from './components/WelcomeScreen';
 import { Button } from './components/ui/Button';
-import { PanelRightClose, PanelRightOpen, Moon, Sun } from 'lucide-react';
+import { PanelRightClose, PanelRightOpen, Moon, Sun, Volume2, VolumeX } from 'lucide-react';
 import { translations, Language } from './translations';
 import { TVStatic } from './components/TVStatic';
 
 const App: React.FC = () => {
   // Theme State
   const [theme, setTheme] = useState<'dark' | 'light'>('dark');
+  const [isMuted, setIsMuted] = useState(false);
   
   // Layout State
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
@@ -24,6 +26,8 @@ const App: React.FC = () => {
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null);
   const [allVideos, setAllVideos] = useState<Video[]>([]); // Store full unfiltered list
   const [isTuning, setIsTuning] = useState(false);
+  const [showClickToStart, setShowClickToStart] = useState(true);
+  const [showWelcome, setShowWelcome] = useState(true);
 
   // Player & Data State
   const [state, setState] = useState<PlayerState>({
@@ -46,9 +50,16 @@ const App: React.FC = () => {
     setTheme(prev => prev === 'dark' ? 'light' : 'dark');
   };
 
+  const toggleMute = () => {
+    setIsMuted(prev => !prev);
+  };
+
   // Logic: Search & Auto-Play
-  const handleSearch = async (type: 'year' | 'decade', value: string) => {
+  const handleSearch = async (type: 'year' | 'decade' | 'all', value: string) => {
     setState(prev => ({ ...prev, isLoading: true, error: null, currentVideo: null, hasStarted: false }));
+    
+    // Show TV static while loading
+    setIsTuning(true);
     
     try {
       const videos = await fetchVideosByCriteria(type, value);
@@ -57,16 +68,22 @@ const App: React.FC = () => {
         setAllVideos(videos); // Save full list
         setSelectedGenre(null); // Reset filter on new search
 
-        // Auto-start logic: Set queue, set first video as current, and set playing state
-        setState(prev => ({
-          ...prev,
-          queue: videos,
-          currentVideo: videos[0],
-          isLoading: false,
-          hasStarted: true,
-          isPlaying: true
-        }));
+        // Keep static visible for a moment before starting video
+        setTimeout(() => {
+          setIsTuning(false);
+          
+          // Auto-start logic: Set queue, set first video as current, and set playing state
+          setState(prev => ({
+            ...prev,
+            queue: videos,
+            currentVideo: videos[0],
+            isLoading: false,
+            hasStarted: true,
+            isPlaying: true
+          }));
+        }, 1500); // 1.5 second static effect
       } else {
+        setIsTuning(false);
         setState(prev => ({ 
             ...prev, 
             queue: [],
@@ -75,6 +92,7 @@ const App: React.FC = () => {
         }));
       }
     } catch (err) {
+      setIsTuning(false);
       setState(prev => ({ ...prev, isLoading: false, error: 'Falha ao carregar vídeos.' }));
     }
   };
@@ -194,8 +212,24 @@ const App: React.FC = () => {
     }));
   };
 
+  // Handle Start Journey from Welcome Screen
+  const handleStartJourney = () => {
+    setShowWelcome(false);
+    setShowClickToStart(false); // Skip click-to-start since user already clicked
+    // Auto-trigger "Tudo" (All) mode
+    handleSearch('all', '');
+  };
+
   return (
     <div className="flex h-screen w-screen overflow-hidden bg-background font-sans text-foreground">
+      
+      {/* Welcome Screen */}
+      {showWelcome && (
+        <WelcomeScreen 
+          onStart={handleStartJourney}
+          language={language}
+        />
+      )}
       
       {/* SECTOR 1: Main Video Area */}
       <main className="flex-1 relative flex flex-col min-w-0 transition-all duration-300">
@@ -212,6 +246,10 @@ const App: React.FC = () => {
           <div className="flex gap-2 pointer-events-auto">
              <Button variant="secondary" size="icon" onClick={toggleTheme} className="shadow-md rounded-full">
                 {theme === 'dark' ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
+             </Button>
+             
+             <Button variant="secondary" size="icon" onClick={toggleMute} className="shadow-md rounded-full">
+                {isMuted ? <VolumeX className="w-4 h-4" /> : <Volume2 className="w-4 h-4" />}
              </Button>
              
              {/* Retract Toggle Button */}
@@ -234,8 +272,27 @@ const App: React.FC = () => {
             isSidebarOpen={isSidebarOpen}
             language={language}
             onVideoPlay={() => setIsTuning(false)}
+            isMuted={isMuted}
         />
-        <TVStatic active={isTuning} />
+        <TVStatic active={isTuning} enableAudio={!showClickToStart} />
+        
+        {/* Click to Start Overlay - Requires real user click */}
+        {showClickToStart && state.hasStarted && (
+          <div 
+            className="absolute inset-0 z-50 flex items-center justify-center bg-black/90 cursor-pointer animate-pulse"
+            onClick={() => {
+              setShowClickToStart(false);
+              // Force play after user interaction
+              setState(prev => ({ ...prev, isPlaying: true }));
+            }}
+          >
+            <div className="text-center">
+              <div className="text-8xl mb-4 animate-bounce">▶</div>
+              <p className="text-2xl font-bold">Clique para Iniciar</p>
+              <p className="text-sm text-muted-foreground mt-2">Click to Start</p>
+            </div>
+          </div>
+        )}
       </main>
 
       {/* RIGHT SIDEBAR */}
