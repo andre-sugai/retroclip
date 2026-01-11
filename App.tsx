@@ -57,6 +57,7 @@ const App: React.FC = () => {
   // Logic: Search & Auto-Play
   const handleSearch = async (type: 'year' | 'decade' | 'all', value: string) => {
     setState(prev => ({ ...prev, isLoading: true, error: null, currentVideo: null, hasStarted: false }));
+    setShowClickToStart(false); // Dismiss overlay on interaction
     
     // Show TV static while loading
     setIsTuning(true);
@@ -99,6 +100,7 @@ const App: React.FC = () => {
 
   // Logic: Play / Start (Manual trigger if needed from playlist)
   const handlePlay = () => {
+    setShowClickToStart(false); // Dismiss overlay on interaction
     if (state.queue.length > 0) {
       const firstVideo = state.queue[0];
       setState(prev => ({
@@ -135,11 +137,33 @@ const App: React.FC = () => {
   };
 
   // Logic: Genre Filtering
-  const handleGenreSelect = (genreId: string | null) => {
+  const handleGenreSelect = async (genreId: string | null) => {
     setSelectedGenre(genreId);
+    setShowClickToStart(false); // Dismiss overlay on interaction
+    setShowWelcome(false); // Dismiss welcome screen
+
+    // Ensure we have videos to filter
+    let sourceVideos = allVideos;
+    if (sourceVideos.length === 0) {
+        setIsTuning(true); // visual feedback
+        try {
+            const fetched = await fetchVideosByCriteria('all', '');
+            if (fetched.length > 0) {
+                setAllVideos(fetched);
+                sourceVideos = fetched;
+            } else {
+                setIsTuning(false);
+                return; // No videos found
+            }
+        } catch (error) {
+            console.error("Auto-fetch failed", error);
+            setIsTuning(false);
+            return;
+        }
+    }
 
     // Filter logic
-    let filteredQueue = [...allVideos];
+    let filteredQueue = [...sourceVideos];
     
     if (genreId) {
       // Map UI Genre ID to matching sub-genres/keywords in artist_genre
@@ -158,7 +182,7 @@ const App: React.FC = () => {
       const targetGenres = genreMap[genreId] || [];
       
       if (targetGenres.length > 0) {
-        filteredQueue = allVideos.filter(video => {
+        filteredQueue = sourceVideos.filter(video => {
           const g = video.artist_genre;
           return g && targetGenres.some(target => g.includes(target) || g === target);
         });
@@ -204,6 +228,7 @@ const App: React.FC = () => {
 
   // Logic: Select specific video from playlist
   const handleSelectVideo = (video: Video) => {
+    setShowClickToStart(false); // Dismiss overlay on interaction
     setState(prev => ({
       ...prev,
       currentVideo: video,
