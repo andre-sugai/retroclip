@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Calendar, Film, PlayCircle, Clock, Coffee } from 'lucide-react';
+import { Calendar, Film, Play, Clock, Coffee } from 'lucide-react';
 import { Button } from './ui/Button';
 import { DonationModal } from './DonationModal';
 import { TOTAL_VIDEOS_COUNT } from '../services/imvdbService';
@@ -170,9 +170,9 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
             {isLoading ? (
                 <span className="h-5 w-5 animate-spin rounded-full border-2 border-current border-t-transparent" />
             ) : (
-                <PlayCircle className="h-5 w-5 fill-current" />
+                <Play className="h-5 w-5 fill-current" />
             )}
-            {isLoading ? t.traveling : `${t.play} ${value}${mode === 'decade' ? 's' : ''}`}
+            {isLoading ? t.traveling : t.play}
         </Button>
 
 

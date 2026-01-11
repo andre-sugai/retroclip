@@ -8,6 +8,7 @@ import requests
 import json
 import csv
 import sys
+import time
 from typing import List, Dict, Optional
 from datetime import datetime
 
@@ -19,24 +20,73 @@ HEADERS = {
     "Accept": "application/json"
 }
 
+# Configurações de retry
+MAX_RETRIES = 5
+RETRY_DELAY = 2  # segundos
+
+
+def make_request_with_retry(url: str, params: dict = None, retry_count: int = 0) -> Optional[requests.Response]:
+    """Faz uma requisição com retry automático em caso de erro"""
+    try:
+        response = requests.get(url, headers=HEADERS, params=params, timeout=30)
+        
+        if response.status_code == 403:
+            print("\n❌ Erro: Chave API inválida ou não configurada!")
+            print("Por favor, edite o script e adicione sua chave API do IMVDb.")
+            print("Você pode obter uma chave em: https://imvdb.com/developers/apps/new")
+            sys.exit(1)
+        
+        # Se for erro 5xx (servidor) ou 429 (rate limit), tentar novamente
+        if response.status_code in [500, 502, 503, 504, 429]:
+            if retry_count < MAX_RETRIES:
+                wait_time = RETRY_DELAY * (retry_count + 1)
+                print(f"\n⚠️  Erro {response.status_code}. Tentando novamente em {wait_time}s... (tentativa {retry_count + 1}/{MAX_RETRIES})")
+                time.sleep(wait_time)
+                return make_request_with_retry(url, params, retry_count + 1)
+            else:
+                print(f"\n❌ Erro {response.status_code} após {MAX_RETRIES} tentativas. Continuando...")
+                return None
+        
+        return response
+        
+    except requests.exceptions.Timeout:
+        if retry_count < MAX_RETRIES:
+            wait_time = RETRY_DELAY * (retry_count + 1)
+            print(f"\n⚠️  Timeout na requisição. Tentando novamente em {wait_time}s... (tentativa {retry_count + 1}/{MAX_RETRIES})")
+            time.sleep(wait_time)
+            return make_request_with_retry(url, params, retry_count + 1)
+        else:
+            print(f"\n❌ Timeout após {MAX_RETRIES} tentativas. Continuando...")
+            return None
+    
+    except Exception as e:
+        if retry_count < MAX_RETRIES:
+            wait_time = RETRY_DELAY * (retry_count + 1)
+            print(f"\n⚠️  Erro na requisição: {e}. Tentando novamente em {wait_time}s... (tentativa {retry_count + 1}/{MAX_RETRIES})")
+            time.sleep(wait_time)
+            return make_request_with_retry(url, params, retry_count + 1)
+        else:
+            print(f"\n❌ Erro após {MAX_RETRIES} tentativas: {e}. Continuando...")
+            return None
+
 
 def get_video_sources(video_id: str) -> Optional[str]:
     """Obtém o link do YouTube para um vídeo específico"""
-    try:
-        url = f"{BASE_URL}/video/{video_id}?include=sources"
-        response = requests.get(url, headers=HEADERS)
-        
-        if response.status_code == 200:
+    url = f"{BASE_URL}/video/{video_id}?include=sources"
+    response = make_request_with_retry(url)
+    
+    if response and response.status_code == 200:
+        try:
             data = response.json()
             if "sources" in data:
                 for source in data["sources"]:
                     if source.get("source") == "youtube" and source.get("is_primary"):
                         youtube_id = source.get("source_data")
                         return f"https://www.youtube.com/watch?v={youtube_id}"
-        return None
-    except Exception as e:
-        print(f"Erro ao buscar fonte do vídeo {video_id}: {e}")
-        return None
+        except Exception as e:
+            print(f"\n⚠️  Erro ao processar fonte do vídeo {video_id}: {e}")
+    
+    return None
 
 
 def search_videos_by_year(year: int) -> List[Dict]:
@@ -47,27 +97,20 @@ def search_videos_by_year(year: int) -> List[Dict]:
     print(f"\nBuscando videoclipes de {year}...")
     
     while True:
+        url = f"{BASE_URL}/search/videos"
+        params = {
+            "q": str(year),
+            "page": page,
+            "per_page": 50
+        }
+        
+        response = make_request_with_retry(url, params)
+        
+        if not response or response.status_code != 200:
+            print(f"\n⚠️  Não foi possível buscar página {page}. Parando na página anterior.")
+            break
+        
         try:
-            # A API do IMVDb permite busca por ano através de search
-            url = f"{BASE_URL}/search/videos"
-            params = {
-                "q": str(year),
-                "page": page,
-                "per_page": 50
-            }
-            
-            response = requests.get(url, headers=HEADERS, params=params)
-            
-            if response.status_code == 403:
-                print("\n❌ Erro: Chave API inválida ou não configurada!")
-                print("Por favor, edite o script e adicione sua chave API do IMVDb.")
-                print("Você pode obter uma chave em: https://imvdb.com/developers/apps/new")
-                sys.exit(1)
-            
-            if response.status_code != 200:
-                print(f"\nErro na requisição: Status {response.status_code}")
-                break
-            
             data = response.json()
             results = data.get("results", [])
             
@@ -75,6 +118,7 @@ def search_videos_by_year(year: int) -> List[Dict]:
             year_videos = [v for v in results if v.get("year") == year]
             
             if not year_videos:
+                # Se não há mais vídeos do ano, parar
                 break
             
             all_videos.extend(year_videos)
@@ -89,7 +133,8 @@ def search_videos_by_year(year: int) -> List[Dict]:
             page += 1
             
         except Exception as e:
-            print(f"Erro ao buscar vídeos: {e}")
+            print(f"\n⚠️  Erro ao processar resposta da página {page}: {e}")
+            print("Continuando com os vídeos já coletados...")
             break
     
     print(f"\n✓ Total de videoclipes encontrados: {len(all_videos)}")
@@ -182,14 +227,6 @@ def main():
         except ValueError:
             print("Por favor, digite um ano válido!")
     
-    # Solicitar formato de saída
-    while True:
-        format_input = input("\nFormato de saída (JSON/CSV): ").strip().upper()
-        if format_input in ["JSON", "CSV"]:
-            output_format = format_input
-            break
-        print("Por favor, escolha JSON ou CSV")
-    
     # Buscar vídeos
     videos = search_videos_by_year(year)
     
@@ -200,11 +237,8 @@ def main():
     # Processar vídeos
     processed_videos = process_videos(videos)
     
-    # Salvar no formato escolhido
-    if output_format == "JSON":
-        save_to_json(processed_videos, year)
-    else:
-        save_to_csv(processed_videos, year)
+    # Salvar em JSON (formato padrão)
+    save_to_json(processed_videos, year)
     
     print("\n" + "=" * 60)
     print("Extração concluída com sucesso!")
