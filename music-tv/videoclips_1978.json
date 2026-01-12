@@ -1,0 +1,578 @@
+[
+  {
+    "id": 302603383201,
+    "song_title": "Lights",
+    "year": 1978,
+    "artist_name": "Journey",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=tNG62fULYgI",
+    "imvdb_url": "https://imvdb.com/video/journey/lights"
+  },
+  {
+    "id": 797154977673,
+    "song_title": "Tusk",
+    "year": 1978,
+    "artist_name": "Fleetwood Mac",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=CRBtYBhgp_w",
+    "imvdb_url": "https://imvdb.com/video/fleetwood-mac/tusk"
+  },
+  {
+    "id": 286655084321,
+    "song_title": "Factory",
+    "year": 1978,
+    "artist_name": "John Mellencamp",
+    "artist_genre": "Desconhecido",
+    "youtube_link": null,
+    "imvdb_url": "https://imvdb.com/video/john-mellencamp/factory"
+  },
+  {
+    "id": 100069483946,
+    "song_title": "Circumstances",
+    "year": 1978,
+    "artist_name": "Rush",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=i9dHL7GA1nk",
+    "imvdb_url": "https://imvdb.com/video/rush-2/circumstances"
+  },
+  {
+    "id": 383559980506,
+    "song_title": "The Model",
+    "year": 1978,
+    "artist_name": "Kraftwerk",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=QgS252XT_Ts",
+    "imvdb_url": "https://imvdb.com/video/kraftwerk/the-model"
+  },
+  {
+    "id": 172631089753,
+    "song_title": "Neon Lights",
+    "year": 1978,
+    "artist_name": "Kraftwerk",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=9YCZVeIJ8xk",
+    "imvdb_url": "https://imvdb.com/video/kraftwerk/neon-lights"
+  },
+  {
+    "id": 236288221201,
+    "song_title": "YMCA",
+    "year": 1978,
+    "artist_name": "Village People",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=CS9OO0S5w2k",
+    "imvdb_url": "https://imvdb.com/video/village-people/ymca"
+  },
+  {
+    "id": 134110940170,
+    "song_title": "The Robots",
+    "year": 1978,
+    "artist_name": "Kraftwerk",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=VXa9tXcMhXQ",
+    "imvdb_url": "https://imvdb.com/video/kraftwerk/the-robots"
+  },
+  {
+    "id": 131143118216,
+    "song_title": "Bluer Than Blue",
+    "year": 1978,
+    "artist_name": "Michael Johnson",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=gdDSJ2NddyE",
+    "imvdb_url": "https://imvdb.com/video/michael-johnson/bluer-than-blue"
+  },
+  {
+    "id": 130501910873,
+    "song_title": "Too Much Heaven",
+    "year": 1978,
+    "artist_name": "Bee Gees",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=i6iBAuwBODA",
+    "imvdb_url": "https://imvdb.com/video/bee-gees/too-much-heaven"
+  },
+  {
+    "id": 243451493750,
+    "song_title": "Fat Bottomed Girls",
+    "year": 1978,
+    "artist_name": "Queen",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=LTeJwLVWUr8",
+    "imvdb_url": "https://imvdb.com/video/queen/fat-bottomed-girls"
+  },
+  {
+    "id": 288415905706,
+    "song_title": "Public Image",
+    "year": 1978,
+    "artist_name": "Public Image Limited",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=rIAZ8unRm2c",
+    "imvdb_url": "https://imvdb.com/video/public-image-limited/public-image"
+  },
+  {
+    "id": 228544167179,
+    "song_title": "Driftwood",
+    "year": 1978,
+    "artist_name": "The Moody Blues",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=an97c-1fp8k",
+    "imvdb_url": "https://imvdb.com/video/the-moody-blues/driftwood"
+  },
+  {
+    "id": 281513377764,
+    "song_title": "Roxanne",
+    "year": 1978,
+    "artist_name": "The Police",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=3T1c7GkzRQQ",
+    "imvdb_url": "https://imvdb.com/video/police-the/roxanne"
+  },
+  {
+    "id": 539248778804,
+    "song_title": "In the Navy",
+    "year": 1978,
+    "artist_name": "Village People",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=InBXu-iY7cw",
+    "imvdb_url": "https://imvdb.com/video/village-people/in-the-navy"
+  },
+  {
+    "id": 114729062020,
+    "song_title": "Macho Man",
+    "year": 1978,
+    "artist_name": "Village People",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=AO43p2Wqc08",
+    "imvdb_url": "https://imvdb.com/video/village-people/macho-man"
+  },
+  {
+    "id": 219843955581,
+    "song_title": "Baker Street",
+    "year": 1978,
+    "artist_name": "Gerry Rafferty",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Fo6aKnRnBxM",
+    "imvdb_url": "https://imvdb.com/video/gerry-rafferty/baker-street"
+  },
+  {
+    "id": 200923663863,
+    "song_title": "Respectable",
+    "year": 1978,
+    "artist_name": "The Rolling Stones",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ptDz5BwAgXQ",
+    "imvdb_url": "https://imvdb.com/video/the-rolling-stones/respectable"
+  },
+  {
+    "id": 237958847954,
+    "song_title": "Spread Your Wings",
+    "year": 1978,
+    "artist_name": "Queen",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=9cCJHfhpKmE",
+    "imvdb_url": "https://imvdb.com/video/queen/spread-your-wings"
+  },
+  {
+    "id": 264518825122,
+    "song_title": "Wuthering Heights",
+    "year": 1978,
+    "artist_name": "Kate Bush",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=-1pMMIe4hb4",
+    "imvdb_url": "https://imvdb.com/video/kate-bush/wuthering-heights"
+  },
+  {
+    "id": 462005199502,
+    "song_title": "Hold The Line",
+    "year": 1978,
+    "artist_name": "Toto",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=htgr3pvBr-I",
+    "imvdb_url": "https://imvdb.com/video/toto/hold-the-line"
+  },
+  {
+    "id": 160677587276,
+    "song_title": "Many Too Many",
+    "year": 1978,
+    "artist_name": "Genesis",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=mRhck-cpAzY",
+    "imvdb_url": "https://imvdb.com/video/genesis/many-too-many"
+  },
+  {
+    "id": 112602999092,
+    "song_title": "Summer Night City",
+    "year": 1978,
+    "artist_name": "Abba",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_d5dPYHi17k",
+    "imvdb_url": "https://imvdb.com/video/abba/summer-night-city"
+  },
+  {
+    "id": 138111552025,
+    "song_title": "My Best Friend's Girl",
+    "year": 1978,
+    "artist_name": "The Cars",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=swunpZMkZAk",
+    "imvdb_url": "https://imvdb.com/video/the-cars/my-best-friends-girl"
+  },
+  {
+    "id": 786784895253,
+    "song_title": "Rock 'N' Roll Damnation",
+    "year": 1978,
+    "artist_name": "AC/DC",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=-0Oa5wvARSc",
+    "imvdb_url": "https://imvdb.com/video/acdc/rock-n-roll-damnation"
+  },
+  {
+    "id": 125650436152,
+    "song_title": "Hammer Horror",
+    "year": 1978,
+    "artist_name": "Kate Bush",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=XR4KnfcgLm0",
+    "imvdb_url": "https://imvdb.com/video/kate-bush/hammer-horror"
+  },
+  {
+    "id": 194671665880,
+    "song_title": "Blue Collar Man (Long Nights)",
+    "year": 1978,
+    "artist_name": "Styx",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=CDM6v1XhWEg",
+    "imvdb_url": "https://imvdb.com/video/styx/blue-collar-man-long-nights"
+  },
+  {
+    "id": 235752911937,
+    "song_title": "Just What I Needed",
+    "year": 1978,
+    "artist_name": "The Cars",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=w63uRdAVOtM",
+    "imvdb_url": "https://imvdb.com/video/the-cars/just-what-i-needed"
+  },
+  {
+    "id": 168232115060,
+    "song_title": "Them Heavy People",
+    "year": 1978,
+    "artist_name": "Kate Bush",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=qfNtPbHkp0U",
+    "imvdb_url": "https://imvdb.com/video/kate-bush/them-heavy-people"
+  },
+  {
+    "id": 129640330791,
+    "song_title": "So Lonely",
+    "year": 1978,
+    "artist_name": "The Police",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=MX6MvV8cbh8",
+    "imvdb_url": "https://imvdb.com/video/police-the/so-lonely"
+  },
+  {
+    "id": 229177480771,
+    "song_title": "5 Minutes",
+    "year": 1978,
+    "artist_name": "The Stranglers",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=fc0Nuya65PY",
+    "imvdb_url": "https://imvdb.com/video/the-stranglers/5-minutes"
+  },
+  {
+    "id": 198112808425,
+    "song_title": "Are You Receiving Me?",
+    "year": 1978,
+    "artist_name": "XTC",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=RApvaQ0uGTw",
+    "imvdb_url": "https://imvdb.com/video/xtc/are-you-receiving-me"
+  },
+  {
+    "id": 285459359781,
+    "song_title": "Ego",
+    "year": 1978,
+    "artist_name": "Elton John",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=qt7xtcD40Dg",
+    "imvdb_url": "https://imvdb.com/video/elton-john/ego"
+  },
+  {
+    "id": 160546319301,
+    "song_title": "Song For Guy",
+    "year": 1978,
+    "artist_name": "Elton John",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=xdvxJb8GDeQ",
+    "imvdb_url": "https://imvdb.com/video/elton-john/song-for-guy"
+  },
+  {
+    "id": 614198423162,
+    "song_title": "Bicycle Race",
+    "year": 1978,
+    "artist_name": "Queen",
+    "artist_genre": "Desconhecido",
+    "youtube_link": null,
+    "imvdb_url": "https://imvdb.com/video/queen/bicycle-race"
+  },
+  {
+    "id": 162046595258,
+    "song_title": "Feeling That Way",
+    "year": 1978,
+    "artist_name": "Journey",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=vg5vziU-qIs",
+    "imvdb_url": "https://imvdb.com/video/journey/feeling-that-way"
+  },
+  {
+    "id": 812084549200,
+    "song_title": "The Gambler",
+    "year": 1978,
+    "artist_name": "Kenny Rogers",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Jj4nJ1YEAp4",
+    "imvdb_url": "https://imvdb.com/video/kenny-rogers/the-gambler"
+  },
+  {
+    "id": 948789736346,
+    "song_title": "Dreadlock Holiday",
+    "year": 1978,
+    "artist_name": "10cc",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=A2xwwkX2T4c",
+    "imvdb_url": "https://imvdb.com/video/10cc/dreadlock-holiday"
+  },
+  {
+    "id": 175135923638,
+    "song_title": "Statue of Liberty",
+    "year": 1978,
+    "artist_name": "XTC",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=XXhY1GX5dhU",
+    "imvdb_url": "https://imvdb.com/video/xtc/statue-of-liberty"
+  },
+  {
+    "id": 157507859119,
+    "song_title": "Public Image",
+    "year": 1978,
+    "artist_name": "Public Image Limited",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ylOCIP54PIQ",
+    "imvdb_url": "https://imvdb.com/video/public-image-limited/public-image"
+  },
+  {
+    "id": 233540916884,
+    "song_title": "My Life",
+    "year": 1978,
+    "artist_name": "Billy Joel",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=h3JFEfdK_Ls",
+    "imvdb_url": "https://imvdb.com/video/billy-joel/my-life"
+  },
+  {
+    "id": 253536931193,
+    "song_title": "Follow You Follow Me",
+    "year": 1978,
+    "artist_name": "Genesis",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=vRD49AFxJVI",
+    "imvdb_url": "https://imvdb.com/video/genesis/follow-you-follow-me"
+  },
+  {
+    "id": 136692919825,
+    "song_title": "Tommy Gun",
+    "year": 1978,
+    "artist_name": "The Clash",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=bFHEuKkTa5k",
+    "imvdb_url": "https://imvdb.com/video/the-clash/tommy-gun"
+  },
+  {
+    "id": 251017769541,
+    "song_title": "Hot Legs",
+    "year": 1978,
+    "artist_name": "Rod Stewart",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=AHcjjxYbgNM",
+    "imvdb_url": "https://imvdb.com/video/rod-stewart/hot-legs"
+  },
+  {
+    "id": 576558837748,
+    "song_title": "The Trees",
+    "year": 1978,
+    "artist_name": "Rush",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=JnC88xBPkkc",
+    "imvdb_url": "https://imvdb.com/video/rush-2/the-trees"
+  },
+  {
+    "id": 189346287366,
+    "song_title": "Teenage Kicks",
+    "year": 1978,
+    "artist_name": "The Undertones",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=wAtUw6lxcis",
+    "imvdb_url": "https://imvdb.com/video/the-undertones/teenage-kicks"
+  },
+  {
+    "id": 153880743578,
+    "song_title": "Sultans of Swing",
+    "year": 1978,
+    "artist_name": "Dire Straits",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=h0ffIJ7ZO4U",
+    "imvdb_url": "https://imvdb.com/video/dire-straits/sultans-of-swing"
+  },
+  {
+    "id": 293896408001,
+    "song_title": "Instant Replay",
+    "year": 1978,
+    "artist_name": "Dan Hartman",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=jW-OfaiBs9k",
+    "imvdb_url": "https://imvdb.com/video/dan-hartman-1/instant-replay"
+  },
+  {
+    "id": 756891675235,
+    "song_title": "Wheel In The Sky",
+    "year": 1978,
+    "artist_name": "Journey",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=MxGEVIvSFeY",
+    "imvdb_url": "https://imvdb.com/video/journey/wheel-in-the-sky"
+  },
+  {
+    "id": 249092259810,
+    "song_title": "La Villa Strangiato",
+    "year": 1978,
+    "artist_name": "Rush",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=eK1hmDpa8bo",
+    "imvdb_url": "https://imvdb.com/video/rush-2/la-villa-strangiato"
+  },
+  {
+    "id": 184186861190,
+    "song_title": "Khe Sanh",
+    "year": 1978,
+    "artist_name": "Cold Chisel",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=AmyEv4n8ERI",
+    "imvdb_url": "https://imvdb.com/video/cold-chisel/khe-sanh"
+  },
+  {
+    "id": 234098213965,
+    "song_title": "Faraway Eyes",
+    "year": 1978,
+    "artist_name": "The Rolling Stones",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=VyK1bZZ7E-s",
+    "imvdb_url": "https://imvdb.com/video/the-rolling-stones/faraway-eyes"
+  },
+  {
+    "id": 878661746192,
+    "song_title": "I Was Only Joking",
+    "year": 1978,
+    "artist_name": "Rod Stewart",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=U4RVRkurm4Y",
+    "imvdb_url": "https://imvdb.com/video/rod-stewart/i-was-only-joking"
+  },
+  {
+    "id": 214663230377,
+    "song_title": "Sweden (All Quiet On The Eastern Front)",
+    "year": 1978,
+    "artist_name": "The Stranglers",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=btJvIQcPlyg",
+    "imvdb_url": "https://imvdb.com/video/the-stranglers/sweden-all-quiet-on-the-eastern-front"
+  },
+  {
+    "id": 258921795846,
+    "song_title": "Radio Radio",
+    "year": 1978,
+    "artist_name": "Elvis Costello & The Attractions",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=1beJcDBNPBs",
+    "imvdb_url": "https://imvdb.com/video/elvis-costello-and-the-attractions/radio-radio"
+  },
+  {
+    "id": 258216880867,
+    "song_title": "Roll With The Changes",
+    "year": 1978,
+    "artist_name": "REO Speedwagon",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=4PdU6migsqQ",
+    "imvdb_url": "https://imvdb.com/video/reo-speedwagon/roll-with-the-changes"
+  },
+  {
+    "id": 261018678713,
+    "song_title": "Miss You",
+    "year": 1978,
+    "artist_name": "The Rolling Stones",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=hic-dnps6MU",
+    "imvdb_url": "https://imvdb.com/video/the-rolling-stones/miss-you"
+  },
+  {
+    "id": 625507993395,
+    "song_title": "Hong Kong Garden",
+    "year": 1978,
+    "artist_name": "Siouxsie & The Banshees",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Y-l9GQJRl9Y",
+    "imvdb_url": "https://imvdb.com/video/siouxsie-and-the-banshees/hong-kong-garden"
+  },
+  {
+    "id": 541614270382,
+    "song_title": "Pump It Up",
+    "year": 1978,
+    "artist_name": "Elvis Costello & The Attractions",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=tpprOGsLWUo",
+    "imvdb_url": "https://imvdb.com/video/elvis-costello-and-the-attractions/pump-it-up"
+  },
+  {
+    "id": 858345091238,
+    "song_title": "Can't Stand Losing You",
+    "year": 1978,
+    "artist_name": "The Police",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=nH0vjLwMyc4",
+    "imvdb_url": "https://imvdb.com/video/police-the/cant-stand-losing-you"
+  },
+  {
+    "id": 161779180011,
+    "song_title": "How You Gonna See Me Now?",
+    "year": 1978,
+    "artist_name": "Alice Cooper",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=LERBv5DSuEc",
+    "imvdb_url": "https://imvdb.com/video/alice-cooper/how-you-gonna-see-me-now"
+  },
+  {
+    "id": 406372130773,
+    "song_title": "10:15 Saturday Night",
+    "year": 1978,
+    "artist_name": "The Cure",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=NERzLlHo-D0",
+    "imvdb_url": "https://imvdb.com/video/the-cure/1015-saturday-night"
+  },
+  {
+    "id": 102232634215,
+    "song_title": "Blame It On The Boogie",
+    "year": 1978,
+    "artist_name": "Michael Jackson",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=mkBS4zUjJZo",
+    "imvdb_url": "https://imvdb.com/video/michael-jackson/blame-it-on-the-boogie"
+  },
+  {
+    "id": 687836879530,
+    "song_title": "The Man with the Child in His Eyes",
+    "year": 1978,
+    "artist_name": "Kate Bush",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=NAj8suae3WY",
+    "imvdb_url": "https://imvdb.com/video/kate-bush/the-man-with-the-child-in-his-eyes"
+  }
+]

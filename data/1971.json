@@ -1,0 +1,74 @@
+[
+  {
+    "id": 117728109220,
+    "song_title": "Dragonfly",
+    "year": 1971,
+    "artist_name": "Fleetwood Mac",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=fsH7mVmFBec",
+    "imvdb_url": "https://imvdb.com/video/fleetwood-mac/dragonfly"
+  },
+  {
+    "id": 191928087542,
+    "song_title": "Power to the People",
+    "year": 1971,
+    "artist_name": "John Lennon",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=RtvlBS4PMF0",
+    "imvdb_url": "https://imvdb.com/video/john-lennon/power-to-the-people"
+  },
+  {
+    "id": 534298589098,
+    "song_title": "Imagine",
+    "year": 1971,
+    "artist_name": "John Lennon",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=DVg2EJvvlF8",
+    "imvdb_url": "https://imvdb.com/video/john-lennon/imagine"
+  },
+  {
+    "id": 189382694952,
+    "song_title": "Gimme Some Truth",
+    "year": 1971,
+    "artist_name": "John Lennon",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=oQBa2pTr9GU",
+    "imvdb_url": "https://imvdb.com/video/john-lennon/gimme-some-truth"
+  },
+  {
+    "id": 916492863398,
+    "song_title": "Invitation",
+    "year": 1971,
+    "artist_name": "Earth And Fire",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=yQTimc3nf7g",
+    "imvdb_url": "https://imvdb.com/video/earth-and-fire/invitation"
+  },
+  {
+    "id": 206809805874,
+    "song_title": "Maggie May",
+    "year": 1971,
+    "artist_name": "Rod Stewart",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=uAIwDbzzUEY",
+    "imvdb_url": "https://imvdb.com/video/rod-stewart/maggie-may"
+  },
+  {
+    "id": 201410383415,
+    "song_title": "I'm Eighteen",
+    "year": 1971,
+    "artist_name": "Alice Cooper",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=jXZcJojTucg",
+    "imvdb_url": "https://imvdb.com/video/alice-cooper/im-eighteen"
+  },
+  {
+    "id": 189669862837,
+    "song_title": "Everybody Loves You Now",
+    "year": 1971,
+    "artist_name": "Billy Joel",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=uBymk_wAWpU",
+    "imvdb_url": "https://imvdb.com/video/billy-joel/everybody-loves-you-now/2"
+  }
+]

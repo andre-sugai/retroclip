@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { PlayerState, SearchParams, Video } from './types';
-import { fetchVideosByCriteria } from './services/imvdbService';
+import { fetchVideosByCriteria, fetchVideoById } from './services/imvdbService';
 import { Sector1Player } from './components/Sector1Player';
 import { Sector2Search } from './components/Sector2Search';
 import { Sector3Playlist } from './components/Sector3Playlist';
 import { WelcomeScreen } from './components/WelcomeScreen';
 import { Button } from './components/ui/Button';
-import { PanelRightClose, PanelRightOpen, Moon, Sun, Volume2, VolumeX, Maximize, Minimize } from 'lucide-react';
+import { PanelRightClose, PanelRightOpen, Moon, Sun, Volume2, VolumeX, Maximize, Minimize, Share2, Check } from 'lucide-react';
 import { translations, Language } from './translations';
 import { TVStatic } from './components/TVStatic';
 
@@ -18,6 +18,7 @@ const App: React.FC = () => {
   // Layout State
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
   const [isFullscreen, setIsFullscreen] = useState(false);
+  const [showShareCopied, setShowShareCopied] = useState(false);
 
   // Language State
   const [language, setLanguage] = useState<Language>('pt');
@@ -77,6 +78,80 @@ const App: React.FC = () => {
     return () => document.removeEventListener('fullscreenchange', handleFullscreenChange);
   }, []);
 
+  // Logic: Handle URL Parameters (Deep Linking)
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const videoId = params.get('v') || params.get('video');
+    
+    if (videoId) {
+      setIsTuning(true); // Show static start
+      setShowClickToStart(false); // Can skip this for deep link or keep it? Let's keep play req but load video
+      // Actually usually direct link implies autoplay or ready to play
+      setShowWelcome(false);
+
+      const loadDeepLinkedVideo = async () => {
+        console.log(`[Groovio App] Deep linking to video: ${videoId}`);
+        try {
+          const video = await fetchVideoById(videoId);
+          if (video) {
+             console.log(`[Groovio App] Video found: ${video.song_title}`);
+             setState(prev => ({
+               ...prev,
+               currentVideo: video,
+               queue: [video], // Set single video queue or fetch context? Single for now or fetch year...
+               // For now just set the video. If they want more they can search/filter.
+               isLoading: false,
+               hasStarted: true,
+               isPlaying: false // Wait for user click interaction
+             }));
+             // Also fetch context? Maybe fetch 'all' in background?
+             // Simple version: just play the video.
+          } else {
+             // Not found fallback
+             console.warn('Video not found by ID:', videoId);
+             setState(prev => ({ 
+               ...prev, 
+               isLoading: false, 
+               error: `Vídeo não encontrado (ID: ${videoId})` 
+             }));
+             setIsTuning(false); // Stop static so error is visible
+          }
+        } catch (e) {
+          console.error("Deep link fetch failed", e);
+          setState(prev => ({ 
+            ...prev, 
+            isLoading: false, 
+            error: 'Erro ao carregar vídeo.' 
+          }));
+          setIsTuning(false);
+        } finally {
+          setTimeout(() => setIsTuning(false), 1000);
+        }
+      };
+      
+      loadDeepLinkedVideo();
+    }
+  }, []);
+
+  // Handle Share
+  const handleShare = async () => {
+    if (!state.currentVideo) return;
+
+    // Use current URL origin + path, append ?v=ID
+    const baseUrl = `${window.location.protocol}//${window.location.host}${window.location.pathname}`;
+    const shareUrl = `${baseUrl}?v=${state.currentVideo.id}`;
+
+    const shareText = `Acho que você vai curtir esse clipe, conheça o Groovio!\n\n${state.currentVideo.song_title} - ${state.currentVideo.artists.map(a => a.name).join(', ')} (${state.currentVideo.year})\n${shareUrl}`;
+
+    try {
+      await navigator.clipboard.writeText(shareText);
+      setShowShareCopied(true);
+      setTimeout(() => setShowShareCopied(false), 2000);
+    } catch (err) {
+      console.error('Failed to copy:', err);
+    }
+  };
+
   // Logic: Search & Auto-Play
   const handleSearch = async (type: 'year' | 'decade' | 'all', value: string) => {
     setState(prev => ({ ...prev, isLoading: true, error: null, currentVideo: null, hasStarted: false }));
@@ -126,6 +201,18 @@ const App: React.FC = () => {
   const handlePlay = () => {
     setShowClickToStart(false); // Dismiss overlay on interaction
     setShowWelcome(false); // Dismiss welcome screen
+    
+    // If we already have a video selected (e.g. from deep link), just resume/play it
+    if (state.currentVideo) {
+      setState(prev => ({
+        ...prev,
+        hasStarted: true,
+        isPlaying: true,
+      }));
+      return;
+    }
+
+    // Otherwise, play start of queue
     if (state.queue.length > 0) {
       const firstVideo = state.queue[0];
       setState(prev => ({
@@ -302,11 +389,22 @@ const App: React.FC = () => {
                  {isMuted ? <VolumeX className="w-4 h-4" /> : <Volume2 className="w-4 h-4" />}
               </Button>
 
-              <Button variant="secondary" size="icon" onClick={toggleFullscreen} className="shadow-md rounded-full">
-                 {isFullscreen ? <Minimize className="w-4 h-4" /> : <Maximize className="w-4 h-4" />}
-              </Button>
-             
-             {/* Retract Toggle Button */}
+               <Button variant="secondary" size="icon" onClick={toggleFullscreen} className="shadow-md rounded-full">
+                  {isFullscreen ? <Minimize className="w-4 h-4" /> : <Maximize className="w-4 h-4" />}
+               </Button>
+
+               <Button 
+                 variant="secondary" 
+                 size="icon" 
+                 onClick={handleShare} 
+                 className="shadow-md rounded-full relative"
+                 disabled={!state.currentVideo}
+                 title="Compartilhar clipe"
+               >
+                  {showShareCopied ? <Check className="w-4 h-4 text-green-500" /> : <Share2 className="w-4 h-4" />}
+               </Button>
+              
+              {/* Retract Toggle Button */}
              <Button 
                 variant="primary" 
                 size="icon" 
@@ -327,6 +425,7 @@ const App: React.FC = () => {
             language={language}
             onVideoPlay={() => setIsTuning(false)}
             isMuted={isMuted}
+            isPlaying={state.isPlaying}
         />
         <TVStatic active={isTuning} enableAudio={!showClickToStart} />
         
@@ -346,6 +445,23 @@ const App: React.FC = () => {
               <p className="text-sm text-muted-foreground mt-2">Click to Start</p>
             </div>
           </div>
+        )}
+
+        {/* Error Overlay */}
+        {state.error && (
+            <div className="absolute inset-0 z-50 flex items-center justify-center bg-black/95">
+                <div className="text-center p-8 max-w-md border border-red-500/50 rounded-lg bg-red-950/20 backdrop-blur">
+                    <div className="text-4xl mb-4 text-red-500">⚠️</div>
+                    <h3 className="text-xl font-bold text-red-400 mb-2">Erro</h3>
+                    <p className="text-muted-foreground mb-6">{state.error}</p>
+                    <Button 
+                        variant="secondary" 
+                        onClick={() => setState(prev => ({ ...prev, error: null }))}
+                    >
+                        Fechar
+                    </Button>
+                </div>
+            </div>
         )}
       </main>
 

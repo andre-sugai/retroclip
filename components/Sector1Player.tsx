@@ -17,9 +17,10 @@ interface Sector1PlayerProps {
   language: Language;
   onVideoPlay?: () => void;
   isMuted?: boolean;
+  isPlaying?: boolean;
 }
 
-export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language, onVideoPlay, isMuted = false }) => {
+export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language, onVideoPlay, isMuted = false, isPlaying = false }) => {
   const playerWrapperRef = useRef<HTMLDivElement>(null);
   const playerInstanceRef = useRef<any>(null);
   const [isApiReady, setIsApiReady] = useState(false);
@@ -100,7 +101,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
             width: '100%',
             videoId: currentVideo.embed_id || '',
             playerVars: {
-                'autoplay': 1,
+                'autoplay': 0, // Manual control via isPlaying prop
                 'mute': 1, // Start muted to bypass browser autoplay restrictions
                 'controls': 0, 
                 'disablekb': 1,
@@ -115,11 +116,13 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
             },
             events: {
                 'onReady': (event: any) => {
-                    event.target.playVideo();
-                    // Unmute after starting (user has interacted by loading the page)
-                    setTimeout(() => {
-                        event.target.unMute();
-                    }, 100);
+                    if (isPlaying) {
+                        event.target.playVideo();
+                        // Unmute after starting
+                        setTimeout(() => {
+                            event.target.unMute();
+                        }, 100);
+                    }
                     startProgressInterval(event.target);
                 },
                 'onStateChange': (event: any) => {
@@ -148,13 +151,29 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
             const currentId = playerInstanceRef.current.getVideoData()?.video_id;
             if (currentId !== currentVideo.embed_id) {
                 playerInstanceRef.current.loadVideoById(currentVideo.embed_id);
-                // We don't need to manually play, loadVideoById autoplays. 
-                // Checks will resume in onStateChange(PLAYING).
+                if (isPlaying) {
+                    // loadVideoById usually autoplays, but we enforce specific handling if needed
+                }
             }
         }
     }
 
   }, [currentVideo?.embed_id, isApiReady]);
+
+  // Handle Play/Pause Prop Changes
+  useEffect(() => {
+      if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+          if (isPlaying) {
+              playerInstanceRef.current.playVideo();
+              // Try unmuting if playing
+              setTimeout(() => {
+                  try { playerInstanceRef.current.unMute(); } catch(e) {}
+              }, 100);
+          } else {
+              playerInstanceRef.current.pauseVideo();
+          }
+      }
+  }, [isPlaying]);
 
   // Cleanup on Unmount or if currentVideo becomes null (view-switching)
   useEffect(() => {
@@ -264,8 +283,8 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
     >
         <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black" />
         
-        {/* Interaction Layer - ensuring clicks on video work */}
-        <div className="absolute inset-0 z-10 bg-transparent" onClick={activateInfo} />
+        {/* Interaction Layer - ensuring clicks on video work - REMOVED blocking overlay to allow YouTube interaction if needed */}
+        {/* <div className="absolute inset-0 z-10 bg-transparent" onClick={activateInfo} /> */}
         
         <div className="absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end p-8 md:p-12">
             <div key={currentVideo.id} className="flex flex-col justify-end">

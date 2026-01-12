@@ -43,7 +43,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
     onSearch(mode, value);
   };
 
-  const quickDecades = ['1980', '1990', '2000', '2010'];
+  const quickDecades = ['1960', '1970', '1980', '1990', '2000', '2010', '2020'];
 
   return (
     <div className="w-full flex flex-col p-6 bg-zinc-50 dark:bg-zinc-900/50 backdrop-blur-sm" role="search">
@@ -115,9 +115,9 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
 
         {/* Quick Select Chips */}
         {mode === 'decade' && (
-            <div className="flex justify-between gap-2">
+            <div className="flex gap-2 overflow-x-auto pb-2 -mx-1 px-1 no-scrollbar mask-linear-fade">
                 {quickDecades.map(decade => {
-                    const isAvailable = decade === '1990' || decade === '1980' || decade === '2000' || decade === '2010';
+                    const isAvailable = ['1960', '1970', '1980', '1990', '2000', '2010', '2020'].includes(decade);
                     return (
                         <button
                             key={decade}
@@ -127,9 +127,9 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
                                 onSearch('decade', decade);
                             }}
                             className={`
-                                flex-1 py-2 text-xs font-bold rounded-md border transition-all
+                                flex-none px-4 py-2 text-xs font-bold rounded-md border transition-all
                                 ${isAvailable 
-                                    ? 'bg-primary text-primary-foreground border-primary shadow-md hover:brightness-110 scale-105' 
+                                    ? 'bg-primary text-primary-foreground border-primary shadow-md hover:brightness-110' 
                                     : 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 opacity-50 hover:opacity-100'
                                 }
                             `}
