@@ -14,10 +14,12 @@ import data1993 from '../data/1993.json';
 import data1992 from '../data/1992.json';
 import data1991 from '../data/1991.json';
 import data1990 from '../data/1990.json';
+import data1986 from '../data/1986.json';
 import data1985 from '../data/1985.json';
 import data2005 from '../data/2005.json';
+import data2015 from '../data/2015.json';
 
-const RAW_DATA = [...data1985, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2005];
+const RAW_DATA = [...data1986, ...data1985, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2005, ...data2015];
 export const TOTAL_VIDEOS_COUNT = RAW_DATA.length;
 
 /**

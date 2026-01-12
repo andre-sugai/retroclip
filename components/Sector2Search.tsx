@@ -136,7 +136,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
         {mode === 'decade' && (
             <div className="flex justify-between gap-2">
                 {quickDecades.map(decade => {
-                    const isAvailable = decade === '1990' || decade === '1980' || decade === '2000';
+                    const isAvailable = decade === '1990' || decade === '1980' || decade === '2000' || decade === '2010';
                     return (
                         <button
                             key={decade}
