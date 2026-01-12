@@ -113,25 +113,6 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
           </button>
         </div>
 
-        {/* Input - Hidden in 'all' mode */}
-        {mode !== 'all' && (
-          <div className="relative group">
-              <input
-                  type="number"
-                  min="1950"
-                  max="2025"
-                  step={mode === 'decade' ? 10 : 1}
-                  value={value}
-                  onChange={(e) => setValue(e.target.value)}
-                  className="w-full h-14 pl-4 pr-4 rounded-xl border-2 border-transparent bg-zinc-200 dark:bg-zinc-800 focus:bg-background text-2xl font-black tracking-widest text-center transition-all focus:border-primary focus:outline-none"
-                  placeholder="2000"
-              />
-              <span className="absolute right-4 top-1/2 -translate-y-1/2 text-muted-foreground text-xs font-mono opacity-50 pointer-events-none">
-                  {mode === 'decade' ? 's' : ''}
-              </span>
-          </div>
-        )}
-
         {/* Quick Select Chips */}
         {mode === 'decade' && (
             <div className="flex justify-between gap-2">
@@ -159,21 +140,42 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
                 })}
             </div>
         )}
-        
-        {/* Main Action Button */}
-        <Button 
-            type="submit" 
-            disabled={isLoading} 
-            size="lg"
-            className="w-full h-12 text-base gap-2 rounded-xl shadow-lg hover:shadow-primary/20 transition-all active:scale-[0.98]"
-        >
-            {isLoading ? (
-                <span className="h-5 w-5 animate-spin rounded-full border-2 border-current border-t-transparent" />
-            ) : (
-                <Play className="h-5 w-5 fill-current" />
+
+        <div className="flex gap-3">
+            {/* Input - Hidden in 'all' mode */}
+            {mode !== 'all' && (
+            <div className="relative group flex-1">
+                <input
+                    type="number"
+                    min="1950"
+                    max="2025"
+                    step={mode === 'decade' ? 10 : 1}
+                    value={value}
+                    onChange={(e) => setValue(e.target.value)}
+                    className="w-full h-12 pl-4 pr-4 rounded-xl border-2 border-transparent bg-zinc-200 dark:bg-zinc-800 focus:bg-background text-2xl font-black tracking-widest text-center transition-all focus:border-primary focus:outline-none"
+                    placeholder="2000"
+                />
+                <span className="absolute right-4 top-1/2 -translate-y-1/2 text-muted-foreground text-xs font-mono opacity-50 pointer-events-none">
+                    {mode === 'decade' ? 's' : ''}
+                </span>
+            </div>
             )}
-            {isLoading ? t.traveling : t.play}
-        </Button>
+
+            {/* Main Action Button */}
+            <Button 
+                type="submit" 
+                disabled={isLoading} 
+                size="lg"
+                className={`h-12 text-base gap-2 rounded-xl shadow-lg hover:shadow-primary/20 transition-all active:scale-[0.98] ${mode !== 'all' ? 'w-auto px-8' : 'w-full'}`}
+            >
+                {isLoading ? (
+                    <span className="h-5 w-5 animate-spin rounded-full border-2 border-current border-t-transparent" />
+                ) : (
+                    <Play className="h-5 w-5 fill-current" />
+                )}
+                {isLoading ? t.traveling : t.play}
+            </Button>
+        </div>
 
 
       </form>
