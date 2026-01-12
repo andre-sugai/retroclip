@@ -6,7 +6,7 @@ import { Sector2Search } from './components/Sector2Search';
 import { Sector3Playlist } from './components/Sector3Playlist';
 import { WelcomeScreen } from './components/WelcomeScreen';
 import { Button } from './components/ui/Button';
-import { PanelRightClose, PanelRightOpen, Moon, Sun, Volume2, VolumeX } from 'lucide-react';
+import { PanelRightClose, PanelRightOpen, Moon, Sun, Volume2, VolumeX, Maximize, Minimize } from 'lucide-react';
 import { translations, Language } from './translations';
 import { TVStatic } from './components/TVStatic';
 
@@ -17,6 +17,7 @@ const App: React.FC = () => {
   
   // Layout State
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
+  const [isFullscreen, setIsFullscreen] = useState(false);
 
   // Language State
   const [language, setLanguage] = useState<Language>('pt');
@@ -53,6 +54,28 @@ const App: React.FC = () => {
   const toggleMute = () => {
     setIsMuted(prev => !prev);
   };
+
+  const toggleFullscreen = () => {
+    if (!document.fullscreenElement) {
+      document.documentElement.requestFullscreen();
+      setIsFullscreen(true);
+    } else {
+      if (document.exitFullscreen) {
+        document.exitFullscreen();
+        setIsFullscreen(false);
+      }
+    }
+  };
+
+  // Listen for fullscreen changes (e.g. user presses Esc)
+  useEffect(() => {
+    const handleFullscreenChange = () => {
+      setIsFullscreen(!!document.fullscreenElement);
+    };
+
+    document.addEventListener('fullscreenchange', handleFullscreenChange);
+    return () => document.removeEventListener('fullscreenchange', handleFullscreenChange);
+  }, []);
 
   // Logic: Search & Auto-Play
   const handleSearch = async (type: 'year' | 'decade' | 'all', value: string) => {
@@ -275,10 +298,13 @@ const App: React.FC = () => {
              <Button variant="secondary" size="icon" onClick={toggleTheme} className="shadow-md rounded-full">
                 {theme === 'dark' ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
              </Button>
-             
-             <Button variant="secondary" size="icon" onClick={toggleMute} className="shadow-md rounded-full">
-                {isMuted ? <VolumeX className="w-4 h-4" /> : <Volume2 className="w-4 h-4" />}
-             </Button>
+                          <Button variant="secondary" size="icon" onClick={toggleMute} className="shadow-md rounded-full">
+                 {isMuted ? <VolumeX className="w-4 h-4" /> : <Volume2 className="w-4 h-4" />}
+              </Button>
+
+              <Button variant="secondary" size="icon" onClick={toggleFullscreen} className="shadow-md rounded-full">
+                 {isFullscreen ? <Minimize className="w-4 h-4" /> : <Maximize className="w-4 h-4" />}
+              </Button>
              
              {/* Retract Toggle Button */}
              <Button 
