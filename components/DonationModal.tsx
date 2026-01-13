@@ -42,7 +42,7 @@ export const DonationModal: React.FC<DonationModalProps> = ({ isOpen, onClose })
             <Coffee className="w-8 h-8 text-primary" />
           </div>
 
-          <h2 className="text-2xl font-bold mb-2">Gostou do Groovio?</h2>
+          <h2 className="text-2xl font-bold mb-2">Gostou do Grooovio?</h2>
           <p className="text-muted-foreground mb-8 text-sm leading-relaxed max-w-xs">
             Se esse projeto trouxe boas memórias, novidades ou mesmo um pouco de diversão em meio a tanta correria do dia a dia e você quiser apoiar o desenvolvimento, considere me pagar um cafézinho! ☕
             Você pode contribuir com o valor que desejar, desde que seja pelo menos R$ 1,00.

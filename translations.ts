@@ -12,7 +12,7 @@ export const translations = {
     },
     welcome: {
       title: 'Bem-vindx!',
-      subtitle: 'MTV morreu, mas o Groovio vive. Milhares de clipes, sem comerciais.',
+      subtitle: 'MTV morreu, mas o Grooovio vive. Milhares de clipes, sem comerciais.',
       feature1Title: 'Viagem no Tempo',
       feature1Desc: 'Escolha um ano específico ou uma década inteira para explorar.',
       feature2Title: 'Modo Aleatório',

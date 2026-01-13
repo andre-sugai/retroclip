@@ -141,7 +141,7 @@ const App: React.FC = () => {
     const baseUrl = `${window.location.protocol}//${window.location.host}${window.location.pathname}`;
     const shareUrl = `${baseUrl}?v=${state.currentVideo.id}`;
 
-    const shareText = `Acho que você vai curtir esse clipe, conheça o Groovio!\n\n${state.currentVideo.song_title} - ${state.currentVideo.artists.map(a => a.name).join(', ')} (${state.currentVideo.year})\n${shareUrl}`;
+    const shareText = `Acho que você vai curtir esse clipe, conheça o Grooovio!\n\n${state.currentVideo.song_title} - ${state.currentVideo.artists.map(a => a.name).join(', ')} (${state.currentVideo.year})\n${shareUrl}`;
 
     try {
       await navigator.clipboard.writeText(shareText);

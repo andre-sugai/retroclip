@@ -34,16 +34,28 @@ export async function getTotalVisits(): Promise<number> {
 
     // Fetch from GoatCounter API
     // Note: Using the public counter endpoint which doesn't require authentication
-    // This endpoint is available for sites with public statistics enabled
     const response = await fetch(`https://${GOATCOUNTER_SITE}.goatcounter.com/counter/${encodeURIComponent('/')}.json`);
     
-    if (!response.ok) {
-      console.warn('GoatCounter API request failed:', response.status);
-      return getFallbackCount();
+    // GoatCounter returns 404 if the path has no visits or is new, but still includes the JSON body
+    // We should parse the body regardless of status if it's JSON
+    let data;
+    try {
+      data = await response.json();
+    } catch (e) {
+      if (!response.ok) {
+        console.warn('GoatCounter API request failed:', response.status);
+        return getFallbackCount();
+      }
     }
 
-    const data = await response.json();
-    const totalCount = data.count || 0;
+    // Parse the count from string to number (API returns "count": "123")
+    // If 404 and valid JSON with count "0", this will correctly return 0
+    const countStr = data?.count;
+    const totalCount = countStr ? parseInt(countStr.toString().replace(/,/g, ''), 10) : 0;
+
+    if (isNaN(totalCount)) {
+      return getFallbackCount();
+    }
 
     // Cache the result
     setCachedData(totalCount);
