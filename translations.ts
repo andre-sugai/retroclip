@@ -64,6 +64,14 @@ export const translations = {
         indie: 'Indie',
       },
     },
+    donation: {
+      button: 'Me Pague um Café',
+      title: 'Gostou do Grooovio?',
+      text: 'Se esse projeto trouxe boas memórias, novidades ou mesmo um pouco de diversão em meio a tanta correria do dia a dia e você quiser apoiar o desenvolvimento, considere me pagar um cafézinho! ☕ Você pode contribuir com o valor que desejar, desde que seja pelo menos R$ 1,00.',
+      copy: 'COPIAR',
+      copied: 'COPIADO!',
+      footer: 'Toda contribuição incentiva novas features! Envie sua ideia através da mensagem do Pix.',
+    },
   },
   en: {
     app: {
@@ -127,6 +135,14 @@ export const translations = {
         nuMetal: 'Nu Metal',
         indie: 'Indie',
       },
+    },
+    donation: {
+      button: 'Buy me a Coffee',
+      title: 'Enjoying Grooovio?',
+      text: 'If this project brought back good memories, news, or even a bit of fun amidst the daily rush and you want to support development, consider buying me a coffee! ☕ You can contribute any amount you wish.',
+      copy: 'COPY',
+      copied: 'COPIED!',
+      footer: 'Every contribution encourages new features! Send your idea through the Pix message.',
     },
   },
 };

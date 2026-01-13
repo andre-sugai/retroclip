@@ -1,17 +1,18 @@
-
 import React from 'react';
 import { X, Coffee, QrCode, Heart } from 'lucide-react';
 import { Button } from './ui/Button';
+import { translations, Language } from '../translations';
+import ReactDOM from 'react-dom';
 
 interface DonationModalProps {
   isOpen: boolean;
   onClose: () => void;
+  language: Language;
 }
 
-import ReactDOM from 'react-dom';
-
-export const DonationModal: React.FC<DonationModalProps> = ({ isOpen, onClose }) => {
+export const DonationModal: React.FC<DonationModalProps> = ({ isOpen, onClose, language }) => {
   const [copied, setCopied] = React.useState(false);
+  const t = translations[language].donation;
 
   const handleCopy = () => {
     navigator.clipboard.writeText('18e7f381-df00-4cc3-99df-9b0ad4565d7e');
@@ -42,10 +43,9 @@ export const DonationModal: React.FC<DonationModalProps> = ({ isOpen, onClose })
             <Coffee className="w-8 h-8 text-primary" />
           </div>
 
-          <h2 className="text-2xl font-bold mb-2">Gostou do Grooovio?</h2>
+          <h2 className="text-2xl font-bold mb-2">{t.title}</h2>
           <p className="text-muted-foreground mb-8 text-sm leading-relaxed max-w-xs">
-            Se esse projeto trouxe boas memórias, novidades ou mesmo um pouco de diversão em meio a tanta correria do dia a dia e você quiser apoiar o desenvolvimento, considere me pagar um cafézinho! ☕
-            Você pode contribuir com o valor que desejar, desde que seja pelo menos R$ 1,00.
+            {t.text}
           </p>
 
           <div className="bg-white dark:bg-black p-4 rounded-xl shadow-inner border border-zinc-200 dark:border-zinc-800 mb-6 group relative">
@@ -70,13 +70,13 @@ export const DonationModal: React.FC<DonationModalProps> = ({ isOpen, onClose })
             >
                 <span className="truncate">18e7f381-df00-4cc3-99df-9b0ad4565d7e</span>
                 <span className={`text-[10px] px-1.5 py-0.5 rounded ml-auto transition-colors ${copied ? 'bg-green-100 text-green-700' : 'bg-primary/10 text-primary'}`}>
-                  {copied ? 'COPIADO!' : 'COPIAR'}
+                  {copied ? t.copied : t.copy}
                 </span>
             </div>
             
             <p className="text-[10px] text-muted-foreground mt-2">
               <Heart className="w-3 h-3 inline-block mr-1 text-red-500 fill-current animate-pulse" />
-              Toda contribuição incentiva novas features! Envie sua ideia através da mensagem do Pix.
+              {t.footer}
             </p>
           </div>
 

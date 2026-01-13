@@ -37,7 +37,6 @@ const App: React.FC = () => {
     queue: [],
     isPlaying: false,
     hasStarted: false,
-    isLoading: false,
     error: null,
   });
 
@@ -425,6 +424,7 @@ const App: React.FC = () => {
             isPlaying={state.isPlaying}
             hasNext={state.queue.findIndex(v => v.id === state.currentVideo?.id) < state.queue.length - 1} // Check if next video exists
         />
+
         <TVStatic active={isTuning} enableAudio={!showClickToStart} />
         
         {/* Click to Start Overlay - Requires real user click */}

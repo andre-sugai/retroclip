@@ -19,9 +19,21 @@ interface Sector1PlayerProps {
   isMuted?: boolean;
   isPlaying?: boolean;
   hasNext?: boolean;
+  initialTime?: number;
+  onTimeUpdate?: (time: number) => void;
 }
 
-export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language, onVideoPlay, isMuted = false, isPlaying = false, hasNext = false }) => {
+export const Sector1Player: React.FC<Sector1PlayerProps> = ({ 
+  currentVideo, 
+  onEnded, 
+  language, 
+  onVideoPlay, 
+  isMuted = false, 
+  isPlaying = false, 
+  hasNext = false,
+  initialTime = 0,
+  onTimeUpdate
+}) => {
   const playerWrapperRef = useRef<HTMLDivElement>(null);
   const playerInstanceRef = useRef<any>(null);
   const [isApiReady, setIsApiReady] = useState(false);
@@ -113,7 +125,10 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                 'origin': window.location.origin,
                 'playsinline': 1,
                 'loop': 1,
-                'playlist': currentVideo.embed_id
+                'playlist': currentVideo.embed_id,
+                'start': Math.floor(initialTime), // Start at specific time if provided
+                'widget_referrer': window.location.href,
+                'enablejsapi': 1
             },
             events: {
                 'onReady': (event: any) => {
@@ -144,8 +159,9 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                     }
                 },
                 'onError': (event: any) => {
-                    console.warn(`Video unavailable (Code ${event.data}). Skipping...`);
-                    onEndedRef.current();
+                    console.warn(`Video unavailable (Code ${event.data}).`);
+                    // onEndedRef.current(); // Disabled auto-skip to prevent PiP loops
+                    // Instead, we might want to show a visual error or just stop
                 }
             }
         });
@@ -262,6 +278,8 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                     player.seekTo(0);
                     player.playVideo();
                 }
+            } else {
+                if (onTimeUpdate) onTimeUpdate(currentTime);
             }
         } catch (e) {
             // Player destroyed
@@ -296,10 +314,10 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
         onClick={activateInfo}
         onMouseMove={activateInfo}
     >
-        <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black pointer-events-none" />
+        <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black" />
         
-        {/* Interaction Layer - Blocking overlay to prevent click-to-pause on YouTube iframe */}
-        <div className="absolute inset-0 z-10 bg-transparent" onClick={activateInfo} />
+        {/* Interaction Layer removed to allow native YouTube controls and Right-Click PiP */}
+        {/* <div className="absolute inset-0 z-10 bg-transparent" onClick={activateInfo} /> */}
         
         <div className="absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end p-8 md:p-12">
             <div key={currentVideo.id} className="flex flex-col justify-end">
