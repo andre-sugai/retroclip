@@ -239,7 +239,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
             <p className="text-xs text-muted-foreground/60 text-center">
               {t.credits}
             </p>
-            {visitCount !== null && visitCount > 0 && (
+            {visitCount !== null && (
               <p className="text-[10px] text-muted-foreground/50 text-center font-mono">
                 Total Visitas: {visitCount.toLocaleString()}
               </p>

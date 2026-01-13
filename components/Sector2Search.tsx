@@ -92,7 +92,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
           <div className="inline-block bg-background/50 dark:bg-black/20 rounded px-2 py-1 font-mono text-[10px] tracking-wide mt-1">
              <span className="opacity-70">{t.totalClips}:</span> <span className="font-bold">{TOTAL_VIDEOS_COUNT}</span>
           </div>
-          {visitCount !== null && visitCount > 0 && (
+          {visitCount !== null && (
             <div className="inline-block bg-background/50 dark:bg-black/20 rounded px-2 py-1 font-mono text-[10px] tracking-wide mt-1 ml-2">
               <span className="opacity-70">Visitas:</span> <span className="font-bold">{visitCount.toLocaleString()}</span>
             </div>
