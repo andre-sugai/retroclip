@@ -378,7 +378,7 @@ const App: React.FC = () => {
              <h1 className="text-xl font-black tracking-tighter uppercase leading-none">
                Groov<span className="text-primary">io</span>
              </h1>
-             <p className="text-[10px] text-muted-foreground font-mono">V 1.0.0 // ARIA-COMPLIANT</p>
+             <p className="text-[10px] text-muted-foreground font-mono">V 0.1.0 // ARIA-COMPLIANT</p>
           </div>
 
           <div className="flex gap-2 pointer-events-auto">

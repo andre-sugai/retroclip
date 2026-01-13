@@ -85,9 +85,12 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                return (
                   <button
                     key={genre.id}
-                    onClick={() => onSelectGenre(genre.id === 'all' ? null : genre.id)}
+                    onClick={() => {
+                        if (isSelected) return;
+                        onSelectGenre(genre.id === 'all' ? null : genre.id);
+                    }}
                     className={`
-                      relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all h-24 flex items-center justify-center text-center
+                      relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all h-16 flex items-center justify-center text-center
                       ${isSelected
                         ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02]'
                         : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md'

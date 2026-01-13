@@ -121,6 +121,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
             <div className="flex gap-2 overflow-x-auto pb-2 -mx-1 px-1 no-scrollbar mask-linear-fade">
                 {quickDecades.map(decade => {
                     const isAvailable = ['1960', '1970', '1980', '1990', '2000', '2010', '2020'].includes(decade);
+                    const isSelected = value === decade;
                     return (
                         <button
                             key={decade}
@@ -131,9 +132,11 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
                             }}
                             className={`
                                 flex-none px-4 py-2 text-xs font-bold rounded-md border transition-all
-                                ${isAvailable 
-                                    ? 'bg-primary text-primary-foreground border-primary shadow-md hover:brightness-110' 
-                                    : 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 opacity-50 hover:opacity-100'
+                                ${isSelected
+                                    ? 'bg-yellow-400 hover:bg-yellow-500 text-yellow-950 border-yellow-400 shadow-md scale-105'
+                                    : isAvailable 
+                                        ? 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 hover:bg-primary hover:text-primary-foreground hover:border-primary' 
+                                        : 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 opacity-50 cursor-not-allowed'
                                 }
                             `}
                         >

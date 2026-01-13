@@ -52,10 +52,14 @@ import data2007 from '../data/2007.json';
 import data2008 from '../data/2008.json';
 import data2009 from '../data/2009.json';
 import data2015 from '../data/2015.json';
+import data2020 from '../data/2020.json';
+import data2021 from '../data/2021.json';
 import data2022 from '../data/2022.json';
 import data2023 from '../data/2023.json';
+import data2024 from '../data/2024.json';
+import data2025 from '../data/2025.json';
 
-const RAW_DATA = [...data1988, ...data1989, ...data1987, ...data1986, ...data1985, ...data1984, ...data1983, ...data1982, ...data1981, ...data1980, ...data1979, ...data1978, ...data1977, ...data1976, ...data1975, ...data1974, ...data1973, ...data1972, ...data1971, ...data1970, ...data1969, ...data1968, ...data1967, ...data1966, ...data1965, ...data1964, ...data1963, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2000, ...data2001, ...data2002, ...data2003, ...data2004, ...data2005, ...data2006, ...data2007, ...data2008, ...data2009, ...data2015, ...data2022, ...data2023];
+const RAW_DATA = [...data1988, ...data1989, ...data1987, ...data1986, ...data1985, ...data1984, ...data1983, ...data1982, ...data1981, ...data1980, ...data1979, ...data1978, ...data1977, ...data1976, ...data1975, ...data1974, ...data1973, ...data1972, ...data1971, ...data1970, ...data1969, ...data1968, ...data1967, ...data1966, ...data1965, ...data1964, ...data1963, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2000, ...data2001, ...data2002, ...data2003, ...data2004, ...data2005, ...data2006, ...data2007, ...data2008, ...data2009, ...data2015, ...data2020, ...data2021, ...data2022, ...data2023, ...data2024, ...data2025];
 console.log(`[Groovio Data] Loaded 1999 data:`, data1999 ? data1999.length : 'undefined');
 console.log(`[Groovio Data] Total RAW_DATA:`, RAW_DATA.length);
 export const TOTAL_VIDEOS_COUNT = RAW_DATA.length;

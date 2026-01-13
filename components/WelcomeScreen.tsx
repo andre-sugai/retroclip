@@ -19,7 +19,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
           <h1 className="text-6xl font-black tracking-tighter uppercase mb-2">
             Groov<span className="text-primary">io</span>
           </h1>
-          <p className="text-sm text-muted-foreground font-mono">V 1.0.0 // ARIA-COMPLIANT</p>
+          <p className="text-sm text-muted-foreground font-mono">V 0.1.0 // ARIA-COMPLIANT</p>
         </div>
 
         {/* Welcome Message */}
