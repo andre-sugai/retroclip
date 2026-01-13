@@ -1,7 +1,8 @@
 import React from 'react';
 import { Button } from './ui/Button';
-import { PlayCircle, Clock, Film, Disc3, Coffee } from 'lucide-react';
+import { PlayCircle, Clock, Film, Disc3, Coffee, Sparkles } from 'lucide-react';
 import { translations, Language } from '../translations';
+import { getTotalVisits } from '../services/goatCounterService';
 
 interface WelcomeScreenProps {
   onStart: () => void;
@@ -10,21 +11,173 @@ interface WelcomeScreenProps {
 
 export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language }) => {
   const t = translations[language].welcome;
+  const [visitCount, setVisitCount] = React.useState<number | null>(null);
+
+  React.useEffect(() => {
+    // Fetch total visits from GoatCounter
+    getTotalVisits().then(count => {
+      setVisitCount(count);
+    });
+  }, []);
 
   return (
-    <div className="absolute inset-0 z-40 flex items-center justify-center bg-gradient-to-br from-zinc-900 via-zinc-800 to-zinc-900 p-8">
+    <div className="absolute inset-0 z-[60] flex items-center justify-center bg-zinc-900 overflow-hidden">
+      {/* Background Video */}
+      <div className="absolute inset-0 z-0">
+        <video 
+          autoPlay 
+          loop 
+          muted 
+          playsInline
+          className="w-full h-full object-cover opacity-70"
+        >
+          <source src="/videos/web2-optimized.webm" type="video/webm" />
+        </video>
+        
+        {/* CRT TV Effects */}
+        {/* Scanlines */}
+        <div className="crt-scanlines" />
+        
+        {/* Blue Vignette */}
+        <div className="crt-vignette" />
+        
+        {/* Grain/Noise */}
+        <div className="crt-grain" />
+        
+        {/* Curvature Overlay */}
+        <div className="crt-curve" />
+      </div>
+
+      <style>{`
+        /* CRT Scanlines */
+        @keyframes scanline {
+          0% { transform: translateY(-100%); }
+          100% { transform: translateY(100%); }
+        }
+        
+        .crt-scanlines {
+          position: absolute;
+          inset: 0;
+          background: repeating-linear-gradient(
+            0deg,
+            rgba(0, 0, 0, 0.2) 0px,
+            rgba(0, 0, 0, 0.2) 2px,
+            transparent 2px,
+            transparent 3px
+          );
+          pointer-events: none;
+          z-index: 3;
+        }
+        
+        .crt-scanlines::before {
+          content: '';
+          position: absolute;
+          inset: 0;
+          background: linear-gradient(
+            to bottom,
+            transparent 50%,
+            rgba(0, 0, 0, 0.05) 51%
+          );
+          background-size: 100% 4px;
+          animation: scanline 8s linear infinite;
+        }
+        
+        /* Blue Vignette */
+        .crt-vignette {
+          position: absolute;
+          inset: 0;
+          background: radial-gradient(
+            ellipse at center,
+            transparent 0%,
+            transparent 40%,
+            rgba(0, 40, 80, 0.3) 70%,
+            rgba(0, 20, 50, 0.6) 100%
+          );
+          pointer-events: none;
+          z-index: 2;
+        }
+        
+        /* Grain/Noise */
+        @keyframes grain {
+          0%, 100% { transform: translate(0, 0); }
+          10% { transform: translate(-5%, -10%); }
+          20% { transform: translate(-15%, 5%); }
+          30% { transform: translate(7%, -25%); }
+          40% { transform: translate(-5%, 25%); }
+          50% { transform: translate(-15%, 10%); }
+          60% { transform: translate(15%, 0%); }
+          70% { transform: translate(0%, 15%); }
+          80% { transform: translate(3%, 35%); }
+          90% { transform: translate(-10%, 10%); }
+        }
+        
+        .crt-grain {
+          position: absolute;
+          inset: 0;
+          background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.05'/%3E%3C/svg%3E");
+          opacity: 0.4;
+          pointer-events: none;
+          animation: grain 1s steps(10) infinite;
+          z-index: 4;
+        }
+        
+        /* Barrel Distortion / Curvature */
+        .crt-curve {
+          position: absolute;
+          inset: 0;
+          border-radius: 3% / 2%;
+          box-shadow: 
+            inset 0 0 100px rgba(0, 0, 0, 0.5),
+            inset 0 0 50px rgba(0, 40, 80, 0.3);
+          pointer-events: none;
+          z-index: 5;
+        }
+        
+        /* Subtle Flicker */
+        @keyframes flicker {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0.98; }
+        }
+        
+        .crt-curve::before {
+          content: '';
+          position: absolute;
+          inset: 0;
+          background: rgba(255, 255, 255, 0.02);
+          animation: flicker 0.15s infinite;
+        }
+        
+        /* Neon Button Animation */
+        @keyframes neon-border {
+          0%, 100% { 
+            box-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff; 
+            border-color: #ffffff; 
+          }
+          50% { 
+            box-shadow: 0 0 10px #ffffff, 0 0 25px #ffffff, 0 0 50px #ffffff; 
+            border-color: #ffffff; 
+          }
+        }
+        .neon-button {
+          animation: neon-border 3s infinite linear;
+          border-width: 1px;
+          border-style: solid;
+        }
+      `}</style>
+
+      <div className="relative z-10 p-8 flex items-center justify-center w-full">
       <div className="max-w-2xl w-full">
         {/* Logo */}
         <div className="text-center mb-8">
           <h1 className="text-6xl font-black tracking-tighter uppercase mb-2">
             Groov<span className="text-primary">io</span>
           </h1>
-          <p className="text-sm text-muted-foreground font-mono">V 0.1.0 // ARIA-COMPLIANT</p>
+          <p className="text-sm text-muted-foreground font-mono">V 1.2.0 // ARIA-COMPLIANT</p>
         </div>
 
         {/* Welcome Message */}
         <div className="bg-background/80 backdrop-blur-md rounded-2xl p-8 border border-border shadow-2xl">
-          <h2 className="text-3xl font-bold mb-4">{t.title}</h2>
+          <h2 className="text-3xl font-bold mb-4 text-center">{t.title}</h2>
           <p className="text-lg text-muted-foreground mb-6">{t.subtitle}</p>
 
           {/* Features */}
@@ -54,6 +207,14 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
             </div>
 
             <div className="flex items-start gap-3">
+              <Sparkles className="w-6 h-6 text-primary mt-1 flex-shrink-0" />
+              <div>
+                <h3 className="font-semibold">{t.featureFreeTitle}</h3>
+                <p className="text-sm text-muted-foreground">{t.featureFreeDesc}</p>
+              </div>
+            </div>
+
+            <div className="flex items-start gap-3">
               <Coffee className="w-6 h-6 text-primary mt-1 flex-shrink-0" />
               <div>
                 <h3 className="font-semibold">{t.feature4Title}</h3>
@@ -63,16 +224,30 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
           </div>
 
           {/* Start Button */}
-          <Button 
-            onClick={onStart}
-            className="w-full h-14 text-lg font-bold"
-            variant="primary"
-          >
-            <PlayCircle className="w-6 h-6 mr-2" />
-            {t.startButton}
-          </Button>
+          <div className="flex flex-col items-center w-full gap-6">
+            <Button 
+              onClick={onStart}
+              className="w-auto px-12 h-14 text-lg font-bold neon-button rounded-full"
+              variant="primary"
+            >
+              <PlayCircle className="w-6 h-6 mr-2" />
+              {t.startButton}
+            </Button>
+            <p className="text-xs text-muted-foreground/70 text-center">
+              {t.desktopNotice}
+            </p>
+            <p className="text-xs text-muted-foreground/60 text-center">
+              {t.credits}
+            </p>
+            {visitCount !== null && visitCount > 0 && (
+              <p className="text-[10px] text-muted-foreground/50 text-center font-mono">
+                Total Visitas: {visitCount.toLocaleString()}
+              </p>
+            )}
+          </div>
         </div>
       </div>
+    </div>
     </div>
   );
 };

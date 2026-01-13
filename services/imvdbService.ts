@@ -58,8 +58,17 @@ import data2022 from '../data/2022.json';
 import data2023 from '../data/2023.json';
 import data2024 from '../data/2024.json';
 import data2025 from '../data/2025.json';
+import data2010 from '../data/2010.json';
+import data2011 from '../data/2011.json';
+import data2012 from '../data/2012.json';
+import data2013 from '../data/2013.json';
+import data2014 from '../data/2014.json';
+import data2016 from '../data/2016.json';
+import data2017 from '../data/2017.json';
+import data2018 from '../data/2018.json';
+import data2019 from '../data/2019.json';
 
-const RAW_DATA = [...data1988, ...data1989, ...data1987, ...data1986, ...data1985, ...data1984, ...data1983, ...data1982, ...data1981, ...data1980, ...data1979, ...data1978, ...data1977, ...data1976, ...data1975, ...data1974, ...data1973, ...data1972, ...data1971, ...data1970, ...data1969, ...data1968, ...data1967, ...data1966, ...data1965, ...data1964, ...data1963, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2000, ...data2001, ...data2002, ...data2003, ...data2004, ...data2005, ...data2006, ...data2007, ...data2008, ...data2009, ...data2015, ...data2020, ...data2021, ...data2022, ...data2023, ...data2024, ...data2025];
+const RAW_DATA = [...data1988, ...data1989, ...data1987, ...data1986, ...data1985, ...data1984, ...data1983, ...data1982, ...data1981, ...data1980, ...data1979, ...data1978, ...data1977, ...data1976, ...data1975, ...data1974, ...data1973, ...data1972, ...data1971, ...data1970, ...data1969, ...data1968, ...data1967, ...data1966, ...data1965, ...data1964, ...data1963, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2000, ...data2001, ...data2002, ...data2003, ...data2004, ...data2005, ...data2006, ...data2007, ...data2008, ...data2009, ...data2010, ...data2011, ...data2012, ...data2013, ...data2014, ...data2015, ...data2016, ...data2017, ...data2018, ...data2019, ...data2020, ...data2021, ...data2022, ...data2023, ...data2024, ...data2025];
 console.log(`[Groovio Data] Loaded 1999 data:`, data1999 ? data1999.length : 'undefined');
 console.log(`[Groovio Data] Total RAW_DATA:`, RAW_DATA.length);
 export const TOTAL_VIDEOS_COUNT = RAW_DATA.length;

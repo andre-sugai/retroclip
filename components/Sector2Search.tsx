@@ -4,6 +4,7 @@ import { Button } from './ui/Button';
 import { DonationModal } from './DonationModal';
 import { TOTAL_VIDEOS_COUNT } from '../services/imvdbService';
 import { translations, Language } from '../translations';
+import { getTotalVisits } from '../services/goatCounterService';
 
 // Simple Flag Components as SVGs
 const FlagBR = () => (
@@ -30,13 +31,22 @@ interface Sector2SearchProps {
   isLoading: boolean;
   language: Language;
   onLanguageChange: (lang: Language) => void;
+  currentVideo: any | null;
 }
 
-export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoading, language, onLanguageChange }) => {
+export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoading, language, onLanguageChange, currentVideo }) => {
   const [value, setValue] = useState<string>('2000');
   const [mode, setMode] = useState<'year' | 'decade' | 'all'>('all');
   const [isDonationModalOpen, setIsDonationModalOpen] = useState(false);
+  const [visitCount, setVisitCount] = useState<number | null>(null);
   const t = translations[language].sector2;
+
+  React.useEffect(() => {
+    // Fetch total visits from GoatCounter
+    getTotalVisits().then(count => {
+      setVisitCount(count);
+    });
+  }, []);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -66,10 +76,27 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
       {/* Availability Notice & Count */}
       <div className="bg-primary/10 border border-primary/20 text-primary rounded-md p-3 text-xs mb-4 text-center leading-relaxed relative overflow-hidden">
           <p className="font-bold mb-1">{t.comingSoon}</p>
-          <p className="opacity-80 mb-2">{t.availabilityNotice}</p>
+          <p className="opacity-80 mb-2">
+            {currentVideo ? (
+              <>
+                <span className="font-bold">{currentVideo.song_title}</span>
+                {' - '}
+                <span>{currentVideo.artists?.map((a: any) => a.name).join(', ')}</span>
+                {' '}
+                <span className="opacity-70">({currentVideo.year})</span>
+              </>
+            ) : (
+              t.availabilityNotice
+            )}
+          </p>
           <div className="inline-block bg-background/50 dark:bg-black/20 rounded px-2 py-1 font-mono text-[10px] tracking-wide mt-1">
              <span className="opacity-70">{t.totalClips}:</span> <span className="font-bold">{TOTAL_VIDEOS_COUNT}</span>
           </div>
+          {visitCount !== null && visitCount > 0 && (
+            <div className="inline-block bg-background/50 dark:bg-black/20 rounded px-2 py-1 font-mono text-[10px] tracking-wide mt-1 ml-2">
+              <span className="opacity-70">Visitas:</span> <span className="font-bold">{visitCount.toLocaleString()}</span>
+            </div>
+          )}
 
            {/* Donation Button */}
            <button

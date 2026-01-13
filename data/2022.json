@@ -247,7 +247,7 @@
     "song_title": "Adieu",
     "year": 2022,
     "artist_name": "Rammstein",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=skl6N3zGv-s",
     "imvdb_url": "https://imvdb.com/video/rammstein/adieu"
   },
@@ -688,7 +688,7 @@
     "song_title": "Zeit",
     "year": 2022,
     "artist_name": "Rammstein",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=EbHGS_bVkXY",
     "imvdb_url": "https://imvdb.com/video/rammstein/zeit"
   },
@@ -1075,7 +1075,7 @@
     "song_title": "Angst",
     "year": 2022,
     "artist_name": "Rammstein",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=ONj9cvHCado",
     "imvdb_url": "https://imvdb.com/video/rammstein/angst"
   },
@@ -3208,7 +3208,7 @@
     "song_title": "Zick Zack",
     "year": 2022,
     "artist_name": "Rammstein",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=hBTNyJ33LWI",
     "imvdb_url": "https://imvdb.com/video/rammstein/zick-zack"
   },
@@ -4576,7 +4576,7 @@
     "song_title": "On the Ropes",
     "year": 2022,
     "artist_name": "Ignite",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=jNpAeI9lrxY",
     "imvdb_url": "https://imvdb.com/video/ignite/on-the-ropes"
   },
