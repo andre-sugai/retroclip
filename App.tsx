@@ -288,7 +288,9 @@ const App: React.FC = () => {
         'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
         'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
         'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
-        'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock']
+        'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock'],
+        'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
+        'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop']
       };
 
       const targetGenres = genreMap[genreId] || [];
@@ -304,6 +306,9 @@ const App: React.FC = () => {
     // Trigger tuning effect if switching genre (or to 'All')
     setIsTuning(true);
 
+    // Stop current video immediately (force unmount for silence)
+    setState(prev => ({ ...prev, currentVideo: null, isPlaying: false, hasStarted: false }));
+
     // Shuffle the filtered result for variety
     // Helper shuffle
     const shuffle = (array: Video[]) => {
@@ -317,25 +322,17 @@ const App: React.FC = () => {
     
     const shuffledFiltered = shuffle(filteredQueue);
 
-    // Update State
-    // If currently playing video is in the new list, keep playing it? 
-    // Or just update the queue for NEXT track? 
-    // Let's replace queue. Current video logic: if current video is NOT in filtered, maybe keep it until end?
-    // Simply updating queue is safest.
-    
-    // HOWEVER: if the filtered list is empty, show empty state?
-    // Let's just update queue.
-    
-    // Let's just update queue.
-    
-    setState(prev => ({
-       ...prev,
-       queue: shuffledFiltered,
-       // Auto-play the first video of the new shuffled list if 'All' is selected or a specific genre
-       currentVideo: shuffledFiltered[0],
-       isPlaying: true,
-       hasStarted: true
-    }));
+    // Update State with delay to allow tuning effect
+    setTimeout(() => {
+        setState(prev => ({
+           ...prev,
+           queue: shuffledFiltered,
+           // Auto-play the first video of the new shuffled list if 'All' is selected or a specific genre
+           currentVideo: shuffledFiltered[0],
+           isPlaying: true,
+           hasStarted: true
+        }));
+    }, 1000); // 1s tuning effect
   };
 
   // Logic: Select specific video from playlist
@@ -426,6 +423,7 @@ const App: React.FC = () => {
             onVideoPlay={() => setIsTuning(false)}
             isMuted={isMuted}
             isPlaying={state.isPlaying}
+            hasNext={state.queue.findIndex(v => v.id === state.currentVideo?.id) < state.queue.length - 1} // Check if next video exists
         />
         <TVStatic active={isTuning} enableAudio={!showClickToStart} />
         

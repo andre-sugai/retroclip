@@ -18,9 +18,10 @@ interface Sector1PlayerProps {
   onVideoPlay?: () => void;
   isMuted?: boolean;
   isPlaying?: boolean;
+  hasNext?: boolean;
 }
 
-export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language, onVideoPlay, isMuted = false, isPlaying = false }) => {
+export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEnded, language, onVideoPlay, isMuted = false, isPlaying = false, hasNext = false }) => {
   const playerWrapperRef = useRef<HTMLDivElement>(null);
   const playerInstanceRef = useRef<any>(null);
   const [isApiReady, setIsApiReady] = useState(false);
@@ -118,6 +119,8 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                 'onReady': (event: any) => {
                     if (isPlaying) {
                         event.target.playVideo();
+                        event.target.playVideo();
+                        // event.target.setLoop(true); // Removed to fix infinite loop issue
                         // Unmute after starting
                         setTimeout(() => {
                             event.target.unMute();
@@ -126,9 +129,13 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
                     startProgressInterval(event.target);
                 },
                 'onStateChange': (event: any) => {
-                    // 0 = ENDED
-                    if (event.data === 0) {
+                     if (event.data === 0) {
                          onEndedRef.current();
+                         // Aggressively restart ONLY if we have a next video coming, to mask the load time
+                         if (onEndedRef.current && hasNext) {
+                            event.target.seekTo(0);
+                            event.target.playVideo();
+                         }
                     }
                     // 1 = PLAYING
                     if (event.data === 1) {
@@ -150,6 +157,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
         if (typeof playerInstanceRef.current.getVideoData === 'function') {
             const currentId = playerInstanceRef.current.getVideoData()?.video_id;
             if (currentId !== currentVideo.embed_id) {
+                // Use loadVideoById for standard behavior. The restart logic handles the gap.
                 playerInstanceRef.current.loadVideoById(currentVideo.embed_id);
                 if (isPlaying) {
                     // loadVideoById usually autoplays, but we enforce specific handling if needed
@@ -244,9 +252,16 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
             // We increase the threshold slightly to 2s to catch it safely even with throttling, 
             // but ensure we don't skip too early by checking state.
             
-            if (duration > 0 && (duration - currentTime) <= 1.5) { 
+            if (duration > 0 && (duration - currentTime) <= 1.0) { 
                 clearInterval(player._timeUpdateInterval);
-                onEndedRef.current(); // Trigger next video
+                onEndedRef.current(); // Trigger next video logic
+                
+                // Aggressively restart ONLY if next video exists to prevent end screen (loop)
+                // This acts as a seamless loop if the new video doesn't load instantly
+                if (hasNext) {
+                    player.seekTo(0);
+                    player.playVideo();
+                }
             }
         } catch (e) {
             // Player destroyed
@@ -281,10 +296,10 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({ currentVideo, onEn
         onClick={activateInfo}
         onMouseMove={activateInfo}
     >
-        <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black" />
+        <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black pointer-events-none" />
         
-        {/* Interaction Layer - ensuring clicks on video work - REMOVED blocking overlay to allow YouTube interaction if needed */}
-        {/* <div className="absolute inset-0 z-10 bg-transparent" onClick={activateInfo} /> */}
+        {/* Interaction Layer - Blocking overlay to prevent click-to-pause on YouTube iframe */}
+        <div className="absolute inset-0 z-10 bg-transparent" onClick={activateInfo} />
         
         <div className="absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end p-8 md:p-12">
             <div key={currentVideo.id} className="flex flex-col justify-end">
