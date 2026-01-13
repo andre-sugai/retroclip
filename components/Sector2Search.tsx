@@ -106,7 +106,10 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
           </button>
           <button 
             type="button"
-            onClick={() => setMode('all')}
+            onClick={() => {
+                setMode('all');
+                onSearch('all', 'all');
+            }}
             className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-2 ${mode === 'all' ? 'bg-background shadow-sm text-foreground' : 'text-muted-foreground hover:text-foreground'}`}
           >
             <Film className="w-3 h-3" /> {t.allMode}
@@ -141,9 +144,10 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
             </div>
         )}
 
+        {mode === 'year' && (
         <div className="flex gap-3">
-            {/* Input - Hidden in 'all' mode */}
-            {mode !== 'all' && (
+            {/* Input - Only in 'year' mode */}
+            {mode === 'year' && (
             <div className="relative group flex-1">
                 <input
                     type="number"
@@ -176,6 +180,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
                 {isLoading ? t.traveling : t.play}
             </Button>
         </div>
+        )}
 
 
       </form>
