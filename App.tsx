@@ -296,6 +296,8 @@ const App: React.FC = () => {
     if (genreId) {
       if (genreId === 'Clássicos') {
         filteredQueue = sourceVideos.filter(video => video.year && video.year >= 1960 && video.year <= 1999);
+      } else if (genreId === 'acoustic') {
+        filteredQueue = sourceVideos.filter(video => video.artist_genre === 'acousticShow' || (video.artist_genre && video.artist_genre.includes('acousticShow')));
       } else {
         // Map UI Genre ID to matching sub-genres/keywords in artist_genre
         const genreMap: Record<string, string[]> = {
@@ -507,7 +509,7 @@ const App: React.FC = () => {
              <h1 className="text-xl font-black tracking-tighter uppercase leading-none">
                Grooov<span className="text-primary">io</span>
              </h1>
-             <p className="text-[10px] text-muted-foreground font-mono">V 1.4.2 // ARIA-COMPLIANT</p>
+             <p className="text-[10px] text-muted-foreground font-mono">V 1.5.0 // ARIA-COMPLIANT</p>
           </div>
 
           <div className="flex gap-2 pointer-events-auto">
