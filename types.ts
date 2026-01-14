@@ -22,6 +22,7 @@ export interface Video {
   embed_id?: string;
   source?: 'youtube' | 'vimeo' | 'unknown';
   artist_genre?: string;
+  nationality?: 'BR' | 'INTL';
 }
 
 export interface SearchParams {

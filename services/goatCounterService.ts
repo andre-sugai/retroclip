@@ -38,29 +38,33 @@ export async function getTotalVisits(): Promise<number> {
     
     // GoatCounter returns 404 if the path has no visits or is new, but still includes the JSON body
     // We should parse the body regardless of status if it's JSON
+    // GoatCounter returns 404 if the path has no visits or is new, but still includes the JSON body
+    // We should parse the body regardless of status if it's JSON
     let data;
     try {
       data = await response.json();
     } catch (e) {
-      if (!response.ok) {
-        console.warn('GoatCounter API request failed:', response.status);
-        return getFallbackCount();
-      }
+        // If JSON parsing fails and status is not OK, then it's a real error
+        if (!response.ok) {
+            console.warn('GoatCounter API request failed:', response.status);
+            return getFallbackCount();
+        }
     }
 
     // Parse the count from string to number (API returns "count": "123")
     // If 404 and valid JSON with count "0", this will correctly return 0
     const countStr = data?.count;
+    // Helper to parse count like "1,234" or "12k" (though usually just number string)
+    // GoatCounter public counter returns "count": "123"
     const totalCount = countStr ? parseInt(countStr.toString().replace(/,/g, ''), 10) : 0;
-
-    if (isNaN(totalCount)) {
-      return getFallbackCount();
+    
+    // If we got a valid number (including 0), cache it and return
+    if (!isNaN(totalCount)) {
+        setCachedData(totalCount);
+        return totalCount;
     }
 
-    // Cache the result
-    setCachedData(totalCount);
-
-    return totalCount;
+    return getFallbackCount();
   } catch (error) {
     console.error('Error fetching GoatCounter data:', error);
     return getFallbackCount();

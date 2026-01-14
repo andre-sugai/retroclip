@@ -32,9 +32,11 @@ interface Sector2SearchProps {
   language: Language;
   onLanguageChange: (lang: Language) => void;
   currentVideo: any | null;
+  selectedRegion: 'br' | 'intl' | 'all';
+  onRegionChange: (region: 'br' | 'intl' | 'all') => void;
 }
 
-export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoading, language, onLanguageChange, currentVideo }) => {
+export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoading, language, onLanguageChange, currentVideo, selectedRegion, onRegionChange }) => {
   const [value, setValue] = useState<string>('2000');
   const [mode, setMode] = useState<'year' | 'decade' | 'all'>('all');
   const [isDonationModalOpen, setIsDonationModalOpen] = useState(false);
@@ -84,6 +86,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
                 <span>{currentVideo.artists?.map((a: any) => a.name).join(', ')}</span>
                 {' '}
                 <span className="opacity-70">({currentVideo.year})</span>
+                {currentVideo.nationality === 'BR' && <span className="ml-2 text-[10px] bg-green-500/20 text-green-500 px-1 rounded">BR</span>}
               </>
             ) : (
               t.availabilityNotice
@@ -113,6 +116,39 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
 
       <form onSubmit={handleSubmit} className="flex flex-col gap-5">
         
+        {/* Region / Signal Source Filter */}
+        <div className="flex flex-col gap-2">
+            <label className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-2">
+                {t.signalSource}
+            </label>
+            <div className="grid grid-cols-3 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
+                <button 
+                    type="button"
+                    onClick={() => onRegionChange('intl')}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${selectedRegion === 'intl' ? 'bg-background shadow-sm text-foreground' : 'text-muted-foreground hover:text-foreground'}`}
+                    title="Apenas internacionais"
+                >
+                    Intl.
+                </button>
+                <button 
+                    type="button"
+                    onClick={() => onRegionChange('br')}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${selectedRegion === 'br' ? 'bg-background shadow-sm text-foreground' : 'text-muted-foreground hover:text-foreground'}`}
+                    title="Apenas nacionais"
+                >
+                    Brasil
+                </button>
+                <button 
+                    type="button"
+                    onClick={() => onRegionChange('all')}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${selectedRegion === 'all' ? 'bg-background shadow-sm text-foreground' : 'text-muted-foreground hover:text-foreground'}`}
+                    title="Misturado"
+                >
+                    Mix
+                </button>
+            </div>
+         </div>
+
         {/* Mode Toggles */}
         <div className="grid grid-cols-3 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
           <button 
@@ -144,6 +180,8 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
             <Film className="w-3 h-3" /> {t.allMode}
           </button>
         </div>
+
+
 
         {/* Quick Select Chips */}
         {mode === 'decade' && (

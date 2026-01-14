@@ -28,9 +28,15 @@ const GENRE_IDS = [
   { id: 'Dance', key: 'dance' },
   { id: 'Eletronico', key: 'electronic' },
   { id: 'Hardcore', key: 'hardcore' },
+  { id: 'Hard Rock', key: 'hardRock' },
   { id: 'Industrial', key: 'industrial' },
   { id: 'Nu Metal', key: 'nuMetal' },
   { id: 'Indie', key: 'indie' },
+  { id: 'Rock', key: 'rock' },
+  { id: 'R&B', key: 'rnb' },
+  { id: 'Latin Pop', key: 'latinPop' },
+  { id: 'K-Pop', key: 'kpop' },
+  { id: 'Folk', key: 'folk' },
 ] as const;
 
 export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({

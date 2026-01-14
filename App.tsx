@@ -24,9 +24,10 @@ const App: React.FC = () => {
   const [language, setLanguage] = useState<Language>('pt');
   const t = translations[language];
 
-  // Genre State
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null);
+  const [selectedRegion, setSelectedRegion] = useState<'br' | 'intl' | 'all'>('intl'); // Default to International
   const [allVideos, setAllVideos] = useState<Video[]>([]); // Store full unfiltered list
+  const [lastSearchParams, setLastSearchParams] = useState<{type: 'year'|'decade'|'all', value: string} | null>(null);
   const [isTuning, setIsTuning] = useState(false);
   const [showClickToStart, setShowClickToStart] = useState(true);
   const [showWelcome, setShowWelcome] = useState(true);
@@ -153,6 +154,7 @@ const App: React.FC = () => {
 
   // Logic: Search & Auto-Play
   const handleSearch = async (type: 'year' | 'decade' | 'all', value: string) => {
+    setLastSearchParams({ type, value });
     setState(prev => ({ ...prev, isLoading: true, error: null, currentVideo: null, hasStarted: false }));
     setShowClickToStart(false); // Dismiss overlay on interaction
     setShowWelcome(false); // Dismiss welcome screen
@@ -160,26 +162,39 @@ const App: React.FC = () => {
     // Show TV static while loading
     setIsTuning(true);
     
+    
     try {
-      const videos = await fetchVideosByCriteria(type, value);
+      const videos = await fetchVideosByCriteria(type, value, selectedRegion);
       
       if (videos.length > 0) {
         setAllVideos(videos); // Save full list
         setSelectedGenre(null); // Reset filter on new search
-
+        
+        // Initial List is now already filtered by region from service
+        let initialList = videos;
+        
         // Keep static visible for a moment before starting video
         setTimeout(() => {
           setIsTuning(false);
           
-          // Auto-start logic: Set queue, set first video as current, and set playing state
-          setState(prev => ({
-            ...prev,
-            queue: videos,
-            currentVideo: videos[0],
-            isLoading: false,
-            hasStarted: true,
-            isPlaying: true
-          }));
+          if (initialList.length > 0) {
+            // Auto-start logic: Set queue, set first video as current, and set playing state
+            setState(prev => ({
+                ...prev,
+                queue: initialList,
+                currentVideo: initialList[0],
+                isLoading: false,
+                hasStarted: true,
+                isPlaying: true
+            }));
+          } else {
+             setState(prev => ({ 
+                ...prev, 
+                queue: [],
+                isLoading: false, 
+                error: 'Nenhum vídeo encontrado para esta região nesta data.' 
+            }));
+          }
         }, 1500); // 1.5 second static effect
       } else {
         setIsTuning(false);
@@ -286,10 +301,16 @@ const App: React.FC = () => {
         'Pop': ['Pop', 'Pop Rock', 'Synth-pop', 'Teen Pop', 'Dance-Pop', 'Europop', 'Boy Band', 'Girl Group'],
         'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
         'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
+        'Hard Rock': ['Hard Rock', 'Glam Metal', 'Stoner Rock'],
         'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
         'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock'],
         'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
-        'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop']
+        'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop'],
+        'Rock': ['Rock', 'Classic Rock', 'Rock and Roll', 'Southern Rock'],
+        'R&B': ['R&B', 'Soul', 'Funk', 'Neo-Soul', 'Contemporary R&B'],
+        'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
+        'K-Pop': ['K-Pop', 'Korean Pop'],
+        'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk']
       };
 
       const targetGenres = genreMap[genreId] || [];
@@ -301,6 +322,14 @@ const App: React.FC = () => {
         });
       }
     }
+
+    // Apply Region Filter on top of Genre Filter
+    // Note: Region is already handled by the fetch source (allVideos contains only selected region data),
+    // so we don't need additional filtering here unless we were mixing client-side.
+    // However, if we fetched 'Mix' and then this runs, we might want to filter? 
+    // Wait, the design is: if you change Region, we Re-Fetch.
+    // So 'allVideos' ALWAYS respects 'selectedRegion'.
+    // Therefore, no extra filtering needed here.
     
     // Trigger tuning effect if switching genre (or to 'All')
     setIsTuning(true);
@@ -332,6 +361,94 @@ const App: React.FC = () => {
            hasStarted: true
         }));
     }, 1000); // 1s tuning effect
+  };
+
+  // Logic: Region Filtering
+  const handleRegionSelect = async (region: 'br' | 'intl' | 'all') => {
+      setSelectedRegion(region);
+      
+      // If we have a past search, we re-run it with the new region
+      if (lastSearchParams) {
+          // Re-use logic similar to handleSearch but we must not reset 'selectedGenre' necessarily, 
+          // but for consistency with the new data source, it's safer to re-fetch and apply genre if needed.
+          // For simplicity, let's treat it as a new search but keep the genre if we can.
+          
+          setIsTuning(true);
+          setState(prev => ({ ...prev, currentVideo: null, isPlaying: false, hasStarted: false }));
+          
+          try {
+              const videos = await fetchVideosByCriteria(lastSearchParams.type, lastSearchParams.value, region);
+              setAllVideos(videos);
+
+              setTimeout(() => {
+                  let startQueue = videos;
+                  
+                  // Re-apply current genre if it exists
+                  if (selectedGenre) {
+                      const genreMap: Record<string, string[]> = {
+                        'Rock Alternativo': ['Alternative Rock', 'Grunge', 'Indie Rock', 'Post-Grunge', 'Shoegaze', 'Britpop', 'Folk Rock', 'Alternative'],
+                        'Punk': ['Punk', 'Pop Punk', 'Ska Punk', 'Hardcore'],
+                        'Metal': ['Metal', 'Heavy Metal', 'Thrash Metal', 'Nu Metal', 'Industrial Metal', 'Groove Metal', 'Death Metal', 'Black Metal'],
+                        'Rap': ['Hip Hop', 'Rap', 'Gangsta Rap', 'Alternative Hip Hop', 'Jazz Rap'],
+                        'Pop': ['Pop', 'Pop Rock', 'Synth-pop', 'Teen Pop', 'Dance-Pop', 'Europop', 'Boy Band', 'Girl Group'],
+                        'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
+                        'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
+                        'Hard Rock': ['Hard Rock', 'Glam Metal', 'Stoner Rock'],
+                        'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
+                        'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock'],
+                        'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
+                        'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop'],
+                        'Rock': ['Rock', 'Classic Rock', 'Rock and Roll', 'Southern Rock'],
+                        'R&B': ['R&B', 'Soul', 'Funk', 'Neo-Soul', 'Contemporary R&B'],
+                        'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
+                        'K-Pop': ['K-Pop', 'Korean Pop'],
+                        'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk']
+                      };
+                      const targetGenres = genreMap[selectedGenre] || [];
+                      if (targetGenres.length > 0) {
+                        startQueue = videos.filter(video => {
+                          const g = video.artist_genre;
+                          return g && targetGenres.some(target => g.includes(target) || g === target);
+                        });
+                      }
+                  }
+
+                  // Shuffle
+                  const shuffle = (array: Video[]) => {
+                    const newArr = [...array];
+                    for (let i = newArr.length - 1; i > 0; i--) {
+                        const j = Math.floor(Math.random() * (i + 1));
+                        [newArr[i], newArr[j]] = [newArr[j], newArr[i]];
+                    }
+                    return newArr;
+                  };
+                  startQueue = shuffle(startQueue);
+
+                  if (startQueue.length > 0) {
+                      setState(prev => ({
+                        ...prev,
+                        queue: startQueue,
+                        currentVideo: startQueue[0],
+                        isLoading: false,
+                        hasStarted: true,
+                        isPlaying: true
+                      }));
+                  } else {
+                       setState(prev => ({ 
+                            ...prev, 
+                            queue: [],
+                            isLoading: false, 
+                            error: 'Nenhum vídeo encontrado para esta combinação.' 
+                        }));
+                  }
+                  setIsTuning(false);
+              }, 1000);
+              
+          } catch (e) {
+              console.error(e);
+              setIsTuning(false);
+          }
+      }
   };
 
   // Logic: Select specific video from playlist
@@ -374,7 +491,7 @@ const App: React.FC = () => {
              <h1 className="text-xl font-black tracking-tighter uppercase leading-none">
                Groov<span className="text-primary">io</span>
              </h1>
-             <p className="text-[10px] text-muted-foreground font-mono">V 1.2.0 // ARIA-COMPLIANT</p>
+             <p className="text-[10px] text-muted-foreground font-mono">V 1.3.0 // ARIA-COMPLIANT</p>
           </div>
 
           <div className="flex gap-2 pointer-events-auto">
@@ -479,6 +596,8 @@ const App: React.FC = () => {
                 language={language}
                 onLanguageChange={setLanguage}
                 currentVideo={state.currentVideo}
+                selectedRegion={selectedRegion}
+                onRegionChange={handleRegionSelect}
             />
         </div>
 

@@ -68,10 +68,56 @@ import data2017 from '../data/2017.json';
 import data2018 from '../data/2018.json';
 import data2019 from '../data/2019.json';
 
-const RAW_DATA = [...data1988, ...data1989, ...data1987, ...data1986, ...data1985, ...data1984, ...data1983, ...data1982, ...data1981, ...data1980, ...data1979, ...data1978, ...data1977, ...data1976, ...data1975, ...data1974, ...data1973, ...data1972, ...data1971, ...data1970, ...data1969, ...data1968, ...data1967, ...data1966, ...data1965, ...data1964, ...data1963, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2000, ...data2001, ...data2002, ...data2003, ...data2004, ...data2005, ...data2006, ...data2007, ...data2008, ...data2009, ...data2010, ...data2011, ...data2012, ...data2013, ...data2014, ...data2015, ...data2016, ...data2017, ...data2018, ...data2019, ...data2020, ...data2021, ...data2022, ...data2023, ...data2024, ...data2025];
-console.log(`[Groovio Data] Loaded 1999 data:`, data1999 ? data1999.length : 'undefined');
-console.log(`[Groovio Data] Total RAW_DATA:`, RAW_DATA.length);
-export const TOTAL_VIDEOS_COUNT = RAW_DATA.length;
+// BR Data Imports
+import data1963BR from '../data/br/1963-BR.json';
+import data1984BR from '../data/br/1984-BR.json';
+import data1985BR from '../data/br/1985-BR.json';
+import data1986BR from '../data/br/1986-BR.json';
+import data1987BR from '../data/br/1987-BR.json';
+import data1988BR from '../data/br/1988-BR.json';
+import data1989BR from '../data/br/1989-BR.json';
+import data1991BR from '../data/br/1991-BR.json';
+import data1992BR from '../data/br/1992-BR.json';
+import data1993BR from '../data/br/1993-BR.json';
+import data1995BR from '../data/br/1995-BR.json';
+import data1997BR from '../data/br/1997-BR.json';
+import data1999BR from '../data/br/1999-BR.json';
+import data2000BR from '../data/br/2000-BR.json';
+import data2001BR from '../data/br/2001-BR.json';
+import data2002BR from '../data/br/2002-BR.json';
+import data2003BR from '../data/br/2003-BR.json';
+import data2004BR from '../data/br/2004-BR.json';
+import data2005BR from '../data/br/2005-BR.json';
+import data2006BR from '../data/br/2006-BR.json';
+import data2007BR from '../data/br/2007-BR.json';
+import data2008BR from '../data/br/2008-BR.json';
+import data2009BR from '../data/br/2009-BR.json';
+import data2010BR from '../data/br/2010-BR.json';
+import data2011BR from '../data/br/2011-BR.json';
+import data2012BR from '../data/br/2012-BR.json';
+import data2013BR from '../data/br/2013-BR.json';
+import data2014BR from '../data/br/2014-BR.json';
+import data2015BR from '../data/br/2015-BR.json';
+import data2016BR from '../data/br/2016-BR.json';
+import data2017BR from '../data/br/2017-BR.json';
+import data2018BR from '../data/br/2018-BR.json';
+import data2019BR from '../data/br/2019-BR.json';
+import data2020BR from '../data/br/2020-BR.json';
+import data2021BR from '../data/br/2021-BR.json';
+import data2022BR from '../data/br/2022-BR.json';
+import data2023BR from '../data/br/2023-BR.json';
+
+const INTL_DATA = [...data1988, ...data1989, ...data1987, ...data1986, ...data1985, ...data1984, ...data1983, ...data1982, ...data1981, ...data1980, ...data1979, ...data1978, ...data1977, ...data1976, ...data1975, ...data1974, ...data1973, ...data1972, ...data1971, ...data1970, ...data1969, ...data1968, ...data1967, ...data1966, ...data1965, ...data1964, ...data1963, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2000, ...data2001, ...data2002, ...data2003, ...data2004, ...data2005, ...data2006, ...data2007, ...data2008, ...data2009, ...data2010, ...data2011, ...data2012, ...data2013, ...data2014, ...data2015, ...data2016, ...data2017, ...data2018, ...data2019, ...data2020, ...data2021, ...data2022, ...data2023, ...data2024, ...data2025];
+const BR_DATA = [...data1963BR, ...data1984BR, ...data1985BR, ...data1986BR, ...data1987BR, ...data1988BR, ...data1989BR, ...data1991BR, ...data1992BR, ...data1993BR, ...data1995BR, ...data1997BR, ...data1999BR, ...data2000BR, ...data2001BR, ...data2002BR, ...data2003BR, ...data2004BR, ...data2005BR, ...data2006BR, ...data2007BR, ...data2008BR, ...data2009BR, ...data2010BR, ...data2011BR, ...data2012BR, ...data2013BR, ...data2014BR, ...data2015BR, ...data2016BR, ...data2017BR, ...data2018BR, ...data2019BR, ...data2020BR, ...data2021BR, ...data2022BR, ...data2023BR].map(item => ({ ...item, nationality: 'BR' }));
+
+// Helper to get dataset by region
+const getDataset = (region: 'br' | 'intl' | 'all') => {
+    if (region === 'br') return BR_DATA;
+    if (region === 'intl') return INTL_DATA;
+    return [...INTL_DATA, ...BR_DATA];
+}
+
+export const TOTAL_VIDEOS_COUNT = INTL_DATA.length + BR_DATA.length;
 
 /**
  * Helper to extract YouTube ID from various URL formats
@@ -109,28 +155,29 @@ function shuffleArray<T>(array: T[]): T[] {
 /**
  * Main Fetch Function
  */
-export const fetchVideosByCriteria = async (type: 'year' | 'decade' | 'all', value: string): Promise<Video[]> => {
+export const fetchVideosByCriteria = async (type: 'year' | 'decade' | 'all', value: string, region: 'br' | 'intl' | 'all' = 'intl'): Promise<Video[]> => {
   // Simulate API delay
   await new Promise(resolve => setTimeout(resolve, 800));
 
-  let filtered = RAW_DATA;
+  const sourceData = getDataset(region);
+  let filtered = sourceData;
 
   if (type === 'year') {
     const year = parseInt(value);
-    filtered = RAW_DATA.filter(v => v.year === year);
+    filtered = sourceData.filter(v => v.year === year);
   } else if (type === 'decade') {
     const startYear = parseInt(value);
     const endYear = startYear + 9;
-    filtered = RAW_DATA.filter(v => v.year >= startYear && v.year <= endYear);
+    filtered = sourceData.filter(v => v.year >= startYear && v.year <= endYear);
   } else if (type === 'all') {
     // No filtering needed, use all data
-    filtered = RAW_DATA;
+    filtered = sourceData;
   }
 
   // Map to Video type
   const mapped = filtered.map(item => {
-    const embedId = getYouTubeId(item.youtube_link || '') || getYouTubeId(item.imvdb_url || '');
     const i = item as any;
+    const embedId = getYouTubeId(i.youtube_link || '') || getYouTubeId(i.imvdb_url || '');
     const artistName = String(i.artist || i.artist_name || 'Unknown');
     
     return {
@@ -142,7 +189,8 @@ export const fetchVideosByCriteria = async (type: 'year' | 'decade' | 'all', val
       embed_id: embedId,
       image: embedId ? getHighQualityThumbnail(embedId) : undefined,
       source: 'youtube',
-      artist_genre: i.artist_genre
+      artist_genre: i.artist_genre,
+      nationality: i.nationality || 'INTL'
     } as Video;
   }).filter(v => v.embed_id); // Only return videos with valid IDs
 
@@ -157,9 +205,10 @@ export const fetchVideoById = async (id: string | number): Promise<Video | undef
   await new Promise(resolve => setTimeout(resolve, 500));
 
   console.log(`[Groovio Fetch] Looking for ID: ${id}`);
-  console.log(`[Groovio Fetch] RAW_DATA length: ${RAW_DATA.length}`);
+  const allData = getDataset('all');
+  console.log(`[Groovio Fetch] RAW_DATA length: ${allData.length}`);
 
-  const found = RAW_DATA.find((v: any) => v.id && v.id.toString() === id.toString());
+  const found = allData.find((v: any) => v.id && v.id.toString() === id.toString());
   
   if (!found) {
     console.warn(`[Groovio Fetch] Video not found in RAW_DATA for ID: ${id}`);
@@ -189,6 +238,7 @@ export const fetchVideoById = async (id: string | number): Promise<Video | undef
     embed_id: embedId,
     image: getHighQualityThumbnail(embedId),
     source: 'youtube',
-    artist_genre: i.artist_genre
+    artist_genre: i.artist_genre,
+    nationality: i.nationality || 'INTL'
   } as Video;
 };

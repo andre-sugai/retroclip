@@ -36,15 +36,6 @@
     "artist": "Thalía"
   },
   {
-    "id": 266049108815,
-    "song_title": "Taxidermia",
-    "year": 1993,
-    "artist_genre": "Rock Alternativo",
-    "youtube_link": "https://www.youtube.com/watch?v=Q00zG0rvrGU",
-    "imvdb_url": "https://imvdb.com/video/titãs/taxidermia",
-    "artist": "Titãs"
-  },
-  {
     "id": 624474644313,
     "song_title": "Lipgloss",
     "year": 1993,
@@ -160,15 +151,6 @@
     "youtube_link": "https://www.youtube.com/watch?v=vqnVhCADFHY",
     "imvdb_url": "https://imvdb.com/video/living-colour/nothingness",
     "artist": "Living Colour"
-  },
-  {
-    "id": 109983946407,
-    "song_title": "Refuse/Resist",
-    "year": 1993,
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=6ODNxy3YOPU",
-    "imvdb_url": "https://imvdb.com/video/sepultura/refuseresist",
-    "artist": "Sepultura"
   },
   {
     "id": 216987545475,

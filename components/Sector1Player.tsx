@@ -159,9 +159,14 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
                     }
                 },
                 'onError': (event: any) => {
-                    console.warn(`Video unavailable (Code ${event.data}).`);
-                    // onEndedRef.current(); // Disabled auto-skip to prevent PiP loops
-                    // Instead, we might want to show a visual error or just stop
+                    console.warn(`Video unavailable (Code ${event.data}). Skipping to next...`);
+                    // Automatically skip to the next video when an error occurs
+                    // We use a small timeout to prevent potential rapid-fire loops if multiple fail in row
+                    setTimeout(() => {
+                        if (onEndedRef.current) {
+                            onEndedRef.current();
+                        }
+                    }, 500); 
                 }
             }
         });

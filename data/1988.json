@@ -1,14 +1,5 @@
 [
   {
-    "id": 119600818274,
-    "song_title": "Marvin",
-    "year": 1988,
-    "artist_name": "Titãs",
-    "artist_genre": "Rock Alternativo",
-    "youtube_link": "https://www.youtube.com/watch?v=KCawPZ2IbbQ",
-    "imvdb_url": "https://imvdb.com/video/titãs/marvin"
-  },
-  {
     "id": 182308360574,
     "song_title": "Paradise",
     "year": 1988,
@@ -2311,15 +2302,6 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=p0E9urVs-2o",
     "imvdb_url": "https://imvdb.com/video/the-cure/hot-hot-hot"
-  },
-  {
-    "id": 266264124810,
-    "song_title": "Angra dos Reis",
-    "year": 1988,
-    "artist_name": "Legião Urbana",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=khcbLyNStqo",
-    "imvdb_url": "https://imvdb.com/video/legião-urbana/angra-dos-reis"
   },
   {
     "id": 428111118896,
