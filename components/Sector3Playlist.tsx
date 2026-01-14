@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Video } from '../types';
-import { Loader2, Radio } from 'lucide-react';
+import { Loader2, Radio, ChevronDown, ChevronUp } from 'lucide-react';
 import { translations, Language } from '../translations';
 
 interface Sector3PlaylistProps {
@@ -52,67 +52,136 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
 }) => {
   const t = translations[language].sector3;
   const tGenres = translations[language].sector3.genres;
+  const [isCollapsed, setIsCollapsed] = useState(false);
+  const [isShowsCollapsed, setIsShowsCollapsed] = useState(false);
 
   return (
-    <div className="flex flex-col flex-1 min-h-0 bg-background" role="region" aria-label="Playlist">
+    <div className="flex flex-col flex-1 min-h-0 bg-background overflow-y-auto custom-scrollbar" role="region" aria-label="Playlist">
       
       {/* Header */}
-      <div className="flex flex-col border-b border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10">
+      <div 
+        className="flex flex-col border-b border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-20 sticky top-0 cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+        onClick={() => setIsCollapsed(!isCollapsed)}
+      >
         <div className="px-6 py-3 flex items-center justify-between">
-             <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-2">
-                <Radio className="w-3 h-3" /> {t.selectGenre}
+             <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
+                <div className="flex items-center justify-center w-6 h-6 border border-muted-foreground/30 rounded bg-zinc-100 dark:bg-zinc-800">
+                  {isCollapsed ? <ChevronDown className="w-4 h-4" /> : <ChevronUp className="w-4 h-4" />}
+                </div>
+                {t.selectGenre}
              </h2>
-             <span className="text-[10px] font-mono bg-zinc-200 dark:bg-zinc-800 px-2 py-0.5 rounded text-zinc-600 dark:text-zinc-400">
-                {t.autoPlay}
-             </span>
         </div>
       </div>
 
       {/* Main Content: Genre Grid */}
-      <div className="flex-1 overflow-y-auto p-4 custom-scrollbar bg-zinc-50/30 dark:bg-black/20">
-        
-        {/* Loading State */}
-        {isLoading && (
-            <div className="flex flex-col items-center justify-center h-40 gap-4 text-primary">
-                <Loader2 className="w-8 h-8 animate-spin" />
-                <p className="text-xs font-mono uppercase animate-pulse">{t.loading}</p>
+      <div 
+        className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
+      >
+        <div className="overflow-hidden">
+          <div className="p-4 bg-zinc-50/30 dark:bg-black/20">
+            
+            {/* Loading State */}
+            {isLoading && (
+                <div className="flex flex-col items-center justify-center h-40 gap-4 text-primary">
+                    <Loader2 className="w-8 h-8 animate-spin" />
+                    <p className="text-xs font-mono uppercase animate-pulse">{t.loading}</p>
+                </div>
+            )}
+
+            {/* Info Text if not loading and empty queue */}
+            {!isLoading && queue.length === 0 && (
+               <div className="text-center text-muted-foreground opacity-50 text-xs mb-4">
+                  {t.emptyState}
+               </div>
+            )}
+
+            {/* Genre Buttons Grid */}
+            <div className="grid grid-cols-2 gap-3 h-full content-start pb-4">
+                {GENRE_IDS.map((genre) => {
+                   const isSelected = selectedGenre === (genre.id === 'all' ? null : genre.id) || (genre.id === 'all' && !selectedGenre);
+                   // @ts-ignore - dynamic key access
+                   const label = tGenres[genre.key];
+
+                   return (
+                      <button
+                        key={genre.id}
+                        onClick={(e) => {
+                            e.stopPropagation(); // Prevent header toggle when clicking buttons
+                            if (isSelected) return;
+                            onSelectGenre(genre.id === 'all' ? null : genre.id);
+                        }}
+                        className={`
+                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                          ${isSelected
+                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                          }
+                        `}
+                      >
+                        {label}
+                        {isSelected && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                      </button>
+                   );
+                })}
             </div>
-        )}
+          </div>
+        </div>
+      </div>
 
-        {/* Info Text if not loading and empty queue */}
-        {!isLoading && queue.length === 0 && (
-           <div className="text-center text-muted-foreground opacity-50 text-xs mb-4">
-              {t.emptyState}
-           </div>
-        )}
+      {/* SHOWS SECTION */}
+      {/* Header */}
+      <div 
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[48px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+        onClick={() => setIsShowsCollapsed(!isShowsCollapsed)}
+      >
+        <div className="px-6 py-3 flex items-center justify-between">
+             <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
+                <div className="flex items-center justify-center w-6 h-6 border border-muted-foreground/30 rounded bg-zinc-100 dark:bg-zinc-800">
+                  {isShowsCollapsed ? <ChevronDown className="w-4 h-4" /> : <ChevronUp className="w-4 h-4" />}
+                </div>
+                {t.shows}
+             </h2>
+        </div>
+      </div>
 
-        {/* Genre Buttons Grid */}
-        <div className="grid grid-cols-2 gap-3 h-full content-start">
-            {GENRE_IDS.map((genre) => {
-               const isSelected = selectedGenre === (genre.id === 'all' ? null : genre.id) || (genre.id === 'all' && !selectedGenre);
-               // @ts-ignore - dynamic key access
-               const label = tGenres[genre.key];
+      {/* Shows Content */}
+      <div 
+        className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isShowsCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
+      >
+        <div className="overflow-hidden">
+             <div className="p-4 bg-zinc-50/30 dark:bg-black/20">
+                <div className="grid grid-cols-1 gap-3">
+                    {/* Full Show Button */}
+                    <button
+                        onClick={() => onSelectGenre('full_show')}
+                        className={`
+                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                          ${selectedGenre === 'full_show'
+                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                          }
+                        `}
+                    >
+                        {t.fullShow}
+                        {selectedGenre === 'full_show' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                    </button>
 
-               return (
-                  <button
-                    key={genre.id}
-                    onClick={() => {
-                        if (isSelected) return;
-                        onSelectGenre(genre.id === 'all' ? null : genre.id);
-                    }}
-                    className={`
-                      relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all h-16 flex items-center justify-center text-center
-                      ${isSelected
-                        ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02]'
-                        : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md'
-                      }
-                    `}
-                  >
-                    {label}
-                    {isSelected && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
-                  </button>
-               );
-            })}
+                    {/* Acoustic Button */}
+                    <button
+                        onClick={() => onSelectGenre('acoustic')}
+                        className={`
+                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                          ${selectedGenre === 'acoustic'
+                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                          }
+                        `}
+                    >
+                        {t.acoustic}
+                        {selectedGenre === 'acoustic' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                    </button>
+                </div>
+             </div>
         </div>
       </div>
     </div>

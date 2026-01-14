@@ -18,7 +18,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose, language 
   const content = {
     pt: {
       title: 'Sobre o Grooovio',
-      description: 'Grooovio é uma máquina do tempo musical que permite explorar videoclipes de diferentes décadas e gêneros. Recentemente expandido com gêneros como Gótico, Folk e Nu Metal, o acervo conta com mais de 80.000 clipes catalogados.',
+      description: 'Grooovio é uma máquina do tempo musical que permite explorar videoclipes de diferentes décadas e gêneros. Foi criado por um apaixonado por música e clipes, por isso mesmo não possui o botão de pular ou retroceder, a ideia aqui é escolher um gênero e deixar rolar, conhecer novas bandas e curtir a música. Recentemente expandido com gêneros como Gótico, Folk e Nu Metal, o acervo conta com mais de 80.000 clipes catalogados.',
       stats: [
         'Desenvolvido em apenas 4 dias',
         'Mais de 80.000 clipes catalogados',
@@ -30,7 +30,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose, language 
         'Escolha entre clipes internacionais, brasileiros ou misturados',
         'Compartilhe seus clipes favoritos'
       ],
-      version: 'Versão 1.4.2',
+      version: 'Versão 1.4.3',
       close: 'Fechar',
       tabs: {
         about: 'Sobre',
@@ -53,7 +53,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose, language 
     },
     en: {
       title: 'About Grooovio',
-      description: 'Grooovio is a musical time machine that lets you explore music videos from different decades and genres. Recently expanded with genres like Goth, Folk, and Nu Metal, the collection features over 80,000 cataloged clips.',
+      description: 'Grooovio is a musical time machine that lets you explore music videos from different decades and genres. Created by a music lover, it intentionally lacks skip or rewind buttons—the idea is to pick a genre, let it play, discover new bands, and enjoy the music. Recently expanded with genres like Goth, Folk, and Nu Metal, the collection features over 80,000 cataloged clips.',
       stats: [
         'Developed in just 4 days',
         'Over 80,000 cataloged clips',
@@ -65,7 +65,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose, language 
         'Choose between international, Brazilian or mixed clips',
         'Share your favorite clips'
       ],
-      version: 'Version 1.4.2',
+      version: 'Version 1.4.3',
       close: 'Close',
       tabs: {
         about: 'About',

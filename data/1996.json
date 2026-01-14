@@ -39,7 +39,7 @@
     "id": 181913817005,
     "song_title": "Homebrew",
     "year": 1996,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=CTceBCkoxw0",
     "imvdb_url": "https://imvdb.com/video/311/homebrew",
     "artist": 311
@@ -246,7 +246,7 @@
     "id": 913333770959,
     "song_title": "Santeria",
     "year": 1996,
-    "artist_genre": "Rock Alternativo, Ska",
+    "artist_genre": "Rock Alternativo, Ska, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=AEYN5w4T_aM",
     "imvdb_url": "https://imvdb.com/video/sublime-2/santeria",
     "artist": "Sublime"
@@ -1218,7 +1218,7 @@
     "id": 217275364784,
     "song_title": "All Mixed Up",
     "year": 1996,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=JjTjtJDZomw",
     "imvdb_url": "https://imvdb.com/video/311/all-mixed-up",
     "artist": 311
@@ -4296,7 +4296,7 @@
     "id": 128366523127,
     "song_title": "What I Got",
     "year": 1996,
-    "artist_genre": "Rock Alternativo, Ska",
+    "artist_genre": "Rock Alternativo, Ska, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=0Uc3ZrmhDN4",
     "imvdb_url": "https://imvdb.com/video/sublime-2/what-i-got",
     "artist": "Sublime"
@@ -7009,5 +7009,21 @@
     "youtube_link": "https://www.youtube.com/watch?v=1pwSOSebH1w",
     "imvdb_url": "https://imvdb.com/video/stone-temple-pilots/trippin-on-a-hole-in-a-paper-heart",
     "artist": "Stone Temple Pilots"
+  },
+  {
+    "id": 2339520904993,
+    "song_title": "MTV Unplugged",
+    "year": 1996,
+    "artist_genre": "acousticShow",
+    "youtube_link": "https://www.youtube.com/watch?v=Jprla2NvHY0",
+    "artist": "Alice in Chains"
+  },
+  {
+    "id": 2339520904994,
+    "song_title": "MTV Unplugged",
+    "year": 1996,
+    "artist_genre": "acousticShow",
+    "youtube_link": "https://www.youtube.com/watch?v=n_04G_-bOAs",
+    "artist": "Oasis"
   }
 ]

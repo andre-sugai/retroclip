@@ -48,7 +48,7 @@
     "id": 154408686427,
     "song_title": "Prisoner",
     "year": 2001,
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=hD3yVmT7ZEU",
     "imvdb_url": "https://imvdb.com/video/311/prisoner",
     "artist": 311
@@ -345,7 +345,7 @@
     "id": 111787139268,
     "song_title": "Transistor",
     "year": 2001,
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=T5C6hqZEX_8",
     "imvdb_url": "https://imvdb.com/video/311/transistor",
     "artist": 311
@@ -1029,7 +1029,7 @@
     "id": 297902087276,
     "song_title": "Beautiful Disaster",
     "year": 2001,
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=bDQlSUjqsuo",
     "imvdb_url": "https://imvdb.com/video/311/beautiful-disaster",
     "artist": 311
@@ -2244,7 +2244,7 @@
     "id": 163338827202,
     "song_title": "I'll Be Here Awhile",
     "year": 2001,
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=sKK-vPgoexM",
     "imvdb_url": "https://imvdb.com/video/311/ill-be-here-awhile",
     "artist": 311
@@ -5241,7 +5241,7 @@
     "id": 185729932514,
     "song_title": "You Wouldn't Believe",
     "year": 2001,
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=_GCAKoihngA",
     "imvdb_url": "https://imvdb.com/video/311/you-wouldnt-believe",
     "artist": 311
@@ -8080,5 +8080,13 @@
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/black-rebel-motorcycle-club/whatever-happened-to-my-rock-n-roll",
     "artist": "Black Rebel Motorcycle Club"
+  },
+  {
+    "id": 2339520904994,
+    "song_title": "MTV Unplugged",
+    "year": 2001,
+    "artist_genre": "acousticShow",
+    "youtube_link": "https://www.youtube.com/watch?v=kyc3jSH02W0",
+    "artist": "R.E.M."
   }
 ]

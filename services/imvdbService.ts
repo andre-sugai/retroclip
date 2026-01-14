@@ -41,6 +41,7 @@ import data1966 from '../data/1966.json';
 import data1965 from '../data/1965.json';
 import data1964 from '../data/1964.json';
 import data1963 from '../data/1963.json';
+import data1960 from '../data/1960.json';
 import data2000 from '../data/2000.json';
 import data2001 from '../data/2001.json';
 import data2002 from '../data/2002.json';
@@ -107,7 +108,7 @@ import data2021BR from '../data/br/2021-BR.json';
 import data2022BR from '../data/br/2022-BR.json';
 import data2023BR from '../data/br/2023-BR.json';
 
-const INTL_DATA = [...data1988, ...data1989, ...data1987, ...data1986, ...data1985, ...data1984, ...data1983, ...data1982, ...data1981, ...data1980, ...data1979, ...data1978, ...data1977, ...data1976, ...data1975, ...data1974, ...data1973, ...data1972, ...data1971, ...data1970, ...data1969, ...data1968, ...data1967, ...data1966, ...data1965, ...data1964, ...data1963, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2000, ...data2001, ...data2002, ...data2003, ...data2004, ...data2005, ...data2006, ...data2007, ...data2008, ...data2009, ...data2010, ...data2011, ...data2012, ...data2013, ...data2014, ...data2015, ...data2016, ...data2017, ...data2018, ...data2019, ...data2020, ...data2021, ...data2022, ...data2023, ...data2024, ...data2025];
+const INTL_DATA = [...data1988, ...data1989, ...data1987, ...data1986, ...data1985, ...data1984, ...data1983, ...data1982, ...data1981, ...data1980, ...data1979, ...data1978, ...data1977, ...data1976, ...data1975, ...data1974, ...data1973, ...data1972, ...data1971, ...data1970, ...data1969, ...data1968, ...data1967, ...data1966, ...data1965, ...data1964, ...data1963, ...data1960, ...data1990, ...data1991, ...data1992, ...data1993, ...data1994, ...data1995, ...data1996, ...data1997, ...data1998, ...data1999, ...data2000, ...data2001, ...data2002, ...data2003, ...data2004, ...data2005, ...data2006, ...data2007, ...data2008, ...data2009, ...data2010, ...data2011, ...data2012, ...data2013, ...data2014, ...data2015, ...data2016, ...data2017, ...data2018, ...data2019, ...data2020, ...data2021, ...data2022, ...data2023, ...data2024, ...data2025];
 const BR_DATA = [...data1963BR, ...data1984BR, ...data1985BR, ...data1986BR, ...data1987BR, ...data1988BR, ...data1989BR, ...data1991BR, ...data1992BR, ...data1993BR, ...data1995BR, ...data1997BR, ...data1999BR, ...data2000BR, ...data2001BR, ...data2002BR, ...data2003BR, ...data2004BR, ...data2005BR, ...data2006BR, ...data2007BR, ...data2008BR, ...data2009BR, ...data2010BR, ...data2011BR, ...data2012BR, ...data2013BR, ...data2014BR, ...data2015BR, ...data2016BR, ...data2017BR, ...data2018BR, ...data2019BR, ...data2020BR, ...data2021BR, ...data2022BR, ...data2023BR].map(item => ({ ...item, nationality: 'BR' }));
 
 // Helper to get dataset by region

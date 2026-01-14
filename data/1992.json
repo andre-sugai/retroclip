@@ -5911,5 +5911,13 @@
     "youtube_link": "https://www.youtube.com/watch?v=zmKXx6VtRs4",
     "imvdb_url": "https://imvdb.com/video/marky-mark-and-the-funky-bunch/gonna-have-a-good-time",
     "artist": "Marky Mark & The Funky Bunch"
+  },
+  {
+    "id": 2339520904992,
+    "song_title": "MTV Unplugged",
+    "year": 1992,
+    "artist_genre": "acousticShow",
+    "youtube_link": "https://www.youtube.com/watch?v=P9fPF204icg",
+    "artist": "Pearl Jam"
   }
 ]

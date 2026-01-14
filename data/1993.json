@@ -3864,7 +3864,7 @@
     "id": 280340229964,
     "song_title": "Do You Right",
     "year": 1993,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=dV6MI9OYG3o",
     "imvdb_url": "https://imvdb.com/video/311/do-you-right",
     "artist": 311
@@ -4921,5 +4921,13 @@
     "youtube_link": "https://www.youtube.com/watch?v=DOy028qN-kc",
     "imvdb_url": "https://imvdb.com/video/martina-mcbride/where-i-used-to-have-a-heart",
     "artist": "Martina McBride"
+  },
+  {
+    "id": 2339520904991,
+    "song_title": "MTV Unplugged in New York",
+    "year": 1993,
+    "artist_genre": "acousticShow",
+    "youtube_link": "https://www.youtube.com/watch?v=pOTkCgkxqyg",
+    "artist": "Nirvana"
   }
 ]

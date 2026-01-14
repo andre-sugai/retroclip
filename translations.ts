@@ -47,6 +47,9 @@ export const translations = {
     },
     sector3: {
       selectGenre: 'Selecione o Gênero',
+      shows: 'Shows',
+      fullShow: 'Show completo',
+      acoustic: 'Acústico',
       autoPlay: 'Automático',
       loading: 'Carregando...',
       emptyState: 'Selecione um gênero para carregar.',
@@ -130,6 +133,9 @@ export const translations = {
     },
     sector3: {
       selectGenre: 'Select Genre',
+      shows: 'Shows',
+      fullShow: 'Full Show',
+      acoustic: 'Acoustic',
       autoPlay: 'Auto-Play',
       loading: 'Loading...',
       emptyState: 'Select a genre to load clips.',

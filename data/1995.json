@@ -516,7 +516,7 @@
     "id": 120015080736,
     "song_title": "STP",
     "year": 1995,
-    "artist_genre": "Rock Alternativo, Ska",
+    "artist_genre": "Rock Alternativo, Ska, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=YkJEiuYUiSg",
     "imvdb_url": "https://imvdb.com/video/sublime-2/stp",
     "artist": "Sublime"
@@ -687,7 +687,7 @@
     "id": 272269145475,
     "song_title": "Down",
     "year": 1995,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=lYBIRHi5-o8",
     "imvdb_url": "https://imvdb.com/video/311/down",
     "artist": 311
@@ -1173,7 +1173,7 @@
     "id": 142871463684,
     "song_title": "Date Rape",
     "year": 1995,
-    "artist_genre": "Rock Alternativo, Ska",
+    "artist_genre": "Rock Alternativo, Ska, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=CeMeDihwyrg",
     "imvdb_url": "https://imvdb.com/video/sublime-2/date-rape",
     "artist": "Sublime"
@@ -2172,7 +2172,7 @@
     "id": 158401804958,
     "song_title": "Don't Stay Home",
     "year": 1995,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=NoDsJAiseGg",
     "imvdb_url": "https://imvdb.com/video/311/dont-stay-home",
     "artist": 311
@@ -4260,7 +4260,7 @@
     "id": 289663603059,
     "song_title": "Caribbean Blue",
     "year": 1995,
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=W8augcrt5E0",
     "imvdb_url": "https://imvdb.com/video/big-mountain/caribbean-blue",
     "artist": "Big Mountain"
@@ -6717,7 +6717,7 @@
     "id": 203744099694,
     "song_title": "If I Was Your Man",
     "year": 1995,
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=dSFddMJK3AY",
     "imvdb_url": "https://imvdb.com/video/aswad/if-i-was-your-man",
     "artist": "Aswad"
