@@ -20,6 +20,7 @@ interface Sector3PlaylistProps {
 // Map IDs to Translation Keys
 const GENRE_IDS = [
   { id: 'all', key: 'all' },
+  { id: 'Clássicos', key: 'classics' },
   { id: 'Rock Alternativo', key: 'rockAlt' },
   { id: 'Punk', key: 'punk' },
   { id: 'Metal', key: 'metal' },
@@ -37,6 +38,7 @@ const GENRE_IDS = [
   { id: 'Latin Pop', key: 'latinPop' },
   { id: 'K-Pop', key: 'kpop' },
   { id: 'Folk', key: 'folk' },
+  { id: 'Gótico', key: 'gotic' },
 ] as const;
 
 export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({

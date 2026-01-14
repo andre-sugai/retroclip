@@ -49,7 +49,7 @@
     "song_title": "Fallen",
     "year": 2010,
     "artist_name": "Volbeat",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=VBaVlDIMKCU",
     "imvdb_url": "https://imvdb.com/video/volbeat/fallen"
   },
@@ -148,7 +148,7 @@
     "song_title": "Unraveling",
     "year": 2010,
     "artist_name": "Sevendust",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=iNYIZx6kuJc",
     "imvdb_url": "https://imvdb.com/video/sevendust/unraveling"
   },
@@ -787,7 +787,7 @@
     "song_title": "Asylum",
     "year": 2010,
     "artist_name": "Disturbed",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=1K9jBL2syJ8",
     "imvdb_url": "https://imvdb.com/video/disturbed/asylum"
   },
@@ -1444,7 +1444,7 @@
     "song_title": "Heartkiller",
     "year": 2010,
     "artist_name": "HIM",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=V5L9pvwKSjE",
     "imvdb_url": "https://imvdb.com/video/him/heartkiller"
   },
@@ -2038,7 +2038,7 @@
     "song_title": "Sound Off",
     "year": 2010,
     "artist_name": "Trapt",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=IVd4FslwJvI",
     "imvdb_url": "https://imvdb.com/video/trapt/sound-off"
   },
@@ -2047,7 +2047,7 @@
     "song_title": "Haifisch",
     "year": 2010,
     "artist_name": "Rammstein",
-    "artist_genre": "Desconhecido, Industrial",
+    "artist_genre": "Desconhecido, Industrial, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=GP0_MNj8f1Q",
     "imvdb_url": "https://imvdb.com/video/rammstein/haifisch"
   },
@@ -2623,7 +2623,7 @@
     "song_title": "Maybe",
     "year": 2010,
     "artist_name": "Sick Puppies",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=zxLLcz-8FMc",
     "imvdb_url": "https://imvdb.com/video/sick-puppies/maybe"
   },
@@ -3451,7 +3451,7 @@
     "song_title": "The Night",
     "year": 2010,
     "artist_name": "Disturbed",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=UBv9TUQUDy0",
     "imvdb_url": "https://imvdb.com/video/disturbed/the-night"
   },
@@ -3955,7 +3955,7 @@
     "song_title": "Scared to Death",
     "year": 2010,
     "artist_name": "HIM",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=SyKXLaf4QeE",
     "imvdb_url": "https://imvdb.com/video/him/scared-to-death"
   },
@@ -4378,7 +4378,7 @@
     "song_title": "Dilly",
     "year": 2010,
     "artist_name": "Band Of Horses",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=FpRtY4aHReQ",
     "imvdb_url": "https://imvdb.com/video/band-of-horses/dilly"
   },
@@ -4738,7 +4738,7 @@
     "song_title": "The Crow & The Butterfly",
     "year": 2010,
     "artist_name": "Shinedown",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=1B89Osfj8dg",
     "imvdb_url": "https://imvdb.com/video/shinedown/the-crow-the-butterfly"
   },
@@ -4783,7 +4783,7 @@
     "song_title": "The Catalyst",
     "year": 2010,
     "artist_name": "Linkin Park",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=51iquRYKPbs",
     "imvdb_url": "https://imvdb.com/video/linkin-park/the-catalyst"
   },
@@ -4936,7 +4936,7 @@
     "song_title": "L'ultima volta",
     "year": 2010,
     "artist_name": "Linea 77",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Ij3yrOV_01U",
     "imvdb_url": "https://imvdb.com/video/linea-77/lultima-volta"
   },
@@ -5053,7 +5053,7 @@
     "song_title": "Maybe",
     "year": 2010,
     "artist_name": "Sick Puppies",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=oFhRowkNrTM",
     "imvdb_url": "https://imvdb.com/video/sick-puppies/maybe"
   },
@@ -6277,7 +6277,7 @@
     "song_title": "Laredo",
     "year": 2010,
     "artist_name": "Band Of Horses",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=YH8QICzCO8g",
     "imvdb_url": "https://imvdb.com/video/band-of-horses/laredo"
   },
@@ -6808,7 +6808,7 @@
     "song_title": "The Cave",
     "year": 2010,
     "artist_name": "Mumford & Sons",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=3KkUeRPjc-Y",
     "imvdb_url": "https://imvdb.com/video/mumford-and-sons/the-cave"
   },
@@ -7168,7 +7168,7 @@
     "song_title": "Burn",
     "year": 2010,
     "artist_name": "Papa Roach",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Qb4Q-2TueEM",
     "imvdb_url": "https://imvdb.com/video/papa-roach/burn"
   },
@@ -7384,7 +7384,7 @@
     "song_title": "Dilly",
     "year": 2010,
     "artist_name": "Band Of Horses",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=FpRtY4aHReQ",
     "imvdb_url": "https://imvdb.com/video/band-of-horses/dilly"
   },
@@ -8059,7 +8059,7 @@
     "song_title": "Machine",
     "year": 2010,
     "artist_name": "Theatre Of Tragedy",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=PS95sb7vdBw",
     "imvdb_url": "https://imvdb.com/video/theatre-of-tragedy/machine"
   },
@@ -8473,7 +8473,7 @@
     "song_title": "Cryin' Like A Bitch!!",
     "year": 2010,
     "artist_name": "Godsmack",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=0eXIOK2vOhM",
     "imvdb_url": "https://imvdb.com/video/godsmack/cryin-like-a-bitch"
   },
@@ -9553,7 +9553,7 @@
     "song_title": "Superman Tonight",
     "year": 2010,
     "artist_name": "Bon Jovi",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=y9k-k8609go",
     "imvdb_url": "https://imvdb.com/video/bon-jovi/superman-tonight"
   },
@@ -9715,7 +9715,7 @@
     "song_title": "Deliverance Is Mine",
     "year": 2010,
     "artist_name": "Soilwork",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=aiOa61327WA",
     "imvdb_url": "https://imvdb.com/video/soilwork/deliverance-is-mine"
   },
@@ -9832,7 +9832,7 @@
     "song_title": "Fear Campaign",
     "year": 2010,
     "artist_name": "Fear Factory",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=tpyrLTn1EaU",
     "imvdb_url": "https://imvdb.com/video/fear-factory/fear-campaign"
   },
@@ -9868,7 +9868,7 @@
     "song_title": "Heaven Nor Hell",
     "year": 2010,
     "artist_name": "Volbeat",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=vEN3mQ0ql30",
     "imvdb_url": "https://imvdb.com/video/volbeat/heaven-nor-hell"
   },
@@ -9976,7 +9976,7 @@
     "song_title": "New Morning",
     "year": 2010,
     "artist_name": "Alpha Rev",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=6xjLS6gYujU",
     "imvdb_url": "https://imvdb.com/video/alpha-rev/new-morning"
   },
@@ -10057,7 +10057,7 @@
     "song_title": "Stoned",
     "year": 2010,
     "artist_name": "Puddle Of Mudd",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=eXIdm_2NNyk",
     "imvdb_url": "https://imvdb.com/video/puddle-of-mudd/stoned"
   },
@@ -10075,7 +10075,7 @@
     "song_title": "Beholder",
     "year": 2010,
     "artist_name": "Project Pitchfork",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=2bzv1Kl_eG4",
     "imvdb_url": "https://imvdb.com/video/project-pitchfork/beholder"
   },
@@ -10273,7 +10273,7 @@
     "song_title": "The Good Die Young",
     "year": 2010,
     "artist_name": "Scorpions",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=R6TaB-PmTT0",
     "imvdb_url": "https://imvdb.com/video/scorpions/the-good-die-young"
   },
@@ -10633,7 +10633,7 @@
     "song_title": "Shameful Metaphors",
     "year": 2010,
     "artist_name": "Chevelle",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=7rW4hZNSVr4",
     "imvdb_url": "https://imvdb.com/video/chevelle-2/shameful-metaphors"
   },
@@ -10885,7 +10885,7 @@
     "song_title": "Ghost Town",
     "year": 2010,
     "artist_name": "First Aid Kit",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=2BKUjnyf8uY",
     "imvdb_url": "https://imvdb.com/video/first-aid-kit/ghost-town"
   },
@@ -11848,7 +11848,7 @@
     "song_title": "Aspettando meteoriti",
     "year": 2010,
     "artist_name": "Linea 77",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=lsvBg-EYe00",
     "imvdb_url": "https://imvdb.com/video/linea-77/aspettando-meteoriti"
   },
@@ -11965,7 +11965,7 @@
     "song_title": "Beautiful And Strange",
     "year": 2010,
     "artist_name": "Mudvayne",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=b1MqKNu6asw",
     "imvdb_url": "https://imvdb.com/video/mudvayne/beautiful-and-strange"
   },
@@ -12127,7 +12127,7 @@
     "song_title": "Infinite Arms",
     "year": 2010,
     "artist_name": "Band Of Horses",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/band-of-horses/infinite-arms"
   },
@@ -12145,7 +12145,7 @@
     "song_title": "Whatever It Takes",
     "year": 2010,
     "artist_name": "Pillar",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=RebdYySOFmY",
     "imvdb_url": "https://imvdb.com/video/pillar/whatever-it-takes"
   },
@@ -13090,7 +13090,7 @@
     "song_title": "Punch Drunk Grinning Soul",
     "year": 2010,
     "artist_name": "Flogging Molly",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=1yf9cW6RK6A",
     "imvdb_url": "https://imvdb.com/video/flogging-molly/punch-drunk-grinning-soul"
   },
@@ -13531,7 +13531,7 @@
     "song_title": "Shoot To Thrill",
     "year": 2010,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=xRQnJyP77tY",
     "imvdb_url": "https://imvdb.com/video/acdc/shoot-to-thrill"
   },
@@ -13810,7 +13810,7 @@
     "song_title": "Vertigine",
     "year": 2010,
     "artist_name": "Linea 77",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=GbHZ_txBZIE",
     "imvdb_url": "https://imvdb.com/video/linea-77/vertigine"
   },
@@ -13999,7 +13999,7 @@
     "song_title": "Be My Honeypie",
     "year": 2010,
     "artist_name": "The Weepies",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=zeZMTOSeHVw",
     "imvdb_url": "https://imvdb.com/video/the-weepies/be-my-honeypie"
   },
@@ -14071,7 +14071,7 @@
     "song_title": "Ready Or Not (I'm Coming)",
     "year": 2010,
     "artist_name": "OOMPH!",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=gTEmvVXxLkw",
     "imvdb_url": "https://imvdb.com/video/oomph/ready-or-not-im-coming"
   },
@@ -14179,7 +14179,7 @@
     "song_title": "Bloom",
     "year": 2010,
     "artist_name": "The Paper Kites",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=8inJtTG_DuU",
     "imvdb_url": "https://imvdb.com/video/the-paper-kites-1/bloom"
   },
@@ -14584,7 +14584,7 @@
     "song_title": "Highway To Hell",
     "year": 2010,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=bNlNZ2T9EeY",
     "imvdb_url": "https://imvdb.com/video/acdc/highway-to-hell"
   },
@@ -14647,7 +14647,7 @@
     "song_title": "This Afternoon",
     "year": 2010,
     "artist_name": "Nickelback",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=YbP1K-bQB6g",
     "imvdb_url": "https://imvdb.com/video/nickelback/this-afternoon"
   },
@@ -15457,7 +15457,7 @@
     "song_title": "Rise, Rebel, Resist",
     "year": 2010,
     "artist_name": "Otep",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=-Z4_QifBW18",
     "imvdb_url": "https://imvdb.com/video/otep/rise-rebel-resist"
   },
@@ -15952,7 +15952,7 @@
     "song_title": "Vertigine",
     "year": 2010,
     "artist_name": "Linea 77",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=mhgnnC5oSmI",
     "imvdb_url": "https://imvdb.com/video/linea-77/vertigine/2"
   },
@@ -16537,7 +16537,7 @@
     "song_title": "Laredo",
     "year": 2010,
     "artist_name": "Band Of Horses",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=6mFHh_KVzew",
     "imvdb_url": "https://imvdb.com/video/band-of-horses/laredo"
   },
@@ -16942,7 +16942,7 @@
     "song_title": "Another Way To Die",
     "year": 2010,
     "artist_name": "Disturbed",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=HwELajFteTo",
     "imvdb_url": "https://imvdb.com/video/disturbed/another-way-to-die"
   },
@@ -18247,7 +18247,7 @@
     "song_title": "Get Back In Line",
     "year": 2010,
     "artist_name": "Motörhead",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=O02Gnzn5JDY",
     "imvdb_url": "https://imvdb.com/video/motörhead/get-back-in-line"
   },
@@ -18373,7 +18373,7 @@
     "song_title": "Odd One",
     "year": 2010,
     "artist_name": "Sick Puppies",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Wgbv3d-k7sA",
     "imvdb_url": "https://imvdb.com/video/sick-puppies/odd-one"
   },
@@ -18679,7 +18679,7 @@
     "song_title": "Not Alone",
     "year": 2010,
     "artist_name": "Linkin Park",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=lrbL1s9qwBs",
     "imvdb_url": "https://imvdb.com/video/linkin-park/not-alone"
   },
@@ -19084,7 +19084,7 @@
     "song_title": "Waiting For The End",
     "year": 2010,
     "artist_name": "Linkin Park",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=5qF_qbaWt3Q",
     "imvdb_url": "https://imvdb.com/video/linkin-park/waiting-for-the-end"
   },
@@ -19453,7 +19453,7 @@
     "song_title": "Wait So Long",
     "year": 2010,
     "artist_name": "Trampled By Turtles",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=Xjdkc14-zwQ",
     "imvdb_url": "https://imvdb.com/video/trampled-by-turtles/wait-so-long"
   },
@@ -19624,7 +19624,7 @@
     "song_title": "If Today Was Your Last Day",
     "year": 2010,
     "artist_name": "Nickelback",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=lrXIQQ8PeRs",
     "imvdb_url": "https://imvdb.com/video/nickelback/if-today-was-your-last-day"
   },
@@ -19804,7 +19804,7 @@
     "song_title": "Big Jet Plane",
     "year": 2010,
     "artist_name": "Angus & Julia Stone",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=yFTvbcNhEgc",
     "imvdb_url": "https://imvdb.com/video/angus-and-julia-stone/big-jet-plane"
   },
@@ -21694,7 +21694,7 @@
     "song_title": "What Do You Got?",
     "year": 2010,
     "artist_name": "Bon Jovi",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=eYezn_kWynU",
     "imvdb_url": "https://imvdb.com/video/bon-jovi/what-do-you-got"
   },
@@ -23179,7 +23179,7 @@
     "song_title": "For He's A Jolly Good Felon",
     "year": 2010,
     "artist_name": "Lostprophets",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=zjNRNeKqQqA",
     "imvdb_url": "https://imvdb.com/video/lostprophets/for-hes-a-jolly-good-felon"
   },
@@ -23278,7 +23278,7 @@
     "song_title": "Give Me A Sign",
     "year": 2010,
     "artist_name": "Breaking Benjamin",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=97S66xee0U8",
     "imvdb_url": "https://imvdb.com/video/breaking-benjamin/give-me-a-sign"
   },
@@ -23440,7 +23440,7 @@
     "song_title": "I Wont Tell You",
     "year": 2010,
     "artist_name": "Lacuna Coil",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=uTZFwLOoS1U",
     "imvdb_url": "https://imvdb.com/video/lacuna-coil/i-wont-tell-you"
   },
@@ -23557,7 +23557,7 @@
     "song_title": "Home",
     "year": 2010,
     "artist_name": "Edward Sharpe and The Magnetic Zeros",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=4306i99LMXo",
     "imvdb_url": "https://imvdb.com/video/edward-sharpe-and-the-magnetic-zeros/home"
   },
@@ -23755,7 +23755,7 @@
     "song_title": "The Good Life",
     "year": 2010,
     "artist_name": "Three Days Grace",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=tzRk5EIHAoI",
     "imvdb_url": "https://imvdb.com/video/three-days-grace/the-good-life"
   },
@@ -24016,7 +24016,7 @@
     "song_title": "Kick In The Teeth",
     "year": 2010,
     "artist_name": "Papa Roach",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=7an-BB4-lLA",
     "imvdb_url": "https://imvdb.com/video/papa-roach/kick-in-the-teeth"
   },
@@ -24286,7 +24286,7 @@
     "song_title": "Forgive Me Father (I Have Sinned)",
     "year": 2010,
     "artist_name": "Cradle Of Filth",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=b_LdI9I1kqY",
     "imvdb_url": "https://imvdb.com/video/cradle-of-filth/forgive-me-father-i-have-sinned"
   },
@@ -24313,7 +24313,7 @@
     "song_title": "Wait So Long",
     "year": 2010,
     "artist_name": "Trampled By Turtles",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=vGh-EvmZVCQ",
     "imvdb_url": "https://imvdb.com/video/trampled-by-turtles/wait-so-long"
   },

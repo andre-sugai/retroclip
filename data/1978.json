@@ -220,7 +220,7 @@
     "song_title": "Rock 'N' Roll Damnation",
     "year": 1978,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=-0Oa5wvARSc",
     "imvdb_url": "https://imvdb.com/video/acdc/rock-n-roll-damnation"
   },
@@ -544,7 +544,7 @@
     "song_title": "How You Gonna See Me Now?",
     "year": 1978,
     "artist_name": "Alice Cooper",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=LERBv5DSuEc",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/how-you-gonna-see-me-now"
   },
@@ -553,7 +553,7 @@
     "song_title": "10:15 Saturday Night",
     "year": 1978,
     "artist_name": "The Cure",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=NERzLlHo-D0",
     "imvdb_url": "https://imvdb.com/video/the-cure/1015-saturday-night"
   },

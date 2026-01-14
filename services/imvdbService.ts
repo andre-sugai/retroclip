@@ -118,6 +118,8 @@ const getDataset = (region: 'br' | 'intl' | 'all') => {
 }
 
 export const TOTAL_VIDEOS_COUNT = INTL_DATA.length + BR_DATA.length;
+export const INTL_VIDEOS_COUNT = INTL_DATA.length;
+export const BR_VIDEOS_COUNT = BR_DATA.length;
 
 /**
  * Helper to extract YouTube ID from various URL formats
@@ -204,26 +206,26 @@ export const fetchVideoById = async (id: string | number): Promise<Video | undef
   // Simulate API delay
   await new Promise(resolve => setTimeout(resolve, 500));
 
-  console.log(`[Groovio Fetch] Looking for ID: ${id}`);
+  console.log(`[Grooovio Fetch] Looking for ID: ${id}`);
   const allData = getDataset('all');
-  console.log(`[Groovio Fetch] RAW_DATA length: ${allData.length}`);
+  console.log(`[Grooovio Fetch] RAW_DATA length: ${allData.length}`);
 
   const found = allData.find((v: any) => v.id && v.id.toString() === id.toString());
   
   if (!found) {
-    console.warn(`[Groovio Fetch] Video not found in RAW_DATA for ID: ${id}`);
+    console.warn(`[Grooovio Fetch] Video not found in RAW_DATA for ID: ${id}`);
     return undefined;
   }
 
-  console.log(`[Groovio Fetch] Found raw entry:`, found);
+  console.log(`[Grooovio Fetch] Found raw entry:`, found);
 
   const i = found as any;
   const embedId = getYouTubeId(i.youtube_link || '') || getYouTubeId(i.imvdb_url || '');
   
-  console.log(`[Groovio Fetch] Extracted Embed ID: ${embedId}`);
+  console.log(`[Grooovio Fetch] Extracted Embed ID: ${embedId}`);
 
   if (!embedId) {
-    console.warn(`[Groovio Fetch] Could not extract Embed ID for video ${id}`);
+    console.warn(`[Grooovio Fetch] Could not extract Embed ID for video ${id}`);
     return undefined;
   }
 
@@ -241,4 +243,116 @@ export const fetchVideoById = async (id: string | number): Promise<Video | undef
     artist_genre: i.artist_genre,
     nationality: i.nationality || 'INTL'
   } as Video;
+};
+
+/**
+ * Calculate genre statistics
+ */
+export const getGenreStatistics = (): Record<string, number> => {
+  const allData = getDataset('all');
+  
+  const genreMap: Record<string, string[]> = {
+    'Rock Alternativo': ['Alternative Rock', 'Grunge', 'Indie Rock', 'Post-Grunge', 'Shoegaze', 'Britpop', 'Folk Rock', 'Alternative'],
+    'Punk': ['Punk', 'Pop Punk', 'Ska Punk', 'Hardcore'],
+    'Metal': ['Metal', 'Heavy Metal', 'Thrash Metal', 'Nu Metal', 'Industrial Metal', 'Groove Metal', 'Death Metal', 'Black Metal'],
+    'Rap': ['Hip Hop', 'Rap', 'Gangsta Rap', 'Alternative Hip Hop', 'Jazz Rap'],
+    'Pop': ['Pop', 'Pop Rock', 'Synth-pop', 'Teen Pop', 'Dance-Pop', 'Europop', 'Boy Band', 'Girl Group'],
+    'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
+    'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
+    'Hard Rock': ['Hard Rock', 'Glam Metal', 'Stoner Rock'],
+    'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
+    'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock'],
+    'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
+    'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop'],
+    'Rock': ['Rock', 'Classic Rock', 'Rock and Roll', 'Southern Rock'],
+    'R&B': ['R&B', 'Soul', 'Funk', 'Neo-Soul', 'Contemporary R&B'],
+    'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
+    'K-Pop': ['K-Pop', 'Korean Pop'],
+    'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk'],
+    'Gótico': ['Gótico', 'Goth', 'Gothic Rock', 'Dark Wave', 'Post-Punk', 'Ethereal Wave', 'Gothic Metal'],
+    'Clássicos': []
+  };
+
+  const genreCounts: Record<string, number> = {};
+
+  // Initialize counts
+  Object.keys(genreMap).forEach(genre => {
+    genreCounts[genre] = 0;
+  });
+
+  // Count videos per genre
+  allData.forEach((video: any) => {
+    const artistGenre = video.artist_genre;
+    const year = video.year;
+
+    if (year && year >= 1960 && year <= 1999) {
+      genreCounts['Clássicos']++;
+    }
+
+    if (artistGenre) {
+      Object.entries(genreMap).forEach(([genreName, keywords]) => {
+        if (keywords.some(keyword => artistGenre.includes(keyword) || artistGenre === keyword)) {
+          genreCounts[genreName]++;
+        }
+      });
+    }
+  });
+
+  return genreCounts;
+};
+
+/**
+ * Get Top Artists by video count
+ */
+export const getTopArtists = (limit: number = 5) => {
+  const allData = getDataset('all');
+  const artistCounts: Record<string, number> = {};
+
+  allData.forEach((video: any) => {
+    // Normalize artist name: remove extra spaces and handle "feat." if simple
+    // For now, use the main artist field
+    const artist = video.artist || video.artist_name || 'Unknown';
+    if (artistCounts[artist]) {
+      artistCounts[artist]++;
+    } else {
+      artistCounts[artist] = 1;
+    }
+  });
+
+  return Object.entries(artistCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, limit)
+    .map(([name, count]) => ({ name, count }));
+};
+
+/**
+ * Get Collection Highlights
+ */
+export const getCollectionHighlights = () => {
+  const allData = getDataset('all');
+  
+  // 1. Oldest Video
+  // Filter for valid years (e.g., > 1900) to avoid bad data
+  const validYearVideos = allData.filter((v: any) => v.year && v.year > 1900).sort((a: any, b: any) => a.year - b.year);
+  const oldest = validYearVideos.length > 0 ? validYearVideos[0] : null;
+
+  // 2. Golden Year (Year with most videos)
+  const yearCounts: Record<number, number> = {};
+  allData.forEach((v: any) => {
+    if (v.year) {
+      yearCounts[v.year] = (yearCounts[v.year] || 0) + 1;
+    }
+  });
+
+  const sortedYears = Object.entries(yearCounts).sort((a, b) => b[1] - a[1]);
+  const goldenYear = sortedYears.length > 0 ? { year: parseInt(sortedYears[0][0]), count: sortedYears[0][1] } : null;
+
+  return {
+    oldest: oldest ? { 
+        title: oldest.song_title, 
+        artist: oldest.artist || oldest.artist_name, 
+        year: oldest.year 
+    } : null,
+    goldenYear
+  };
 };

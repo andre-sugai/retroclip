@@ -22,7 +22,7 @@
     "song_title": "T.N.T.",
     "year": 1976,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/acdc/tnt"
   },
@@ -40,7 +40,7 @@
     "song_title": "I Want You",
     "year": 1976,
     "artist_name": "Kiss",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=K16LCqWRMd8",
     "imvdb_url": "https://imvdb.com/video/kiss/i-want-you"
   },
@@ -157,7 +157,7 @@
     "song_title": "Problem Child",
     "year": 1976,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=diA8Ax4_0qs",
     "imvdb_url": "https://imvdb.com/video/acdc/problem-child"
   },
@@ -265,7 +265,7 @@
     "song_title": "Dirty Deeds Done Dirt Cheap",
     "year": 1976,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=1RFRZOkc1vg",
     "imvdb_url": "https://imvdb.com/video/acdc/dirty-deeds-done-dirt-cheap"
   },
@@ -292,7 +292,7 @@
     "song_title": "Baby, Please Don't Go",
     "year": 1976,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=Jmoz-cRCXQE",
     "imvdb_url": "https://imvdb.com/video/acdc/baby-please-dont-go"
   }

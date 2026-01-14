@@ -85,7 +85,7 @@
     "song_title": "Mask",
     "year": 1981,
     "artist_name": "Bauhaus",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=6Nb1oC4r1LQ",
     "imvdb_url": "https://imvdb.com/video/bauhaus/mask"
   },
@@ -202,7 +202,7 @@
     "song_title": "Primary",
     "year": 1981,
     "artist_name": "The Cure",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=0xrZ61cuKLk",
     "imvdb_url": "https://imvdb.com/video/the-cure/primary"
   },
@@ -859,7 +859,7 @@
     "song_title": "Other Voices",
     "year": 1981,
     "artist_name": "The Cure",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=BnwTjTR1NmY",
     "imvdb_url": "https://imvdb.com/video/the-cure/other-voices"
   },
@@ -1138,7 +1138,7 @@
     "song_title": "Charlotte Sometimes",
     "year": 1981,
     "artist_name": "The Cure",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=4KeII31qyck",
     "imvdb_url": "https://imvdb.com/video/the-cure/charlotte-sometimes"
   },
@@ -1174,7 +1174,7 @@
     "song_title": "Let It Go",
     "year": 1981,
     "artist_name": "Def Leppard",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=sHNBxd4LnDs",
     "imvdb_url": "https://imvdb.com/video/def-leppard/let-it-go"
   },
@@ -1408,7 +1408,7 @@
     "song_title": "Put The Finger On You",
     "year": 1981,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=0S6bthC2AHM",
     "imvdb_url": "https://imvdb.com/video/acdc/put-the-finger-on-you"
   },
@@ -1552,7 +1552,7 @@
     "song_title": "High 'n' Dry (Saturday Night)",
     "year": 1981,
     "artist_name": "Def Leppard",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=v010TI4f378",
     "imvdb_url": "https://imvdb.com/video/def-leppard/high-n-dry-saturday-night"
   },
@@ -1696,7 +1696,7 @@
     "song_title": "Nick The Stripper",
     "year": 1981,
     "artist_name": "The Birthday Party",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=l5I2vEcVC_I",
     "imvdb_url": "https://imvdb.com/video/the-birthday-party-1/nick-the-stripper"
   },
@@ -1714,7 +1714,7 @@
     "song_title": "Let's Get It Up",
     "year": 1981,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=Jq9r4-xvunk",
     "imvdb_url": "https://imvdb.com/video/acdc/lets-get-it-up"
   },
@@ -1768,7 +1768,7 @@
     "song_title": "Bringin' On The Heartbreak (Version 1)",
     "year": 1981,
     "artist_name": "Def Leppard",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=muAHWWFKG_E",
     "imvdb_url": "https://imvdb.com/video/def-leppard/bringin-on-the-heartbreak-version-1"
   },

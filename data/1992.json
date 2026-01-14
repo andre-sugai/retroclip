@@ -165,7 +165,7 @@
     "id": 912396690712,
     "song_title": "Domino",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=yiSB7G732Eg",
     "imvdb_url": "https://imvdb.com/video/kiss/domino",
     "artist": "Kiss"
@@ -210,7 +210,7 @@
     "id": 150815593421,
     "song_title": "Unholy",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=kfmrX_WlM2w",
     "imvdb_url": "https://imvdb.com/video/kiss/unholy",
     "artist": "Kiss"
@@ -525,7 +525,7 @@
     "id": 228698150843,
     "song_title": "Hellraiser",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=1M4FG1UXH5w",
     "imvdb_url": "https://imvdb.com/video/motörhead/hellraiser",
     "artist": "Motörhead"
@@ -858,7 +858,7 @@
     "id": 187804911482,
     "song_title": "High",
     "year": 1992,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=w9xXCK28wDU",
     "imvdb_url": "https://imvdb.com/video/the-cure/high",
     "artist": "The Cure"
@@ -912,7 +912,7 @@
     "id": 474490671701,
     "song_title": "Long Beach",
     "year": 1992,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=hMp2pfaHSC0",
     "imvdb_url": "https://imvdb.com/video/mephisto-walz/long-beach",
     "artist": "Mephisto Walz"
@@ -1047,7 +1047,7 @@
     "id": 151254926910,
     "song_title": "November Rain",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=8SbUC-UaAxE",
     "imvdb_url": "https://imvdb.com/video/guns-n-roses/november-rain",
     "artist": "Guns N' Roses"
@@ -1074,7 +1074,7 @@
     "id": 266951447349,
     "song_title": "Keep The Faith",
     "year": 1992,
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=Jn9EjX6vOfQ",
     "imvdb_url": "https://imvdb.com/video/bon-jovi/keep-the-faith",
     "artist": "Bon Jovi"
@@ -1110,7 +1110,7 @@
     "id": 250788531659,
     "song_title": "Bombtrack",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=MUaL1FnotRQ",
     "imvdb_url": "https://imvdb.com/video/rage-against-the-machine/bombtrack",
     "artist": "Rage Against The Machine"
@@ -1209,7 +1209,7 @@
     "id": 216633620274,
     "song_title": "Freedom",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=H_vQt_v8Jmw",
     "imvdb_url": "https://imvdb.com/video/rage-against-the-machine/freedom",
     "artist": "Rage Against The Machine"
@@ -1326,7 +1326,7 @@
     "id": 242826857434,
     "song_title": "Some Finer Day",
     "year": 1992,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=nGt7wgEjgyk",
     "imvdb_url": "https://imvdb.com/video/all-about-eve/some-finer-day",
     "artist": "All About Eve"
@@ -1335,7 +1335,7 @@
     "id": 488566354726,
     "song_title": "Pity the Sadness",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=hAJ_D5hukSo",
     "imvdb_url": "https://imvdb.com/video/paradise-lost/pity-the-sadness",
     "artist": "Paradise Lost"
@@ -1425,7 +1425,7 @@
     "id": 763938567955,
     "song_title": "Closing Time",
     "year": 1992,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=7-0lV5qs1Qw",
     "imvdb_url": "https://imvdb.com/video/leonard-cohen/closing-time",
     "artist": "Leonard Cohen"
@@ -1551,7 +1551,7 @@
     "id": 835058852496,
     "song_title": "As I Die",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=cteWHg_hR-w",
     "imvdb_url": "https://imvdb.com/video/paradise-lost/as-i-die",
     "artist": "Paradise Lost"
@@ -1623,7 +1623,7 @@
     "id": 168727669589,
     "song_title": "Halfway To Heaven",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=zo27fo_sPjc",
     "imvdb_url": "https://imvdb.com/video/europe/halfway-to-heaven",
     "artist": "Europe"
@@ -1695,7 +1695,7 @@
     "id": 295357226417,
     "song_title": "I Just Wanna",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=oXvYdnQraBc",
     "imvdb_url": "https://imvdb.com/video/kiss/i-just-wanna",
     "artist": "Kiss"
@@ -2010,7 +2010,7 @@
     "id": 470352069504,
     "song_title": "Let's Get Rocked",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=ygiTv7tEYm0",
     "imvdb_url": "https://imvdb.com/video/def-leppard/lets-get-rocked",
     "artist": "Def Leppard"
@@ -2667,7 +2667,7 @@
     "id": 504111204798,
     "song_title": "Yesterdays",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=T_varvQPLzs",
     "imvdb_url": "https://imvdb.com/video/guns-n-roses/yesterdays",
     "artist": "Guns N' Roses"
@@ -2847,7 +2847,7 @@
     "id": 532392785713,
     "song_title": "Dry County",
     "year": 1992,
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=9Ja1aHnj7Wk",
     "imvdb_url": "https://imvdb.com/video/bon-jovi/dry-county",
     "artist": "Bon Jovi"
@@ -2928,7 +2928,7 @@
     "id": 124004877042,
     "song_title": "I'll Hate You Better",
     "year": 1992,
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=avJTANfvjiE",
     "imvdb_url": "https://imvdb.com/video/suicidal-tendencies/ill-hate-you-better",
     "artist": "Suicidal Tendencies"
@@ -3261,7 +3261,7 @@
     "id": 278428786801,
     "song_title": "Nobody Hears",
     "year": 1992,
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=xp7svl4l5Dk",
     "imvdb_url": "https://imvdb.com/video/suicidal-tendencies/nobody-hears",
     "artist": "Suicidal Tendencies"
@@ -3747,7 +3747,7 @@
     "id": 143123617068,
     "song_title": "Magic",
     "year": 1992,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=uqstv8AA1M0",
     "imvdb_url": "https://imvdb.com/video/alien-sex-fiend/magic",
     "artist": "Alien Sex Fiend"
@@ -3828,7 +3828,7 @@
     "id": 242547434904,
     "song_title": "Feed My Frankenstein",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=NO2cHJmDkBg",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/feed-my-frankenstein",
     "artist": "Alice Cooper"
@@ -3837,7 +3837,7 @@
     "id": 296147401049,
     "song_title": "Phased",
     "year": 1992,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=gHsJZnP6GDc",
     "imvdb_url": "https://imvdb.com/video/all-about-eve/phased",
     "artist": "All About Eve"
@@ -3936,7 +3936,7 @@
     "id": 200441215576,
     "song_title": "So Tell Me Why",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=v1NkhR5hFZE",
     "imvdb_url": "https://imvdb.com/video/poison-3/so-tell-me-why",
     "artist": "Poison"
@@ -4107,7 +4107,7 @@
     "id": 101169883645,
     "song_title": "Have You Ever Needed Someone So Bad",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=gRZumd8uFZI",
     "imvdb_url": "https://imvdb.com/video/def-leppard/have-you-ever-needed-someone-so-bad",
     "artist": "Def Leppard"
@@ -4269,7 +4269,7 @@
     "id": 792523650524,
     "song_title": "I Ain't No Nice Guy",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=aQx3OHlHP3o",
     "imvdb_url": "https://imvdb.com/video/motörhead/i-aint-no-nice-guy",
     "artist": "Motörhead"
@@ -4449,7 +4449,7 @@
     "id": 125552956118,
     "song_title": "A Letter to Elise",
     "year": 1992,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=-AUCSkHCrwY",
     "imvdb_url": "https://imvdb.com/video/the-cure/a-letter-to-elise",
     "artist": "The Cure"
@@ -4791,7 +4791,7 @@
     "id": 279362040190,
     "song_title": "Killing In The Name",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=bWXazVhlyxQ",
     "imvdb_url": "https://imvdb.com/video/rage-against-the-machine/killing-in-the-name",
     "artist": "Rage Against The Machine"
@@ -4908,7 +4908,7 @@
     "id": 213814661304,
     "song_title": "Just Look Around",
     "year": 1992,
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=J9nfDIJR4LA",
     "imvdb_url": "https://imvdb.com/video/sick-of-it-all/just-look-around",
     "artist": "Sick Of It All"
@@ -5025,7 +5025,7 @@
     "id": 278390494505,
     "song_title": "Stand Up (Kick Love Into Motion)",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=wP9wVS857v8",
     "imvdb_url": "https://imvdb.com/video/def-leppard/stand-up-kick-love-into-motion",
     "artist": "Def Leppard"
@@ -5034,7 +5034,7 @@
     "id": 121113996433,
     "song_title": "Make Love Like A Man",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=jB0iJBgrM2Q",
     "imvdb_url": "https://imvdb.com/video/def-leppard/make-love-like-a-man",
     "artist": "Def Leppard"
@@ -5079,7 +5079,7 @@
     "id": 190948494625,
     "song_title": "Friday I'm in Love",
     "year": 1992,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=mGgMZpGYiy8",
     "imvdb_url": "https://imvdb.com/video/the-cure/friday-im-in-love",
     "artist": "The Cure"
@@ -5403,7 +5403,7 @@
     "id": 255741280891,
     "song_title": "Garden Of Eden",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=LuhLVl5qf2A",
     "imvdb_url": "https://imvdb.com/video/guns-n-roses/garden-of-eden",
     "artist": "Guns N' Roses"
@@ -5448,7 +5448,7 @@
     "id": 231480842092,
     "song_title": "Every Time I Look At You",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=SUi_Dtcg0C4",
     "imvdb_url": "https://imvdb.com/video/kiss/every-time-i-look-at-you",
     "artist": "Kiss"
@@ -5583,7 +5583,7 @@
     "id": 119092694391,
     "song_title": "Bullet In The Head",
     "year": 1992,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=kmZAsLMUuPw",
     "imvdb_url": "https://imvdb.com/video/rage-against-the-machine/bullet-in-the-head",
     "artist": "Rage Against The Machine"
@@ -5772,7 +5772,7 @@
     "id": 126217509005,
     "song_title": "I Wasn't Meant To Feel This / Asleep At The Wheel",
     "year": 1992,
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=auiAKIbVCxc",
     "imvdb_url": "https://imvdb.com/video/suicidal-tendencies/i-wasnt-meant-to-feel-this-asleep-at-the-wheel",
     "artist": "Suicidal Tendencies"

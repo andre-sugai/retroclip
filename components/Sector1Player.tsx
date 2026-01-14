@@ -124,8 +124,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
                 'iv_load_policy': 3,
                 'origin': window.location.origin,
                 'playsinline': 1,
-                'loop': 1,
-                'playlist': currentVideo.embed_id,
+                'loop': 0,
                 'start': Math.floor(initialTime), // Start at specific time if provided
                 'widget_referrer': window.location.href,
                 'enablejsapi': 1
@@ -146,11 +145,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
                 'onStateChange': (event: any) => {
                      if (event.data === 0) {
                          onEndedRef.current();
-                         // Aggressively restart ONLY if we have a next video coming, to mask the load time
-                         if (onEndedRef.current && hasNext) {
-                            event.target.seekTo(0);
-                            event.target.playVideo();
-                         }
                     }
                     // 1 = PLAYING
                     if (event.data === 1) {
@@ -276,13 +270,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
             if (duration > 0 && (duration - currentTime) <= 1.0) { 
                 clearInterval(player._timeUpdateInterval);
                 onEndedRef.current(); // Trigger next video logic
-                
-                // Aggressively restart ONLY if next video exists to prevent end screen (loop)
-                // This acts as a seamless loop if the new video doesn't load instantly
-                if (hasNext) {
-                    player.seekTo(0);
-                    player.playVideo();
-                }
             } else {
                 if (onTimeUpdate) onTimeUpdate(currentTime);
             }
@@ -316,13 +303,12 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
     <div 
         className="relative w-full h-full bg-black overflow-hidden group"
         onMouseEnter={activateInfo}
-        onClick={activateInfo}
         onMouseMove={activateInfo}
     >
         <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black" />
         
-        {/* Interaction Layer removed to allow native YouTube controls and Right-Click PiP */}
-        {/* <div className="absolute inset-0 z-10 bg-transparent" onClick={activateInfo} /> */}
+        {/* Transparent layer to prevent clicks on the YouTube iframe */}
+        <div className="absolute inset-0 z-[5] bg-transparent cursor-default" />
         
         <div className="absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end p-8 md:p-12">
             <div key={currentVideo.id} className="flex flex-col justify-end">

@@ -67,7 +67,7 @@
     "song_title": "Rock and Roll All Nite",
     "year": 1975,
     "artist_name": "Kiss",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=EFMD7Usflbg",
     "imvdb_url": "https://imvdb.com/video/kiss/rock-and-roll-all-nite"
   },
@@ -76,7 +76,7 @@
     "song_title": "Department of Youth",
     "year": 1975,
     "artist_name": "Alice Cooper",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=UEMPMTivqOk",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/department-of-youth"
   },
@@ -130,7 +130,7 @@
     "song_title": "High Voltage",
     "year": 1975,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=Nnjh-zp6pP4",
     "imvdb_url": "https://imvdb.com/video/acdc/high-voltage"
   },
@@ -139,7 +139,7 @@
     "song_title": "Tangled Up in Blue",
     "year": 1975,
     "artist_name": "Bob Dylan",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=YwSZvHqf9qM",
     "imvdb_url": "https://imvdb.com/video/bob-dylan/tangled-up-in-blue"
   },
@@ -166,7 +166,7 @@
     "song_title": "Welcome to My Nightmare",
     "year": 1975,
     "artist_name": "Alice Cooper",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=nMrZPcPl1GM",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/welcome-to-my-nightmare"
   },

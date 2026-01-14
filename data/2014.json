@@ -535,7 +535,7 @@
     "song_title": "Retarded",
     "year": 2014,
     "artist_name": "Nature",
-    "artist_genre": "Rap",
+    "artist_genre": "Rap, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=JVoE5OCKx48",
     "imvdb_url": "https://imvdb.com/video/nature/retarded"
   },
@@ -634,7 +634,7 @@
     "song_title": "Radio",
     "year": 2014,
     "artist_name": "CNBLUE",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=maCVfGZFVFM",
     "imvdb_url": "https://imvdb.com/video/cnblue/radio"
   },
@@ -733,7 +733,7 @@
     "song_title": "Qwerty",
     "year": 2014,
     "artist_name": "Mushroomhead",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=1JZGFjufJEY",
     "imvdb_url": "https://imvdb.com/video/mushroomhead/qwerty"
   },
@@ -913,7 +913,7 @@
     "song_title": "Striga!",
     "year": 2014,
     "artist_name": "Puya",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=U_cnGmnsqj0",
     "imvdb_url": "https://imvdb.com/video/puya/striga"
   },
@@ -4243,7 +4243,7 @@
     "song_title": "Can't Stop",
     "year": 2014,
     "artist_name": "CNBLUE",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=75KBwVtd_W0",
     "imvdb_url": "https://imvdb.com/video/cnblue/cant-stop"
   },
@@ -5557,7 +5557,7 @@
     "song_title": "Ambassador",
     "year": 2014,
     "artist_name": "Angelspit",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=4HZDp1SRNGg",
     "imvdb_url": "https://imvdb.com/video/angelspit/ambassador"
   },
@@ -9472,7 +9472,7 @@
     "song_title": "Piano Man",
     "year": 2014,
     "artist_name": "MAMAMOO",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=xaSJeG-jDJ0",
     "imvdb_url": "https://imvdb.com/video/mamamoo/piano-man"
   },
@@ -9706,7 +9706,7 @@
     "song_title": "Sedated",
     "year": 2014,
     "artist_name": "Hozier",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=6T46AdXR328",
     "imvdb_url": "https://imvdb.com/video/hozier/sedated"
   },
@@ -14098,7 +14098,7 @@
     "song_title": "Mr. Ambiguous",
     "year": 2014,
     "artist_name": "MAMAMOO",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=QwjWP2Tnsjk",
     "imvdb_url": "https://imvdb.com/video/mamamoo/mr-ambiguous"
   },
@@ -15925,7 +15925,7 @@
     "song_title": "Pusing",
     "year": 2014,
     "artist_name": "Winner",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=xd-BwpBT_40",
     "imvdb_url": "https://imvdb.com/video/winner/pusing"
   },
@@ -18580,7 +18580,7 @@
     "song_title": "Stay Gold",
     "year": 2014,
     "artist_name": "First Aid Kit",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=veHUZMoKObc",
     "imvdb_url": "https://imvdb.com/video/first-aid-kit/stay-gold"
   },
@@ -19975,7 +19975,7 @@
     "song_title": "Lonesome Rider",
     "year": 2014,
     "artist_name": "Volbeat",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=7WdO9KhcUKE",
     "imvdb_url": "https://imvdb.com/video/volbeat/lonesome-rider"
   },
@@ -21541,7 +21541,7 @@
     "song_title": "Final Masquerade",
     "year": 2014,
     "artist_name": "Linkin Park",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=i8q8fFs3kTM",
     "imvdb_url": "https://imvdb.com/video/linkin-park/final-masquerade"
   },
@@ -23071,7 +23071,7 @@
     "song_title": "E allora il cuore",
     "year": 2014,
     "artist_name": "Bandabardò",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=hcfy0q4WDwQ",
     "imvdb_url": "https://imvdb.com/video/bandabardò/e-allora-il-cuore"
   },
@@ -25474,7 +25474,7 @@
     "song_title": "Edge Of A Revolution",
     "year": 2014,
     "artist_name": "Nickelback",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=IYnuSsM7tRw",
     "imvdb_url": "https://imvdb.com/video/nickelback/edge-of-a-revolution"
   },
@@ -25528,7 +25528,7 @@
     "song_title": "Sugar Free",
     "year": 2014,
     "artist_name": "T-ARA",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=BulwD3K3oC4",
     "imvdb_url": "https://imvdb.com/video/t-ara/sugar-free"
   },
@@ -26131,7 +26131,7 @@
     "song_title": "Play Ball",
     "year": 2014,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=TT8e7i0ccLQ",
     "imvdb_url": "https://imvdb.com/video/acdc/play-ball"
   },
@@ -26716,7 +26716,7 @@
     "song_title": "Lebih Baik Putus",
     "year": 2014,
     "artist_name": "Winner",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=20KZW0nmH-Y",
     "imvdb_url": "https://imvdb.com/video/winner/lebih-baik-putus"
   },
@@ -26770,7 +26770,7 @@
     "song_title": "Remove, Separate Self",
     "year": 2014,
     "artist_name": "Prong",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=_tjAnALwPq8",
     "imvdb_url": "https://imvdb.com/video/prong/remove-separate-self"
   },
@@ -29119,7 +29119,7 @@
     "song_title": "First Time",
     "year": 2014,
     "artist_name": "Vance Joy",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=irfkIP91thQ",
     "imvdb_url": "https://imvdb.com/video/vance-joy/first-time"
   },
@@ -31126,7 +31126,7 @@
     "song_title": "Go Your Way",
     "year": 2014,
     "artist_name": "CNBLUE",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=_f5-qWkrLgk",
     "imvdb_url": "https://imvdb.com/video/cnblue/go-your-way"
   },
@@ -31405,7 +31405,7 @@
     "song_title": "Occupy Your Mind",
     "year": 2014,
     "artist_name": "Villagers",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=Y7Wot63VSGg",
     "imvdb_url": "https://imvdb.com/video/villagers/occupy-your-mind"
   },
@@ -32080,7 +32080,7 @@
     "song_title": "And We Run",
     "year": 2014,
     "artist_name": "Within Temptation",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=awvqIi427_A",
     "imvdb_url": "https://imvdb.com/video/within-temptation/and-we-run"
   },
@@ -32908,7 +32908,7 @@
     "song_title": "Words As Weapons",
     "year": 2014,
     "artist_name": "Seether",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=202fjZZO-tI",
     "imvdb_url": "https://imvdb.com/video/seether/words-as-weapons"
   },
@@ -33133,7 +33133,7 @@
     "song_title": "The Great Escape",
     "year": 2014,
     "artist_name": "Trash Talk",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=Emk-JA6KPwc",
     "imvdb_url": "https://imvdb.com/video/trash-talk/the-great-escape"
   },
@@ -34348,7 +34348,7 @@
     "song_title": "Tenenbaum",
     "year": 2014,
     "artist_name": "The Paper Kites",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=KBAknpjj1iI",
     "imvdb_url": "https://imvdb.com/video/the-paper-kites-1/tenenbaum"
   },
@@ -36013,7 +36013,7 @@
     "song_title": "The Hole",
     "year": 2014,
     "artist_name": "Trash Talk",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=Ud1S25WXN9I",
     "imvdb_url": "https://imvdb.com/video/trash-talk/the-hole"
   },
@@ -37696,7 +37696,7 @@
     "song_title": "From Eden",
     "year": 2014,
     "artist_name": "Hozier",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=cI0wUoCLnLk",
     "imvdb_url": "https://imvdb.com/video/hozier/from-eden"
   },
@@ -42241,7 +42241,7 @@
     "song_title": "Die To Save You",
     "year": 2014,
     "artist_name": "Sick Puppies",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=GJ5b5SikTaw",
     "imvdb_url": "https://imvdb.com/video/sick-puppies/die-to-save-you"
   },
@@ -45463,7 +45463,7 @@
     "song_title": "Rock or Bust",
     "year": 2014,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=_NdHySPJr8I",
     "imvdb_url": "https://imvdb.com/video/acdc/rock-or-bust"
   },
@@ -47164,7 +47164,7 @@
     "song_title": "Sun Glass",
     "year": 2014,
     "artist_name": "Fucked Up",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=94V-XCSQNGQ",
     "imvdb_url": "https://imvdb.com/video/fucked-up/sun-glass"
   },
@@ -49081,7 +49081,7 @@
     "song_title": "Walk Unafraid",
     "year": 2014,
     "artist_name": "First Aid Kit",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=uDOIq21o40E",
     "imvdb_url": "https://imvdb.com/video/first-aid-kit/walk-unafraid"
   },
@@ -52807,7 +52807,7 @@
     "song_title": "Short Movie",
     "year": 2014,
     "artist_name": "Laura Marling",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/laura-marling/short-movie"
   },
@@ -54310,7 +54310,7 @@
     "song_title": "Supernova",
     "year": 2014,
     "artist_name": "Ray Lamontagne",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=X294h3dl2_I",
     "imvdb_url": "https://imvdb.com/video/ray-lamontagne/supernova"
   },
@@ -55336,7 +55336,7 @@
     "song_title": "Monument Square People",
     "year": 2014,
     "artist_name": "Cruel Hand",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=LwXRCyL8uvg",
     "imvdb_url": "https://imvdb.com/video/cruel-hand/monument-square-people"
   },
@@ -57064,7 +57064,7 @@
     "song_title": "Final Backward Glance",
     "year": 2014,
     "artist_name": "Bane",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=P6iJyC_2bRc",
     "imvdb_url": "https://imvdb.com/video/bane/final-backward-glance"
   },
@@ -58126,7 +58126,7 @@
     "song_title": "The Whistleblowers",
     "year": 2014,
     "artist_name": "Laibach",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Industrial",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/laibach/the-whistleblowers"
   },
@@ -58621,7 +58621,7 @@
     "song_title": "Cedar Lane",
     "year": 2014,
     "artist_name": "First Aid Kit",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=zKmit_uQrSQ",
     "imvdb_url": "https://imvdb.com/video/first-aid-kit/cedar-lane"
   },
@@ -58954,7 +58954,7 @@
     "song_title": "Morphine Girl",
     "year": 2014,
     "artist_name": "Mandolin Orange",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=SuzNvvd9z3E",
     "imvdb_url": "https://imvdb.com/video/mandolin-orange/morphine-girl"
   },
@@ -59215,7 +59215,7 @@
     "song_title": "Elysium",
     "year": 2014,
     "artist_name": "Bear's Den",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=BH-wP2TDUBQ",
     "imvdb_url": "https://imvdb.com/video/bears-den/elysium"
   },
@@ -59836,7 +59836,7 @@
     "song_title": "Out Of My Mind",
     "year": 2014,
     "artist_name": "Mushroomhead",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=IM_y6Kxr0vA",
     "imvdb_url": "https://imvdb.com/video/mushroomhead/out-of-my-mind"
   },
@@ -60403,7 +60403,7 @@
     "song_title": "Same Damn Life",
     "year": 2014,
     "artist_name": "Seether",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Z3_lIPESVTw",
     "imvdb_url": "https://imvdb.com/video/seether/same-damn-life"
   },
@@ -61681,7 +61681,7 @@
     "song_title": "Wild Animals",
     "year": 2014,
     "artist_name": "Trampled By Turtles",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=Q9pmlv3vnr4",
     "imvdb_url": "https://imvdb.com/video/trampled-by-turtles/wild-animals"
   },
@@ -63157,7 +63157,7 @@
     "song_title": "No Gun Around",
     "year": 2014,
     "artist_name": "Nature",
-    "artist_genre": "Rap",
+    "artist_genre": "Rap, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=_OkZ3AVgniY",
     "imvdb_url": "https://imvdb.com/video/nature/no-gun-around"
   },
@@ -63544,7 +63544,7 @@
     "song_title": "Mess Is Mine",
     "year": 2014,
     "artist_name": "Vance Joy",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=1C816p-KTNk",
     "imvdb_url": "https://imvdb.com/video/vance-joy/mess-is-mine"
   },
@@ -63850,7 +63850,7 @@
     "song_title": "The Negative One",
     "year": 2014,
     "artist_name": "Slipknot",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=sgA7KIwKlOE",
     "imvdb_url": "https://imvdb.com/video/slipknot/the-negative-one"
   },
@@ -64102,7 +64102,7 @@
     "song_title": "Unhinged  Unraveled",
     "year": 2014,
     "artist_name": "Cruel Hand",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=0z7fipMnQ30",
     "imvdb_url": "https://imvdb.com/video/cruel-hand/unhinged-unraveled"
   },
@@ -64219,7 +64219,7 @@
     "song_title": "My Favourite Faded Fantasy",
     "year": 2014,
     "artist_name": "Damien Rice",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=xGIIfNxfUAE",
     "imvdb_url": "https://imvdb.com/video/damien-rice/my-favourite-faded-fantasy"
   },
@@ -64237,7 +64237,7 @@
     "song_title": "Sugar Free (BigRoom Version)",
     "year": 2014,
     "artist_name": "T-ARA",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=q_eo5j5sib8",
     "imvdb_url": "https://imvdb.com/video/t-ara/sugar-free-bigroom-version"
   },
@@ -64381,7 +64381,7 @@
     "song_title": "The Devil In I",
     "year": 2014,
     "artist_name": "Slipknot",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=XEEasR7hVhA",
     "imvdb_url": "https://imvdb.com/video/slipknot/the-devil-in-i"
   },
@@ -67567,7 +67567,7 @@
     "song_title": "Until It's Gone",
     "year": 2014,
     "artist_name": "Linkin Park",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=oM-XJD4J36U",
     "imvdb_url": "https://imvdb.com/video/linkin-park/until-its-gone"
   },
@@ -67747,7 +67747,7 @@
     "song_title": "Cheap Life",
     "year": 2014,
     "artist_name": "Cruel Hand",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=At6mnJcY3Co",
     "imvdb_url": "https://imvdb.com/video/cruel-hand/cheap-life"
   },
@@ -68926,7 +68926,7 @@
     "song_title": "Make You Better",
     "year": 2014,
     "artist_name": "The Decemberists",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=Yb8oUbMrydk",
     "imvdb_url": "https://imvdb.com/video/the-decemberists/make-you-better"
   },
@@ -69709,7 +69709,7 @@
     "song_title": "Hayloft",
     "year": 2014,
     "artist_name": "Nickel Creek",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=L-Qx5CBI3Hk",
     "imvdb_url": "https://imvdb.com/video/nickel-creek/hayloft"
   },
@@ -73354,7 +73354,7 @@
     "song_title": "Deep Six",
     "year": 2014,
     "artist_name": "Marilyn Manson",
-    "artist_genre": "Industrial Metal",
+    "artist_genre": "Industrial Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=w5LZ8YErl2M",
     "imvdb_url": "https://imvdb.com/video/marilyn-manson/deep-six"
   },
@@ -73543,7 +73543,7 @@
     "song_title": "I Am Machine",
     "year": 2014,
     "artist_name": "Three Days Grace",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=8Zx6RXGNISk",
     "imvdb_url": "https://imvdb.com/video/three-days-grace/i-am-machine"
   },
@@ -74434,7 +74434,7 @@
     "song_title": "This Life",
     "year": 2014,
     "artist_name": "Edward Sharpe and The Magnetic Zeros",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=FEHQEw2edw4",
     "imvdb_url": "https://imvdb.com/video/edward-sharpe-and-the-magnetic-zeros/this-life"
   },
@@ -75379,7 +75379,7 @@
     "song_title": "They Were Wrong",
     "year": 2014,
     "artist_name": "Edward Sharpe and The Magnetic Zeros",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=yx3giYLca-8",
     "imvdb_url": "https://imvdb.com/video/edward-sharpe-and-the-magnetic-zeros/they-were-wrong"
   },
@@ -76180,7 +76180,7 @@
     "song_title": "Above The Clouds Of Pompeii",
     "year": 2014,
     "artist_name": "Bear's Den",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=pGXBR1wR-mo",
     "imvdb_url": "https://imvdb.com/video/bears-den/above-the-clouds-of-pompeii"
   },
@@ -76666,7 +76666,7 @@
     "song_title": "My Silver Lining",
     "year": 2014,
     "artist_name": "First Aid Kit",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=DKL4X0PZz7M",
     "imvdb_url": "https://imvdb.com/video/first-aid-kit/my-silver-lining"
   },
@@ -77593,7 +77593,7 @@
     "song_title": "Another Story",
     "year": 2014,
     "artist_name": "The Head And The Heart",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=eyn9kmuIwqA",
     "imvdb_url": "https://imvdb.com/video/the-head-and-the-heart/another-story"
   },
@@ -81067,7 +81067,7 @@
     "song_title": "Life is Hard",
     "year": 2014,
     "artist_name": "Edward Sharpe and The Magnetic Zeros",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=gWysI7wrbqs",
     "imvdb_url": "https://imvdb.com/video/edward-sharpe-and-the-magnetic-zeros/life-is-hard"
   },
@@ -81229,7 +81229,7 @@
     "song_title": "Nothing Stands In Our Way",
     "year": 2014,
     "artist_name": "Lacuna Coil",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=Gtft6LqgFSA",
     "imvdb_url": "https://imvdb.com/video/lacuna-coil/nothing-stands-in-our-way"
   },
@@ -81373,7 +81373,7 @@
     "song_title": "I Dont Want To Change You",
     "year": 2014,
     "artist_name": "Damien Rice",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=FnzHOsiaJns",
     "imvdb_url": "https://imvdb.com/video/damien-rice/i-dont-want-to-change-you"
   },
@@ -82192,7 +82192,7 @@
     "song_title": "A Heartbreak",
     "year": 2014,
     "artist_name": "Angus & Julia Stone",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=tQTKQWizn_o",
     "imvdb_url": "https://imvdb.com/video/angus-and-julia-stone/a-heartbreak"
   },
@@ -83272,7 +83272,7 @@
     "song_title": "The Lonely Life",
     "year": 2014,
     "artist_name": "City And Colour",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=_OBFQpX6mV8",
     "imvdb_url": "https://imvdb.com/video/city-and-colour/the-lonely-life"
   },
@@ -83308,7 +83308,7 @@
     "song_title": "Call It Weird",
     "year": 2014,
     "artist_name": "Clan Of Xymox",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/clan-of-xymox/call-it-weird"
   },
@@ -83317,7 +83317,7 @@
     "song_title": "Year Of The Tiger",
     "year": 2014,
     "artist_name": "Sufjan Stevens",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=nq_E8kva_gM",
     "imvdb_url": "https://imvdb.com/video/sufjan-stevens/year-of-the-tiger"
   },
@@ -83380,7 +83380,7 @@
     "song_title": "I Don't Want To Be Here Anymore",
     "year": 2014,
     "artist_name": "Rise Against",
-    "artist_genre": "Punk Rock",
+    "artist_genre": "Punk Rock, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=Dv_cvxAAZ-Y",
     "imvdb_url": "https://imvdb.com/video/rise-against/i-dont-want-to-be-here-anymore"
   },
@@ -85054,7 +85054,7 @@
     "song_title": "Let's Get High",
     "year": 2014,
     "artist_name": "Edward Sharpe and The Magnetic Zeros",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=sxkZFj60piw",
     "imvdb_url": "https://imvdb.com/video/edward-sharpe-and-the-magnetic-zeros/lets-get-high"
   },
@@ -85810,7 +85810,7 @@
     "song_title": "Let's Be Still",
     "year": 2014,
     "artist_name": "The Head And The Heart",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=mwaGzIPpbBI",
     "imvdb_url": "https://imvdb.com/video/the-head-and-the-heart/lets-be-still"
   },
@@ -85891,7 +85891,7 @@
     "song_title": "I Forget Where We Were",
     "year": 2014,
     "artist_name": "Ben Howard",
-    "artist_genre": "Indie",
+    "artist_genre": "Indie, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=TpeK3zvmx2c",
     "imvdb_url": "https://imvdb.com/video/ben-howard/i-forget-where-we-were"
   },
@@ -86206,7 +86206,7 @@
     "song_title": "Whole World is Watching",
     "year": 2014,
     "artist_name": "Within Temptation",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=mf97F-SpBQU",
     "imvdb_url": "https://imvdb.com/video/within-temptation/whole-world-is-watching"
   },
@@ -87538,7 +87538,7 @@
     "song_title": "Summertime",
     "year": 2014,
     "artist_name": "The Head And The Heart",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=epHNCodFxL8",
     "imvdb_url": "https://imvdb.com/video/the-head-and-the-heart/summertime"
   },
@@ -87781,7 +87781,7 @@
     "song_title": "The Art Of Patrons",
     "year": 2014,
     "artist_name": "Fucked Up",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=a4_lFTUi3ns",
     "imvdb_url": "https://imvdb.com/video/fucked-up/the-art-of-patrons"
   },
@@ -88438,7 +88438,7 @@
     "song_title": "Are You Behind the Shining Star?",
     "year": 2014,
     "artist_name": "Trampled By Turtles",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=8sV1OffwUiw",
     "imvdb_url": "https://imvdb.com/video/trampled-by-turtles/are-you-behind-the-shining-star"
   },

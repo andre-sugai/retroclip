@@ -13,7 +13,7 @@
     "song_title": "Hello Hooray",
     "year": 1973,
     "artist_name": "Alice Cooper",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=PQYicotlT_M",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/hello-hooray"
   },
@@ -58,7 +58,7 @@
     "song_title": "Dream On",
     "year": 1973,
     "artist_name": "Aerosmith",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=sZfZ8uWaOFI",
     "imvdb_url": "https://imvdb.com/video/aerosmith/dream-on"
   },
@@ -85,7 +85,7 @@
     "song_title": "Teenage Lament '74",
     "year": 1973,
     "artist_name": "Alice Cooper",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=L_cQ1udEmGc",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/teenage-lament-74"
   },

@@ -40,7 +40,7 @@
     "song_title": "Spirit",
     "year": 1982,
     "artist_name": "Bauhaus",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=UUgp7KDsMmw",
     "imvdb_url": "https://imvdb.com/video/bauhaus/spirit"
   },
@@ -76,7 +76,7 @@
     "song_title": "City's Burning",
     "year": 1982,
     "artist_name": "Heart",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=ciJpVP0CQ4E",
     "imvdb_url": "https://imvdb.com/video/heart/citys-burning"
   },
@@ -256,7 +256,7 @@
     "song_title": "I Love It Loud",
     "year": 1982,
     "artist_name": "Kiss",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=LMcDg2HwOnM",
     "imvdb_url": "https://imvdb.com/video/kiss/i-love-it-loud"
   },
@@ -310,7 +310,7 @@
     "song_title": "Live Wire",
     "year": 1982,
     "artist_name": "Mötley Crüe",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=tb95jqsYTm0",
     "imvdb_url": "https://imvdb.com/video/motley-crue/live-wire"
   },
@@ -391,7 +391,7 @@
     "song_title": "Flick Of The Switch",
     "year": 1982,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=DWKcJwuZnzE",
     "imvdb_url": "https://imvdb.com/video/acdc/flick-of-the-switch"
   },
@@ -409,7 +409,7 @@
     "song_title": "The Hanging Garden",
     "year": 1982,
     "artist_name": "The Cure",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=yEH5jReEkSk",
     "imvdb_url": "https://imvdb.com/video/the-cure/the-hanging-garden"
   },
@@ -418,7 +418,7 @@
     "song_title": "In the Flat Field",
     "year": 1982,
     "artist_name": "Bauhaus",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=8a2hGhamVwA",
     "imvdb_url": "https://imvdb.com/video/bauhaus/in-the-flat-field"
   },
@@ -706,7 +706,7 @@
     "song_title": "Eye Of The Tiger",
     "year": 1982,
     "artist_name": "Survivor",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=btPJPFnesV4",
     "imvdb_url": "https://imvdb.com/video/survivor/eye-of-the-tiger"
   },
@@ -1264,7 +1264,7 @@
     "song_title": "Ziggy Stardust",
     "year": 1982,
     "artist_name": "Bauhaus",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=rhJZrRV5YKo",
     "imvdb_url": "https://imvdb.com/video/bauhaus/ziggy-stardust"
   },
@@ -1300,7 +1300,7 @@
     "song_title": "Lightning Strikes",
     "year": 1982,
     "artist_name": "Aerosmith",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=C-TSvxZ40RQ",
     "imvdb_url": "https://imvdb.com/video/aerosmith/lightning-strikes"
   },
@@ -1426,7 +1426,7 @@
     "song_title": "Iron Fist",
     "year": 1982,
     "artist_name": "Motörhead",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=gwtg4ZX6uKU",
     "imvdb_url": "https://imvdb.com/video/motörhead/iron-fist"
   },
@@ -1642,7 +1642,7 @@
     "song_title": "For Those About To Rock (We Salute You)",
     "year": 1982,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=8fPf6L0XNvM",
     "imvdb_url": "https://imvdb.com/video/acdc/for-those-about-to-rock-we-salute-you"
   },
@@ -1741,7 +1741,7 @@
     "song_title": "Let's Go to Bed",
     "year": 1982,
     "artist_name": "The Cure",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=j6vVP91C3Iw",
     "imvdb_url": "https://imvdb.com/video/the-cure/lets-go-to-bed"
   },

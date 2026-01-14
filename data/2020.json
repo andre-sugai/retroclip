@@ -382,7 +382,7 @@
     "song_title": "Genesis",
     "year": 2020,
     "artist_name": "Deftones",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=fbp0bET06wc",
     "imvdb_url": "https://imvdb.com/video/deftones/genesis"
   },
@@ -859,7 +859,7 @@
     "song_title": "Wannabe",
     "year": 2020,
     "artist_name": "Itzy",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=fE2h3lGlOsk",
     "imvdb_url": "https://imvdb.com/video/itzy/wannabe"
   },
@@ -1831,7 +1831,7 @@
     "song_title": "Dangerous",
     "year": 2020,
     "artist_name": "Seether",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=rPdS8Ij_LuA",
     "imvdb_url": "https://imvdb.com/video/seether/dangerous"
   },
@@ -2029,7 +2029,7 @@
     "song_title": "Ohms",
     "year": 2020,
     "artist_name": "Deftones",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=KUDbj0oeAj0",
     "imvdb_url": "https://imvdb.com/video/deftones/ohms"
   },
@@ -2839,7 +2839,7 @@
     "song_title": "Dorul",
     "year": 2020,
     "artist_name": "Puya",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Ykl7LNRNwwI",
     "imvdb_url": "https://imvdb.com/video/puya/dorul"
   },
@@ -2992,7 +2992,7 @@
     "song_title": "Dingga",
     "year": 2020,
     "artist_name": "MAMAMOO",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=dfl9KIX1WpU",
     "imvdb_url": "https://imvdb.com/video/mamamoo/dingga"
   },
@@ -3001,7 +3001,7 @@
     "song_title": "AYA",
     "year": 2020,
     "artist_name": "MAMAMOO",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=UoI9riNffEU",
     "imvdb_url": "https://imvdb.com/video/mamamoo/aya"
   },
@@ -4999,7 +4999,7 @@
     "song_title": "Model Village",
     "year": 2020,
     "artist_name": "IDLES",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=sjr11lGEBg4",
     "imvdb_url": "https://imvdb.com/video/idles/model-village"
   },
@@ -6700,7 +6700,7 @@
     "song_title": "Ice Cream",
     "year": 2020,
     "artist_name": "Blackpink",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=vRXZj0DzXIA",
     "imvdb_url": "https://imvdb.com/video/blackpink/ice-cream"
   },
@@ -6952,7 +6952,7 @@
     "song_title": "Given-Taken",
     "year": 2020,
     "artist_name": "ENHYPEN",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=nQ6wLuYvGd4",
     "imvdb_url": "https://imvdb.com/video/enhypen/given-taken"
   },
@@ -7204,7 +7204,7 @@
     "song_title": "AUATC",
     "year": 2020,
     "artist_name": "Bon Iver",
-    "artist_genre": "Indie",
+    "artist_genre": "Indie, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=-DusRnF36UA",
     "imvdb_url": "https://imvdb.com/video/bon-iver/auatc"
   },
@@ -9274,7 +9274,7 @@
     "song_title": "The Chain",
     "year": 2020,
     "artist_name": "Evanescence",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=M2kgcpZX42w",
     "imvdb_url": "https://imvdb.com/video/evanescence/the-chain"
   },
@@ -9868,7 +9868,7 @@
     "song_title": "So What",
     "year": 2020,
     "artist_name": "Loona",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=GEo5bmUKFvI",
     "imvdb_url": "https://imvdb.com/video/loona/so-what"
   },
@@ -10183,7 +10183,7 @@
     "song_title": "Sugar",
     "year": 2020,
     "artist_name": "Sufjan Stevens",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=56bU7xAU1tM",
     "imvdb_url": "https://imvdb.com/video/sufjan-stevens/sugar"
   },
@@ -10273,7 +10273,7 @@
     "song_title": "Lovesick Girls",
     "year": 2020,
     "artist_name": "Blackpink",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=dyRsYk0LyA8",
     "imvdb_url": "https://imvdb.com/video/blackpink/lovesick-girls"
   },
@@ -10381,7 +10381,7 @@
     "song_title": "Demon Fire",
     "year": 2020,
     "artist_name": "AC/DC",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=WllOatNmBK4",
     "imvdb_url": "https://imvdb.com/video/acdc/demon-fire"
   },
@@ -10687,7 +10687,7 @@
     "song_title": "More & More",
     "year": 2020,
     "artist_name": "Twice",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=mH0_XpSHkZo",
     "imvdb_url": "https://imvdb.com/video/twice/more-more"
   },
@@ -12451,7 +12451,7 @@
     "song_title": "Can You Hear Me",
     "year": 2020,
     "artist_name": "Korn",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Dgs2SYBPKMI",
     "imvdb_url": "https://imvdb.com/video/korn/can-you-hear-me"
   },
@@ -12604,7 +12604,7 @@
     "song_title": "We Are Chaos",
     "year": 2020,
     "artist_name": "Marilyn Manson",
-    "artist_genre": "Rock Alternativo, Industrial",
+    "artist_genre": "Rock Alternativo, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=lQJFP1INGxs",
     "imvdb_url": "https://imvdb.com/video/marilyn-manson/we-are-chaos"
   },
@@ -12667,7 +12667,7 @@
     "song_title": "Video Game",
     "year": 2020,
     "artist_name": "Sufjan Stevens",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=3fCdZzsP4U0",
     "imvdb_url": "https://imvdb.com/video/sufjan-stevens/video-game"
   },
@@ -12910,7 +12910,7 @@
     "song_title": "Can I Believe You",
     "year": 2020,
     "artist_name": "Fleet Foxes",
-    "artist_genre": "Indie",
+    "artist_genre": "Indie, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=L2E2DpWO3-Y",
     "imvdb_url": "https://imvdb.com/video/fleet-foxes/can-i-believe-you"
   },
@@ -14179,7 +14179,7 @@
     "song_title": "Save Me",
     "year": 2020,
     "artist_name": "Lacuna Coil",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=_mTud9BQcF0",
     "imvdb_url": "https://imvdb.com/video/lacuna-coil/save-me"
   },
@@ -14224,7 +14224,7 @@
     "song_title": "Wasted On You",
     "year": 2020,
     "artist_name": "Evanescence",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=4bvQHrMnxUw",
     "imvdb_url": "https://imvdb.com/video/evanescence/wasted-on-you"
   },
@@ -16105,7 +16105,7 @@
     "song_title": "Song For Our Daughter",
     "year": 2020,
     "artist_name": "Laura Marling",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=ZU0t2Y6ACz8",
     "imvdb_url": "https://imvdb.com/video/laura-marling/song-for-our-daughter"
   },
@@ -16303,7 +16303,7 @@
     "song_title": "Use My Voice",
     "year": 2020,
     "artist_name": "Evanescence",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=1KAa5woluuM",
     "imvdb_url": "https://imvdb.com/video/evanescence/use-my-voice"
   },
@@ -16987,7 +16987,7 @@
     "song_title": "The Game Is Over",
     "year": 2020,
     "artist_name": "Evanescence",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=jJEZgUjjZqM",
     "imvdb_url": "https://imvdb.com/video/evanescence/the-game-is-over"
   },
@@ -17545,7 +17545,7 @@
     "song_title": "The Purge",
     "year": 2020,
     "artist_name": "Within Temptation",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=yoBIQkL4r0s",
     "imvdb_url": "https://imvdb.com/video/within-temptation/the-purge"
   },
@@ -19804,7 +19804,7 @@
     "song_title": "Everything She Wants",
     "year": 2020,
     "artist_name": "Alien Ant Farm",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Kfg4t-PAcBg",
     "imvdb_url": "https://imvdb.com/video/alien-ant-farm/everything-she-wants"
   },
@@ -21469,7 +21469,7 @@
     "song_title": "Oh My God",
     "year": 2020,
     "artist_name": "(G)I-DLE",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=om3n2ni8luE",
     "imvdb_url": "https://imvdb.com/video/gi-dle/oh-my-god"
   },
@@ -21559,7 +21559,7 @@
     "song_title": "How You Like That",
     "year": 2020,
     "artist_name": "Blackpink",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=ioNng23DkIM",
     "imvdb_url": "https://imvdb.com/video/blackpink/how-you-like-that"
   },
@@ -23107,7 +23107,7 @@
     "song_title": "Wanna Be Myself",
     "year": 2020,
     "artist_name": "MAMAMOO",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=sk-qyR224fU",
     "imvdb_url": "https://imvdb.com/video/mamamoo/wanna-be-myself"
   },
@@ -23152,7 +23152,7 @@
     "song_title": "Hold on to Memories",
     "year": 2020,
     "artist_name": "Disturbed",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=6Q0sMOQvJuw",
     "imvdb_url": "https://imvdb.com/video/disturbed/hold-on-to-memories"
   },
@@ -23161,7 +23161,7 @@
     "song_title": "Far Away",
     "year": 2020,
     "artist_name": "Breaking Benjamin",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=AZb69irensI",
     "imvdb_url": "https://imvdb.com/video/breaking-benjamin/far-away"
   },
@@ -23233,7 +23233,7 @@
     "song_title": "Fall From Grace",
     "year": 2020,
     "artist_name": "Paradise Lost",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=QWqNcw-oIbU",
     "imvdb_url": "https://imvdb.com/video/paradise-lost/fall-from-grace"
   },
@@ -23908,7 +23908,7 @@
     "song_title": "Knife Prty (Purity Ring Remix)",
     "year": 2020,
     "artist_name": "Deftones",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=M3ChUFzJqTM",
     "imvdb_url": "https://imvdb.com/video/deftones/knife-prty-purity-ring-remix"
   },
@@ -24313,7 +24313,7 @@
     "song_title": "Entertain You",
     "year": 2020,
     "artist_name": "Within Temptation",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=a7-8hK2f_So",
     "imvdb_url": "https://imvdb.com/video/within-temptation/entertain-you"
   },
@@ -24367,7 +24367,7 @@
     "song_title": "Make You Happy",
     "year": 2020,
     "artist_name": "NiziU",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=QW28YKqdxe0",
     "imvdb_url": "https://imvdb.com/video/niziu/make-you-happy"
   },
@@ -24673,7 +24673,7 @@
     "song_title": "DON'T CHASE THE DEAD",
     "year": 2020,
     "artist_name": "Marilyn Manson",
-    "artist_genre": "Rock Alternativo, Industrial",
+    "artist_genre": "Rock Alternativo, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=FniF0kSvWGg",
     "imvdb_url": "https://imvdb.com/video/marilyn-manson/dont-chase-the-dead"
   },
@@ -25285,7 +25285,7 @@
     "song_title": "Not By the Moon",
     "year": 2020,
     "artist_name": "GOT7",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=ladClnnJhqg",
     "imvdb_url": "https://imvdb.com/video/got7/not-by-the-moon"
   },
@@ -26131,7 +26131,7 @@
     "song_title": "Climb On Your Tears",
     "year": 2020,
     "artist_name": "The Paper Kites",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=cSQ9DJnG0K8",
     "imvdb_url": "https://imvdb.com/video/the-paper-kites-1/climb-on-your-tears"
   },
@@ -26194,7 +26194,7 @@
     "song_title": "You Can't Hold My Heart",
     "year": 2020,
     "artist_name": "Monsta X",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=AWV3pIesd0Y",
     "imvdb_url": "https://imvdb.com/video/monsta-x/you-cant-hold-my-heart"
   },
@@ -26329,7 +26329,7 @@
     "song_title": "If I Ever Lose My Faith In You",
     "year": 2020,
     "artist_name": "Disturbed",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=KY8E-O7LCog",
     "imvdb_url": "https://imvdb.com/video/disturbed/if-i-ever-lose-my-faith-in-you"
   },
@@ -26770,7 +26770,7 @@
     "song_title": "Change (In The House of Flies) (Tourist Remix)",
     "year": 2020,
     "artist_name": "Deftones",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=jiY67wIOIw0",
     "imvdb_url": "https://imvdb.com/video/deftones/change-in-the-house-of-flies-tourist-remix"
   },
@@ -27040,7 +27040,7 @@
     "song_title": "Change (In The House of Flies) [Tourist Remix]",
     "year": 2020,
     "artist_name": "Deftones",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=jiY67wIOIw0",
     "imvdb_url": "https://imvdb.com/video/deftones/change-in-the-house-of-flies-tourist-remix"
   },

@@ -193,7 +193,7 @@
     "song_title": "Holiday",
     "year": 2022,
     "artist_name": "Turnstile",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=D6yaJur9JUE",
     "imvdb_url": "https://imvdb.com/video/turnstile/holiday"
   },
@@ -247,7 +247,7 @@
     "song_title": "Adieu",
     "year": 2022,
     "artist_name": "Rammstein",
-    "artist_genre": "Metal, Industrial",
+    "artist_genre": "Metal, Industrial, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=skl6N3zGv-s",
     "imvdb_url": "https://imvdb.com/video/rammstein/adieu"
   },
@@ -526,7 +526,7 @@
     "song_title": "Yen",
     "year": 2022,
     "artist_name": "Slipknot",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=9FnG9lGLyEM",
     "imvdb_url": "https://imvdb.com/video/slipknot/yen"
   },
@@ -688,7 +688,7 @@
     "song_title": "Zeit",
     "year": 2022,
     "artist_name": "Rammstein",
-    "artist_genre": "Metal, Industrial",
+    "artist_genre": "Metal, Industrial, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=EbHGS_bVkXY",
     "imvdb_url": "https://imvdb.com/video/rammstein/zeit"
   },
@@ -751,7 +751,7 @@
     "song_title": "Better",
     "year": 2022,
     "artist_name": "MAMAMOO",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=eH8jn4W8Bqc",
     "imvdb_url": "https://imvdb.com/video/mamamoo/better"
   },
@@ -1066,7 +1066,7 @@
     "song_title": "Angst",
     "year": 2022,
     "artist_name": "Rammstein",
-    "artist_genre": "Metal, Industrial",
+    "artist_genre": "Metal, Industrial, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=ONj9cvHCado",
     "imvdb_url": "https://imvdb.com/video/rammstein/angst"
   },
@@ -1075,7 +1075,7 @@
     "song_title": "Sneakers",
     "year": 2022,
     "artist_name": "Itzy",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=Hbb5GPxXF1w",
     "imvdb_url": "https://imvdb.com/video/itzy/sneakers"
   },
@@ -1174,7 +1174,7 @@
     "song_title": "Hello",
     "year": 2022,
     "artist_name": "Treasure",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=aPd9exmH17o",
     "imvdb_url": "https://imvdb.com/video/treasure/hello"
   },
@@ -1399,7 +1399,7 @@
     "song_title": "Hey You",
     "year": 2022,
     "artist_name": "Disturbed",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=YCGIj7KmwyI",
     "imvdb_url": "https://imvdb.com/video/disturbed/hey-you"
   },
@@ -1435,7 +1435,7 @@
     "song_title": "Pink Venom",
     "year": 2022,
     "artist_name": "Blackpink",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=gQlMMD8auMs",
     "imvdb_url": "https://imvdb.com/video/blackpink/pink-venom"
   },
@@ -1714,7 +1714,7 @@
     "song_title": "Fearless",
     "year": 2022,
     "artist_name": "LE SSERAFIM",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=4vbDFu0PUew",
     "imvdb_url": "https://imvdb.com/video/le-sserafim/fearless"
   },
@@ -1741,7 +1741,7 @@
     "song_title": "CIRCUS",
     "year": 2022,
     "artist_name": "Stray Kids",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=jW-bkbSWb4A",
     "imvdb_url": "https://imvdb.com/video/stray-kids/circus"
   },
@@ -1750,7 +1750,7 @@
     "song_title": "After LIKE",
     "year": 2022,
     "artist_name": "IVE",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=F0B7HDiY-10",
     "imvdb_url": "https://imvdb.com/video/ive/after-like"
   },
@@ -1984,7 +1984,7 @@
     "song_title": "Love Dive",
     "year": 2022,
     "artist_name": "IVE",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=Y8JFxS1HlDo",
     "imvdb_url": "https://imvdb.com/video/ive/love-dive"
   },
@@ -2110,7 +2110,7 @@
     "song_title": "Candy",
     "year": 2022,
     "artist_name": "NCT DREAM",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=zuoSn3ObMz4",
     "imvdb_url": "https://imvdb.com/video/nct-dream/candy"
   },
@@ -2254,7 +2254,7 @@
     "song_title": "ANTIFRAGILE",
     "year": 2022,
     "artist_name": "LE SSERAFIM",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=pyf8cbqyfPs",
     "imvdb_url": "https://imvdb.com/video/le-sserafim/antifragile"
   },
@@ -2299,7 +2299,7 @@
     "song_title": "Maniac",
     "year": 2022,
     "artist_name": "Stray Kids",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=OvioeS1ZZ7o",
     "imvdb_url": "https://imvdb.com/video/stray-kids/maniac"
   },
@@ -2551,7 +2551,7 @@
     "song_title": "San Quentin",
     "year": 2022,
     "artist_name": "Nickelback",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=bsmoFqvY5gw",
     "imvdb_url": "https://imvdb.com/video/nickelback/san-quentin"
   },
@@ -2560,7 +2560,7 @@
     "song_title": "Shut Down",
     "year": 2022,
     "artist_name": "Blackpink",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=POe9SOEKotk",
     "imvdb_url": "https://imvdb.com/video/blackpink/shut-down"
   },
@@ -2578,7 +2578,7 @@
     "song_title": "Bad Man",
     "year": 2022,
     "artist_name": "Disturbed",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=fpUpVznI4Yc",
     "imvdb_url": "https://imvdb.com/video/disturbed/bad-man"
   },
@@ -2776,7 +2776,7 @@
     "song_title": "Tomboy",
     "year": 2022,
     "artist_name": "(G)I-DLE",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=Jh4QFaPmdss",
     "imvdb_url": "https://imvdb.com/video/gi-dle/tomboy"
   },
@@ -3199,7 +3199,7 @@
     "song_title": "Zick Zack",
     "year": 2022,
     "artist_name": "Rammstein",
-    "artist_genre": "Metal, Industrial",
+    "artist_genre": "Metal, Industrial, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=hBTNyJ33LWI",
     "imvdb_url": "https://imvdb.com/video/rammstein/zick-zack"
   },
@@ -3604,7 +3604,7 @@
     "song_title": "거미줄",
     "year": 2022,
     "artist_name": "Stray Kids",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=pM-jOfy_1jM",
     "imvdb_url": "https://imvdb.com/video/stray-kids"
   },
@@ -3829,7 +3829,7 @@
     "song_title": "Tight Rope XX",
     "year": 2022,
     "artist_name": "Lacuna Coil",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=_WWyT7T_Xog",
     "imvdb_url": "https://imvdb.com/video/lacuna-coil/tight-rope-xx"
   },
@@ -4495,7 +4495,7 @@
     "song_title": "2 Baddies",
     "year": 2022,
     "artist_name": "NCT 127",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=FRilMXZqNhA",
     "imvdb_url": "https://imvdb.com/video/nct-127/2-baddies"
   },
@@ -4639,7 +4639,7 @@
     "song_title": "Lonely St.",
     "year": 2022,
     "artist_name": "Stray Kids",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=jxwFUMvd-fY",
     "imvdb_url": "https://imvdb.com/video/stray-kids/lonely-st"
   },
@@ -4954,7 +4954,7 @@
     "song_title": "Drive",
     "year": 2022,
     "artist_name": "The 69 Eyes",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=76ls-EtQSMM",
     "imvdb_url": "https://imvdb.com/video/the-69-eyes/drive"
   },
@@ -5071,7 +5071,7 @@
     "song_title": "Talk That Talk",
     "year": 2022,
     "artist_name": "Twice",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=k6jqx9kZgPM",
     "imvdb_url": "https://imvdb.com/video/twice/talk-that-talk"
   },
@@ -6664,7 +6664,7 @@
     "song_title": "Swamped XX",
     "year": 2022,
     "artist_name": "Lacuna Coil",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=kqghHMHVUtE",
     "imvdb_url": "https://imvdb.com/video/lacuna-coil/swamped-xx"
   },
@@ -7096,7 +7096,7 @@
     "song_title": "The Fire Within",
     "year": 2022,
     "artist_name": "Within Temptation",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=sky7fgLNgd4",
     "imvdb_url": "https://imvdb.com/video/within-temptation/the-fire-within"
   },
@@ -7276,7 +7276,7 @@
     "song_title": "Don’t Pray For Me",
     "year": 2022,
     "artist_name": "Within Temptation",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=J60IPPvLhWA",
     "imvdb_url": "https://imvdb.com/video/within-temptation/dont-pray-for-me"
   },
@@ -7366,7 +7366,7 @@
     "song_title": "Boys Like You",
     "year": 2022,
     "artist_name": "Itzy",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=6uZy86ePgO0",
     "imvdb_url": "https://imvdb.com/video/itzy/boys-like-you"
   },
@@ -7564,7 +7564,7 @@
     "song_title": "Feel My Rhythm",
     "year": 2022,
     "artist_name": "Red Velvet",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=R9At2ICm4LQ",
     "imvdb_url": "https://imvdb.com/video/red-velvet/feel-my-rhythm"
   },
@@ -8311,7 +8311,7 @@
     "song_title": "Out of My Head",
     "year": 2022,
     "artist_name": "First Aid Kit",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=PmSwUCdQQC4",
     "imvdb_url": "https://imvdb.com/video/first-aid-kit/out-of-my-head"
   },
@@ -8464,7 +8464,7 @@
     "song_title": "I Am the Weapon",
     "year": 2022,
     "artist_name": "Three Days Grace",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Jx0OGpzJs-Q",
     "imvdb_url": "https://imvdb.com/video/three-days-grace/i-am-the-weapon"
   },
@@ -8572,7 +8572,7 @@
     "song_title": "Yet To Come (The Most Beautiful Moment)",
     "year": 2022,
     "artist_name": "BTS",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, K-Pop",
     "youtube_link": "https://www.youtube.com/watch?v=kXpOEzNZ8hQ",
     "imvdb_url": "https://imvdb.com/video/bts/yet-to-come-the-most-beautiful-moment"
   },
@@ -8581,7 +8581,7 @@
     "song_title": "The Dying Song (Time to Sing)",
     "year": 2022,
     "artist_name": "Slipknot",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=INi3qP1oWlY",
     "imvdb_url": "https://imvdb.com/video/slipknot/the-dying-song-time-to-sing"
   },

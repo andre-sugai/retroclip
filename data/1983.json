@@ -31,7 +31,7 @@
     "song_title": "Shine",
     "year": 1983,
     "artist_name": "Motörhead",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=w77YfeGePOg",
     "imvdb_url": "https://imvdb.com/video/motörhead/shine"
   },
@@ -40,7 +40,7 @@
     "song_title": "Photograph",
     "year": 1983,
     "artist_name": "Def Leppard",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=VZ5bS3_BCDs",
     "imvdb_url": "https://imvdb.com/video/def-leppard/photograph"
   },
@@ -193,7 +193,7 @@
     "song_title": "The Walk",
     "year": 1983,
     "artist_name": "The Cure",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=gkCYh1x44G8",
     "imvdb_url": "https://imvdb.com/video/the-cure/the-walk"
   },
@@ -238,7 +238,7 @@
     "song_title": "Looks That Kill",
     "year": 1983,
     "artist_name": "Mötley Crüe",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=FToyVkqPW7Y",
     "imvdb_url": "https://imvdb.com/video/motley-crue/looks-that-kill"
   },
@@ -328,7 +328,7 @@
     "song_title": "Nervous Shakedown",
     "year": 1983,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=7yDYOFM8oaA",
     "imvdb_url": "https://imvdb.com/video/acdc/nervous-shakedown"
   },
@@ -364,7 +364,7 @@
     "song_title": "One Track Mind",
     "year": 1983,
     "artist_name": "Motörhead",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=chGvAlMRick",
     "imvdb_url": "https://imvdb.com/video/motörhead/one-track-mind"
   },
@@ -418,7 +418,7 @@
     "song_title": "The Hop",
     "year": 1983,
     "artist_name": "Theatre Of Hate",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=LVFlyZETvpU",
     "imvdb_url": "https://imvdb.com/video/theatre-of-hate/the-hop"
   },
@@ -508,7 +508,7 @@
     "song_title": "Photograph",
     "year": 1983,
     "artist_name": "Def Leppard",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=pIE8lhWadLI",
     "imvdb_url": "https://imvdb.com/video/def-leppard/photograph"
   },
@@ -598,7 +598,7 @@
     "song_title": "Foolin'",
     "year": 1983,
     "artist_name": "Def Leppard",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=jACrmwTsi08",
     "imvdb_url": "https://imvdb.com/video/def-leppard/foolin"
   },
@@ -607,7 +607,7 @@
     "song_title": "Rock Of Ages",
     "year": 1983,
     "artist_name": "Def Leppard",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=ncjcjpQzceQ",
     "imvdb_url": "https://imvdb.com/video/def-leppard/rock-of-ages"
   },
@@ -688,7 +688,7 @@
     "song_title": "Guns for Hire",
     "year": 1983,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=zuNNo_xAdzc",
     "imvdb_url": "https://imvdb.com/video/acdc/guns-for-hire"
   },
@@ -706,7 +706,7 @@
     "song_title": "In The Future To Come",
     "year": 1983,
     "artist_name": "Europe",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=qLQU3gzFehc",
     "imvdb_url": "https://imvdb.com/video/europe/in-the-future-to-come"
   },
@@ -832,7 +832,7 @@
     "song_title": "Caught In The Game",
     "year": 1983,
     "artist_name": "Survivor",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=H_EIF8J44zk",
     "imvdb_url": "https://imvdb.com/video/survivor/caught-in-the-game"
   },
@@ -922,7 +922,7 @@
     "song_title": "Sweetheart Like You",
     "year": 1983,
     "artist_name": "Bob Dylan",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=PpRKstHl7Y0",
     "imvdb_url": "https://imvdb.com/video/bob-dylan/sweetheart-like-you"
   },
@@ -949,7 +949,7 @@
     "song_title": "The Lovecats",
     "year": 1983,
     "artist_name": "The Cure",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=mcUza_wWCfA",
     "imvdb_url": "https://imvdb.com/video/the-cure/the-lovecats"
   },
@@ -967,7 +967,7 @@
     "song_title": "All Hell's Breakin' Loose",
     "year": 1983,
     "artist_name": "Kiss",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=nWOYT3n06x0",
     "imvdb_url": "https://imvdb.com/video/kiss/all-hells-breakin-loose"
   },
@@ -1309,7 +1309,7 @@
     "song_title": "Marguerita Time",
     "year": 1983,
     "artist_name": "Status Quo",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=aozLfWW0pDU",
     "imvdb_url": "https://imvdb.com/video/status-quo/marguerita-time"
   },
@@ -1408,7 +1408,7 @@
     "song_title": "She's in Parties",
     "year": 1983,
     "artist_name": "Bauhaus",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=QXh30qF7D38",
     "imvdb_url": "https://imvdb.com/video/bauhaus/shes-in-parties"
   },
@@ -1444,7 +1444,7 @@
     "song_title": "How Can I Refuse",
     "year": 1983,
     "artist_name": "Heart",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=bX7xnOMD39Y",
     "imvdb_url": "https://imvdb.com/video/heart/how-can-i-refuse"
   },
@@ -1597,7 +1597,7 @@
     "song_title": "Lick It Up",
     "year": 1983,
     "artist_name": "Kiss",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=Gcj34XixuYg",
     "imvdb_url": "https://imvdb.com/video/kiss/lick-it-up"
   },
@@ -1759,7 +1759,7 @@
     "song_title": "A Mess Of Blues",
     "year": 1983,
     "artist_name": "Status Quo",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=NCYXVbYWdT8",
     "imvdb_url": "https://imvdb.com/video/status-quo/a-mess-of-blues"
   },
@@ -1858,7 +1858,7 @@
     "song_title": "Too Late For Love",
     "year": 1983,
     "artist_name": "Def Leppard",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=vHA1Cv9XsBk",
     "imvdb_url": "https://imvdb.com/video/def-leppard/too-late-for-love"
   },
@@ -2353,7 +2353,7 @@
     "song_title": "Rock! Rock! (Till You Drop)",
     "year": 1983,
     "artist_name": "Def Leppard",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=u5PnveH2Bdk",
     "imvdb_url": "https://imvdb.com/video/def-leppard/rock-rock-till-you-drop"
   },
@@ -2506,7 +2506,7 @@
     "song_title": "Let's All Go (to the Fire Dances)",
     "year": 1983,
     "artist_name": "Killing Joke",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=GUQhNEyAf0I",
     "imvdb_url": "https://imvdb.com/video/killing-joke/lets-all-go-to-the-fire-dances"
   },

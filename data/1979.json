@@ -13,7 +13,7 @@
     "song_title": "Shandi",
     "year": 1979,
     "artist_name": "Kiss",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=SWNYLMUg6B0",
     "imvdb_url": "https://imvdb.com/video/kiss/shandi"
   },
@@ -40,7 +40,7 @@
     "song_title": "Motörhead",
     "year": 1979,
     "artist_name": "Motörhead",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/motörhead/motorhead"
   },
@@ -103,7 +103,7 @@
     "song_title": "Chiquita",
     "year": 1979,
     "artist_name": "Aerosmith",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=9-AabXuJyi4",
     "imvdb_url": "https://imvdb.com/video/aerosmith/chiquita"
   },
@@ -112,7 +112,7 @@
     "song_title": "Overkill",
     "year": 1979,
     "artist_name": "Motörhead",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=yOJvtulmEZI",
     "imvdb_url": "https://imvdb.com/video/motörhead/overkill"
   },
@@ -121,7 +121,7 @@
     "song_title": "No Class",
     "year": 1979,
     "artist_name": "Motörhead",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/motörhead/no-class"
   },
@@ -220,7 +220,7 @@
     "song_title": "Sure Know Something",
     "year": 1979,
     "artist_name": "Kiss",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=PSURhxNYmDw",
     "imvdb_url": "https://imvdb.com/video/kiss/sure-know-something"
   },
@@ -346,7 +346,7 @@
     "song_title": "Highway To Hell",
     "year": 1979,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=l482T0yNkeo",
     "imvdb_url": "https://imvdb.com/video/acdc/highway-to-hell"
   },
@@ -436,7 +436,7 @@
     "song_title": "Bela Lugosi's Dead",
     "year": 1979,
     "artist_name": "Bauhaus",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=mriBc6NjUhg",
     "imvdb_url": "https://imvdb.com/video/bauhaus/bela-lugosis-dead"
   },
@@ -544,7 +544,7 @@
     "song_title": "Touch Too Much",
     "year": 1979,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=JGftIcp2SC0",
     "imvdb_url": "https://imvdb.com/video/acdc/touch-too-much"
   },
@@ -607,7 +607,7 @@
     "song_title": "Shot Down In Flames",
     "year": 1979,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=UKwVvSleM6w",
     "imvdb_url": "https://imvdb.com/video/acdc/shot-down-in-flames"
   },
@@ -715,7 +715,7 @@
     "song_title": "Walk All Over You",
     "year": 1979,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=_bP6aVG6L1w",
     "imvdb_url": "https://imvdb.com/video/acdc/walk-all-over-you"
   },
@@ -760,7 +760,7 @@
     "song_title": "Highway To Hell",
     "year": 1979,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=l482T0yNkeo",
     "imvdb_url": "https://imvdb.com/video/acdc/highway-to-hell/2"
   },
@@ -1012,7 +1012,7 @@
     "song_title": "If You Want Blood (You've Got It)",
     "year": 1979,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=6EWqTym2cQU",
     "imvdb_url": "https://imvdb.com/video/acdc/if-you-want-blood-youve-got-it"
   },

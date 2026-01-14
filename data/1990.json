@@ -30,7 +30,7 @@
     "id": 462812384715,
     "song_title": "Thunderstruck",
     "year": 1990,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=v2AC41dglnM",
     "imvdb_url": "https://imvdb.com/video/acdc/thunderstruck",
     "artist": "AC/DC"
@@ -84,7 +84,7 @@
     "id": 205741650416,
     "song_title": "Unbelievable",
     "year": 1990,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=refcQr9bGHY",
     "imvdb_url": "https://imvdb.com/video/bob-dylan/unbelievable",
     "artist": "Bob Dylan"
@@ -291,7 +291,7 @@
     "id": 488450050551,
     "song_title": "Forever",
     "year": 1990,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=d_RKO5ozLVo",
     "imvdb_url": "https://imvdb.com/video/kiss/forever",
     "artist": "Kiss"
@@ -435,7 +435,7 @@
     "id": 721761790512,
     "song_title": "Moneytalks",
     "year": 1990,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=2lqdErI9uss",
     "imvdb_url": "https://imvdb.com/video/acdc/moneytalks",
     "artist": "AC/DC"
@@ -561,7 +561,7 @@
     "id": 137755388306,
     "song_title": "Waking The Dead",
     "year": 1990,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=xezd5EDZBhQ",
     "imvdb_url": "https://imvdb.com/video/suicidal-tendencies/waking-the-dead",
     "artist": "Suicidal Tendencies"
@@ -867,7 +867,7 @@
     "id": 297265895616,
     "song_title": "My Cyberian Rhapsody",
     "year": 1990,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hardcore",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/inside-out-2/my-cyberian-rhapsody",
     "artist": "Inside Out"
@@ -921,7 +921,7 @@
     "id": 232887556663,
     "song_title": "Never Enough",
     "year": 1990,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=l5Cqp3pnE98",
     "imvdb_url": "https://imvdb.com/video/the-cure/never-enough",
     "artist": "The Cure"
@@ -930,7 +930,7 @@
     "id": 120013371453,
     "song_title": "Iceblink Luck",
     "year": 1990,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=L_Tj4bJ0VFw",
     "imvdb_url": "https://imvdb.com/video/cocteau-twins/iceblink-luck",
     "artist": "Cocteau Twins"
@@ -1011,7 +1011,7 @@
     "id": 179577997995,
     "song_title": "The Other Side",
     "year": 1990,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=zkGfPrst29Y",
     "imvdb_url": "https://imvdb.com/video/aerosmith/the-other-side",
     "artist": "Aerosmith"
@@ -1074,7 +1074,7 @@
     "id": 149308545002,
     "song_title": "Trash",
     "year": 1990,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=nSvlmQ3aY4k",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/trash",
     "artist": "Alice Cooper"
@@ -1119,7 +1119,7 @@
     "id": 245816698124,
     "song_title": "Without You",
     "year": 1990,
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=g83dXwRkPhg",
     "imvdb_url": "https://imvdb.com/video/motley-crue/without-you",
     "artist": "Mötley Crüe"
@@ -1155,7 +1155,7 @@
     "id": 252391391754,
     "song_title": "Close to Me",
     "year": 1990,
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=gw8Hwz3Xumc",
     "imvdb_url": "https://imvdb.com/video/the-cure/close-to-me/2",
     "artist": "The Cure"

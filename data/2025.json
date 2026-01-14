@@ -292,7 +292,7 @@
     "song_title": "Afterlife",
     "year": 2025,
     "artist_name": "Evanescence",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=mTduyC2zPXg",
     "imvdb_url": "https://imvdb.com/video/evanescence/afterlife"
   },
@@ -616,7 +616,7 @@
     "song_title": "Gravity",
     "year": 2025,
     "artist_name": "Lacuna Coil",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=O1npCRnErxw",
     "imvdb_url": "https://imvdb.com/video/lacuna-coil/gravity"
   },
@@ -1453,7 +1453,7 @@
     "song_title": "My Mind is a Mountain",
     "year": 2025,
     "artist_name": "Deftones",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=eVqZrI9JE6Q",
     "imvdb_url": "https://imvdb.com/video/deftones/my-mind-is-a-mountain"
   },
@@ -1678,7 +1678,7 @@
     "song_title": "Up From the Bottom",
     "year": 2025,
     "artist_name": "Linkin Park",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=97Mj6pXYMd8",
     "imvdb_url": "https://imvdb.com/video/linkin-park/up-from-the-bottom"
   },
@@ -1858,7 +1858,7 @@
     "song_title": "To Live Deliciously",
     "year": 2025,
     "artist_name": "Cradle Of Filth",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=mOxnuz3PZ-8",
     "imvdb_url": "https://imvdb.com/video/cradle-of-filth/to-live-deliciously"
   },
@@ -1885,7 +1885,7 @@
     "song_title": "Apologies",
     "year": 2025,
     "artist_name": "Three Days Grace",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=W25A1P7ORDs",
     "imvdb_url": "https://imvdb.com/video/three-days-grace/apologies"
   },
@@ -1939,7 +1939,7 @@
     "song_title": "Who Laughs Last",
     "year": 2025,
     "artist_name": "Lord Huron",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=1828lQRbK5o",
     "imvdb_url": "https://imvdb.com/video/lord-huron/who-laughs-last"
   },
@@ -2479,7 +2479,7 @@
     "song_title": "Hosting the Shadow",
     "year": 2025,
     "artist_name": "Lacuna Coil",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=LI961ZhLJDg",
     "imvdb_url": "https://imvdb.com/video/lacuna-coil/hosting-the-shadow"
   },
@@ -2560,7 +2560,7 @@
     "song_title": "Fight Like a Girl",
     "year": 2025,
     "artist_name": "Evanescence",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=qiUZ-FzbZEo",
     "imvdb_url": "https://imvdb.com/video/evanescence/fight-like-a-girl"
   },
@@ -2803,7 +2803,7 @@
     "song_title": "Time Will Heal",
     "year": 2025,
     "artist_name": "Volbeat",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=BosqzxWf-Yc",
     "imvdb_url": "https://imvdb.com/video/volbeat/time-will-heal"
   },
@@ -2866,7 +2866,7 @@
     "song_title": "I Wish You Were Dead",
     "year": 2025,
     "artist_name": "Lacuna Coil",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=H86cL4NBZRg",
     "imvdb_url": "https://imvdb.com/video/lacuna-coil/i-wish-you-were-dead"
   },
@@ -3055,7 +3055,7 @@
     "song_title": "Even If It Kills Me",
     "year": 2025,
     "artist_name": "Papa Roach",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=cFwCpvdO9Fw",
     "imvdb_url": "https://imvdb.com/video/papa-roach/even-if-it-kills-me"
   },

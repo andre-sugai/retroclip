@@ -6,9 +6,10 @@ import { Sector2Search } from './components/Sector2Search';
 import { Sector3Playlist } from './components/Sector3Playlist';
 import { WelcomeScreen } from './components/WelcomeScreen';
 import { Button } from './components/ui/Button';
-import { PanelRightClose, PanelRightOpen, Moon, Sun, Volume2, VolumeX, Maximize, Minimize, Share2, Check } from 'lucide-react';
+import { PanelRightClose, PanelRightOpen, Moon, Sun, Volume2, VolumeX, Maximize, Minimize, Share2, Check, Info } from 'lucide-react';
 import { translations, Language } from './translations';
 import { TVStatic } from './components/TVStatic';
+import { InfoModal } from './components/InfoModal';
 
 const App: React.FC = () => {
   // Theme State
@@ -19,13 +20,14 @@ const App: React.FC = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [showShareCopied, setShowShareCopied] = useState(false);
+  const [isInfoModalOpen, setIsInfoModalOpen] = useState(false);
 
   // Language State
   const [language, setLanguage] = useState<Language>('pt');
   const t = translations[language];
 
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null);
-  const [selectedRegion, setSelectedRegion] = useState<'br' | 'intl' | 'all'>('intl'); // Default to International
+  const [selectedRegion, setSelectedRegion] = useState<'br' | 'intl' | 'all'>('all'); // Default to Mix
   const [allVideos, setAllVideos] = useState<Video[]>([]); // Store full unfiltered list
   const [lastSearchParams, setLastSearchParams] = useState<{type: 'year'|'decade'|'all', value: string} | null>(null);
   const [isTuning, setIsTuning] = useState(false);
@@ -90,11 +92,11 @@ const App: React.FC = () => {
       setShowWelcome(false);
 
       const loadDeepLinkedVideo = async () => {
-        console.log(`[Groovio App] Deep linking to video: ${videoId}`);
+        console.log(`[Grooovio App] Deep linking to video: ${videoId}`);
         try {
           const video = await fetchVideoById(videoId);
           if (video) {
-             console.log(`[Groovio App] Video found: ${video.song_title}`);
+             console.log(`[Grooovio App] Video found: ${video.song_title}`);
              setState(prev => ({
                ...prev,
                currentVideo: video,
@@ -292,34 +294,39 @@ const App: React.FC = () => {
     let filteredQueue = [...sourceVideos];
     
     if (genreId) {
-      // Map UI Genre ID to matching sub-genres/keywords in artist_genre
-      const genreMap: Record<string, string[]> = {
-        'Rock Alternativo': ['Alternative Rock', 'Grunge', 'Indie Rock', 'Post-Grunge', 'Shoegaze', 'Britpop', 'Folk Rock', 'Alternative'],
-        'Punk': ['Punk', 'Pop Punk', 'Ska Punk', 'Hardcore'],
-        'Metal': ['Metal', 'Heavy Metal', 'Thrash Metal', 'Nu Metal', 'Industrial Metal', 'Groove Metal', 'Death Metal', 'Black Metal'],
-        'Rap': ['Hip Hop', 'Rap', 'Gangsta Rap', 'Alternative Hip Hop', 'Jazz Rap'],
-        'Pop': ['Pop', 'Pop Rock', 'Synth-pop', 'Teen Pop', 'Dance-Pop', 'Europop', 'Boy Band', 'Girl Group'],
-        'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
-        'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
-        'Hard Rock': ['Hard Rock', 'Glam Metal', 'Stoner Rock'],
-        'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
-        'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock'],
-        'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
-        'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop'],
-        'Rock': ['Rock', 'Classic Rock', 'Rock and Roll', 'Southern Rock'],
-        'R&B': ['R&B', 'Soul', 'Funk', 'Neo-Soul', 'Contemporary R&B'],
-        'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
-        'K-Pop': ['K-Pop', 'Korean Pop'],
-        'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk']
-      };
+      if (genreId === 'Clássicos') {
+        filteredQueue = sourceVideos.filter(video => video.year && video.year >= 1960 && video.year <= 1999);
+      } else {
+        // Map UI Genre ID to matching sub-genres/keywords in artist_genre
+        const genreMap: Record<string, string[]> = {
+          'Rock Alternativo': ['Alternative Rock', 'Grunge', 'Indie Rock', 'Post-Grunge', 'Shoegaze', 'Britpop', 'Folk Rock', 'Alternative'],
+          'Punk': ['Punk', 'Pop Punk', 'Ska Punk', 'Hardcore'],
+          'Metal': ['Metal', 'Heavy Metal', 'Thrash Metal', 'Nu Metal', 'Industrial Metal', 'Groove Metal', 'Death Metal', 'Black Metal'],
+          'Rap': ['Hip Hop', 'Rap', 'Gangsta Rap', 'Alternative Hip Hop', 'Jazz Rap'],
+          'Pop': ['Pop', 'Pop Rock', 'Synth-pop', 'Teen Pop', 'Dance-Pop', 'Europop', 'Boy Band', 'Girl Group'],
+          'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
+          'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
+          'Hard Rock': ['Hard Rock', 'Glam Metal', 'Stoner Rock'],
+          'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
+          'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock'],
+          'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
+          'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop'],
+          'Rock': ['Rock', 'Classic Rock', 'Rock and Roll', 'Southern Rock'],
+          'R&B': ['R&B', 'Soul', 'Funk', 'Neo-Soul', 'Contemporary R&B'],
+          'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
+          'K-Pop': ['K-Pop', 'Korean Pop'],
+          'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk'],
+          'Gótico': ['Gótico', 'Goth', 'Gothic Rock', 'Dark Wave', 'Post-Punk', 'Ethereal Wave', 'Gothic Metal']
+        };
 
-      const targetGenres = genreMap[genreId] || [];
-      
-      if (targetGenres.length > 0) {
-        filteredQueue = sourceVideos.filter(video => {
-          const g = video.artist_genre;
-          return g && targetGenres.some(target => g.includes(target) || g === target);
-        });
+        const targetGenres = genreMap[genreId] || [];
+        
+        if (targetGenres.length > 0) {
+          filteredQueue = sourceVideos.filter(video => {
+            const g = video.artist_genre;
+            return g && targetGenres.some(target => g.includes(target) || g === target);
+          });
+        }
       }
     }
 
@@ -385,31 +392,36 @@ const App: React.FC = () => {
                   
                   // Re-apply current genre if it exists
                   if (selectedGenre) {
-                      const genreMap: Record<string, string[]> = {
-                        'Rock Alternativo': ['Alternative Rock', 'Grunge', 'Indie Rock', 'Post-Grunge', 'Shoegaze', 'Britpop', 'Folk Rock', 'Alternative'],
-                        'Punk': ['Punk', 'Pop Punk', 'Ska Punk', 'Hardcore'],
-                        'Metal': ['Metal', 'Heavy Metal', 'Thrash Metal', 'Nu Metal', 'Industrial Metal', 'Groove Metal', 'Death Metal', 'Black Metal'],
-                        'Rap': ['Hip Hop', 'Rap', 'Gangsta Rap', 'Alternative Hip Hop', 'Jazz Rap'],
-                        'Pop': ['Pop', 'Pop Rock', 'Synth-pop', 'Teen Pop', 'Dance-Pop', 'Europop', 'Boy Band', 'Girl Group'],
-                        'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
-                        'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
-                        'Hard Rock': ['Hard Rock', 'Glam Metal', 'Stoner Rock'],
-                        'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
-                        'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock'],
-                        'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
-                        'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop'],
-                        'Rock': ['Rock', 'Classic Rock', 'Rock and Roll', 'Southern Rock'],
-                        'R&B': ['R&B', 'Soul', 'Funk', 'Neo-Soul', 'Contemporary R&B'],
-                        'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
-                        'K-Pop': ['K-Pop', 'Korean Pop'],
-                        'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk']
-                      };
-                      const targetGenres = genreMap[selectedGenre] || [];
-                      if (targetGenres.length > 0) {
-                        startQueue = videos.filter(video => {
-                          const g = video.artist_genre;
-                          return g && targetGenres.some(target => g.includes(target) || g === target);
-                        });
+                      if (selectedGenre === 'Clássicos') {
+                        startQueue = videos.filter(video => video.year && video.year >= 1960 && video.year <= 1999);
+                      } else {
+                        const genreMap: Record<string, string[]> = {
+                          'Rock Alternativo': ['Alternative Rock', 'Grunge', 'Indie Rock', 'Post-Grunge', 'Shoegaze', 'Britpop', 'Folk Rock', 'Alternative'],
+                          'Punk': ['Punk', 'Pop Punk', 'Ska Punk', 'Hardcore'],
+                          'Metal': ['Metal', 'Heavy Metal', 'Thrash Metal', 'Nu Metal', 'Industrial Metal', 'Groove Metal', 'Death Metal', 'Black Metal'],
+                          'Rap': ['Hip Hop', 'Rap', 'Gangsta Rap', 'Alternative Hip Hop', 'Jazz Rap'],
+                          'Pop': ['Pop', 'Pop Rock', 'Synth-pop', 'Teen Pop', 'Dance-Pop', 'Europop', 'Boy Band', 'Girl Group'],
+                          'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
+                          'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
+                          'Hard Rock': ['Hard Rock', 'Glam Metal', 'Stoner Rock'],
+                          'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
+                          'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock'],
+                          'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
+                          'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop'],
+                          'Rock': ['Rock', 'Classic Rock', 'Rock and Roll', 'Southern Rock'],
+                          'R&B': ['R&B', 'Soul', 'Funk', 'Neo-Soul', 'Contemporary R&B'],
+                          'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
+                          'K-Pop': ['K-Pop', 'Korean Pop'],
+                          'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk'],
+                          'Gótico': ['Gótico', 'Goth', 'Gothic Rock', 'Dark Wave', 'Post-Punk', 'Ethereal Wave', 'Gothic Metal']
+                        };
+                        const targetGenres = genreMap[selectedGenre] || [];
+                        if (targetGenres.length > 0) {
+                          startQueue = videos.filter(video => {
+                            const g = video.artist_genre;
+                            return g && targetGenres.some(target => g.includes(target) || g === target);
+                          });
+                        }
                       }
                   }
 
@@ -489,9 +501,9 @@ const App: React.FC = () => {
         <header className="absolute top-0 left-0 right-0 z-50 p-4 flex justify-between items-start pointer-events-none">
           <div className="pointer-events-auto bg-background/80 backdrop-blur-md p-2 rounded-lg border border-border shadow-sm">
              <h1 className="text-xl font-black tracking-tighter uppercase leading-none">
-               Groov<span className="text-primary">io</span>
+               Grooov<span className="text-primary">io</span>
              </h1>
-             <p className="text-[10px] text-muted-foreground font-mono">V 1.3.0 // ARIA-COMPLIANT</p>
+             <p className="text-[10px] text-muted-foreground font-mono">V 1.4.2 // ARIA-COMPLIANT</p>
           </div>
 
           <div className="flex gap-2 pointer-events-auto">
@@ -515,6 +527,16 @@ const App: React.FC = () => {
                  title="Compartilhar clipe"
                >
                   {showShareCopied ? <Check className="w-4 h-4 text-green-500" /> : <Share2 className="w-4 h-4" />}
+               </Button>
+
+               <Button 
+                 variant="secondary" 
+                 size="icon" 
+                 onClick={() => setIsInfoModalOpen(true)} 
+                 className="shadow-md rounded-full"
+                 title="Informações"
+               >
+                  <Info className="w-4 h-4" />
                </Button>
               
               {/* Retract Toggle Button */}
@@ -616,6 +638,13 @@ const App: React.FC = () => {
             language={language}
         />
       </aside>
+
+      {/* Info Modal */}
+      <InfoModal 
+        isOpen={isInfoModalOpen} 
+        onClose={() => setIsInfoModalOpen(false)} 
+        language={language}
+      />
 
     </div>
   );

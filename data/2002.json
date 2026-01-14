@@ -49,7 +49,7 @@
     "song_title": "Weirdo",
     "year": 2002,
     "artist_name": "Quarashi",
-    "artist_genre": "Rap Rock",
+    "artist_genre": "Rap Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=XwodIOeOdc8",
     "imvdb_url": "https://imvdb.com/video/quarashi/weirdo"
   },
@@ -193,7 +193,7 @@
     "song_title": "Baseline",
     "year": 2002,
     "artist_name": "Quarashi",
-    "artist_genre": "Rap Rock",
+    "artist_genre": "Rap Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Yy0CCkQVpi8",
     "imvdb_url": "https://imvdb.com/video/quarashi/baseline"
   },
@@ -292,7 +292,7 @@
     "song_title": "Mr. Jinx",
     "year": 2002,
     "artist_name": "Quarashi",
-    "artist_genre": "Rap Rock",
+    "artist_genre": "Rap Rock, Nu Metal",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/quarashi/mr.-jinx"
   },
@@ -310,7 +310,7 @@
     "song_title": "Mutter",
     "year": 2002,
     "artist_name": "Rammstein",
-    "artist_genre": "Industrial Metal",
+    "artist_genre": "Industrial Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=yvePEzdMI-M",
     "imvdb_url": "https://imvdb.com/video/rammstein/mutter"
   },
@@ -616,7 +616,7 @@
     "song_title": "Broken",
     "year": 2002,
     "artist_name": "Seether",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=hPC2Fp7IT7o",
     "imvdb_url": "https://imvdb.com/video/seether/broken"
   },
@@ -643,7 +643,7 @@
     "song_title": "Malone Lives",
     "year": 2002,
     "artist_name": "Quarashi",
-    "artist_genre": "Rap Rock",
+    "artist_genre": "Rap Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=L_hz2hN5aOI",
     "imvdb_url": "https://imvdb.com/video/quarashi/malone-lives"
   },
@@ -679,7 +679,7 @@
     "song_title": "Epiphany",
     "year": 2002,
     "artist_name": "Staind",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=5bobskjQwWI",
     "imvdb_url": "https://imvdb.com/video/staind/epiphany"
   },
@@ -751,7 +751,7 @@
     "song_title": "Unicorn",
     "year": 2002,
     "artist_name": "Apoptygma Berzerk",
-    "artist_genre": "Synthpop",
+    "artist_genre": "Synthpop, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=zmlC3SXTkM8",
     "imvdb_url": "https://imvdb.com/video/apoptygma-berzerk/unicorn"
   },
@@ -769,7 +769,7 @@
     "song_title": "Driven Under",
     "year": 2002,
     "artist_name": "Seether",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=QkJzemljk8s",
     "imvdb_url": "https://imvdb.com/video/seether/driven-under"
   },
@@ -976,7 +976,7 @@
     "song_title": "Closure",
     "year": 2002,
     "artist_name": "Chevelle",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=ZVJmMbf8wAo",
     "imvdb_url": "https://imvdb.com/video/chevelle-2/closure"
   },
@@ -1147,7 +1147,7 @@
     "song_title": "Not Afraid",
     "year": 2002,
     "artist_name": "Earshot",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=qh6O2Qxw718",
     "imvdb_url": "https://imvdb.com/video/earshot/not-afraid"
   },
@@ -1282,7 +1282,7 @@
     "song_title": "Trialog",
     "year": 2002,
     "artist_name": "Project Pitchfork",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=PzvxWpCafA8",
     "imvdb_url": "https://imvdb.com/video/project-pitchfork/trialog"
   },
@@ -1570,7 +1570,7 @@
     "song_title": "Drift And Die",
     "year": 2002,
     "artist_name": "Puddle Of Mudd",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=CyDykQWck74",
     "imvdb_url": "https://imvdb.com/video/puddle-of-mudd/drift-and-die"
   },
@@ -1606,7 +1606,7 @@
     "song_title": "Gardenia (Cardinal Version)",
     "year": 2002,
     "artist_name": "Malice Mizer",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=-RH9DELpPmU",
     "imvdb_url": "https://imvdb.com/video/malice-mizer/gardenia-cardinal-version"
   },
@@ -1687,7 +1687,7 @@
     "song_title": "My Plague",
     "year": 2002,
     "artist_name": "Slipknot",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=lRNYp1IiUuE",
     "imvdb_url": "https://imvdb.com/video/slipknot/my-plague"
   },
@@ -1822,7 +1822,7 @@
     "song_title": "Fine Again",
     "year": 2002,
     "artist_name": "Seether",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=ET3-t1jFmo0",
     "imvdb_url": "https://imvdb.com/video/seether/fine-again"
   },
@@ -2038,7 +2038,7 @@
     "song_title": "Stick Em Up",
     "year": 2002,
     "artist_name": "Quarashi",
-    "artist_genre": "Rap Rock",
+    "artist_genre": "Rap Rock, Nu Metal",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/quarashi/stick-em-up"
   },
@@ -2965,7 +2965,7 @@
     "song_title": "Brave New World",
     "year": 2002,
     "artist_name": "Motörhead",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=RzaSH0M2wHM",
     "imvdb_url": "https://imvdb.com/video/motörhead/brave-new-world"
   },
@@ -3289,7 +3289,7 @@
     "song_title": "Cold",
     "year": 2002,
     "artist_name": "Static-X",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=GNohq2JJMQY",
     "imvdb_url": "https://imvdb.com/video/static-x/cold"
   },
@@ -3505,7 +3505,7 @@
     "song_title": "Girls Of Summer",
     "year": 2002,
     "artist_name": "Aerosmith",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=ZvC5T3zdgBc",
     "imvdb_url": "https://imvdb.com/video/aerosmith/girls-of-summer"
   },
@@ -3856,7 +3856,7 @@
     "song_title": "Now",
     "year": 2002,
     "artist_name": "Def Leppard",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=ETkpNK_4ys8",
     "imvdb_url": "https://imvdb.com/video/def-leppard/now"
   },
@@ -3991,7 +3991,7 @@
     "song_title": "Serial Killer",
     "year": 2002,
     "artist_name": "Motörhead",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=z3xJZF9-seo",
     "imvdb_url": "https://imvdb.com/video/motörhead/serial-killer"
   },
@@ -4009,7 +4009,7 @@
     "song_title": "Mother Earth",
     "year": 2002,
     "artist_name": "Within Temptation",
-    "artist_genre": "Symphonic Metal",
+    "artist_genre": "Symphonic Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=reGlno9aUpw",
     "imvdb_url": "https://imvdb.com/video/within-temptation/mother-earth"
   },
@@ -4063,7 +4063,7 @@
     "song_title": "Remember Me",
     "year": 2002,
     "artist_name": "Hoobastank",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=96pLgLuwNOI",
     "imvdb_url": "https://imvdb.com/video/hoobastank/remember-me"
   },
@@ -4306,7 +4306,7 @@
     "song_title": "Never Again",
     "year": 2002,
     "artist_name": "Nickelback",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=EbFh1gyuVjM",
     "imvdb_url": "https://imvdb.com/video/nickelback/never-again"
   },
@@ -4531,7 +4531,7 @@
     "song_title": "Running Away",
     "year": 2002,
     "artist_name": "Hoobastank",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=kxwsu8JfvVU",
     "imvdb_url": "https://imvdb.com/video/hoobastank/running-away"
   },
@@ -4855,7 +4855,7 @@
     "song_title": "Feuer frei!",
     "year": 2002,
     "artist_name": "Rammstein",
-    "artist_genre": "Industrial Metal",
+    "artist_genre": "Industrial Metal, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=XHUsIU161w4",
     "imvdb_url": "https://imvdb.com/video/rammstein/feuer-frei"
   },
@@ -4945,7 +4945,7 @@
     "song_title": "She Hates Me",
     "year": 2002,
     "artist_name": "Puddle Of Mudd",
-    "artist_genre": "Post-Grunge",
+    "artist_genre": "Post-Grunge, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=BYE4CVhVkhw",
     "imvdb_url": "https://imvdb.com/video/puddle-of-mudd/she-hates-me"
   },
@@ -5008,7 +5008,7 @@
     "song_title": "Erased",
     "year": 2002,
     "artist_name": "Paradise Lost",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=xjQtMioX6z4",
     "imvdb_url": "https://imvdb.com/video/paradise-lost/erased"
   },
@@ -5161,7 +5161,7 @@
     "song_title": "Time Is Ticking Out",
     "year": 2002,
     "artist_name": "The Cranberries",
-    "artist_genre": "Alternative Rock",
+    "artist_genre": "Alternative Rock, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=_AJsLkRbQ74",
     "imvdb_url": "https://imvdb.com/video/the-cranberries/time-is-ticking-out"
   },
@@ -5287,7 +5287,7 @@
     "song_title": "The Red",
     "year": 2002,
     "artist_name": "Chevelle",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=trinU3VD1Zo",
     "imvdb_url": "https://imvdb.com/video/chevelle-2/the-red"
   },
@@ -5701,7 +5701,7 @@
     "song_title": "Stars",
     "year": 2002,
     "artist_name": "The Cranberries",
-    "artist_genre": "Alternative Rock",
+    "artist_genre": "Alternative Rock, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=y_6ak9CYx48",
     "imvdb_url": "https://imvdb.com/video/the-cranberries/stars"
   },
@@ -5881,7 +5881,7 @@
     "song_title": "Attitude",
     "year": 2002,
     "artist_name": "Alien Ant Farm",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=kSngLMSvzhg",
     "imvdb_url": "https://imvdb.com/video/alien-ant-farm/attitude"
   },
@@ -6142,7 +6142,7 @@
     "song_title": "As We Speak",
     "year": 2002,
     "artist_name": "Soilwork",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=TcKoqGKuz6U",
     "imvdb_url": "https://imvdb.com/video/soilwork/as-we-speak"
   },
@@ -6223,7 +6223,7 @@
     "song_title": "Send The Pain Below",
     "year": 2002,
     "artist_name": "Chevelle",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=gpyRI1j9t6c",
     "imvdb_url": "https://imvdb.com/video/chevelle-2/send-the-pain-below"
   },
@@ -6385,7 +6385,7 @@
     "song_title": "Polyamorous",
     "year": 2002,
     "artist_name": "Breaking Benjamin",
-    "artist_genre": "Rock",
+    "artist_genre": "Rock, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=Za54T0KNXxU",
     "imvdb_url": "https://imvdb.com/video/breaking-benjamin/polyamorous"
   },
@@ -6457,7 +6457,7 @@
     "song_title": "Let You Down",
     "year": 2002,
     "artist_name": "Theatre Of Tragedy",
-    "artist_genre": "Gothic Metal",
+    "artist_genre": "Gothic Metal, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=P7lWv4ySvtU",
     "imvdb_url": "https://imvdb.com/video/theatre-of-tragedy/let-you-down"
   },
@@ -6466,7 +6466,7 @@
     "song_title": "Until the End of the World",
     "year": 2002,
     "artist_name": "Apoptygma Berzerk",
-    "artist_genre": "Synthpop",
+    "artist_genre": "Synthpop, Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=k2H1OQ-DoAw",
     "imvdb_url": "https://imvdb.com/video/apoptygma-berzerk/until-the-end-of-the-world"
   },
@@ -6763,7 +6763,7 @@
     "song_title": "Gone Away (A Song For Starr)",
     "year": 2002,
     "artist_name": "Cold",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=lE3Ukne22SE",
     "imvdb_url": "https://imvdb.com/video/cold/gone-away-a-song-for-starr"
   },
@@ -6997,7 +6997,7 @@
     "song_title": "The Fake Sound Of Progress",
     "year": 2002,
     "artist_name": "Lostprophets",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=0o-Di0cBSMk",
     "imvdb_url": "https://imvdb.com/video/lostprophets/the-fake-sound-of-progress"
   },
@@ -7195,7 +7195,7 @@
     "song_title": "View From a Throne",
     "year": 2002,
     "artist_name": "Project Pitchfork",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=YZq8t00PLCU",
     "imvdb_url": "https://imvdb.com/video/project-pitchfork/view-from-a-throne"
   },
@@ -7267,7 +7267,7 @@
     "song_title": "Aerials",
     "year": 2002,
     "artist_name": "System Of A Down",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=L-iepu3EtyE",
     "imvdb_url": "https://imvdb.com/video/system-of-a-down/aerials"
   },
@@ -7816,7 +7816,7 @@
     "song_title": "You Can't Stop Me",
     "year": 2002,
     "artist_name": "Guano Apes",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Nu Metal",
     "youtube_link": "https://www.youtube.com/watch?v=xfxlzq2Nfno",
     "imvdb_url": "https://imvdb.com/video/guano-apes/you-cant-stop-me"
   },
@@ -7861,7 +7861,7 @@
     "song_title": "Garnet ~Kindan no Sono e~ (Cardinal Version)",
     "year": 2002,
     "artist_name": "Malice Mizer",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=8-R9X_m8L2E",
     "imvdb_url": "https://imvdb.com/video/malice-mizer/garnet-kindan-no-sono-e-cardinal-version"
   },
@@ -8149,7 +8149,7 @@
     "song_title": "All The Love In The World",
     "year": 2002,
     "artist_name": "The Corrs",
-    "artist_genre": "Pop Rock",
+    "artist_genre": "Pop Rock, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=yhg3lBGFeac",
     "imvdb_url": "https://imvdb.com/video/the-corrs/all-the-love-in-the-world"
   },
@@ -8338,7 +8338,7 @@
     "song_title": "When The Stars Go Blue",
     "year": 2002,
     "artist_name": "The Corrs",
-    "artist_genre": "Pop Rock",
+    "artist_genre": "Pop Rock, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=1K6ijX408Ok",
     "imvdb_url": "https://imvdb.com/video/the-corrs/when-the-stars-go-blue"
   },
@@ -8401,7 +8401,7 @@
     "song_title": "Heaven's A Lie",
     "year": 2002,
     "artist_name": "Lacuna Coil",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Desconhecido, Industrial, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=aKYV91wuVPI",
     "imvdb_url": "https://imvdb.com/video/lacuna-coil/heavens-a-lie/2"
   },

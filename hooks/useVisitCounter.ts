@@ -5,11 +5,11 @@ export const useVisitCounter = () => {
 
   useEffect(() => {
     // Get current count from localStorage
-    const currentCount = parseInt(localStorage.getItem('groovio_visits') || '0');
+    const currentCount = parseInt(localStorage.getItem('grooovio_visits') || '0');
     const newCount = currentCount + 1;
     
     // Update localStorage
-    localStorage.setItem('groovio_visits', newCount.toString());
+    localStorage.setItem('grooovio_visits', newCount.toString());
     
     // Update state
     setVisitCount(newCount);

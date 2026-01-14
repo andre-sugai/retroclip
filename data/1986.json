@@ -157,7 +157,7 @@
     "song_title": "Goodbye",
     "year": 1986,
     "artist_name": "Night Ranger",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=gWoSo6Cj8-M",
     "imvdb_url": "https://imvdb.com/video/night-ranger/goodbye"
   },
@@ -283,7 +283,7 @@
     "song_title": "Killing an Arab",
     "year": 1986,
     "artist_name": "The Cure",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=ZMqPlQgHww8",
     "imvdb_url": "https://imvdb.com/video/the-cure/killing-an-arab"
   },
@@ -427,7 +427,7 @@
     "song_title": "Boys Don't Cry",
     "year": 1986,
     "artist_name": "The Cure",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=9GkVhgIeGJQ",
     "imvdb_url": "https://imvdb.com/video/the-cure/boys-dont-cry"
   },
@@ -481,7 +481,7 @@
     "song_title": "Cry Tough",
     "year": 1986,
     "artist_name": "Poison",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=fOzdT_sAeDE",
     "imvdb_url": "https://imvdb.com/video/poison-3/cry-tough"
   },
@@ -859,7 +859,7 @@
     "song_title": "Who Made Who",
     "year": 1986,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=PiZHNw1MtzI",
     "imvdb_url": "https://imvdb.com/video/acdc/who-made-who"
   },
@@ -1093,7 +1093,7 @@
     "song_title": "Reason To Live",
     "year": 1986,
     "artist_name": "Kiss",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=HshQidqYxjg",
     "imvdb_url": "https://imvdb.com/video/kiss/reason-to-live"
   },
@@ -1300,7 +1300,7 @@
     "song_title": "The Final Countdown",
     "year": 1986,
     "artist_name": "Europe",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=9jK-NcRmVcw",
     "imvdb_url": "https://imvdb.com/video/europe/the-final-countdown"
   },
@@ -1696,7 +1696,7 @@
     "song_title": "These Dreams",
     "year": 1986,
     "artist_name": "Heart",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=41P8UxneDJE",
     "imvdb_url": "https://imvdb.com/video/heart/these-dreams"
   },
@@ -1759,7 +1759,7 @@
     "song_title": "Wild In The Streets",
     "year": 1986,
     "artist_name": "Bon Jovi",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=LPa1HswSc2o",
     "imvdb_url": "https://imvdb.com/video/bon-jovi/wild-in-the-streets"
   },
@@ -1804,7 +1804,7 @@
     "song_title": "Is This Love",
     "year": 1986,
     "artist_name": "Survivor",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=d812E8q7I4A",
     "imvdb_url": "https://imvdb.com/video/survivor/is-this-love"
   },
@@ -2164,7 +2164,7 @@
     "song_title": "Severina",
     "year": 1986,
     "artist_name": "The Mission",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-mission-1/severina"
   },
@@ -2218,7 +2218,7 @@
     "song_title": "Buggin' Me",
     "year": 1986,
     "artist_name": "Alien Sex Fiend",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=To5y2uPW6XA",
     "imvdb_url": "https://imvdb.com/video/alien-sex-fiend/buggin-me"
   },
@@ -2272,7 +2272,7 @@
     "song_title": "Never Say Goodbye",
     "year": 1986,
     "artist_name": "Bon Jovi",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=ifm00JEjSeo",
     "imvdb_url": "https://imvdb.com/video/bon-jovi/never-say-goodbye"
   },
@@ -2794,7 +2794,7 @@
     "song_title": "Believers of the Unpure",
     "year": 1986,
     "artist_name": "Christian Death",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=7XzDqMD-5YU",
     "imvdb_url": "https://imvdb.com/video/christian-death/believers-of-the-unpure"
   },
@@ -3109,7 +3109,7 @@
     "song_title": "You Give Love A Bad Name",
     "year": 1986,
     "artist_name": "Bon Jovi",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=KrZHPOeOxQQ",
     "imvdb_url": "https://imvdb.com/video/bon-jovi/you-give-love-a-bad-name"
   },
@@ -3406,7 +3406,7 @@
     "song_title": "Jumping Someone Else's Train",
     "year": 1986,
     "artist_name": "The Cure",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=1feXUT4P78E",
     "imvdb_url": "https://imvdb.com/video/the-cure/jumping-someone-elses-train"
   },
@@ -3442,7 +3442,7 @@
     "song_title": "You Shook Me All Night Long",
     "year": 1986,
     "artist_name": "AC/DC",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=zWCINQn6k0s",
     "imvdb_url": "https://imvdb.com/video/acdc/you-shook-me-all-night-long/2"
   },
@@ -3469,7 +3469,7 @@
     "song_title": "Livin' On A Prayer",
     "year": 1986,
     "artist_name": "Bon Jovi",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=lDK9QqIzhwk",
     "imvdb_url": "https://imvdb.com/video/bon-jovi/livin-on-a-prayer"
   },
@@ -3478,7 +3478,7 @@
     "song_title": "A Night Like This",
     "year": 1986,
     "artist_name": "The Cure",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=VvWY1uOASfg",
     "imvdb_url": "https://imvdb.com/video/the-cure/a-night-like-this"
   },
@@ -3631,7 +3631,7 @@
     "song_title": "Stay With Me",
     "year": 1986,
     "artist_name": "The Mission",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=UsL3iP3bhdg",
     "imvdb_url": "https://imvdb.com/video/the-mission-1/stay-with-me"
   },
@@ -3676,7 +3676,7 @@
     "song_title": "(He's Back) The Man Behind The Mask",
     "year": 1986,
     "artist_name": "Alice Cooper",
-    "artist_genre": "Metal",
+    "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=qglpDlSlPzE",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/hes-back-the-man-behind-the-mask"
   },

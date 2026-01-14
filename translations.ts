@@ -69,6 +69,8 @@ export const translations = {
         latinPop: 'Latin Pop',
         kpop: 'K-Pop',
         folk: 'Folk',
+        gotic: 'Gótico',
+        classics: 'Clássicos',
       },
     },
     donation: {
@@ -90,7 +92,7 @@ export const translations = {
       expandSidebar: 'Expand Sidebar',
     },
     welcome: {
-      title: 'Welcome to Groovio!',
+      title: 'Welcome to Grooovio!',
       subtitle: 'Your musical time machine. Travel through the decades and rediscover the music videos that made history.',
       feature1Title: 'Time Travel',
       feature1Desc: 'Choose a specific year or an entire decade to explore.',
@@ -148,6 +150,8 @@ export const translations = {
         latinPop: 'Latin Pop',
         kpop: 'K-Pop',
         folk: 'Folk',
+        gotic: 'Goth',
+        classics: 'Classics',
       },
     },
     donation: {
