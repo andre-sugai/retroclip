@@ -58,7 +58,7 @@
     "song_title": "My Girl",
     "year": 1979,
     "artist_name": "Madness",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=Pw-8AGRcyvk",
     "imvdb_url": "https://imvdb.com/video/madness/my-girl"
   },
@@ -148,7 +148,7 @@
     "song_title": "Bed and Breakfast Man",
     "year": 1979,
     "artist_name": "Madness",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=SyvKDp1Uy-8",
     "imvdb_url": "https://imvdb.com/video/madness/bed-and-breakfast-man"
   },
@@ -382,7 +382,7 @@
     "song_title": "One Step Beyond",
     "year": 1979,
     "artist_name": "Madness",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=N-uyWAe0NhQ",
     "imvdb_url": "https://imvdb.com/video/madness/one-step-beyond"
   },
@@ -391,7 +391,7 @@
     "song_title": "Night Boat To Cairo",
     "year": 1979,
     "artist_name": "Madness",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=PSTHMxBttlU",
     "imvdb_url": "https://imvdb.com/video/madness/night-boat-to-cairo"
   },

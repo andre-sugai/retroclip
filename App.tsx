@@ -316,7 +316,9 @@ const App: React.FC = () => {
           'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
           'K-Pop': ['K-Pop', 'Korean Pop'],
           'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk'],
-          'Gótico': ['Gótico', 'Goth', 'Gothic Rock', 'Dark Wave', 'Post-Punk', 'Ethereal Wave', 'Gothic Metal']
+          'Gótico': ['Gótico', 'Goth', 'Gothic Rock', 'Dark Wave', 'Post-Punk', 'Ethereal Wave', 'Gothic Metal'],
+          'Ska': ['Ska', 'Ska Punk', 'Two Tone', 'Rocksteady'],
+          'Reggae': ['Reggae', 'Reggaeton']
         };
 
         const targetGenres = genreMap[genreId] || [];
@@ -413,7 +415,9 @@ const App: React.FC = () => {
                           'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
                           'K-Pop': ['K-Pop', 'Korean Pop'],
                           'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk'],
-                          'Gótico': ['Gótico', 'Goth', 'Gothic Rock', 'Dark Wave', 'Post-Punk', 'Ethereal Wave', 'Gothic Metal']
+                          'Gótico': ['Gótico', 'Goth', 'Gothic Rock', 'Dark Wave', 'Post-Punk', 'Ethereal Wave', 'Gothic Metal'],
+                          'Ska': ['Ska', 'Ska Punk', 'Two Tone', 'Rocksteady'],
+                          'Reggae': ['Reggae', 'Reggaeton']
                         };
                         const targetGenres = genreMap[selectedGenre] || [];
                         if (targetGenres.length > 0) {

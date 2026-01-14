@@ -71,6 +71,8 @@ export const translations = {
         folk: 'Folk',
         gotic: 'Gótico',
         classics: 'Clássicos',
+        ska: 'Ska',
+        reggae: 'Reggae',
       },
     },
     donation: {
@@ -152,6 +154,8 @@ export const translations = {
         folk: 'Folk',
         gotic: 'Goth',
         classics: 'Classics',
+        ska: 'Ska',
+        reggae: 'Reggae',
       },
     },
     donation: {

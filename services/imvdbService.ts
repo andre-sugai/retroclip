@@ -270,6 +270,8 @@ export const getGenreStatistics = (): Record<string, number> => {
     'K-Pop': ['K-Pop', 'Korean Pop'],
     'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk'],
     'Gótico': ['Gótico', 'Goth', 'Gothic Rock', 'Dark Wave', 'Post-Punk', 'Ethereal Wave', 'Gothic Metal'],
+    'Ska': ['Ska', 'Ska Punk', 'Two Tone', 'Rocksteady'],
+    'Reggae': ['Reggae', 'Reggaeton'],
     'Clássicos': []
   };
 

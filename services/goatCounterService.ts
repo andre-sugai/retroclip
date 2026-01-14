@@ -7,7 +7,7 @@ const GOATCOUNTER_SITE = 'grooovio';
 const GOATCOUNTER_API_URL = `https://${GOATCOUNTER_SITE}.goatcounter.com/api/v0`;
 
 // Cache configuration
-const CACHE_KEY = 'goatcounter_total_visits';
+const CACHE_KEY = 'goatcounter_total_visits_v2';
 const CACHE_DURATION = 5 * 60 * 1000; // 5 minutes in milliseconds
 
 interface CachedData {
@@ -20,11 +20,7 @@ interface GoatCounterTotalResponse {
   total_display: string;
 }
 
-/**
- * Fetches the total visit count from GoatCounter
- * Uses caching to avoid hitting rate limits
- */
-export async function getTotalVisits(): Promise<number> {
+export async function getTotalVisits(): Promise<number | null> {
   try {
     // Check cache first
     const cached = getCachedData();
@@ -33,41 +29,44 @@ export async function getTotalVisits(): Promise<number> {
     }
 
     // Fetch from GoatCounter API
-    // Note: Using the public counter endpoint which doesn't require authentication
-    const response = await fetch(`https://${GOATCOUNTER_SITE}.goatcounter.com/counter/${encodeURIComponent('/')}.json`);
+    const url = `https://${GOATCOUNTER_SITE}.goatcounter.com/counter/${encodeURIComponent('/')}.json`;
     
-    // GoatCounter returns 404 if the path has no visits or is new, but still includes the JSON body
-    // We should parse the body regardless of status if it's JSON
-    // GoatCounter returns 404 if the path has no visits or is new, but still includes the JSON body
-    // We should parse the body regardless of status if it's JSON
+    let response;
+    try {
+      response = await fetch(url);
+    } catch (e) {
+      console.warn(`[GoatCounter] API blocked or network error for ${url}. AdBlocker might be active.`);
+      return null;
+    }
+    
+    if (!response.ok && response.status !== 404) {
+      console.warn(`[GoatCounter] API error: ${response.status} for ${url}`);
+      return null;
+    }
+
     let data;
     try {
       data = await response.json();
     } catch (e) {
-        // If JSON parsing fails and status is not OK, then it's a real error
-        if (!response.ok) {
-            console.warn('GoatCounter API request failed:', response.status);
-            return getFallbackCount();
-        }
+      console.error('[GoatCounter] Failed to parse JSON:', e);
+      return null;
     }
 
-    // Parse the count from string to number (API returns "count": "123")
-    // If 404 and valid JSON with count "0", this will correctly return 0
     const countStr = data?.count;
-    // Helper to parse count like "1,234" or "12k" (though usually just number string)
-    // GoatCounter public counter returns "count": "123"
-    const totalCount = countStr ? parseInt(countStr.toString().replace(/,/g, ''), 10) : 0;
+    if (countStr === undefined) return null;
+
+    const totalCount = parseInt(countStr.toString().replace(/,/g, ''), 10);
     
-    // If we got a valid number (including 0), cache it and return
     if (!isNaN(totalCount)) {
+        console.log(`[GoatCounter] Fetched count for ${GOATCOUNTER_SITE}: ${totalCount}`);
         setCachedData(totalCount);
         return totalCount;
     }
 
-    return getFallbackCount();
+    return null;
   } catch (error) {
     console.error('Error fetching GoatCounter data:', error);
-    return getFallbackCount();
+    return null;
   }
 }
 

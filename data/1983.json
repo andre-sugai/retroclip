@@ -400,7 +400,7 @@
     "song_title": "Wings of a Dove",
     "year": 1983,
     "artist_name": "Madness",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=MReDjx1FIaE",
     "imvdb_url": "https://imvdb.com/video/madness/wings-of-a-dove"
   },
@@ -427,7 +427,7 @@
     "song_title": "The Sun and The Rain",
     "year": 1983,
     "artist_name": "Madness",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=HPhQZWQmTPc",
     "imvdb_url": "https://imvdb.com/video/madness/the-sun-and-the-rain"
   },
@@ -1129,7 +1129,7 @@
     "song_title": "Tomorrow's (Just Another Day)",
     "year": 1983,
     "artist_name": "Madness",
-    "artist_genre": "Punk",
+    "artist_genre": "Punk, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=nSlHSq3cFAg",
     "imvdb_url": "https://imvdb.com/video/madness/tomorrows-just-another-day"
   },

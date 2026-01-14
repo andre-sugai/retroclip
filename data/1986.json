@@ -31,7 +31,7 @@
     "song_title": "Sweetest Girl",
     "year": 1986,
     "artist_name": "Madness",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=DduE7ZtxPrs",
     "imvdb_url": "https://imvdb.com/video/madness/sweetest-girl"
   },
@@ -292,7 +292,7 @@
     "song_title": "When Problems Arise",
     "year": 1986,
     "artist_name": "Fishbone",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=9Cx4Wq_pgt8",
     "imvdb_url": "https://imvdb.com/video/fishbone/when-problems-arise"
   },
@@ -1624,7 +1624,7 @@
     "song_title": "Waiting For The Ghost Train",
     "year": 1986,
     "artist_name": "Madness",
-    "artist_genre": "Pop",
+    "artist_genre": "Pop, Ska",
     "youtube_link": "https://www.youtube.com/watch?v=z6pF1CwjKpA",
     "imvdb_url": "https://imvdb.com/video/madness/waiting-for-the-ghost-train"
   },
@@ -2650,7 +2650,7 @@
     "song_title": "Freak in the Street",
     "year": 1986,
     "artist_name": "The Untouchables",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "Rock Alternativo, Ska",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-untouchables-1/freak-in-the-street"
   },
