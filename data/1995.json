@@ -6847,5 +6847,14 @@
     "youtube_link": "https://www.youtube.com/watch?v=YAxbwQNa15Q",
     "imvdb_url": "https://imvdb.com/video/prince/rock-n-roll-is-alive-and-it-lives-in-minneapolis",
     "artist": "Prince"
+  },
+  {
+    "id": 280017542235,
+    "song_title": "Enough",
+    "year": 1995,
+    "artist_name": "Dance Hall Crashers",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=9FKIvlN4KB8",
+    "imvdb_url": "https://imvdb.com/video/dance-hall-crashers/enough"
   }
 ]

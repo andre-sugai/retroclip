@@ -2563,5 +2563,23 @@
     "artist_genre": "Funk",
     "youtube_link": "https://www.youtube.com/watch?v=RGgRipOH0nY",
     "imvdb_url": "https://imvdb.com/video/was-not-was-1/knocked-down-made-small-treated-like-a-rubber-ball"
+  },
+  {
+    "id": 195195047789,
+    "song_title": "Racist Friend",
+    "year": 1983,
+    "artist_name": "The Specials",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=gqH_0LPVoho",
+    "imvdb_url": "https://imvdb.com/video/the-specials/racist-friend"
+  },
+  {
+    "id": 157775665749,
+    "song_title": "Bright Lights",
+    "year": 1983,
+    "artist_name": "The Specials",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=Rd4ERLIBnxI",
+    "imvdb_url": "https://imvdb.com/video/the-specials/bright-lights"
   }
 ]

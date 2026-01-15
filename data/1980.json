@@ -1420,5 +1420,14 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=7v2GDbEmjGE",
     "imvdb_url": "https://imvdb.com/video/police-the/de-do-do-do-de-da-da-da"
+  },
+  {
+    "id": 613424397550,
+    "song_title": "Rat Race",
+    "year": 1980,
+    "artist_name": "The Specials",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=AmkMEoVb6rA",
+    "imvdb_url": "https://imvdb.com/video/the-specials/rat-race"
   }
 ]

@@ -7954,5 +7954,14 @@
     "youtube_link": "https://www.youtube.com/watch?v=bAXPUN2z2CE",
     "imvdb_url": "https://imvdb.com/video/queens-of-the-stone-age/feel-good-hit-of-the-summer",
     "artist": "Queens Of The Stone Age"
+  },
+  {
+    "id": 104812997308,
+    "song_title": "99 Red Balloons",
+    "year": 2000,
+    "artist_name": "Goldfinger",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=p-qfzH0vnOs",
+    "imvdb_url": "https://imvdb.com/video/goldfinger-7/99-red-balloons"
   }
 ]

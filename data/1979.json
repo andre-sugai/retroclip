@@ -1141,5 +1141,23 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=6RVDQgVxprE",
     "imvdb_url": "https://imvdb.com/video/elvis-costello-and-the-attractions/whats-so-funny-bout-peace-love-and-understanding"
+  },
+  {
+    "id": 206198534700,
+    "song_title": "Gangsters",
+    "year": 1979,
+    "artist_name": "The Specials",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=lgCZN1rU5co",
+    "imvdb_url": "https://imvdb.com/video/the-specials/gangsters"
+  },
+  {
+    "id": 182585337037,
+    "song_title": "A Message To You Rudy",
+    "year": 1979,
+    "artist_name": "The Specials",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=cntvEDbagAw",
+    "imvdb_url": "https://imvdb.com/video/the-specials/a-message-to-you-rudy"
   }
 ]

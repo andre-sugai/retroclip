@@ -5654,5 +5654,50 @@
     "artist_genre": "Dance",
     "youtube_link": "https://www.youtube.com/watch?v=yFIxLu4KK7U",
     "imvdb_url": "https://imvdb.com/video/c-and-c-music-factory/do-you-wanna-get-funky"
+  },
+  {
+    "id": 138376393337,
+    "song_title": "Detroit Rock City",
+    "year": 1994,
+    "artist_name": "The Mighty Mighty Bosstones",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=6-Kmlghawk4",
+    "imvdb_url": "https://imvdb.com/video/the-mighty-mighty-bosstones/detroit-rock-city"
+  },
+  {
+    "id": 249279623384,
+    "song_title": "Kinder Words",
+    "year": 1994,
+    "artist_name": "The Mighty Mighty Bosstones",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=Hawvh4Bo8fk",
+    "imvdb_url": "https://imvdb.com/video/the-mighty-mighty-bosstones/kinder-words"
+  },
+  {
+    "id": 210508412041,
+    "song_title": "Hell Of A Hat",
+    "year": 1994,
+    "artist_name": "The Mighty Mighty Bosstones",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=KzYbgUB8S9A",
+    "imvdb_url": "https://imvdb.com/video/the-mighty-mighty-bosstones/hell-of-a-hat"
+  },
+  {
+    "id": 187633836326,
+    "song_title": "Nihilism",
+    "year": 1994,
+    "artist_name": "Rancid",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=2WOx4U3sCuQ",
+    "imvdb_url": "https://imvdb.com/video/rancid/nihilism"
+  },
+  {
+    "id": 283180819100,
+    "song_title": "Salvation",
+    "year": 1994,
+    "artist_name": "Rancid",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=Rvuae0Y-Spg",
+    "imvdb_url": "https://imvdb.com/video/rancid/salvation"
   }
 ]

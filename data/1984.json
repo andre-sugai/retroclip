@@ -3364,5 +3364,32 @@
     "youtube_link": "https://www.youtube.com/watch?v=m_qgSs65-mY",
     "imvdb_url": "https://imvdb.com/video/phil-collins/against-all-odds-take-a-look-at-me-now",
     "artist": "Phil Collins"
+  },
+  {
+    "id": 170668629579,
+    "song_title": "Alcohol",
+    "year": 1984,
+    "artist_name": "The Specials",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=XEcvNvjtSzs",
+    "imvdb_url": "https://imvdb.com/video/the-specials/alcohol"
+  },
+  {
+    "id": 267229133865,
+    "song_title": "Nelson Mandela",
+    "year": 1984,
+    "artist_name": "The Specials",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=AgcTvoWjZJU",
+    "imvdb_url": "https://imvdb.com/video/the-specials/nelson-mandela"
+  },
+  {
+    "id": 157020652116,
+    "song_title": "What I Like Most About You Is Your Girlfriend",
+    "year": 1984,
+    "artist_name": "The Specials",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=hi_uV6ojDSs",
+    "imvdb_url": "https://imvdb.com/video/the-specials/what-i-like-most-about-you-is-your-girlfriend"
   }
 ]

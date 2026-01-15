@@ -2131,5 +2131,14 @@
     "artist_genre": "Eletronico",
     "youtube_link": "https://www.youtube.com/watch?v=opkzgLMH5MA",
     "imvdb_url": "https://imvdb.com/video/a-flock-of-seagulls/wishing-if-i-had-a-photograph-of-you"
+  },
+  {
+    "id": 295041980288,
+    "song_title": "War Crimes",
+    "year": 1982,
+    "artist_name": "The Specials",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=ecne2tgIjnk",
+    "imvdb_url": "https://imvdb.com/video/the-specials/war-crimes"
   }
 ]

@@ -7025,5 +7025,23 @@
     "artist_genre": "acousticShow",
     "youtube_link": "https://www.youtube.com/watch?v=n_04G_-bOAs",
     "artist": "Oasis"
+  },
+  {
+    "id": 157046333337,
+    "song_title": "Dopeman",
+    "year": 1996,
+    "artist_name": "Less Than Jake",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=IIHTiblafps",
+    "imvdb_url": "https://imvdb.com/video/less-than-jake/dopeman"
+  },
+  {
+    "id": 297681151202,
+    "song_title": "Here In Your Bedroom",
+    "year": 1996,
+    "artist_name": "Goldfinger",
+    "artist_genre": "Ska",
+    "youtube_link": "https://www.youtube.com/watch?v=OJITRDBEbp4",
+    "imvdb_url": "https://imvdb.com/video/goldfinger-7/here-in-your-bedroom"
   }
 ]
