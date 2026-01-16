@@ -5,7 +5,9 @@
     "year": 1993,
     "artist_name": "Legião Urbana",
     "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=UueCjRrQLM4"
+    "youtube_link": "https://www.youtube.com/watch?v=UueCjRrQLM4",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 266049108815,
@@ -14,7 +16,8 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=Q00zG0rvrGU",
     "imvdb_url": "https://imvdb.com/video/titãs/taxidermia",
-    "artist": "Titãs"
+    "artist_name": "Titãs",
+    "source": "IMVDb"
   },
   {
     "id": 109983946407,
@@ -23,7 +26,8 @@
     "artist_genre": "Metal",
     "youtube_link": "https://www.youtube.com/watch?v=6ODNxy3YOPU",
     "imvdb_url": "https://imvdb.com/video/sepultura/refuseresist",
-    "artist": "Sepultura"
+    "artist_name": "Sepultura",
+    "source": "IMVDb"
   },
   {
     "id": "yt_7bFDNSKxvBM",
@@ -32,6 +36,36 @@
     "artist_name": "Garotos Podres",
     "artist_genre": "Punk",
     "youtube_link": "https://www.youtube.com/watch?v=7bFDNSKxvBM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6ODNxy3YOPU",
+    "song_title": "Refuse/Resist",
+    "year": 1993,
+    "artist_name": "Sepultura",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=6ODNxy3YOPU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Q_WHGV5bejk",
+    "song_title": "Territory",
+    "year": 1993,
+    "artist_name": "Sepultura",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=Q_WHGV5bejk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_UueCjRrQLM4",
+    "song_title": "Perfeição",
+    "year": 1993,
+    "artist_name": "Renato Russo",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=UueCjRrQLM4",
     "imvdb_url": null,
     "source": "YouTube"
   }

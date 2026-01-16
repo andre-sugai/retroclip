@@ -5,7 +5,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=sWsedr5pQVc"
+    "youtube_link": "https://www.youtube.com/watch?v=sWsedr5pQVc",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333620,
@@ -13,7 +15,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=OCy5T-l3kSM"
+    "youtube_link": "https://www.youtube.com/watch?v=OCy5T-l3kSM",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333628,
@@ -21,7 +25,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=_sJn7wuJWfc"
+    "youtube_link": "https://www.youtube.com/watch?v=_sJn7wuJWfc",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333719,
@@ -29,7 +35,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=yT5-UXD4oy4"
+    "youtube_link": "https://www.youtube.com/watch?v=yT5-UXD4oy4",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333752,
@@ -37,7 +45,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=iQYWlARufIM"
+    "youtube_link": "https://www.youtube.com/watch?v=iQYWlARufIM",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333754,
@@ -45,7 +55,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=hSR0mtPrngE"
+    "youtube_link": "https://www.youtube.com/watch?v=hSR0mtPrngE",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333754,
@@ -53,7 +65,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=MyojWkfDHvQ"
+    "youtube_link": "https://www.youtube.com/watch?v=MyojWkfDHvQ",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333760,
@@ -61,7 +75,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=Umf3cAxLrEk"
+    "youtube_link": "https://www.youtube.com/watch?v=Umf3cAxLrEk",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333774,
@@ -69,7 +85,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=EA9AwIUiYgs"
+    "youtube_link": "https://www.youtube.com/watch?v=EA9AwIUiYgs",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333778,
@@ -77,7 +95,9 @@
     "year": 1999,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=2RobhjC7cR4"
+    "youtube_link": "https://www.youtube.com/watch?v=2RobhjC7cR4",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 533173701873,
@@ -86,7 +106,8 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=0qH56Z59rBE",
     "imvdb_url": "https://imvdb.com/video/ivete-sangalo/ta-tudo-bem",
-    "artist": "Ivete Sangalo"
+    "artist_name": "Ivete Sangalo",
+    "source": "IMVDb"
   },
   {
     "id": "yt_qSoxNHUBfkk",
@@ -95,6 +116,16 @@
     "artist_name": "Olho Seco",
     "artist_genre": "Live",
     "youtube_link": "https://www.youtube.com/watch?v=qSoxNHUBfkk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_GunPGAL61Dc",
+    "song_title": "Poema",
+    "year": 1999,
+    "artist_name": "Ney Matogrosso",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=GunPGAL61Dc",
     "imvdb_url": null,
     "source": "YouTube"
   }

@@ -6,7 +6,8 @@
     "artist_genre": "Rock Alternativo, Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=o7N76QdXc6E",
     "imvdb_url": "https://imvdb.com/video/os-paralamas-do-sucesso/alagados",
-    "artist": "Os Paralamas Do Sucesso"
+    "artist_name": "Os Paralamas Do Sucesso",
+    "source": "IMVDb"
   },
   {
     "id": 191032529049,
@@ -45,6 +46,16 @@
     "artist_name": "Ira!",
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=2Xmu0I_nhpw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_o7N76QdXc6E",
+    "song_title": "Alagados/De Frente Pro Crime",
+    "year": 1986,
+    "artist_name": "Paralamas do Sucesso",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=o7N76QdXc6E",
     "imvdb_url": null,
     "source": "YouTube"
   }

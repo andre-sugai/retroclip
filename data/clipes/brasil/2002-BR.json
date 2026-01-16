@@ -5,7 +5,9 @@
     "year": 2002,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=Ru3DYxSHEVw"
+    "youtube_link": "https://www.youtube.com/watch?v=Ru3DYxSHEVw",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333652,
@@ -13,7 +15,9 @@
     "year": 2002,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=DsERECLWn2w"
+    "youtube_link": "https://www.youtube.com/watch?v=DsERECLWn2w",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333707,
@@ -21,7 +25,9 @@
     "year": 2002,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=6xuiUKSeM-I"
+    "youtube_link": "https://www.youtube.com/watch?v=6xuiUKSeM-I",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333767,
@@ -29,7 +35,9 @@
     "year": 2002,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=0NemdHCWqco"
+    "youtube_link": "https://www.youtube.com/watch?v=0NemdHCWqco",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333778,
@@ -37,7 +45,9 @@
     "year": 2002,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=oXBWG4owmvE"
+    "youtube_link": "https://www.youtube.com/watch?v=oXBWG4owmvE",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768362020333788,
@@ -45,7 +55,9 @@
     "year": 2002,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=w_HUCmMnB5o"
+    "youtube_link": "https://www.youtube.com/watch?v=w_HUCmMnB5o",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 1768364882606796,
@@ -53,6 +65,18 @@
     "year": 2002,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=iPGG3YFlWJ0"
+    "youtube_link": "https://www.youtube.com/watch?v=iPGG3YFlWJ0",
+    "source": "YouTube",
+    "imvdb_url": null
+  },
+  {
+    "id": "yt_o3_-VlymokA",
+    "song_title": "Além do Mar",
+    "year": 2002,
+    "artist_name": "Macucos",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=o3_-VlymokA",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

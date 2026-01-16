@@ -6,7 +6,8 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=L9rdmcJ3YDc",
     "imvdb_url": "https://imvdb.com/video/titãs/eu-nao-aguento",
-    "artist": "Titãs"
+    "artist_name": "Titãs",
+    "source": "IMVDb"
   },
   {
     "id": 298592225564,
@@ -15,6 +16,17 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=WdHXrbO5vjQ",
     "imvdb_url": "https://imvdb.com/video/titãs/eu-nao-vou-dizer-nada-alem-do-que-estou-dizendo",
-    "artist": "Titãs"
+    "artist_name": "Titãs",
+    "source": "IMVDb"
+  },
+  {
+    "id": "yt_MhWzW1eFEbQ",
+    "song_title": "Uma Brasileira",
+    "year": 1995,
+    "artist_name": "Paralamas do Sucesso",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=MhWzW1eFEbQ",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

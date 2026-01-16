@@ -5,7 +5,9 @@
     "year": 1985,
     "artist_name": "Legião Urbana",
     "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=hZg1r7BOXVA"
+    "youtube_link": "https://www.youtube.com/watch?v=hZg1r7BOXVA",
+    "source": "YouTube",
+    "imvdb_url": null
   },
   {
     "id": 127314100138,
@@ -14,7 +16,8 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=veBX-9Rx9kk",
     "imvdb_url": "https://imvdb.com/video/legião-urbana/ainda-e-cedo",
-    "artist": "Legião Urbana"
+    "artist_name": "Legião Urbana",
+    "source": "IMVDb"
   },
   {
     "id": 165438681922,
@@ -33,6 +36,16 @@
     "artist_name": "Ultraje a Rigor",
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=2ZDB7j3LcCo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_hZg1r7BOXVA",
+    "song_title": "Será",
+    "year": 1985,
+    "artist_name": "Renato Russo",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hZg1r7BOXVA",
     "imvdb_url": null,
     "source": "YouTube"
   }

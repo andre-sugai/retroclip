@@ -6,7 +6,8 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=2cnOvMFnRvs",
     "imvdb_url": "https://imvdb.com/video/css/alala",
-    "artist": "CSS"
+    "artist_name": "CSS",
+    "source": "IMVDb"
   },
   {
     "id": 189102256752,
@@ -15,7 +16,8 @@
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=LMhHhzHlwW4",
     "imvdb_url": "https://imvdb.com/video/pitty/memorias",
-    "artist": "Pitty"
+    "artist_name": "Pitty",
+    "source": "IMVDb"
   },
   {
     "id": 178234432324,
@@ -24,7 +26,8 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=Y70ip5jd-GM",
     "imvdb_url": "https://imvdb.com/video/css/alala/2",
-    "artist": "CSS"
+    "artist_name": "CSS",
+    "source": "IMVDb"
   },
   {
     "id": 293899681673,
@@ -33,7 +36,8 @@
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=His5BZcgxj8",
     "imvdb_url": "https://imvdb.com/video/pitty/deja-vu",
-    "artist": "Pitty"
+    "artist_name": "Pitty",
+    "source": "IMVDb"
   },
   {
     "id": 125070815657,
@@ -42,7 +46,8 @@
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=DP3j6hgS4VY",
     "imvdb_url": "https://imvdb.com/video/pitty/na-sua-estante",
-    "artist": "Pitty"
+    "artist_name": "Pitty",
+    "source": "IMVDb"
   },
   {
     "id": 263805356835,
@@ -51,7 +56,8 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=7agPOt1XZz8",
     "imvdb_url": "https://imvdb.com/video/css/lets-make-love-and-listen-to-death-from-above",
-    "artist": "CSS"
+    "artist_name": "CSS",
+    "source": "IMVDb"
   },
   {
     "id": 123519134854,
@@ -350,6 +356,26 @@
     "artist_name": "Hateen",
     "artist_genre": "Hardcore",
     "youtube_link": "https://www.youtube.com/watch?v=9El8tJ-pTRU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_RYhohWV3_TI",
+    "song_title": "Fica Comigo",
+    "year": 2006,
+    "artist_name": "Placa Luminosa",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=RYhohWV3_TI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_a0QPjXHr9WM",
+    "song_title": "Anticontrole",
+    "year": 2006,
+    "artist_name": "Walverdes",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=a0QPjXHr9WM",
     "imvdb_url": null,
     "source": "YouTube"
   }
