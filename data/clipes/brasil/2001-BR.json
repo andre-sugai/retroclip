@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1768362020333662,
+    "song_title": "Quebra-Mar",
+    "year": 2001,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=q2APeohPUyM"
+  },
+  {
+    "id": 1768362020333702,
+    "song_title": "Sino Dourado",
+    "year": 2001,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=152aAwjnAKc"
+  },
+  {
+    "id": 1768362020333753,
+    "song_title": "Quebra-Mar",
+    "year": 2001,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=jB-QsL6nH1s"
+  },
+  {
+    "id": 1768362020333754,
+    "song_title": "Como Tudo Deve Ser",
+    "year": 2001,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=1JtPSIppxSA"
+  },
+  {
+    "id": 1768362020333770,
+    "song_title": "T.F.D.P.",
+    "year": 2001,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=CpmopU2Tvkw"
+  },
+  {
+    "id": 1768362020333773,
+    "song_title": "Hoje Eu Acordei Feliz",
+    "year": 2001,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=NqDhSxzua3w"
+  },
+  {
+    "id": 1768362020333775,
+    "song_title": "Lugar Ao Sol",
+    "year": 2001,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=xDiuHDnppf4"
+  },
+  {
+    "id": 206205541627,
+    "song_title": "Ex-Quadrilha da Fumaça",
+    "year": 2001,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=r8PimfoxaFk",
+    "imvdb_url": "https://imvdb.com/video/planet-hemp/ex-quadrilha-da-fumaca",
+    "source": "IMVDb"
+  },
+  {
+    "id": "yt_ImKODXtNK4g",
+    "song_title": "Minha vida",
+    "year": 2001,
+    "artist_name": "Rita Lee",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=ImKODXtNK4g",
+    "imvdb_url": null,
+    "source": "YouTube"
+  }
+]

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Calendar, Film, Play, Clock, Coffee } from 'lucide-react';
 import { Button } from './ui/Button';
 import { DonationModal } from './DonationModal';
-import { TOTAL_VIDEOS_COUNT } from '../services/imvdbService';
+import { TOTAL_VIDEOS_COUNT, TOTAL_CLIPS, TOTAL_SHOWS } from '../services/imvdbService';
 import { translations, Language } from '../translations';
 import { getTotalVisits } from '../services/goatCounterService';
 
@@ -50,12 +50,27 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
     });
   }, []);
 
+  // Adjust value when region changes to ensure it's within valid range
+  React.useEffect(() => {
+    const currentYear = parseInt(value);
+    if (!isNaN(currentYear)) {
+      if (selectedRegion !== 'br' && currentYear < 1950) {
+        // If switching away from BR and value is below 1950, adjust to 1950
+        setValue('1950');
+      }
+      // If switching to BR, values from 1920 are allowed, so no adjustment needed
+    }
+  }, [selectedRegion]);
+
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     onSearch(mode, value);
   };
 
-  const quickDecades = ['1960', '1970', '1980', '1990', '2000', '2010', '2020'];
+  // Determine available decades based on region
+  const quickDecades = selectedRegion === 'br' 
+    ? ['1920', '1960', '1970', '1980', '1990', '2000', '2010', '2020']
+    : ['1960', '1970', '1980', '1990', '2000', '2010', '2020'];
 
   return (
     <div className="w-full flex flex-col p-6 bg-zinc-50 dark:bg-zinc-900/50 backdrop-blur-sm" role="search">
@@ -92,8 +107,22 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
               t.availabilityNotice
             )}
           </p>
-          <div className="inline-block bg-background/50 dark:bg-black/20 rounded px-2 py-1 font-mono text-[10px] tracking-wide mt-1">
-             <span className="opacity-70">{t.totalClips}:</span> <span className="font-bold">{TOTAL_VIDEOS_COUNT}</span>
+          
+          {/* Stats Breakdown */}
+          <div className="flex flex-col gap-1 items-center bg-background/50 dark:bg-black/20 rounded px-3 py-2 font-mono text-[10px] tracking-wide mt-1 w-full">
+             <div className="flex justify-between w-full">
+                <span className="opacity-70">Clipes:</span>
+                <span className="font-bold">{TOTAL_CLIPS}</span>
+             </div>
+             <div className="flex justify-between w-full">
+                <span className="opacity-70">Shows:</span>
+                <span className="font-bold">{TOTAL_SHOWS}</span>
+             </div>
+             <div className="w-full h-px bg-current opacity-10 my-0.5"></div>
+             <div className="flex justify-between w-full">
+                <span className="opacity-70 font-bold uppercase">Total:</span>
+                <span className="font-bold">{TOTAL_VIDEOS_COUNT}</span>
+             </div>
           </div>
            {/* Donation Button */}
            <button
@@ -128,7 +157,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
                     className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${selectedRegion === 'intl' ? 'bg-background shadow-sm text-foreground' : 'text-muted-foreground hover:text-foreground'}`}
                     title="Apenas internacionais"
                 >
-                    Intl.
+                    Global
                 </button>
                 <button 
                     type="button"
@@ -187,7 +216,10 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
         {mode === 'decade' && (
             <div className="flex gap-2 overflow-x-auto pb-2 -mx-1 px-1 no-scrollbar mask-linear-fade">
                 {quickDecades.map(decade => {
-                    const isAvailable = ['1960', '1970', '1980', '1990', '2000', '2010', '2020'].includes(decade);
+                    const availableDecades = selectedRegion === 'br' 
+                        ? ['1920', '1960', '1970', '1980', '1990', '2000', '2010', '2020']
+                        : ['1960', '1970', '1980', '1990', '2000', '2010', '2020'];
+                    const isAvailable = availableDecades.includes(decade);
                     const isSelected = value === decade;
                     return (
                         <button
@@ -221,7 +253,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({ onSearch, isLoadin
             <div className="relative group flex-1">
                 <input
                     type="number"
-                    min="1950"
+                    min={selectedRegion === 'br' ? "1920" : "1950"}
                     max="2025"
                     step={mode === 'decade' ? 10 : 1}
                     value={value}

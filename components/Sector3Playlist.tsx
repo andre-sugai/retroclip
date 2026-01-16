@@ -15,6 +15,7 @@ interface Sector3PlaylistProps {
   onSelectGenre: (genre: string | null) => void;
   onSelectVideo?: (video: Video) => void;
   language: Language;
+  availableGenres: Set<string>;
 }
 
 // Map IDs to Translation Keys
@@ -48,7 +49,8 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
   isLoading,
   selectedGenre,
   onSelectGenre,
-  language
+  language,
+  availableGenres
 }) => {
   const t = translations[language].sector3;
   const tGenres = translations[language].sector3.genres;
@@ -98,6 +100,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
             {/* Genre Buttons Grid */}
             <div className="grid grid-cols-2 gap-3 h-full content-start pb-4">
                 {GENRE_IDS.map((genre) => {
+                   // Check availability (except for 'all' which is always available)
+                   if (genre.id !== 'all' && !availableGenres.has(genre.id)) {
+                       return null;
+                   }
+
                    const isSelected = selectedGenre === (genre.id === 'all' ? null : genre.id) || (genre.id === 'all' && !selectedGenre);
                    // @ts-ignore - dynamic key access
                    const label = tGenres[genre.key];
@@ -152,34 +159,44 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
              <div className="p-4 bg-zinc-50/30 dark:bg-black/20">
                 <div className="grid grid-cols-1 gap-3">
                     {/* Full Show Button */}
-                    <button
-                        onClick={() => onSelectGenre('full_show')}
-                        className={`
-                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
-                          ${selectedGenre === 'full_show'
-                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
-                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
-                          }
-                        `}
-                    >
-                        {t.fullShow}
-                        {selectedGenre === 'full_show' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
-                    </button>
+                    {availableGenres.has('full_show') && (
+                        <button
+                            onClick={() => {
+                               if (selectedGenre === 'full_show') return;
+                               onSelectGenre('full_show');
+                            }}
+                            className={`
+                              relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                              ${selectedGenre === 'full_show'
+                                ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                                : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                              }
+                            `}
+                        >
+                            {t.fullShow}
+                            {selectedGenre === 'full_show' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                        </button>
+                    )}
 
                     {/* Acoustic Button */}
-                    <button
-                        onClick={() => onSelectGenre('acoustic')}
-                        className={`
-                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
-                          ${selectedGenre === 'acoustic'
-                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
-                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
-                          }
-                        `}
-                    >
-                        {t.acoustic}
-                        {selectedGenre === 'acoustic' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
-                    </button>
+                    {availableGenres.has('acoustic') && (
+                        <button
+                            onClick={() => {
+                               if (selectedGenre === 'acoustic') return; 
+                               onSelectGenre('acoustic');
+                            }}
+                            className={`
+                              relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                              ${selectedGenre === 'acoustic'
+                                ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                                : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                              }
+                            `}
+                        >
+                            {t.acoustic}
+                            {selectedGenre === 'acoustic' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                        </button>
+                    )}
                 </div>
              </div>
         </div>

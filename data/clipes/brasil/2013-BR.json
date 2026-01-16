@@ -1,0 +1,1563 @@
+[
+  {
+    "id": 1768362020333686,
+    "song_title": "Rock Star (Clipe Oficial)",
+    "year": 2013,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=3MgoMUhvQ-8"
+  },
+  {
+    "id": 205977349747,
+    "song_title": "Zen",
+    "year": 2013,
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=uJcbhRzy_UM",
+    "imvdb_url": "https://imvdb.com/video/anitta/zen",
+    "artist": "Anitta"
+  },
+  {
+    "id": 887153902233,
+    "song_title": "Hangover",
+    "year": 2013,
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=doTGKMVQ8oo",
+    "imvdb_url": "https://imvdb.com/video/css/hangover",
+    "artist": "CSS"
+  },
+  {
+    "id": 275594617089,
+    "song_title": "Maria",
+    "year": 2013,
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=foIwg9xqLAA",
+    "imvdb_url": "https://imvdb.com/video/michel-teló/maria",
+    "artist": "Michel Teló"
+  },
+  {
+    "id": 456223223887,
+    "song_title": "Show das Poderosas",
+    "year": 2013,
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=FGViL3CYRwg",
+    "imvdb_url": "https://imvdb.com/video/anitta/show-das-poderosas",
+    "artist": "Anitta"
+  },
+  {
+    "id": 627296326671,
+    "song_title": "Into The Sun",
+    "year": 2013,
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=vO2sz4I_7Oc",
+    "imvdb_url": "https://imvdb.com/video/css/into-the-sun",
+    "artist": "CSS"
+  },
+  {
+    "id": 227901418417,
+    "song_title": "Não Para",
+    "year": 2013,
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=qiv1FSVieiY",
+    "imvdb_url": "https://imvdb.com/video/anitta/nao-para",
+    "artist": "Anitta"
+  },
+  {
+    "id": 395425237795,
+    "song_title": "The Vatican",
+    "year": 2013,
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=rk2dSSmWn1M",
+    "imvdb_url": "https://imvdb.com/video/sepultura/the-vatican",
+    "artist": "Sepultura"
+  },
+  {
+    "id": 127921883856,
+    "song_title": "Picolé",
+    "year": 2013,
+    "artist_name": "Bonde Do Role",
+    "artist_genre": "Eletronico",
+    "youtube_link": "https://www.youtube.com/watch?v=E81c7yAV6Zw",
+    "imvdb_url": "https://imvdb.com/video/bonde-do-role/picole",
+    "source": "IMVDb"
+  },
+  {
+    "id": 378682748781,
+    "song_title": "BANG",
+    "year": 2013,
+    "artist_name": "Bonde Do Role",
+    "artist_genre": "Eletronico",
+    "youtube_link": "https://www.youtube.com/watch?v=f_hDthHPoVM",
+    "imvdb_url": "https://imvdb.com/video/bonde-do-role/bang",
+    "source": "IMVDb"
+  },
+  {
+    "id": 239065937872,
+    "song_title": "Maior Que As Muralhas",
+    "year": 2013,
+    "artist_name": "Fresno",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=eAaNEMJeC7U",
+    "imvdb_url": "https://imvdb.com/video/fresno/maior-que-as-muralhas",
+    "source": "IMVDb"
+  },
+  {
+    "id": 542408879242,
+    "song_title": "Sutjeska / Farol",
+    "year": 2013,
+    "artist_name": "Fresno",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=QfObaecWMCg",
+    "imvdb_url": "https://imvdb.com/video/fresno/sutjeska-farol",
+    "source": "IMVDb"
+  },
+  {
+    "id": 875213007987,
+    "song_title": "Silence Will Make You Suffer",
+    "year": 2013,
+    "artist_name": "Hibria",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=8FNvoPwvWXg",
+    "imvdb_url": "https://imvdb.com/video/hibria/silence-will-make-you-suffer",
+    "source": "IMVDb"
+  },
+  {
+    "id": 801408376121,
+    "song_title": "Mulher Diabo",
+    "year": 2013,
+    "artist_name": "Matanza",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=R4HGb9U01kg",
+    "imvdb_url": "https://imvdb.com/video/matanza/mulher-diabo",
+    "source": "IMVDb"
+  },
+  {
+    "id": 107000716599,
+    "song_title": "Estive",
+    "year": 2013,
+    "artist_name": "Vanguart",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=ueeilFaR3m8",
+    "imvdb_url": "https://imvdb.com/video/vanguart/estive",
+    "source": "IMVDb"
+  },
+  {
+    "id": "yt_inVGPN5ouf8",
+    "song_title": "A Barca do Sol : Durante o verão",
+    "year": 2013,
+    "artist_name": "A Barca do Sol",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=inVGPN5ouf8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_aC1po1lXTP0",
+    "song_title": "Acoustitronica Blues. Ado Black",
+    "year": 2013,
+    "artist_name": "Ado Negro",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=aC1po1lXTP0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_NKfOnpw6Vu4",
+    "song_title": "ALMÔNDEGAS - Vento Negro",
+    "year": 2013,
+    "artist_name": "Almandegas",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=NKfOnpw6Vu4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_5hr4KnA-Bno",
+    "song_title": "OTTO DIX 'Анима' (Anima) official video HD",
+    "year": 2013,
+    "artist_name": "Anima",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=5hr4KnA-Bno",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_aFDbUiIRnZw",
+    "song_title": "ANTIDEMON - \"WELCOME TO DEATH\" (Official)",
+    "year": 2013,
+    "artist_name": "Antidemon",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=aFDbUiIRnZw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_SDqTxaJ7irA",
+    "song_title": "Ara Ketu - Pipoca (Live Video)",
+    "year": 2013,
+    "artist_name": "Ara Ketu",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=SDqTxaJ7irA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_DRN6coaFais",
+    "song_title": "Take It Easy | Asa de Águia | DVD Asa 20 Anos",
+    "year": 2013,
+    "artist_name": "Asa de guia",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=DRN6coaFais",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_e-ZTC2nOogM",
+    "song_title": "Me Dê | Asa de Águia | DVD Asa 20 Anos",
+    "year": 2013,
+    "artist_name": "Asa de guia",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=e-ZTC2nOogM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_T-A-dWSgPY0",
+    "song_title": "Bota Pra Ferver | Asa de Águia | DVD Asa 20 Anos",
+    "year": 2013,
+    "artist_name": "Asa de guia",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=T-A-dWSgPY0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt__fDGBQQXEUc",
+    "song_title": "Asa de Águia - Sonho de Amor - Ao vivo",
+    "year": 2013,
+    "artist_name": "Asa de guia",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_fDGBQQXEUc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_KHSW-lnpHuY",
+    "song_title": "Babado Novo - 15 Mil Por Mês (Clipe Oficial)",
+    "year": 2013,
+    "artist_name": "Babado Novo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=KHSW-lnpHuY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_7zLKKJj5MQA",
+    "song_title": "Me Beija Agora - Clipe Oficial - Banda Calypso",
+    "year": 2013,
+    "artist_name": "Banda Calypso",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=7zLKKJj5MQA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_i13EPSVnuIw",
+    "song_title": "Gatinha Manhosa - 120... 130... Tenho pressa de chegar (CLIPE OFICIAL)",
+    "year": 2013,
+    "artist_name": "Bar\\'e3o Vermelho",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=i13EPSVnuIw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_hv1Hnmt1GBo",
+    "song_title": "TÉDIO-BIQUINI CAVADÃO-CLIPE-ANO 1985 [HQ] STEREO",
+    "year": 2013,
+    "artist_name": "Biquini Cavado",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=hv1Hnmt1GBo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6CBrRAa0a_U",
+    "song_title": "Blind Pigs - Sentinela dos Mares",
+    "year": 2013,
+    "artist_name": "Blind Pigs",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=6CBrRAa0a_U",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_KQzADffIfVk",
+    "song_title": "Blind Pigs - Cinco cadeados (clipe oficial)",
+    "year": 2013,
+    "artist_name": "Blind Pigs",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=KQzADffIfVk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_3jLzYXXm6J8",
+    "song_title": "Blitz - New Age - (UK/DK. UK, 1983)",
+    "year": 2013,
+    "artist_name": "Blitz",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=3jLzYXXm6J8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_H9JbEzt6vTQ",
+    "song_title": "Bonde da Stronda - Das Antigas (Videoclipe Oficial)",
+    "year": 2013,
+    "artist_name": "Bonde da Stronda",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=H9JbEzt6vTQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_kuvC3INIcW0",
+    "song_title": "Bonde da Stronda - Swing do Bonde part. Alandin (Videoclipe Oficial)",
+    "year": 2013,
+    "artist_name": "Bonde da Stronda",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=kuvC3INIcW0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_E53SmlHYFq8",
+    "song_title": "Br'oZ - Se você não está aqui [ Videoclipe Oficial ]",
+    "year": 2013,
+    "artist_name": "Br'oz",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=E53SmlHYFq8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_GwHDl0wZbs4",
+    "song_title": "Br'oZ - Vem pra minha vida [ Videoclipe Oficial ]",
+    "year": 2013,
+    "artist_name": "Br'oz",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=GwHDl0wZbs4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_nZmF9fxTIIA",
+    "song_title": "City Grrrl - CSS feat. Ssion [Official Music Video]",
+    "year": 2013,
+    "artist_name": "Cansei de Ser Sexy",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=nZmF9fxTIIA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_piFN051HFtk",
+    "song_title": "Canto dos Malditos na Terra do Nunca - Muito Prazer",
+    "year": 2013,
+    "artist_name": "Canto dos Malditos na Terra do Nunca",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=piFN051HFtk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_neO9ngOzwF4",
+    "song_title": "Carioca Girls",
+    "year": 2013,
+    "artist_name": "Os Cariocas",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=neO9ngOzwF4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_qs6mioxEAzA",
+    "song_title": "Casaca - Verdade (Na Estrada)",
+    "year": 2013,
+    "artist_name": "Casaca",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=qs6mioxEAzA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Q4Is8BX2DQI",
+    "song_title": "Casaca - Da Da Da (Casaca)",
+    "year": 2013,
+    "artist_name": "Casaca",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=Q4Is8BX2DQI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_3lTXfCpHqn8",
+    "song_title": "Casaca - Ondas do Barrão (No Tambor Na Casaca Na Guitarra)",
+    "year": 2013,
+    "artist_name": "Casaca",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=3lTXfCpHqn8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_EPH2Af9Iq-A",
+    "song_title": "Casaca - Anjo Samile (Casaca)",
+    "year": 2013,
+    "artist_name": "Casaca",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=EPH2Af9Iq-A",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_GvVlzel-STE",
+    "song_title": "Catedral - Zélia Duncan",
+    "year": 2013,
+    "artist_name": "Catedral",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=GvVlzel-STE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_jp288zfsNTI",
+    "song_title": "Charlie Brown Jr. - Meu Novo Mundo *OFICIAL HD*",
+    "year": 2013,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=jp288zfsNTI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_M7hIP41Cf8o",
+    "song_title": "Confisco ( Clipe Oficial) - Charlie Brown Jr",
+    "year": 2013,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=M7hIP41Cf8o",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ApcIG_O3Czo",
+    "song_title": "Quinta-Feira (Clipe Oficial) - Charlie Brown Jr - 1997",
+    "year": 2013,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ApcIG_O3Czo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_dHVf-eoYw_A",
+    "song_title": "Chiclete com Banana - Meu bem quero te amar - YouTube Carnaval 2013",
+    "year": 2013,
+    "artist_name": "Chiclete com Banana",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=dHVf-eoYw_A",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_lk-2xoJ_FJ4",
+    "song_title": "Chimarruts - O Outono (Clipe Oficial)",
+    "year": 2013,
+    "artist_name": "Chimarruts",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=lk-2xoJ_FJ4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_YLrU4hXJKMc",
+    "song_title": "Chipset Zero - Hipnox [Banda Antes 2006 MTV] diasdefuria.net",
+    "year": 2013,
+    "artist_name": "Chipset Zero",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=YLrU4hXJKMc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_v7Hrb2HCMO0",
+    "song_title": "Chipset Zero - Technotic Red [Banda Antes 2006 MTV] diasdefuria.net",
+    "year": 2013,
+    "artist_name": "Chipset Zero",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=v7Hrb2HCMO0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_W_cji9wcLIw",
+    "song_title": "Choldra - Casulo (Video)",
+    "year": 2013,
+    "artist_name": "Choldra",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=W_cji9wcLIw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_AIbwSLwKD78",
+    "song_title": "Choldra - Lírio",
+    "year": 2013,
+    "artist_name": "Choldra",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=AIbwSLwKD78",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_d0VVTqmH7Ow",
+    "song_title": "Cidade Negra, Rappin' Hood - Homem que faz a Guerra (Video Clipe)",
+    "year": 2013,
+    "artist_name": "Cidade Negra",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=d0VVTqmH7Ow",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_SdfL2nY-Xs8",
+    "song_title": "Clean Bandit - Dust Clears ft. Noonie Bao [Official Video]",
+    "year": 2013,
+    "artist_name": "Clera",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=SdfL2nY-Xs8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_HyTaxVbbFlQ",
+    "song_title": "\"Casa do Sol\" - Comunidade Nin-Jitsu AO VIVO no Opinião - Clipe Oficial DVD",
+    "year": 2013,
+    "artist_name": "Comunidade Nin-Jitsu",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=HyTaxVbbFlQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt__8ZOrkkSbRc",
+    "song_title": "COMUNIDADE NIN-JITSU - CNJ",
+    "year": 2013,
+    "artist_name": "Comunidade Nin-Jitsu",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=_8ZOrkkSbRc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_aaP5Xr89e3E",
+    "song_title": "ConeCrewDiretoria - Pra Minha Mãe (Clipe Oficial)",
+    "year": 2013,
+    "artist_name": "Cone Crew Diretoria",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=aaP5Xr89e3E",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_mi7pO6QY4vo",
+    "song_title": "Confronto - Imortal (Official Video)",
+    "year": 2013,
+    "artist_name": "Confronto",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=mi7pO6QY4vo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_kYYFhj2Mbn4",
+    "song_title": "Confronto I Infanto (Official Video - DVD)",
+    "year": 2013,
+    "artist_name": "Confronto",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=kYYFhj2Mbn4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt__jWnHVMquFs",
+    "song_title": "A COR DO SOM-ZERO-VIDEO ORIGINAL-ANO 1981 ( HQ )",
+    "year": 2013,
+    "artist_name": "A Cor do Som",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_jWnHVMquFs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Yw7xhInnt6w",
+    "song_title": "MAGIA TROPICAL-A COR DO SOM-VIDEO ORIGINAL-ANO 1982 ( HQ )",
+    "year": 2013,
+    "artist_name": "A Cor do Som",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Yw7xhInnt6w",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_AkPxfQ4h3Ug",
+    "song_title": "ZANZIBAR-A COR DO SOM-VIDEO ORIGINAL-ANO 1980 ( HQ )",
+    "year": 2013,
+    "artist_name": "A Cor do Som",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=AkPxfQ4h3Ug",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ze_ryICgV7g",
+    "song_title": "Coral Resgate - Envolve Me",
+    "year": 2013,
+    "artist_name": "Coral Resgate",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=ze_ryICgV7g",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_-KQ9KVTe6fE",
+    "song_title": "Dallas Country - Saudade",
+    "year": 2013,
+    "artist_name": "Dallas Country",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=-KQ9KVTe6fE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_K4-8XN6yZHE",
+    "song_title": "Dazaranha \"Deixa a Tartaruga Nadar\" CLIPE OFICIAL",
+    "year": 2013,
+    "artist_name": "Dazaranha",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=K4-8XN6yZHE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_-ICHPLLXick",
+    "song_title": "Stoop Goodnoise - D.F.C. Official Video",
+    "year": 2013,
+    "artist_name": "DFC",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=-ICHPLLXick",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_tFsou8Szb3M",
+    "song_title": "Engenheiros Do Hawaii - Era Um Garoto Que Como Eu Amava Os Beatles E Os Rolling Stones",
+    "year": 2013,
+    "artist_name": "Engenheiros do Hawaii",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=tFsou8Szb3M",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6Y9Yim8VtT0",
+    "song_title": "Engenheiros Do Hawaii - A Perigo",
+    "year": 2013,
+    "artist_name": "Engenheiros do Hawaii",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=6Y9Yim8VtT0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_4jRVaN520wM",
+    "song_title": "Engenheiros Do Hawaii - Terra De Gigantes",
+    "year": 2013,
+    "artist_name": "Engenheiros do Hawaii",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=4jRVaN520wM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_CCYqXxBOJ9g",
+    "song_title": "Engenheiros Do Hawaii - Alivio Imediato",
+    "year": 2013,
+    "artist_name": "Engenheiros do Hawaii",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=CCYqXxBOJ9g",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_hOayu5Xdtcs",
+    "song_title": "Engenheiros Do Hawaii - A Montanha",
+    "year": 2013,
+    "artist_name": "Engenheiros do Hawaii",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hOayu5Xdtcs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_1wdAT7AGoIg",
+    "song_title": "Engenheiros Do Hawaii - A Promessa",
+    "year": 2013,
+    "artist_name": "Engenheiros do Hawaii",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=1wdAT7AGoIg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_PeZrW8QUWqg",
+    "song_title": "Finis Africae - Suite Amazónica  (HQ)",
+    "year": 2013,
+    "artist_name": "Finis Africae",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=PeZrW8QUWqg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_JsLWu4ZN9hg",
+    "song_title": "Drowning Pool - \"One Finger and a Fist\" (Official Music Video)",
+    "year": 2013,
+    "artist_name": "Fist",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=JsLWu4ZN9hg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_oGjcBYTVSHg",
+    "song_title": "Garotos da Rua - Tô de Saco Cheio (Clip), 1986",
+    "year": 2013,
+    "artist_name": "Garotos da Rua",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=oGjcBYTVSHg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ksL2bxcSHxI",
+    "song_title": "NO BARULHO DO MEU RELHO O LEK LEK GAUDÉRIO  [CLIPE OFICIAL] GAROTOS DE OURO",
+    "year": 2013,
+    "artist_name": "Garotos de Ouro",
+    "artist_genre": "Regional",
+    "youtube_link": "https://www.youtube.com/watch?v=ksL2bxcSHxI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_lvBOZCrJsAI",
+    "song_title": "Electric Light Orchestra - Livin' Thing (Official Video)",
+    "year": 2013,
+    "artist_name": "Grupo Elo",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=lvBOZCrJsAI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Up4WjdabA2c",
+    "song_title": "Electric Light Orchestra - Last Train to London (Official Video)",
+    "year": 2013,
+    "artist_name": "Grupo Elo",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=Up4WjdabA2c",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_WxjITEdZbWY",
+    "song_title": "Quer Seguir - Grupo Elo",
+    "year": 2013,
+    "artist_name": "Grupo Elo",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=WxjITEdZbWY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_-TdbsZg6CC4",
+    "song_title": "HATEEN - DEPOIS QUE TODOS VÃO EMBORA - Videoclipe Oficial",
+    "year": 2013,
+    "artist_name": "Hateen",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=-TdbsZg6CC4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_cIAkLVXoLAQ",
+    "song_title": "HATEEN - OBRIGADO TEMPESTADE (CLIPE OFICIAL)",
+    "year": 2013,
+    "artist_name": "Hateen",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=cIAkLVXoLAQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_9zvKNuyEqPY",
+    "song_title": "HEVO84 feat. Bonde da Stronda - Minha Pira",
+    "year": 2013,
+    "artist_name": "Hevo84",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=9zvKNuyEqPY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_N04YaKlUjqE",
+    "song_title": "Homens de Marte - Cena de Cinema",
+    "year": 2013,
+    "artist_name": "Homens de Marte",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=N04YaKlUjqE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_VO-3ut79haQ",
+    "song_title": "DVD Jeito moleque - Me faz feliz (Ao vivo)",
+    "year": 2013,
+    "artist_name": "Jeito Moleque",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=VO-3ut79haQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_n-uH67Bd1To",
+    "song_title": "John Bala Jones - Ei moleque",
+    "year": 2013,
+    "artist_name": "John Bala Jones",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=n-uH67Bd1To",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6goGc7H7ahQ",
+    "song_title": "John Bala Jones - Na Ladeira",
+    "year": 2013,
+    "artist_name": "John Bala Jones",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=6goGc7H7ahQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_YFeIlhwjo5M",
+    "song_title": "John Bala Jones -  Chuva",
+    "year": 2013,
+    "artist_name": "John Bala Jones",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=YFeIlhwjo5M",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_gNwh7sa-C20",
+    "song_title": "John Bala Jones - Cartel",
+    "year": 2013,
+    "artist_name": "John Bala Jones",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=gNwh7sa-C20",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ppdkWi0613c",
+    "song_title": "Jota Quest - Mandou Bem ft. Nile Rodgers",
+    "year": 2013,
+    "artist_name": "Jota Quest",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ppdkWi0613c",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_2HCy0b3HR9A",
+    "song_title": "Katsbarnea Paulinho Makuko Acústico - Viagem de Oração",
+    "year": 2013,
+    "artist_name": "Katsbarnea",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=2HCy0b3HR9A",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_hoJoAbMU0hM",
+    "song_title": "Katsbarnea Paulinho Makuko - Cristo ou Barrabás",
+    "year": 2013,
+    "artist_name": "Katsbarnea",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hoJoAbMU0hM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_99N_kquF2yE",
+    "song_title": "Mamonas Assassinas  Vira - Vira",
+    "year": 2013,
+    "artist_name": "Mamonas Assassinas",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=99N_kquF2yE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_IQGrtrEdPiU",
+    "song_title": "F4 - Can't Help Falling In Love 迪士尼 星際寶貝 中文主題曲",
+    "year": 2013,
+    "artist_name": "Metr\\'f4",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=IQGrtrEdPiU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_K-y1FcAb56o",
+    "song_title": "Mukeka di Rato - Atletas de Fristo",
+    "year": 2013,
+    "artist_name": "Mukeka di Rato",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=K-y1FcAb56o",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_YlWeZnN_pH4",
+    "song_title": "Mundo Livre S/A - Eduarda Fissura do Átomo",
+    "year": 2013,
+    "artist_name": "Mundo Livre S/A",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=YlWeZnN_pH4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_4WVdtuI60Go",
+    "song_title": "Mostra Terruá 2013 | Madame Saatan",
+    "year": 2013,
+    "artist_name": "Madame Saatan",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=4WVdtuI60Go",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_PiZHNw1MtzI",
+    "song_title": "AC/DC - Who Made Who (Official HD Video)",
+    "year": 2013,
+    "artist_name": "Nenhum de N\\'f3s",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=PiZHNw1MtzI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_hfp4aal3yvA",
+    "song_title": "16 - Isso é Olho Seco",
+    "year": 2013,
+    "artist_name": "Olho Seco",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=hfp4aal3yvA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_gU2fOYLfmNw",
+    "song_title": "olodum 25 anos ao vivo Primera parte",
+    "year": 2013,
+    "artist_name": "Olodum",
+    "artist_genre": "Axé",
+    "youtube_link": "https://www.youtube.com/watch?v=gU2fOYLfmNw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_780-_d1OZL8",
+    "song_title": "Originais do Samba | Do Lado Direito da Rua Direita",
+    "year": 2013,
+    "artist_name": "Os Originais do Samba",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=780-_d1OZL8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_crJHA4yPnyQ",
+    "song_title": "Os Britos - Dia Comum",
+    "year": 2013,
+    "artist_name": "Os Britos",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=crJHA4yPnyQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_xPaKT8Hnknk",
+    "song_title": "Branca - Palavrantiga (Vídeo Ao Vivo)",
+    "year": 2013,
+    "artist_name": "Palavrantiga",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=xPaKT8Hnknk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_te4Plnk7rGk",
+    "song_title": "Rio Torto - Palavrantiga (Vídeo Ao Vivo)",
+    "year": 2013,
+    "artist_name": "Palavrantiga",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=te4Plnk7rGk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_fL_dbkELG4M",
+    "song_title": "Os Paralamas Do Sucesso - Alagados - Clipe Oficial",
+    "year": 2013,
+    "artist_name": "Paralamas do Sucesso",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=fL_dbkELG4M",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_kPrWzsrpHis",
+    "song_title": "Pato Fu - Eu (Videoclip)",
+    "year": 2013,
+    "artist_name": "Pato Fu",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=kPrWzsrpHis",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_zZbsQpfFsB0",
+    "song_title": "Pato Fu - Antes que seja tarde (Videoclip)",
+    "year": 2013,
+    "artist_name": "Pato Fu",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=zZbsQpfFsB0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6an5bVfQ1gY",
+    "song_title": "WENDY RULE - Penelope (Official Music Video)",
+    "year": 2013,
+    "artist_name": "Penelope",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=6an5bVfQ1gY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_1aWZRDtbJ9o",
+    "song_title": "De o seu Melhor",
+    "year": 2013,
+    "artist_name": "Raiz Coral",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=1aWZRDtbJ9o",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6JU3yH00Bxs",
+    "song_title": "Mais - Raiz Coral",
+    "year": 2013,
+    "artist_name": "Raiz Coral",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=6JU3yH00Bxs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_BPbCLtBl_g4",
+    "song_title": "O Rappa - Anjos \"Pra Quem Tem Fé\"  (Webclipe) #novosomdorappa",
+    "year": 2013,
+    "artist_name": "O Rappa",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=BPbCLtBl_g4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_vgZwa7GKRCA",
+    "song_title": "O Rappa - Auto-Reverse (Clipe Oficial)",
+    "year": 2013,
+    "artist_name": "O Rappa",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=vgZwa7GKRCA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_8FtrRR_YIPI",
+    "song_title": "Resgate - Vou me lembrar (Ao Vivo)",
+    "year": 2013,
+    "artist_name": "Resgate",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=8FtrRR_YIPI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_pBwH0XOb6dk",
+    "song_title": "Newsboys - Restart (Lyric Video)",
+    "year": 2013,
+    "artist_name": "Restart",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=pBwH0XOb6dk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_JGsKMopZwT8",
+    "song_title": "Rouge - Raga tanga(Official music vídeo)",
+    "year": 2013,
+    "artist_name": "Rouge",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=JGsKMopZwT8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_tBxf_gp2Xho",
+    "song_title": "Secos e Molhados - O Vira",
+    "year": 2013,
+    "artist_name": "Secos e Molhados",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=tBxf_gp2Xho",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_j66BFb8eqNo",
+    "song_title": "Minha Herança - Toque No Altar",
+    "year": 2013,
+    "artist_name": "Toque no Altar",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=j66BFb8eqNo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_GUoBKcB7r0U",
+    "song_title": "Davi Sacer - Toque no Altar (DVD No Caminho do Milagre)",
+    "year": 2013,
+    "artist_name": "Toque no Altar",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=GUoBKcB7r0U",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_XTOqThmcWvw",
+    "song_title": "TOQUE NO ALTAR - Se a tua voz ouvir - DVD Deus de Promessas",
+    "year": 2013,
+    "artist_name": "Toque no Altar",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=XTOqThmcWvw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_NAH7x7SucwQ",
+    "song_title": "Tihuana - Minha Rainha  (Feat. Digão - Raimundos)  Video Clip Oficial",
+    "year": 2013,
+    "artist_name": "Tihuana",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=NAH7x7SucwQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_UnEfehbaoBs",
+    "song_title": "Tihuana - Vem Pra Festa (Vídeo Oficial)",
+    "year": 2013,
+    "artist_name": "Tihuana",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=UnEfehbaoBs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_hIXPOhNozlc",
+    "song_title": "Tihuana - Tropa de Elite (Ao Vivo no Estúdio Showlivre 2013)",
+    "year": 2013,
+    "artist_name": "Tihuana",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hIXPOhNozlc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_MPYgs_c-3nQ",
+    "song_title": "Uakti | Tiquiê River / Japurá River  (Philip Glass) | Instrumental SESC Brasil",
+    "year": 2013,
+    "artist_name": "Uakti",
+    "artist_genre": "Instrumental",
+    "youtube_link": "https://www.youtube.com/watch?v=MPYgs_c-3nQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_YtFs4emQixk",
+    "song_title": "Uakti | Variações sobre \"Águas de Março\" (Antônio Carlos Jobim) | Instrumental SESC Brasil",
+    "year": 2013,
+    "artist_name": "Uakti",
+    "artist_genre": "Instrumental",
+    "youtube_link": "https://www.youtube.com/watch?v=YtFs4emQixk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_HFzY3bJeAxQ",
+    "song_title": "Ciume - Ultraje A Rigor - Clipe Com Audio HQ",
+    "year": 2013,
+    "artist_name": "Ultraje a Rigor",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=HFzY3bJeAxQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ApCxd-ysisA",
+    "song_title": "REBELDE SEM CAUSA-ULTRAJE A RIGOR-CLIPE-ANO 1986 ( HQ )",
+    "year": 2013,
+    "artist_name": "Ultraje a Rigor",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ApCxd-ysisA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_MNGd8qmurxQ",
+    "song_title": "Ultraje a Rigor - Eu Gosto de Mulher",
+    "year": 2013,
+    "artist_name": "Ultraje a Rigor",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=MNGd8qmurxQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_JnidIB6JNVU",
+    "song_title": "Ultraje A Rigor  Acustico MTV",
+    "year": 2013,
+    "artist_name": "Ultraje a Rigor",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=JnidIB6JNVU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_KfZrHIuCoPo",
+    "song_title": "Quatro por Um - Um Deus Tão Grande (Clipe Oficial MK Music em HD)",
+    "year": 2013,
+    "artist_name": "Uno de Deus",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=KfZrHIuCoPo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_7YDPNl7PeUU",
+    "song_title": "Alice In Chains - Voices",
+    "year": 2013,
+    "artist_name": "Voices",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=7YDPNl7PeUU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_R_3u7aspmDY",
+    "song_title": "MEW - Am I Wry? No",
+    "year": 2013,
+    "artist_name": "Wry",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=R_3u7aspmDY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_7Y-cWQCB2_U",
+    "song_title": "Zeca Baleiro - Price Tag (DVD Calma Aí, Coração)",
+    "year": 2013,
+    "artist_name": "Zeca Baleiro",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=7Y-cWQCB2_U",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_QOrrxu9PNxo",
+    "song_title": "Documentário Jazz Brasileiro - Zimbo Trio [Full HD 1080]",
+    "year": 2013,
+    "artist_name": "Zimbo Trio",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=QOrrxu9PNxo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_crruMnUlGcY",
+    "song_title": "Tom Jobim, Vinicius de Moraes, Toquinho e Miucha (Ao Vivo na Itália)",
+    "year": 2013,
+    "artist_name": "Tom Jobim",
+    "artist_genre": "Bossa Nova",
+    "youtube_link": "https://www.youtube.com/watch?v=crruMnUlGcY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_9HRu3_S9N5Y",
+    "song_title": "TOM JOBIM  One Note Samba & Desafinado  1964",
+    "year": 2013,
+    "artist_name": "Tom Jobim",
+    "artist_genre": "Bossa Nova",
+    "youtube_link": "https://www.youtube.com/watch?v=9HRu3_S9N5Y",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ukick72Qafc",
+    "song_title": "Brantley Gilbert - Bottoms Up (Official Music Video)",
+    "year": 2013,
+    "artist_name": "Jo\\'e3o Gilberto",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ukick72Qafc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_VI57QHL6ge0",
+    "song_title": "Joe Satriani - Always With Me, Always With You (Official HD Video)",
+    "year": 2013,
+    "artist_name": "Jo\\'e3o Gilberto",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=VI57QHL6ge0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_suia_i5dEZc",
+    "song_title": "Construção | Chico Buarque (Vídeo Oficial)",
+    "year": 2013,
+    "artist_name": "Chico Buarque",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=suia_i5dEZc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_8Ix5U2EffJs",
+    "song_title": "Chico Buarque  Show DVD Carreira -1",
+    "year": 2013,
+    "artist_name": "Chico Buarque",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=8Ix5U2EffJs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_plDmRyYjXgQ",
+    "song_title": "Chico Buarque l Cotidiano (Vídeo Oficial)",
+    "year": 2013,
+    "artist_name": "Chico Buarque",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=plDmRyYjXgQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_orPhkLpX3ps",
+    "song_title": "Caetano Veloso - A Bossa Nova É Foda",
+    "year": 2013,
+    "artist_name": "Caetano Veloso",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=orPhkLpX3ps",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Zq8Zu85Y2D4",
+    "song_title": "Corre e olha o céu | Cartola",
+    "year": 2013,
+    "artist_name": "Cartola",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=Zq8Zu85Y2D4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_dB6mPGLj2J8",
+    "song_title": "O Mundo é um moinho | Cartola",
+    "year": 2013,
+    "artist_name": "Cartola",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=dB6mPGLj2J8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_lEm-yiQOesc",
+    "song_title": "A Triste partida, Luiz Gonzaga",
+    "year": 2013,
+    "artist_name": "Luiz Gonzaga",
+    "artist_genre": "Regional",
+    "youtube_link": "https://www.youtube.com/watch?v=lEm-yiQOesc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_kDe3qOhrJLo",
+    "song_title": "Milton Nascimento - Travessia",
+    "year": 2013,
+    "artist_name": "Milton Nascimento",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=kDe3qOhrJLo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_IElS9cxpImA",
+    "song_title": "Milton Nascimento - Maria Maria",
+    "year": 2013,
+    "artist_name": "Milton Nascimento",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=IElS9cxpImA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_3e9-hRcxv9A",
+    "song_title": "Milton Nascimento - Amor De Índio",
+    "year": 2013,
+    "artist_name": "Milton Nascimento",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=3e9-hRcxv9A",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_tFvLA_zrrCA",
+    "song_title": "Milton Nascimento - Anima",
+    "year": 2013,
+    "artist_name": "Milton Nascimento",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=tFvLA_zrrCA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_hik-KOAF5ng",
+    "song_title": "Milton Nascimento - Raça",
+    "year": 2013,
+    "artist_name": "Milton Nascimento",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=hik-KOAF5ng",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_WHsPCkA1aI0",
+    "song_title": "Milton Nascimento - Promessas Do Sol",
+    "year": 2013,
+    "artist_name": "Milton Nascimento",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=WHsPCkA1aI0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_G9RS2BkbqHw",
+    "song_title": "Bola de Meia, Bola de Gude - Milton Nascimento | Videoclipe oficial (Projeto 3 Clipes - 1 Curta)",
+    "year": 2013,
+    "artist_name": "Milton Nascimento",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=G9RS2BkbqHw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_frHaMD7eVfA",
+    "song_title": "Milton Nascimento - Cais",
+    "year": 2013,
+    "artist_name": "Milton Nascimento",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=frHaMD7eVfA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_F-qrrbsE5R0",
+    "song_title": "Arnaldo Baptista e Sean Lennon MTV",
+    "year": 2013,
+    "artist_name": "Arnaldo Baptista",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=F-qrrbsE5R0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_4nIiZlOWqug",
+    "song_title": "Gal Costa - Um Dia De Domingo",
+    "year": 2013,
+    "artist_name": "Gal Costa",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=4nIiZlOWqug",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ORP1LBAV9G8",
+    "song_title": "Criolo, Emicida, Mano Brown - Vida Loka I",
+    "year": 2013,
+    "artist_name": "Mano Brown",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=ORP1LBAV9G8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_dkisd1CpD4Q",
+    "song_title": "Criolo, Emicida, Mano Brown - Capítulo 4, Versículo 3",
+    "year": 2013,
+    "artist_name": "Mano Brown",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=dkisd1CpD4Q",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_UPMPye2gg3o",
+    "song_title": "Hermeto Pascoal - Mistérios do Corpo",
+    "year": 2013,
+    "artist_name": "Hermeto Pascoal",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=UPMPye2gg3o",
+    "imvdb_url": null,
+    "source": "YouTube"
+  }
+]

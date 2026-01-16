@@ -1,0 +1,30 @@
+[
+  {
+    "id": 295046530627,
+    "song_title": "This little light of mine",
+    "year": 1960,
+    "artist_name": "Sister Rosetta Tharpe",
+    "artist_genre": "R&B",
+    "youtube_link": "https://www.youtube.com/watch?v=Qj3fpujjFis",
+    "nationality": "INTL"
+  },
+  {
+    "id": 248375910642,
+    "song_title": "The Twist",
+    "year": 1960,
+    "artist_name": "Chubby Checker",
+    "artist_genre": "Pop, R&B",
+    "youtube_link": "https://www.youtube.com/watch?v=im9XuJJXylw",
+    "nationality": "INTL"
+  },
+  {
+    "id": "yt_8zw0P8jAGlA",
+    "song_title": "The Banana Splits - Tra La La",
+    "year": 1960,
+    "artist_name": "Banana Split",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=B92iagLJDFE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1768362020333618,
+    "song_title": "Não Uso Sapato",
+    "year": 2003,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=yVTZCqM4D-M"
+  },
+  {
+    "id": 1768362020333621,
+    "song_title": "Zóio De Lula (Ao Vivo)",
+    "year": 2003,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=JiVsAnIgBIs"
+  },
+  {
+    "id": 1768362020333706,
+    "song_title": "Zóio De Lula (Extra)",
+    "year": 2003,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=SttHLiINvCw"
+  },
+  {
+    "id": 1768362020333721,
+    "song_title": "Papo Reto (Prazer É Sexo O Resto É Negócio)",
+    "year": 2003,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=2p0NWp9kuHw"
+  },
+  {
+    "id": 1768362020333747,
+    "song_title": "Vicios E Virtudes",
+    "year": 2003,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=5FZ76ztmrkY"
+  },
+  {
+    "id": 1768362020333777,
+    "song_title": "Beat Box",
+    "year": 2003,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=s8pjfrmgD18"
+  },
+  {
+    "id": 1768362020333788,
+    "song_title": "Papo Reto",
+    "year": 2003,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=tZqRfuGpUOA"
+  },
+  {
+    "id": 1768364843015898,
+    "song_title": "A Banca (Ratata É Bicho Solto)",
+    "year": 2003,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=ezGtQBmUozI"
+  },
+  {
+    "id": 237646350419,
+    "song_title": "Máscara",
+    "year": 2003,
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=W4-G-itMgjI",
+    "imvdb_url": "https://imvdb.com/video/pitty/mascara",
+    "artist": "Pitty"
+  },
+  {
+    "id": 407403511566,
+    "song_title": "Admirável Chip Novo",
+    "year": 2003,
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=aXJ_Ub1xbhw",
+    "imvdb_url": "https://imvdb.com/video/pitty/admiravel-chip-novo",
+    "artist": "Pitty"
+  },
+  {
+    "id": 104813329215,
+    "song_title": "Teto de Vidro",
+    "year": 2003,
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hWhl6ijsAXw",
+    "imvdb_url": "https://imvdb.com/video/pitty/teto-de-vidro",
+    "artist": "Pitty"
+  },
+  {
+    "id": 670659532629,
+    "song_title": "Semana Que Vem",
+    "year": 2003,
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=t_7Fc_wZgEM",
+    "imvdb_url": "https://imvdb.com/video/pitty/semana-que-vem",
+    "artist": "Pitty"
+  },
+  {
+    "id": 124527250187,
+    "song_title": "Murderer",
+    "year": 2003,
+    "artist_name": "Krisiun",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=RvyCH9e32mw",
+    "imvdb_url": "https://imvdb.com/video/krisiun/murderer",
+    "source": "IMVDb"
+  },
+  {
+    "id": 222340836643,
+    "song_title": "Se Deus Não Quisesse",
+    "year": 2003,
+    "artist_name": "Velhas Virgens",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=eyt4taffUYI",
+    "imvdb_url": "https://imvdb.com/video/velhas-virgens/se-deus-nao-quisesse",
+    "source": "IMVDb"
+  }
+]

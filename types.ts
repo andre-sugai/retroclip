@@ -23,6 +23,7 @@ export interface Video {
   source?: 'youtube' | 'vimeo' | 'unknown';
   artist_genre?: string;
   nationality?: 'BR' | 'INTL';
+  is_show?: boolean;
 }
 
 export interface SearchParams {

@@ -57,7 +57,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
         setShowInfo(false);
     }, 15000);
   };
-
   useEffect(() => {
     if (currentVideo) {
         activateInfo();
@@ -66,6 +65,34 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
         if (timeoutRef.current) clearTimeout(timeoutRef.current);
     };
   }, [currentVideo?.id]);
+
+  // Handle Media Session API to prevent external pausing (Bluetooth/Hardware keys)
+  useEffect(() => {
+    if ('mediaSession' in navigator) {
+      navigator.mediaSession.setActionHandler('pause', () => {
+        // Do nothing to prevent pausing, or force play if needed
+        console.log('External pause blocked');
+        if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+            playerInstanceRef.current.playVideo();
+        }
+      });
+      navigator.mediaSession.setActionHandler('stop', () => {
+          console.log('External stop blocked');
+      });
+      navigator.mediaSession.setActionHandler('play', () => {
+         if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+            playerInstanceRef.current.playVideo();
+        }
+      });
+    }
+    return () => {
+      if ('mediaSession' in navigator) {
+        navigator.mediaSession.setActionHandler('pause', null);
+        navigator.mediaSession.setActionHandler('stop', null);
+        navigator.mediaSession.setActionHandler('play', null);
+      }
+    };
+  }, []);
 
   useEffect(() => {
     onEndedRef.current = onEnded;
@@ -135,10 +162,12 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
                         event.target.playVideo();
                         event.target.playVideo();
                         // event.target.setLoop(true); // Removed to fix infinite loop issue
-                        // Unmute after starting
-                        setTimeout(() => {
-                            event.target.unMute();
-                        }, 100);
+                        // Unmute after starting only if not muted
+                        if (!isMuted) {
+                            setTimeout(() => {
+                                event.target.unMute();
+                            }, 100);
+                        }
                     }
                     startProgressInterval(event.target);
                 },
@@ -188,10 +217,12 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
       if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
           if (isPlaying) {
               playerInstanceRef.current.playVideo();
-              // Try unmuting if playing
-              setTimeout(() => {
-                  try { playerInstanceRef.current.unMute(); } catch(e) {}
-              }, 100);
+              // Try unmuting if playing and not muted
+              if (!isMuted) {
+                  setTimeout(() => {
+                      try { playerInstanceRef.current.unMute(); } catch(e) {}
+                  }, 100);
+              }
           } else {
               playerInstanceRef.current.pauseVideo();
           }

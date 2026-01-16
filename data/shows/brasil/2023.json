@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yt_UBJEA5eSIG4",
+    "song_title": "Vitor Kley  - A Bolha Ao Vivo em São Paulo (Show Completo)",
+    "year": 2023,
+    "artist_name": "A Bolha",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=UBJEA5eSIG4",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "is_show": true
+  },
+  {
+    "id": "yt_pXLOW0bglv4",
+    "song_title": "Acústico Planta & Raiz  2022 - Ao Vivo em SP - SHOW COMPLETO",
+    "year": 2023,
+    "artist_name": "Planta & Raiz",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=pXLOW0bglv4",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "is_show": true
+  },
+  {
+    "id": "yt_W_tFNaK4VcI",
+    "song_title": "Rita Lee - Acústico MTV (DVD Completo Ao Vivo)",
+    "year": 2023,
+    "artist_name": "Rita Lee",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=W_tFNaK4VcI",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "is_show": true
+  }
+]

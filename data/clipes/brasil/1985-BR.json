@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1768372405303553,
+    "song_title": "Será",
+    "year": 1985,
+    "artist_name": "Legião Urbana",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hZg1r7BOXVA"
+  },
+  {
+    "id": 127314100138,
+    "song_title": "Ainda É Cedo",
+    "year": 1985,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=veBX-9Rx9kk",
+    "imvdb_url": "https://imvdb.com/video/legião-urbana/ainda-e-cedo",
+    "artist": "Legião Urbana"
+  },
+  {
+    "id": 165438681922,
+    "song_title": "Carta aos Missionários",
+    "year": 1985,
+    "artist_name": "Uns E Outros",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=cMphV9CMXwg",
+    "imvdb_url": "https://imvdb.com/video/uns-e-outros/carta-aos-missionarios",
+    "source": "IMVDb"
+  },
+  {
+    "id": "yt_2ZDB7j3LcCo",
+    "song_title": "Nós Vamos Invadir Sua Praia",
+    "year": 1985,
+    "artist_name": "Ultraje a Rigor",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=2ZDB7j3LcCo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  }
+]

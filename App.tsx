@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { PlayerState, SearchParams, Video } from './types';
-import { fetchVideosByCriteria, fetchVideoById } from './services/imvdbService';
+import { fetchVideosByCriteria, fetchVideoById, TOTAL_VIDEOS_COUNT, TOTAL_CLIPS, TOTAL_SHOWS, GENRE_MAP } from './services/imvdbService';
 import { Sector1Player } from './components/Sector1Player';
 import { Sector2Search } from './components/Sector2Search';
 import { Sector3Playlist } from './components/Sector3Playlist';
@@ -134,6 +134,43 @@ const App: React.FC = () => {
       loadDeepLinkedVideo();
     }
   }, []);
+
+  // Determine available genres based on current video list
+  const availableGenres = useMemo(() => {
+    const genres = new Set<string>();
+    
+    // Always include 'all'
+    genres.add('all');
+
+    // Check availability in current video list
+    allVideos.forEach(video => {
+      // Check for shows
+      if (video.is_show) {
+        genres.add('full_show');
+      }
+
+      // Check for acoustic
+      if (video.artist_genre === 'acousticShow' || (video.artist_genre && video.artist_genre.includes('acousticShow'))) {
+        genres.add('acoustic');
+      }
+
+      // Check for standard genres
+      if (video.artist_genre) {
+        Object.entries(GENRE_MAP).forEach(([id, keywords]) => {
+          if (keywords.some(k => video.artist_genre.includes(k) || video.artist_genre === k)) {
+            genres.add(id);
+          }
+        });
+      }
+
+      // Check for Classics
+      if (video.year && video.year >= 1960 && video.year <= 1999) {
+        genres.add('Clássicos');
+      }
+    });
+
+    return genres;
+  }, [allVideos]);
 
   // Handle Share
   const handleShare = async () => {
@@ -296,34 +333,15 @@ const App: React.FC = () => {
     if (genreId) {
       if (genreId === 'Clássicos') {
         filteredQueue = sourceVideos.filter(video => video.year && video.year >= 1960 && video.year <= 1999);
+      } else if (genreId === 'full_show') {
+         // Filter videos flagged as shows
+         filteredQueue = sourceVideos.filter(video => video.is_show);
       } else if (genreId === 'acoustic') {
         filteredQueue = sourceVideos.filter(video => video.artist_genre === 'acousticShow' || (video.artist_genre && video.artist_genre.includes('acousticShow')));
       } else {
-        // Map UI Genre ID to matching sub-genres/keywords in artist_genre
-        const genreMap: Record<string, string[]> = {
-          'Rock Alternativo': ['Alternative Rock', 'Grunge', 'Indie Rock', 'Post-Grunge', 'Shoegaze', 'Britpop', 'Folk Rock', 'Alternative'],
-          'Punk': ['Punk', 'Pop Punk', 'Ska Punk', 'Hardcore'],
-          'Metal': ['Metal', 'Heavy Metal', 'Thrash Metal', 'Nu Metal', 'Industrial Metal', 'Groove Metal', 'Death Metal', 'Black Metal'],
-          'Rap': ['Hip Hop', 'Rap', 'Gangsta Rap', 'Alternative Hip Hop', 'Jazz Rap'],
-          'Pop': ['Pop', 'Pop Rock', 'Synth-pop', 'Teen Pop', 'Dance-Pop', 'Europop', 'Boy Band', 'Girl Group'],
-          'Dance': ['Dance', 'Eurodance', 'House', 'Techno', 'Trance', 'Electronic', 'Disco'],
-          'Eletronico': ['Electronic', 'Techno', 'Trance', 'House', 'Big Beat', 'Trip Hop', 'Electronica', 'Industrial', 'Drum and Bass', 'Jungle'],
-          'Hard Rock': ['Hard Rock', 'Glam Metal', 'Stoner Rock'],
-          'Hardcore': ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
-          'Industrial': ['Industrial', 'Industrial Metal', 'Industrial Rock'],
-          'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
-          'Indie': ['Indie', 'Indie Rock', 'Indie Pop', 'Garage Rock', 'Shoegaze', 'Britpop'],
-          'Rock': ['Rock', 'Classic Rock', 'Rock and Roll', 'Southern Rock'],
-          'R&B': ['R&B', 'Soul', 'Funk', 'Neo-Soul', 'Contemporary R&B'],
-          'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
-          'K-Pop': ['K-Pop', 'Korean Pop'],
-          'Folk': ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk'],
-          'Gótico': ['Gótico', 'Goth', 'Gothic Rock', 'Dark Wave', 'Post-Punk', 'Ethereal Wave', 'Gothic Metal'],
-          'Ska': ['Ska', 'Ska Punk', 'Two Tone', 'Rocksteady'],
-          'Reggae': ['Reggae', 'Reggaeton']
-        };
-
-        const targetGenres = genreMap[genreId] || [];
+         // Map UI Genre ID to matching sub-genres/keywords in artist_genre
+         // Uses exported GENRE_MAP from service
+         const targetGenres = GENRE_MAP[genreId] || [];
         
         if (targetGenres.length > 0) {
           filteredQueue = sourceVideos.filter(video => {
@@ -509,7 +527,7 @@ const App: React.FC = () => {
              <h1 className="text-xl font-black tracking-tighter uppercase leading-none">
                Grooov<span className="text-primary">io</span>
              </h1>
-             <p className="text-[10px] text-muted-foreground font-mono">V 1.5.0 // ARIA-COMPLIANT</p>
+             <p className="text-[10px] text-muted-foreground font-mono">V 1.7.0 // ARIA-COMPLIANT</p>
           </div>
 
           <div className="flex gap-2 pointer-events-auto">
@@ -642,6 +660,7 @@ const App: React.FC = () => {
             onSelectGenre={handleGenreSelect}
             onSelectVideo={handleSelectVideo}
             language={language}
+            availableGenres={availableGenres}
         />
       </aside>
 

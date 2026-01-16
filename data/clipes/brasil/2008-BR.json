@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1768362020333722,
+    "song_title": "Pipeline",
+    "year": 2008,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=A17jyAkKp80"
+  },
+  {
+    "id": 1768362020333724,
+    "song_title": "Aonde Não Existe A Paz Não Existe O Amor (Extra)",
+    "year": 2008,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=ZqhEuWrHaS0"
+  },
+  {
+    "id": 1768364869599319,
+    "song_title": "Ai ai ai ai",
+    "year": 2008,
+    "artist_name": "Vanessa da Mata & Charlie Brown Jr.",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=o2kuUUZ-0o8"
+  },
+  {
+    "id": 289502919887,
+    "song_title": "Move",
+    "year": 2008,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=E7eq4RFf0Sc",
+    "imvdb_url": "https://imvdb.com/video/css/move",
+    "artist": "CSS"
+  },
+  {
+    "id": 104748620701,
+    "song_title": "Rat Is Dead (Rage)",
+    "year": 2008,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7yUZmE8RSB8",
+    "imvdb_url": "https://imvdb.com/video/css/rat-is-dead-rage",
+    "artist": "CSS"
+  },
+  {
+    "id": 147444095325,
+    "song_title": "Left Behind",
+    "year": 2008,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=vIhJC2-UNZA",
+    "imvdb_url": "https://imvdb.com/video/css/left-behind",
+    "artist": "CSS"
+  },
+  {
+    "id": 258121045943,
+    "song_title": "Cedo ou Tarde",
+    "year": 2008,
+    "artist_name": "Nx Zero",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=XdglM81b4g8",
+    "imvdb_url": "https://imvdb.com/video/nx-zero/cedo-ou-tarde",
+    "source": "IMVDb"
+  },
+  {
+    "id": 253237971270,
+    "song_title": "Daqui Pra Frente",
+    "year": 2008,
+    "artist_name": "Nx Zero",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=CTDSAL3ZFfs",
+    "imvdb_url": "https://imvdb.com/video/nx-zero/daqui-pra-frente",
+    "source": "IMVDb"
+  },
+  {
+    "id": 150999774854,
+    "song_title": "Mais",
+    "year": 2008,
+    "artist_name": "Capital Inicial",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=AWthYzfJNWU",
+    "imvdb_url": "https://imvdb.com/video/capital-inicial/mais",
+    "source": "IMVDb"
+  },
+  {
+    "id": 220953310939,
+    "song_title": "Eu Vou Estar",
+    "year": 2008,
+    "artist_name": "Capital Inicial",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=2ws3xjh_XE4",
+    "imvdb_url": "https://imvdb.com/video/capital-inicial/eu-vou-estar",
+    "source": "IMVDb"
+  },
+  {
+    "id": 240314828161,
+    "song_title": "Quatro Vezes Você",
+    "year": 2008,
+    "artist_name": "Capital Inicial",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=RppLAa-2gbw",
+    "imvdb_url": "https://imvdb.com/video/capital-inicial/quatro-vezes-voce",
+    "source": "IMVDb"
+  },
+  {
+    "id": 151412663776,
+    "song_title": "Olhos Vermelhos",
+    "year": 2008,
+    "artist_name": "Capital Inicial",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=QdDMf__bCg0",
+    "imvdb_url": "https://imvdb.com/video/capital-inicial/olhos-vermelhos",
+    "source": "IMVDb"
+  },
+  {
+    "id": "yt_xPBO-fzwIK0",
+    "song_title": "Quebra Aê",
+    "year": 2008,
+    "artist_name": "Asa de guia",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=xPBO-fzwIK0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_xF-oQdybwN4",
+    "song_title": "Wait Til Tomorrow",
+    "year": 1969,
+    "artist_name": "Banana Split",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=xF-oQdybwN4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Jvj3fg5hvcQ",
+    "song_title": "Vem Pra Minha Vida",
+    "year": 2008,
+    "artist_name": "Br'oz",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=Jvj3fg5hvcQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_CC4AvvxuHsw",
+    "song_title": "Are You Like I Used to Be?",
+    "year": 2008,
+    "artist_name": "Carbona",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=CC4AvvxuHsw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_NwKWio0_KhI",
+    "song_title": "Asphixia",
+    "year": 2008,
+    "artist_name": "Chipset Zero",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=NwKWio0_KhI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Wrje__7n800",
+    "song_title": "Guerra, Queda e Morte",
+    "year": 2008,
+    "artist_name": "Confronto",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=Wrje__7n800",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_tysyp1fhBGg",
+    "song_title": "Confronto",
+    "year": 2008,
+    "artist_name": "Confronto",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=tysyp1fhBGg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_57TUKUCBKOw",
+    "song_title": "Você",
+    "year": 2008,
+    "artist_name": "Dead Fish",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=57TUKUCBKOw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_kG8MvPz2sn4",
+    "song_title": "Bem-Vindo ao Clube",
+    "year": 2008,
+    "artist_name": "Dead Fish",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=kG8MvPz2sn4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_2zdb2990Rg0",
+    "song_title": "Bang Bang",
+    "year": 2008,
+    "artist_name": "Dibob",
+    "artist_genre": "Pop Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=2zdb2990Rg0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_2XOL0EckLcg",
+    "song_title": "Só Hoje",
+    "year": 2008,
+    "artist_name": "Jota Quest",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=2XOL0EckLcg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_J8GXwE7Z9Mo",
+    "song_title": "Rubi",
+    "year": 2008,
+    "artist_name": "Ludov",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=J8GXwE7Z9Mo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  
+  {
+    "id": "yt_EkpuciH-xPM",
+    "song_title": "Nem Todo Dia É Igual",
+    "year": 2008,
+    "artist_name": "Maria do Relento",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=EkpuciH-xPM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Wa_X0vKsM4w",
+    "song_title": "Luz do Mundo",
+    "year": 2008,
+    "artist_name": "Militantes",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=Wa_X0vKsM4w",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_uk4grZfFX3s",
+    "song_title": "Amor e o Tempo",
+    "year": 2008,
+    "artist_name": "Nechivile",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=uk4grZfFX3s",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_0PAuxT2rzF4",
+    "song_title": "Era só pra ficar",
+    "year": 2008,
+    "artist_name": "Nechivile",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=0PAuxT2rzF4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_7zhGxF76ibI",
+    "song_title": "Tente entender",
+    "year": 2008,
+    "artist_name": "Nechivile",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=7zhGxF76ibI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_tgmLqjZnhpA",
+    "song_title": "Meu melhor amor",
+    "year": 2008,
+    "artist_name": "Nechivile",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=tgmLqjZnhpA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_7vQRzgtzVZc",
+    "song_title": "Pra sempre quero amar",
+    "year": 2008,
+    "artist_name": "Nechivile",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=7vQRzgtzVZc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_-3nJl47jxpw",
+    "song_title": "Amor sem fim",
+    "year": 2008,
+    "artist_name": "Nechivile",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=-3nJl47jxpw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_nJzlfpV1OhA",
+    "song_title": "Vem me amar",
+    "year": 2008,
+    "artist_name": "Nechivile",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=nJzlfpV1OhA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_OOHFg3Yv28g",
+    "song_title": "Chuva Agora",
+    "year": 2008,
+    "artist_name": "Nove Mil Anjos",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=OOHFg3Yv28g",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_wsb_UZ1be1M",
+    "song_title": "Visionário",
+    "year": 2008,
+    "artist_name": "Nove Mil Anjos",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=wsb_UZ1be1M",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_yzmRc-pg1oU",
+    "song_title": "Pra você passar",
+    "year": 2008,
+    "artist_name": "Os Britos",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=yzmRc-pg1oU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Friok5_Ksw4",
+    "song_title": "Big Stomach",
+    "year": 2008,
+    "artist_name": "Patife Band",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=Friok5_Ksw4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_XDJe4fvR98Y",
+    "song_title": "Fica Comigo",
+    "year": 2008,
+    "artist_name": "Placa Luminosa",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=XDJe4fvR98Y",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Y2Q3QVUV-aY",
+    "song_title": "Mais uma Vez",
+    "year": 2008,
+    "artist_name": "Placa Luminosa",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=Y2Q3QVUV-aY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  
+  
+  {
+    "id": "yt_xiSS-H-csSM",
+    "song_title": "De Longe",
+    "year": 2008,
+    "artist_name": "Tihuana",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=xiSS-H-csSM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  
+  {
+    "id": "yt_Ik8QYT3yISU",
+    "song_title": "Talismã",
+    "year": 2008,
+    "artist_name": "Paulinho da Viola",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=Ik8QYT3yISU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  }
+]

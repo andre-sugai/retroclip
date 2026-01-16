@@ -1,0 +1,356 @@
+[
+  {
+    "id": 208193098515,
+    "song_title": "Alala",
+    "year": 2006,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=2cnOvMFnRvs",
+    "imvdb_url": "https://imvdb.com/video/css/alala",
+    "artist": "CSS"
+  },
+  {
+    "id": 189102256752,
+    "song_title": "Memórias",
+    "year": 2006,
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=LMhHhzHlwW4",
+    "imvdb_url": "https://imvdb.com/video/pitty/memorias",
+    "artist": "Pitty"
+  },
+  {
+    "id": 178234432324,
+    "song_title": "Alala",
+    "year": 2006,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Y70ip5jd-GM",
+    "imvdb_url": "https://imvdb.com/video/css/alala/2",
+    "artist": "CSS"
+  },
+  {
+    "id": 293899681673,
+    "song_title": "Déja Vu",
+    "year": 2006,
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=His5BZcgxj8",
+    "imvdb_url": "https://imvdb.com/video/pitty/deja-vu",
+    "artist": "Pitty"
+  },
+  {
+    "id": 125070815657,
+    "song_title": "Na Sua Estante",
+    "year": 2006,
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=DP3j6hgS4VY",
+    "imvdb_url": "https://imvdb.com/video/pitty/na-sua-estante",
+    "artist": "Pitty"
+  },
+  {
+    "id": 263805356835,
+    "song_title": "Let's Make Love and Listen to Death from Above",
+    "year": 2006,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7agPOt1XZz8",
+    "imvdb_url": "https://imvdb.com/video/css/lets-make-love-and-listen-to-death-from-above",
+    "artist": "CSS"
+  },
+  {
+    "id": 123519134854,
+    "song_title": "Vicious Wrath",
+    "year": 2006,
+    "artist_name": "Krisiun",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=HHtubTOsyLQ",
+    "imvdb_url": "https://imvdb.com/video/krisiun/vicious-wrath",
+    "source": "IMVDb"
+  },
+  {
+    "id": 967646297424,
+    "song_title": "Apenas Um Olhar",
+    "year": 2006,
+    "artist_name": "Nx Zero",
+    "artist_genre": "hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=XMTkk9oNgcw",
+    "imvdb_url": "https://imvdb.com/video/nx-zero/apenas-um-olhar",
+    "source": "IMVDb"
+  },
+  {
+    "id": 627874048164,
+    "song_title": "Além de Mim",
+    "year": 2006,
+    "artist_name": "Nx Zero",
+    "artist_genre": "hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=7gH9e110Ks0",
+    "imvdb_url": "https://imvdb.com/video/nx-zero/alem-de-mim",
+    "source": "IMVDb"
+  },
+  {
+    "id": 240214704211,
+    "song_title": "Eu Quero Ver o Oco",
+    "year": 2006,
+    "artist_name": "Raimundos",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=TQ7V5tbX-DM",
+    "imvdb_url": "https://imvdb.com/video/raimundos/eu-quero-ver-o-oco",
+    "source": "IMVDb"
+  },
+  {
+    "id": "yt_TkiyROxtddk",
+    "song_title": "Conformismo e resistencia",
+    "year": 2006,
+    "artist_name": "Blind Pigs",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=TkiyROxtddk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_I7tXxQAm7s0",
+    "song_title": "Sexperience",
+    "year": 2006,
+    "artist_name": "Cachorro Grande",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=I7tXxQAm7s0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_7agPOt1XZz8",
+    "song_title": "Let's Make Love and Listen to Death From Above",
+    "year": 2006,
+    "artist_name": "Cansei de Ser Sexy",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7agPOt1XZz8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_2cnOvMFnRvs",
+    "song_title": "Alala",
+    "year": 2006,
+    "artist_name": "CSS",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=2cnOvMFnRvs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_nuP5Sq9RAj8",
+    "song_title": "Da Da Da",
+    "year": 2006,
+    "artist_name": "Casaca",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=nuP5Sq9RAj8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_4uj4BgrRhRs",
+    "song_title": "Anjo Samile",
+    "year": 2006,
+    "artist_name": "Casaca",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=4uj4BgrRhRs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_pHAvpv_veKo",
+    "song_title": "Don't Cut My Fingers",
+    "year": 2006,
+    "artist_name": "Chipset Zero",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=pHAvpv_veKo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_EH5tmijERqg",
+    "song_title": "Face the Reality",
+    "year": 2006,
+    "artist_name": "Chipset Zero",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=EH5tmijERqg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_5qC6N0ly_WI",
+    "song_title": "Technotic Red",
+    "year": 2006,
+    "artist_name": "Chipset Zero",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=5qC6N0ly_WI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_GsSHqZEcvOM",
+    "song_title": "Raiz",
+    "year": 2006,
+    "artist_name": "Choldra",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=GsSHqZEcvOM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_NBtPAorIGKY",
+    "song_title": "Além da Cor",
+    "year": 2006,
+    "artist_name": "Choldra",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=NBtPAorIGKY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6ZcA5KmePz4",
+    "song_title": "Enquanto os pés se movem",
+    "year": 2006,
+    "artist_name": "Choldra",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=6ZcA5KmePz4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_T6WcePbDKTE",
+    "song_title": "Casulo",
+    "year": 2006,
+    "artist_name": "Choldra",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=T6WcePbDKTE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_YwNXQOUhC5c",
+    "song_title": "Sincinato - Choldra - Lírio",
+    "year": 2006,
+    "artist_name": "Choldra",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=YwNXQOUhC5c",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_eK6GaWoK4rw",
+    "song_title": "Paranoia Satânica",
+    "year": 2006,
+    "artist_name": "DFC",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=eK6GaWoK4rw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_nUQyOR8oVEQ",
+    "song_title": "Não vou ficar",
+    "year": 2006,
+    "artist_name": "Forgotten Boys",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=nUQyOR8oVEQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Se6U4sAvJk0",
+    "song_title": "Danger Drive",
+    "year": 2006,
+    "artist_name": "Hateen",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=Se6U4sAvJk0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_IwrxiY-ato8",
+    "song_title": "Todo Cuidado",
+    "year": 2006,
+    "artist_name": "John Bala Jones",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=IwrxiY-ato8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_SEIi_uft6Qk",
+    "song_title": "Olho Turco",
+    "year": 2006,
+    "artist_name": "John Bala Jones",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=SEIi_uft6Qk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_BDHU8FhShJY",
+    "song_title": "Kriptonita",
+    "year": 2006,
+    "artist_name": "Ludov",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=BDHU8FhShJY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_64loxCwhXEk",
+    "song_title": "Rap de raiz",
+    "year": 2006,
+    "artist_name": "Mzuri Sana",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=64loxCwhXEk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_TQ7V5tbX-DM",
+    "song_title": "Deus lhe Pague",
+    "year": 2006,
+    "artist_name": "Pitty e Nação Zumbi",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=bcO77UBpLG0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_qVKLWQ6Pzwc",
+    "song_title": "Seja Mais Certo",
+    "year": 2006,
+    "artist_name": "Walverdes",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=qVKLWQ6Pzwc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_JH5gJZ5DpH4",
+    "song_title": "Olha a Minha Cara",
+    "year": 2006,
+    "artist_name": "Canto dos Malditos na Terra do Nunca",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=OpuYJAkV0vc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_JnLr76wJ4ss",
+    "song_title": "Sinceramente",
+    "year": 2006,
+    "artist_name": "Cachorro Grande",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=JnLr76wJ4ss",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_9El8tJ-pTRU",
+    "song_title": "1997",
+    "year": 2006,
+    "artist_name": "Hateen",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=9El8tJ-pTRU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  }
+]
