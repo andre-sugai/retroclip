@@ -530,12 +530,12 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
       {/* Transparent layer to prevent clicks on the YouTube iframe */}
       <div className="absolute inset-0 z-[5] bg-transparent cursor-default" />
 
-      <div className={`absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end p-8 md:p-12 transition-opacity duration-700 ${
+      <div className={`absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end p-5 md:p-12 transition-opacity duration-700 ${
         showInfo ? 'opacity-100' : 'opacity-100 md:opacity-0'
       }`}>
         <div key={currentVideo.id} className="flex flex-col justify-end">
           <div
-            className={`flex items-center gap-3 mb-2 opacity-100 md:opacity-0 ${
+            className={`flex items-center gap-3 mb-1 md:mb-2 opacity-100 md:opacity-0 ${
               showInfo ? 'md:animate-fade-in' : 'md:animate-fade-out'
             }`}
             style={{ animationDelay: showInfo ? '0.1s' : '0s' }}
@@ -550,7 +550,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           </div>
 
           <h1
-            className={`text-4xl md:text-6xl font-black text-white drop-shadow-2xl tracking-tighter uppercase leading-none mb-2 line-clamp-2 opacity-100 md:opacity-0 ${
+            className={`text-2xl md:text-6xl font-black text-white drop-shadow-2xl tracking-tighter uppercase leading-none mb-1 md:mb-2 line-clamp-2 opacity-100 md:opacity-0 ${
               showInfo ? 'md:animate-slide-up' : 'md:animate-slide-down-out'
             }`}
             style={{ animationDelay: showInfo ? '0.2s' : '0s' }}
@@ -559,7 +559,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           </h1>
 
           <p
-            className={`text-xl md:text-2xl text-white/90 font-medium tracking-wide drop-shadow-lg opacity-100 md:opacity-0 ${
+            className={`text-sm md:text-2xl text-white/90 font-medium tracking-wide drop-shadow-lg opacity-100 md:opacity-0 ${
               showInfo ? 'md:animate-fade-in' : 'md:animate-fade-out'
             }`}
             style={{ animationDelay: showInfo ? '0.4s' : '0s' }}
