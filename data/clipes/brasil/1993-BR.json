@@ -68,5 +68,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=UueCjRrQLM4",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_i24kseCONIg",
+    "song_title": "Maricotinha",
+    "year": 1993,
+    "artist_name": "Chico Buarque e Dorival Caymmi",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=i24kseCONIg",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

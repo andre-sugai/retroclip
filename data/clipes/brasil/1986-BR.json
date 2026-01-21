@@ -58,5 +58,25 @@
     "youtube_link": "https://www.youtube.com/watch?v=o7N76QdXc6E",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_HFzY3bJeAxQ",
+    "song_title": "Ciúme",
+    "year": 1986,
+    "artist_name": "Ultraje a Rigor",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=HFzY3bJeAxQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_g3sxSsdB-xw",
+    "song_title": "Essa foi Demais",
+    "year": 1986,
+    "artist_name": "Hermeto Pascoal",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=g3sxSsdB-xw",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

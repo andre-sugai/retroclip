@@ -18,5 +18,25 @@
     "youtube_link": "https://www.youtube.com/watch?v=ojeJ-DCMtls",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_mlm_SIw2YnI",
+    "song_title": "A Menina Dança",
+    "year": 1972,
+    "artist_name": "Novos Baianos",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=mlm_SIw2YnI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_J5eGiC_EPwM",
+    "song_title": "Madalena",
+    "year": 1972,
+    "artist_name": "Elis Regina",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=J5eGiC_EPwM",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

@@ -7973,5 +7973,25 @@
     "youtube_link": "https://www.youtube.com/watch?v=K7l5ZeVVoCA",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_EkA0ieeE90A",
+    "song_title": "Lenha",
+    "year": 1999,
+    "artist_name": "Zeca Baleiro",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=EkA0ieeE90A",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_MB5bljSSCeI",
+    "song_title": "Samba do Approach",
+    "year": 1999,
+    "artist_name": "Zeca Baleiro",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=MB5bljSSCeI",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

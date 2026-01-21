@@ -9,15 +9,6 @@
     "artist": "Anitta"
   },
   {
-    "id": 862061096212,
-    "song_title": "Live Through The Night",
-    "year": 2018,
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=HWcAF-orlWg",
-    "imvdb_url": "https://imvdb.com/video/dear-rouge/live-through-the-night",
-    "artist": "Dear Rouge"
-  },
-  {
     "id": 347523172722,
     "song_title": "Não Perco Meu Tempo",
     "year": 2018,
@@ -37,92 +28,12 @@
     "source": "IMVDb"
   },
   {
-    "id": "yt_iSgUMPHQEWw",
-    "song_title": "6LACK - Pretty Little Fears (ft. J. Cole) [Official Music Video]",
-    "year": 2018,
-    "artist_name": "Ado Negro",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=iSgUMPHQEWw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ApFHIjc8YbA",
-    "song_title": "byron - Anima (official video)",
-    "year": 2018,
-    "artist_name": "Anima",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=ApFHIjc8YbA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_nieAFNEfzXM",
-    "song_title": "ANTIDEMON - \"NÃO TARDARÁ\" (Official)",
-    "year": 2018,
-    "artist_name": "Antidemon",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=nieAFNEfzXM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_9mUOBnSIOZI",
-    "song_title": "Axé 90 Graus - Ara Ketu Bom Demais (Ao Vivo)",
+    "song_title": "Axé 90 Graus",
     "year": 2018,
     "artist_name": "Ara Ketu",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Axé",
     "youtube_link": "https://www.youtube.com/watch?v=9mUOBnSIOZI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_QYzAUwCLgyk",
-    "song_title": "ARION - At The Break Of Dawn [feat. Elize Ryd] (2018) // Official Music Video // AFM Records",
-    "year": 2018,
-    "artist_name": "Arion",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=QYzAUwCLgyk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_wpqgjTDO1Jo",
-    "song_title": "ARION - Unforgivable (2018) // Official Music Video // AFM Records",
-    "year": 2018,
-    "artist_name": "Arion",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=wpqgjTDO1Jo",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_A-9u4FEYM1s",
-    "song_title": "ARION - Through Your Falling Tears (2018) // Official Music Video // AFM Records",
-    "year": 2018,
-    "artist_name": "Arion",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=A-9u4FEYM1s",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_hHL2Fc0XD50",
-    "song_title": "Def Leppard - Armageddon It (Long Version)",
-    "year": 2018,
-    "artist_name": "Armagedom",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=hHL2Fc0XD50",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Gg4rIxW0mrQ",
-    "song_title": "Dassault Rafale in Action",
-    "year": 2018,
-    "artist_name": "Avies do Forr\\'f3",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Gg4rIxW0mrQ",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -188,67 +99,47 @@
   },
   {
     "id": "yt_72bdFDwlZhQ",
-    "song_title": "Boca Livre - First Circle (Ao Vivo)",
+    "song_title": "First Circle (Ao Vivo)",
     "year": 2018,
     "artist_name": "Boca Livre",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "MP ",
     "youtube_link": "https://www.youtube.com/watch?v=72bdFDwlZhQ",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_YE0IKCAOPK8",
-    "song_title": "Boca Livre - Caravana (Ao Vivo)",
+    "song_title": "Caravana (Ao Vivo)",
     "year": 2018,
     "artist_name": "Boca Livre",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=YE0IKCAOPK8",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_KWj55MahVQk",
-    "song_title": "Boca Livre - Eu No Futuro (Ao Vivo)",
+    "song_title": "Eu No Futuro (Ao Vivo)",
     "year": 2018,
     "artist_name": "Boca Livre",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=KWj55MahVQk",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_a3fTtoeUxg8",
-    "song_title": "TUNANDO: Stafford e Caminhões Blindados Mule e Pounder! (GTA Online: Night na Balada)",
-    "year": 2018,
-    "artist_name": "Camisa de V\\'eanus",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=a3fTtoeUxg8",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_3jgTsEI6QQM",
-    "song_title": "PERSEGUINDO CAMINHÃO CEGONHA! - Missão DJ Tale of Us (GTA Online: Night na Balada)",
-    "year": 2018,
-    "artist_name": "Camisa de V\\'eanus",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=3jgTsEI6QQM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_stHdZ85_mg8",
-    "song_title": "Canto dos Malditos na Terra do Nunca - Doce Seria (Ao Vivo no Estúdio Showlivre 2018)",
+    "song_title": "Doce Seria (Ao Vivo no Estúdio Showlivre 2018)",
     "year": 2018,
     "artist_name": "Canto dos Malditos na Terra do Nunca",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=stHdZ85_mg8",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_SYjii8BSkP0",
-    "song_title": "Os Cascavelletes -  Sob um céu de blues",
+    "song_title": "Sob um céu de blues",
     "year": 2018,
     "artist_name": "Cascavelletes",
     "artist_genre": "Rock",
@@ -258,21 +149,11 @@
   },
   {
     "id": "yt_mA_6iVBUs4U",
-    "song_title": "Zélia Duncan - Catedral (Ao Vivo)",
+    "song_title": "Catedral (Ao Vivo)",
     "year": 2018,
     "artist_name": "Catedral",
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=mA_6iVBUs4U",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_dSF-6vtf8l4",
-    "song_title": "14 Bis - Todo azul do mar",
-    "year": 2018,
-    "artist_name": "14 Bis",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=dSF-6vtf8l4",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -287,38 +168,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_u1V8YRJnr4Q",
-    "song_title": "Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)",
-    "year": 2018,
-    "artist_name": "Clera",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=u1V8YRJnr4Q",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ZWijx_AgPiA",
-    "song_title": "Creedence Clearwater Revival - Fortunate Son",
-    "year": 2018,
-    "artist_name": "Clera",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=ZWijx_AgPiA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_wCCfc2vAuDU",
-    "song_title": "Creedence Clearwater Revival - I Heard It Through The Grapevine (Official Music Video)",
-    "year": 2018,
-    "artist_name": "Clera",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=wCCfc2vAuDU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_84WAamqJlNw",
-    "song_title": "ConeCrewDiretoria - O Mundo Deu Voltas (Videoclipe Oficial)",
+    "song_title": "O Mundo Deu Voltas",
     "year": 2018,
     "artist_name": "Cone Crew Diretoria",
     "artist_genre": "Rap",
@@ -328,9 +179,9 @@
   },
   {
     "id": "yt_Xt5_yNuTQxA",
-    "song_title": "Alto Astral - A Cor do Som feat. Roupa Nova",
+    "song_title": "Alto Astral",
     "year": 2018,
-    "artist_name": "A Cor do Som",
+    "artist_name": "A Cor do Som feat. Roupa Nova",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=Xt5_yNuTQxA",
     "imvdb_url": null,
@@ -338,9 +189,9 @@
   },
   {
     "id": "yt_EyFqdAIPXR8",
-    "song_title": "Zanzibar  - A Cor do Som feat. Samuel Rosa",
+    "song_title": "Zanzibar",
     "year": 2018,
-    "artist_name": "A Cor do Som",
+    "artist_name": "A Cor do Som feat. Samuel Rosa",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=EyFqdAIPXR8",
     "imvdb_url": null,
@@ -348,7 +199,7 @@
   },
   {
     "id": "yt_OR17lMhcbUc",
-    "song_title": "Detonautas - Só por hoje | DVD Roque Marciano Ao Vivo",
+    "song_title": "Só por hoje",
     "year": 2018,
     "artist_name": "Detonautas Roque Clube",
     "artist_genre": "Rock",
@@ -357,28 +208,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_uRz9pyVfv58",
-    "song_title": "Discopraise - Divino Companheiro / A Igreja que Chora / Tocou-me (He Touched Me)",
-    "year": 2018,
-    "artist_name": "Discopraise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=uRz9pyVfv58",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_u3n0lQ9F2hM",
-    "song_title": "Discopraise - No Arraial dos Santos",
-    "year": 2018,
-    "artist_name": "Discopraise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=u3n0lQ9F2hM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_y2Ydgp5QmA4",
-    "song_title": "Lost in Space - Official Music Video - Dr Sin",
+    "song_title": "Lost in Space",
     "year": 2018,
     "artist_name": "Dr. Sin",
     "artist_genre": "Metal",
@@ -388,7 +219,7 @@
   },
   {
     "id": "yt_Oa7L4kLr3RY",
-    "song_title": "ETERNA Só quero você - Video Clipe HD",
+    "song_title": "Só quero você",
     "year": 2018,
     "artist_name": "Eterna",
     "artist_genre": "Metal",
@@ -398,7 +229,7 @@
   },
   {
     "id": "yt_f6SS4UT0bPI",
-    "song_title": "Exaltasamba - Como Nunca Amei Ninguém [Music Video]",
+    "song_title": "Como Nunca Amei Ninguém",
     "year": 2018,
     "artist_name": "Exaltasamba",
     "artist_genre": "Samba",
@@ -408,7 +239,7 @@
   },
   {
     "id": "yt_9HrG2BUGWig",
-    "song_title": "Falamansa - Xote da Alegria - Clipe Oficial",
+    "song_title": "Xote da Alegria  ",
     "year": 2018,
     "artist_name": "Fala Mansa",
     "artist_genre": "Forró",
@@ -427,48 +258,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_P0kJ3r9j5MQ",
-    "song_title": "Madonna - Fever (Official Video) [HD]",
-    "year": 2018,
-    "artist_name": "The Fevers",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=P0kJ3r9j5MQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_N_4SmwN_iDs",
-    "song_title": "Foreign Figures - The Fever (Official Music Video)",
-    "year": 2018,
-    "artist_name": "The Fevers",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=N_4SmwN_iDs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_haA7DpK9Z4k",
-    "song_title": "Wizkid - Fever (Official Video)",
-    "year": 2018,
-    "artist_name": "The Fevers",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=haA7DpK9Z4k",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_0LsAnR1R00k",
-    "song_title": "Normandie - White Flag (Official Music Video)",
-    "year": 2018,
-    "artist_name": "FLG",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=0LsAnR1R00k",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_y3GV7-Mifxk",
-    "song_title": "AOS FUZILADOS DA CSN - Garotos Podres",
+    "song_title": "Aos Fuzilados da CSN",
     "year": 2018,
     "artist_name": "Garotos Podres",
     "artist_genre": "Punk",
@@ -478,7 +269,7 @@
   },
   {
     "id": "yt_48zCKDIWZLo",
-    "song_title": "Grândola Vila Morena  - Garotos Podres (Clipe Oficial)",
+    "song_title": "Grândola Vila Morena",
     "year": 2018,
     "artist_name": "Garotos Podres",
     "artist_genre": "Punk",
@@ -487,38 +278,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_N4oG4NUuhZk",
-    "song_title": "sin with sebastian - Golden Boy",
-    "year": 2018,
-    "artist_name": "Golden Boys",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=N4oG4NUuhZk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_GLmpOcuDKEM",
-    "song_title": "Grupo Elo - Ouvi Dizer - 1978",
-    "year": 2018,
-    "artist_name": "Grupo Elo",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=GLmpOcuDKEM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_iyUjVZb6Jrg",
-    "song_title": "Manhunt",
-    "year": 2018,
-    "artist_name": "Glory Opera",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=iyUjVZb6Jrg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_pFNC1aONQHQ",
-    "song_title": "Inimigos Da HP - Nosso Filme (Ao Vivo)",
+    "song_title": "Nosso Filme (Ao Vivo)",
     "year": 2018,
     "artist_name": "Inimigos da HP",
     "artist_genre": "Samba",
@@ -527,38 +288,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_k0v-Rw4O2xc",
-    "song_title": "Inimigos do Rei - Uma Barata Chamada Kafka / Clipe 1989",
-    "year": 2018,
-    "artist_name": "Inimigos do Rei",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=k0v-Rw4O2xc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_08KB6LAsrk0",
-    "song_title": "Inimigos do Rei - Adelaide / Domingão do Faustão 1989",
-    "year": 2018,
-    "artist_name": "Inimigos do Rei",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=08KB6LAsrk0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_vZjWDZVBWgA",
-    "song_title": "J ENT & (prod. CashMoneyAp) - J Squad (Official Music Video)",
-    "year": 2018,
-    "artist_name": "J-squad",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=vZjWDZVBWgA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_id-Vm89z8D8",
-    "song_title": "Jeito Moleque - Sobrenatural (Ao Vivo)",
+    "song_title": "Sobrenatural (Ao Vivo)",
     "year": 2018,
     "artist_name": "Jeito Moleque",
     "artist_genre": "Samba",
@@ -568,7 +299,7 @@
   },
   {
     "id": "yt_z-ntu9sHgos",
-    "song_title": "Jeito Moleque - Ela É... (Ao Vivo)",
+    "song_title": "Ela É... (Ao Vivo)",
     "year": 2018,
     "artist_name": "Jeito Moleque",
     "artist_genre": "Samba",
@@ -597,28 +328,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_Bw5JRNp6rio",
-    "song_title": "Karnak A.D. (Official Video) • EMIAN",
-    "year": 2018,
-    "artist_name": "Karnak",
-    "artist_genre": "World",
-    "youtube_link": "https://www.youtube.com/watch?v=Bw5JRNp6rio",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_p03TIGqEc8o",
-    "song_title": "Sofia Reyes - 1, 2, 3 (feat. Jason Derulo & De La Ghetto) [Official Video]",
-    "year": 2018,
-    "artist_name": "Legi\\'e3o Urbana",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=p03TIGqEc8o",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_iDwIKcx2uK4",
-    "song_title": "UMA CANÇÃO DE AMOR - LIMÃO COM MEL",
+    "song_title": "Uma Canção de Amor",
     "year": 2018,
     "artist_name": "Limo com Mel",
     "artist_genre": "Forró",
@@ -628,7 +339,7 @@
   },
   {
     "id": "yt_WOF1wk3wju4",
-    "song_title": "POR QUE NÃO VÊ - LIMÃO COM MEL",
+    "song_title": "Por que não ve",
     "year": 2018,
     "artist_name": "Limo com Mel",
     "artist_genre": "Forró",
@@ -638,7 +349,7 @@
   },
   {
     "id": "yt_ZD9yRLW3wIs",
-    "song_title": "O LIVRO - LIMÃO COM MEL",
+    "song_title": "O Livro",
     "year": 2018,
     "artist_name": "Limo com Mel",
     "artist_genre": "Forró",
@@ -648,7 +359,7 @@
   },
   {
     "id": "yt_3WDDH3PHyQM",
-    "song_title": "EU SEI QUE VOCÊ LEMBRA - LIMÃO COM MEL",
+    "song_title": "Eu sei que você lembra",
     "year": 2018,
     "artist_name": "Limo com Mel",
     "artist_genre": "Forró",
@@ -658,7 +369,7 @@
   },
   {
     "id": "yt_RJOFU5CXwVU",
-    "song_title": "DVD UM SHOW DE EMOÇÕES - LIMÃO COM MEL",
+    "song_title": "DVD Um Show de Emoções",
     "year": 2018,
     "artist_name": "Limo com Mel",
     "artist_genre": "Forró",
@@ -668,7 +379,7 @@
   },
   {
     "id": "yt_M0p4VqQ_PMs",
-    "song_title": "Amanhã não se sabe - LS Jack - Tudo outra vez",
+    "song_title": "Amanhã não se sabe",
     "year": 2018,
     "artist_name": "LS Jack",
     "artist_genre": "Pop Rock",
@@ -678,7 +389,7 @@
   },
   {
     "id": "yt_ezoUemHzHno",
-    "song_title": "LS Jack - Carla",
+    "song_title": "Carla",
     "year": 2018,
     "artist_name": "LS Jack",
     "artist_genre": "Pop Rock",
@@ -688,7 +399,7 @@
   },
   {
     "id": "yt_BE0cXeLtVRI",
-    "song_title": "LS Jack - Ls Jack",
+    "song_title": "Ls Jack",
     "year": 2018,
     "artist_name": "LS Jack",
     "artist_genre": "Pop Rock",
@@ -698,7 +409,7 @@
   },
   {
     "id": "yt_CrUqPb7DP0E",
-    "song_title": "LS Jack - Meu sossego",
+    "song_title": "Meu sossego",
     "year": 2018,
     "artist_name": "LS Jack",
     "artist_genre": "Pop Rock",
@@ -707,30 +418,10 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_5QnXSLKLlH4",
-    "song_title": "MADE IN BRAZIL 12",
-    "year": 2018,
-    "artist_name": "Made in Brazil",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=5QnXSLKLlH4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_C61a3WUgjxM",
-    "song_title": "River ; Meteor Garden 2018 [F4]",
-    "year": 2018,
-    "artist_name": "Metr\\'f4",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=C61a3WUgjxM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_3H3n0LA45Xk",
-    "song_title": "MPB4, Quarteto Em Cy - Falando De Amor",
+    "song_title": "Falando De Amor",
     "year": 2018,
-    "artist_name": "MPB-4",
+    "artist_name": "MPB4",
     "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=3H3n0LA45Xk",
     "imvdb_url": null,
@@ -740,7 +431,7 @@
     "id": "yt_7zHsS27Bo5g",
     "song_title": "Labirinto",
     "year": 2018,
-    "artist_name": "MPB-4",
+    "artist_name": "MPB4",
     "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=7zHsS27Bo5g",
     "imvdb_url": null,
@@ -748,7 +439,7 @@
   },
   {
     "id": "yt_gl75j6dSRcY",
-    "song_title": "Mundo Livre  S/A - A Maldição (das páginas que não viram) | Lyric Vídeo",
+    "song_title": "A Maldição (das páginas que não viram)",
     "year": 2018,
     "artist_name": "Mundo Livre S/A",
     "artist_genre": "Rock",
@@ -758,7 +449,7 @@
   },
   {
     "id": "yt_fzk4HMDDjwE",
-    "song_title": "Mundo Livre S/A  -  Se eu tivesse fé",
+    "song_title": "Se eu tivesse fé",
     "year": 2018,
     "artist_name": "Mundo Livre S/A",
     "artist_genre": "Rock",
@@ -768,7 +459,7 @@
   },
   {
     "id": "yt_Sxf85BO8F1Q",
-    "song_title": "O Outro Mundo De Xicão Xucuru - Mundo Livre S/A",
+    "song_title": "O Outro Mundo De Xicão Xucuru",
     "year": 2018,
     "artist_name": "Mundo Livre S/A",
     "artist_genre": "Rock",
@@ -777,28 +468,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_T7isK42DSK0",
-    "song_title": "Mouzouri Sana",
-    "year": 2018,
-    "artist_name": "Mzuri Sana",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=T7isK42DSK0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ssGHXK_hqxM",
-    "song_title": "Mc Rafa Original - Modo Fabio Assunção   ( Dj Carlinhos Da S.R/@Djcarlinhosdasr )",
-    "year": 2018,
-    "artist_name": "Na\\'e7\\'e3o Zumbi",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=ssGHXK_hqxM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_le_7Qi5cT9E",
-    "song_title": "Novos Baianos - Preta Pretinha (\"Acabou Chorare - Novos Baianos Se Encontram) [Vídeo Oficial]",
+    "song_title": "Preta Pretinha",
     "year": 2018,
     "artist_name": "Novos Baianos",
     "artist_genre": "MPB",
@@ -808,7 +479,7 @@
   },
   {
     "id": "yt_Jy3bnCmVvfE",
-    "song_title": "Novos Baianos - A Menina Dança (\"Acabou Chorare - Novos Baianos Se Encontram) [Vídeo Oficial]",
+    "song_title": "A Menina Dança",
     "year": 2018,
     "artist_name": "Novos Baianos",
     "artist_genre": "MPB",
@@ -818,7 +489,7 @@
   },
   {
     "id": "yt_CQYnb6ZL-9g",
-    "song_title": "Novos Baianos - Besta é Tu (\"Acabou Chorare - Novos Baianos Se Encontram) [Vídeo Oficial]",
+    "song_title": "Besta é Tu",
     "year": 2018,
     "artist_name": "Novos Baianos",
     "artist_genre": "MPB",
@@ -828,7 +499,7 @@
   },
   {
     "id": "yt_Jp46m4Hvk1Q",
-    "song_title": "Novos Baianos - Mistério do Planeta (\"Acabou Chorare - Novos Baianos Se Encontram) [Vídeo Oficial]",
+    "song_title": "Mistério do Planeta",
     "year": 2018,
     "artist_name": "Novos Baianos",
     "artist_genre": "MPB",
@@ -838,7 +509,7 @@
   },
   {
     "id": "yt_U5L-S1bRw5Q",
-    "song_title": "Novos Baianos - Dê um Rolê (DVD Acabou Chorare - Novos Baianos se Encontram) [Vídeo Oficial]",
+    "song_title": "Dê um Rolê",
     "year": 2018,
     "artist_name": "Novos Baianos",
     "artist_genre": "MPB",
@@ -847,142 +518,12 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_egjRG0hRCQA",
-    "song_title": "Haverá Futuro?",
-    "year": 2018,
-    "artist_name": "Olho Seco",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=egjRG0hRCQA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_YDQXzY11aS0",
-    "song_title": "YoungBoy Never Broke Again – Overdose [Official Music Video]",
-    "year": 2018,
-    "artist_name": "Overdose",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=YDQXzY11aS0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_kAstKsr3Xes",
-    "song_title": "AGNEZ MO - Overdose (ft. Chris Brown) [Official Music Video]",
-    "year": 2018,
-    "artist_name": "Overdose",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=kAstKsr3Xes",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_1gTdgdJ_rMY",
-    "song_title": "Agnez Mo & Chris Brown - Overdose [Official Lyric Video]",
-    "year": 2018,
-    "artist_name": "Overdose",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=1gTdgdJ_rMY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_bKAFHi8qgXs",
-    "song_title": "Toda vez que você me vê - Palavrantiga",
-    "year": 2018,
-    "artist_name": "Palavrantiga",
-    "artist_genre": "Indie",
-    "youtube_link": "https://www.youtube.com/watch?v=bKAFHi8qgXs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_E1V2eJYoQAA",
-    "song_title": "Go Pato - Official Video",
-    "year": 2018,
-    "artist_name": "Pato Fu",
-    "artist_genre": "Indie",
-    "youtube_link": "https://www.youtube.com/watch?v=E1V2eJYoQAA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_CoNUX370s8k",
-    "song_title": "PAW Patrol’s Mighty Pups 🐾 Theme Song | Music Video | Stay Home #WithMe | Nick Jr.",
-    "year": 2018,
-    "artist_name": "Patrulha do Espa\\'e7o",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=CoNUX370s8k",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_y5SxNJSGDTw",
-    "song_title": "Future - No Shame (Official Music Video) ft. PARTYNEXTDOOR",
-    "year": 2018,
-    "artist_name": "Patrulha do Espa\\'e7o",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=y5SxNJSGDTw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_pa5UOUObhoc",
-    "song_title": "Patrulha Canina | ‘É só chamar’ 🐾 | Nick Jr. | Brazil | Português",
-    "year": 2018,
-    "artist_name": "Patrulha do Espa\\'e7o",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=pa5UOUObhoc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Hzm3wbiP1SY",
-    "song_title": "Lilliana ketchman - full back",
-    "year": 2018,
-    "artist_name": "Pavilh\\'e3o 9",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Hzm3wbiP1SY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_rQ3O2J-ccew",
-    "song_title": "(67) Monkey x Dimzy - Waps Came First #WCF [Music Video] Prod. By Carns Hill | Link Up TV",
-    "year": 2018,
-    "artist_name": "Pavilh\\'e3o 9",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=rQ3O2J-ccew",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_zbpQ12jkk_o",
-    "song_title": "Draco Rosa - Penélope (Remastered Version)",
-    "year": 2018,
-    "artist_name": "Penelope",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=zbpQ12jkk_o",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_eaWJ69SCoR4",
-    "song_title": "Planta & Raiz - Tô Feliz (Clipe Oficial)",
+    "song_title": "Tô Feliz",
     "year": 2018,
     "artist_name": "Planta & Raiz",
     "artist_genre": "Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=eaWJ69SCoR4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_55ciajQp_Bc",
-    "song_title": "Polegar - Dá Pra Mim / Domingão do Faustão 1989",
-    "year": 2018,
-    "artist_name": "Polegar",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=55ciajQp_Bc",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -997,88 +538,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_5jIAmNZ4UAc",
-    "song_title": "RATOS DE PORAO At OBSCENE EXTREME 2017",
-    "year": 2018,
-    "artist_name": "Ratos de Por\\'e3o",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=5jIAmNZ4UAc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_m6M4EtKSnOU",
-    "song_title": "Renascer Praise - Ser Conhecido de Deus (Ao Vivo)",
-    "year": 2018,
-    "artist_name": "Renascer Praise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=m6M4EtKSnOU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_1fTc2fvS-K0",
-    "song_title": "Renascer Praise - Tudo posso (Ao vivo)",
-    "year": 2018,
-    "artist_name": "Renascer Praise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=1fTc2fvS-K0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_jLXvmH0pI0Q",
-    "song_title": "RENATO E SEUS BLUE CAPS NA DISCOTECA DO CHACRINHA – 1973",
-    "year": 2018,
-    "artist_name": "Renato e Seus Blue Caps",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=jLXvmH0pI0Q",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_JIRfGhcMNtQ",
-    "song_title": "Resgate - O Meu Lugar (Official Music Video)",
-    "year": 2018,
-    "artist_name": "Resgate",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=JIRfGhcMNtQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_cI-Qg-aQR3g",
-    "song_title": "Resgate - Príncipe (Official Music Video)",
-    "year": 2018,
-    "artist_name": "Resgate",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=cI-Qg-aQR3g",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_XFu85_VWKO0",
-    "song_title": "Rosa de Saron - Invisibili Orme part. Sister Cristina (Clipe Oficial)",
-    "year": 2018,
-    "artist_name": "Rosa de Saron",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=XFu85_VWKO0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_V1w3JfLwIrE",
-    "song_title": "Rosa De Saron - E Sempre [ VIDEOCLIPE OFICIAL]",
-    "year": 2018,
-    "artist_name": "Rosa de Saron",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=V1w3JfLwIrE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_jIMn66a4Ol4",
-    "song_title": "Rouge - Bailando (Vídeo Oficial)",
+    "song_title": "Bailando",
     "year": 2018,
     "artist_name": "Rouge",
     "artist_genre": "Pop",
@@ -1088,7 +549,7 @@
   },
   {
     "id": "yt_hvpxHIzUHYc",
-    "song_title": "Rouge - Dona da Minha Vida",
+    "song_title": "Dona da Minha Vida",
     "year": 2018,
     "artist_name": "Rouge",
     "artist_genre": "Pop",
@@ -1098,9 +559,9 @@
   },
   {
     "id": "yt_yytYfSr28xo",
-    "song_title": "Rouge - Dololo Ft. BigStar Johnson & TheGingerMac (Official Video)",
+    "song_title": "Dololo",
     "year": 2018,
-    "artist_name": "Rouge",
+    "artist_name": "Rouge Ft. BigStar Johnson & TheGingerMac",
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=yytYfSr28xo",
     "imvdb_url": null,
@@ -1108,7 +569,7 @@
   },
   {
     "id": "yt_hKExL_f2Zw0",
-    "song_title": "Roupa Nova - Seja Bem-Vindo (O Amor) Clipe Oficial",
+    "song_title": "Seja Bem-Vindo (O Amor)",
     "year": 2018,
     "artist_name": "Roupa Nova",
     "artist_genre": "Pop",
@@ -1117,218 +578,28 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_QV844hGjzBk",
-    "song_title": "Secos & Molhados - Tercer Mundo (Fantástico, 1974)",
-    "year": 2018,
-    "artist_name": "Secos e Molhados",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=QV844hGjzBk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_A7-i0ambSEQ",
-    "song_title": "She's Okay",
-    "year": 2018,
-    "artist_name": "She's Ok",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=A7-i0ambSEQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_l4FyYv1MUfY",
-    "song_title": "Hannah Brielle - She's Okay (Official Music Video)",
-    "year": 2018,
-    "artist_name": "She's Ok",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=l4FyYv1MUfY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_wMRtFUUsUSw",
-    "song_title": "The Stereo Scope - \"Illusions\" [Official Lyric Video]",
-    "year": 2018,
-    "artist_name": "Stereoscope",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=wMRtFUUsUSw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_P6zaCV4niKk",
-    "song_title": "Yusuf / Cat Stevens - Father & Son",
-    "year": 2018,
-    "artist_name": "Stevens",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=P6zaCV4niKk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_YtQ3fe_u7KY",
-    "song_title": "MAGIA (A Gang Da Vanera) - Tchê Garotos",
+    "song_title": "MAGIA (A Gang Da Vanera)",
     "year": 2018,
-    "artist_name": "Tch Garotos",
-    "artist_genre": "Desconhecido",
+    "artist_name": "Tchê Garotos",
+    "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=YtQ3fe_u7KY",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_uO7DiYjgfRs",
-    "song_title": "The Animals - The House of the Rising Sun (TRADUÇÃO) 1964",
-    "year": 2018,
-    "artist_name": "O Ter\\'e7o",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=uO7DiYjgfRs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ARGJdiaE69w",
-    "song_title": "Glass: Aguas da Amazonia - Tapajós River",
-    "year": 2018,
-    "artist_name": "Uakti",
-    "artist_genre": "Instrumental",
-    "youtube_link": "https://www.youtube.com/watch?v=ARGJdiaE69w",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_frqb6prcIMA",
-    "song_title": "Insecure Men - 'Ulster' (Official Video)",
-    "year": 2018,
-    "artist_name": "Ulster",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=frqb6prcIMA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_4F-u3922yUo",
-    "song_title": "Ulster Page - Straight in the Eye (Official Music Video)",
-    "year": 2018,
-    "artist_name": "Ulster",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=4F-u3922yUo",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_H3v9unphfi0",
-    "song_title": "Miserere mei, Deus - Allegri - Tenebrae conducted by Nigel Short",
-    "year": 2018,
-    "artist_name": "Uno de Deus",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=H3v9unphfi0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_5tr_qRryQDg",
-    "song_title": "Fernandinho - Deus Não Está Morto (God's Not Dead) | Clipe Oficial",
-    "year": 2018,
-    "artist_name": "Uno de Deus",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=5tr_qRryQDg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_7Ltg4vxcyMI",
-    "song_title": "VÍdeo Clipe música \"Alimento\" Banda Voz da Verdade",
-    "year": 2018,
-    "artist_name": "Voz da Verdade",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=7Ltg4vxcyMI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Kc3lHzfnH3k",
-    "song_title": "Voz da Verdade - \"O Escudo\"",
-    "year": 2018,
-    "artist_name": "Voz da Verdade",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=Kc3lHzfnH3k",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Os4sEqjZ5VI",
-    "song_title": "Voz da Verdade - \"Além do Rio Azul\"",
-    "year": 2018,
-    "artist_name": "Voz da Verdade",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=Os4sEqjZ5VI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_B3faYe5V4Sk",
-    "song_title": "Motionless In White - Voices [OFFICIAL VIDEO]",
-    "year": 2018,
-    "artist_name": "Voices",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=B3faYe5V4Sk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_5HMOkfE3kno",
-    "song_title": "Stray Kids \"Voices\" Performance Video",
-    "year": 2018,
-    "artist_name": "Voices",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=5HMOkfE3kno",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_oXFEMV919Pk",
-    "song_title": "Against The Current - Voices [OFFICIAL VIDEO]",
-    "year": 2018,
-    "artist_name": "Voices",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=oXFEMV919Pk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_hUyDjltSaec",
-    "song_title": "Rachell luz feat. Zeca Baleiro - Flor da Pele (clipe oficial)",
+    "song_title": "Flor da Pele",
     "year": 2018,
-    "artist_name": "Zeca Baleiro",
+    "artist_name": "Rachell luz feat. Zeca Baleiro",
     "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=hUyDjltSaec",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_mWOSyGsRviU",
-    "song_title": "Zimbo Trio | Programa Instrumental Sesc Brasil",
-    "year": 2018,
-    "artist_name": "Zimbo Trio",
-    "artist_genre": "Jazz",
-    "youtube_link": "https://www.youtube.com/watch?v=mWOSyGsRviU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_WAi5zvGI2H0",
-    "song_title": "John Schneider  -  Good Ole Boys (Music Video)",
-    "year": 2018,
-    "artist_name": "Jo\\'e3o Gilberto",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=WAi5zvGI2H0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_W0fGuByF6W4",
-    "song_title": "Chico Buarque - Tua Cantiga",
+    "song_title": "Tua Cantiga",
     "year": 2018,
     "artist_name": "Chico Buarque",
     "artist_genre": "MPB",
@@ -1338,47 +609,17 @@
   },
   {
     "id": "yt_HQap2igIhxA",
-    "song_title": "Caetano Veloso - Oração Ao Tempo (Ao Vivo)",
+    "song_title": "Oração Ao Tempo",
     "year": 2018,
     "artist_name": "Caetano Veloso",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=HQap2igIhxA",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_J5eGiC_EPwM",
-    "song_title": "Elis Regina - Madalena 1972",
-    "year": 2018,
-    "artist_name": "Elis Regina",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=J5eGiC_EPwM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_DbhIiXDa2bk",
-    "song_title": "O Polichinelo • Villa-Lobos • Arthur Rubinstein",
-    "year": 2018,
-    "artist_name": "Heitor Villa-Lobos",
-    "artist_genre": "Clássico",
-    "youtube_link": "https://www.youtube.com/watch?v=DbhIiXDa2bk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_eSluP6TiWBw",
-    "song_title": "Etude No. 1 • Villa-Lobos • Andrés Segovia",
-    "year": 2018,
-    "artist_name": "Heitor Villa-Lobos",
-    "artist_genre": "Clássico",
-    "youtube_link": "https://www.youtube.com/watch?v=eSluP6TiWBw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_TBZzuBiK5tY",
-    "song_title": "Renato Russo - Strani Amori [Clipe Oficial]",
+    "song_title": "Strani Amori",
     "year": 2018,
     "artist_name": "Renato Russo",
     "artist_genre": "Rock",
@@ -1387,38 +628,18 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_KBkXt2NdKVw",
-    "song_title": "Baden Powell - Vento Vadio",
-    "year": 2018,
-    "artist_name": "Baden Powell",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=KBkXt2NdKVw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_A24Q_qDYnsY",
-    "song_title": "CLEO - Melhor Que Eu (Clipe Oficial) Part. Mano Brown",
+    "song_title": "Melhor Que Eu",
     "year": 2018,
-    "artist_name": "Mano Brown",
-    "artist_genre": "Rap",
+    "artist_name": "Cleo ft.Mano Brown",
+    "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=A24Q_qDYnsY",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_mvf-FEG501g",
-    "song_title": ",Programa Ary Barroso no radio com Tião Macalé",
-    "year": 2018,
-    "artist_name": "Ary Barroso",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=mvf-FEG501g",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_L2bINZ0G_yI",
-    "song_title": "Ney Matogrosso - Poema (Ao Vivo)",
+    "song_title": "Poema",
     "year": 2018,
     "artist_name": "Ney Matogrosso",
     "artist_genre": "MPB",
@@ -1428,7 +649,7 @@
   },
   {
     "id": "yt_ygUuXtg98zA",
-    "song_title": "Ney Matogrosso - Sangue Latino (Ao Vivo)",
+    "song_title": "Sangue Latino",
     "year": 2018,
     "artist_name": "Ney Matogrosso",
     "artist_genre": "MPB",
@@ -1438,7 +659,7 @@
   },
   {
     "id": "yt_Tt_goIGovGs",
-    "song_title": "Ney Matogrosso - Rosa De Hiroshima (Ao Vivo)",
+    "song_title": "Rosa De Hiroshima",
     "year": 2018,
     "artist_name": "Ney Matogrosso",
     "artist_genre": "MPB",
@@ -1448,7 +669,7 @@
   },
   {
     "id": "yt_yu90Ha1Woiw",
-    "song_title": "Ney Matogrosso - Balada Do Louco (Ao Vivo)",
+    "song_title": "Balada Do Louco",
     "year": 2018,
     "artist_name": "Ney Matogrosso",
     "artist_genre": "MPB",
@@ -1458,7 +679,7 @@
   },
   {
     "id": "yt_Kw-6mm6Uu7c",
-    "song_title": "Ney Matogrosso - Homem Com H (Ao Vivo)",
+    "song_title": "Homem Com H",
     "year": 2018,
     "artist_name": "Ney Matogrosso",
     "artist_genre": "MPB",
@@ -1467,12 +688,22 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_8ui9umU0C2g",
-    "song_title": "Manchester Orchestra - The Silence (Official Music Video)",
+    "id": "yt_p03TIGqEc8o",
+    "song_title": "1, 2, 3",
     "year": 2018,
-    "artist_name": "Tom Z\\'e9}",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=8ui9umU0C2g",
+    "artist_name": "Sofia Reyes feat. Jason Derulo & De La Ghetto",
+    "artist_genre": "Latino",
+    "youtube_link": "https://www.youtube.com/watch?v=p03TIGqEc8o",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_1gTdgdJ_rMY",
+    "song_title": "Overdose",
+    "year": 2018,
+    "artist_name": "Agnez Mo & Chris Brown",
+    "artist_genre": "R & B",
+    "youtube_link": "https://www.youtube.com/watch?v=1gTdgdJ_rMY",
     "imvdb_url": null,
     "source": "YouTube"
   }

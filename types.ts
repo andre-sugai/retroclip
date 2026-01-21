@@ -24,6 +24,8 @@ export interface Video {
   artist_genre?: string;
   nationality?: 'BR' | 'INTL';
   is_show?: boolean;
+  is_program?: boolean;
+  program_name?: string;
 }
 
 export interface SearchParams {

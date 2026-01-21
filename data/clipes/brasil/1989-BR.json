@@ -7,5 +7,85 @@
     "youtube_link": "https://www.youtube.com/watch?v=t_U6PrY-F-k",
     "imvdb_url": "https://imvdb.com/video/legião-urbana/ha-tempos",
     "artist": "Legião Urbana"
+  },
+  {
+    "id": "yt__pYND0b7fNo",
+    "song_title": "Adelaide",
+    "year": 1989,
+    "artist_name": "Inimigos do Rei",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=_pYND0b7fNo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_FwUKd9Pp2y4",
+    "song_title": "Sou Como Sou",
+    "year": 1989,
+    "artist_name": "Polegar",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=FwUKd9Pp2y4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_4d5tcXcApmk",
+    "song_title": "Dá Pra Mim",
+    "year": 1989,
+    "artist_name": "Polegar",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=4d5tcXcApmk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_k0v-Rw4O2xc",
+    "song_title": "Uma Barata Chamada Kafka",
+    "year": 1989,
+    "artist_name": "Inimigos do Rei",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=k0v-Rw4O2xc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_08KB6LAsrk0",
+    "song_title": "Adelaide (Domingão do Faustão 1989)",
+    "year": 1989,
+    "artist_name": "Inimigos do Rei",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=08KB6LAsrk0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_55ciajQp_Bc",
+    "song_title": "Dá Pra Mim (Domingão do Faustão)",
+    "year": 1989,
+    "artist_name": "Polegar",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=55ciajQp_Bc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_HnG0Uvj2xVQ",
+    "song_title": "Adelaide Minha Anã Paraguaia (Ao Vivo no programa MilkShake)",
+    "year": 1989,
+    "artist_name": "Inimigos do Rei",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=HnG0Uvj2xVQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_TgZcsz64a2Y",
+    "song_title": "Adelaide (Ao Vivo no Domingão do Faustão 1989)",
+    "year": 1989,
+    "artist_name": "Inimigos do Rei",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=TgZcsz64a2Y",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

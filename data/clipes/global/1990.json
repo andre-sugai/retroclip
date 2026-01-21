@@ -1313,5 +1313,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=rog8ou-ZepE",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_uph0CERrjPM",
+    "song_title": "Descobridores Dos Sete Mares",
+    "year": 1990,
+    "artist_name": "Tim Maia",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=uph0CERrjPM",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

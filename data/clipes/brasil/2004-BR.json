@@ -244,5 +244,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=0m9CMljTA4o",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_1bdKMfQtmgY",
+    "song_title": "Disse Adeus (Ao Vivo 2004)",
+    "year": 2004,
+    "artist_name": "Banda Calypso",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=1bdKMfQtmgY",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

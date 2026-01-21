@@ -70,5 +70,35 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=7WY0WJZUqYw",
     "imvdb_url": "https://imvdb.com/video/earth-and-fire/ruby-is-the-one"
+  },
+  {
+    "id": "yt_HgR7YJpOoPE",
+    "song_title": "Manhã de Carnaval",
+    "year": 1970,
+    "artist_name": "Baden Powell",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=HgR7YJpOoPE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_wCCfc2vAuDU",
+    "song_title": "I Heard It Through The Grapevine",
+    "year": 1970,
+    "artist_name": "Creedence Clearwater Revival",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=wCCfc2vAuDU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_P6zaCV4niKk",
+    "song_title": "Father & Son",
+    "year": 1970,
+    "artist_name": "Yusuf / Cat Stevens",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=P6zaCV4niKk",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

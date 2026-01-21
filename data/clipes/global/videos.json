@@ -1,132 +1,756 @@
 [
-  {
-    "id": "yt_S2Cti12XBw4",
-    "song_title": "Sunday Morning",
-    "year": 2009,
-    "artist_name": "Maroon 5",
+  
+{
+    "id": 375463179469,
+    "song_title": "Black To Gold",
+    "year": 2015,
+    "artist_genre": ["Pop", "Eletronico"],
+    "youtube_link": "https://www.youtube.com/watch?v=sKq53_imZzs",
+    "imvdb_url": "https://imvdb.com/video/dear-rouge/black-to-gold",
+    "artist": "Dear Rouge"
+  },
+{
+    "id": 228235905979,
+    "song_title": "Tongues",
+    "year": 2015,
+    "artist_genre": "rock alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Fh5gx-ZNjeE",
+    "imvdb_url": "https://imvdb.com/video/dear-rouge/tongues",
+    "artist": "Dear Rouge"
+  },
+{
+    "id": "yt_d_HlPboLRL8",
+    "song_title": "Runaway",
+    "year": 2015,
+    "artist_name": "Aurora",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=d_HlPboLRL8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_06ht9MyJLT4",
+    "song_title": "Running With The Wolves",
+    "year": 2015,
+    "artist_name": "Aurora",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=06ht9MyJLT4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_dQy02RzWLlI",
+    "song_title": "Control",
+    "year": 2016,
+    "artist_name": "Chacal y Yakarta",
+    "artist_genre": "Latino",
+    "youtube_link": "https://www.youtube.com/watch?v=dQy02RzWLlI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_YAK4SCQo0m0",
+    "song_title": "Dear Jack",
+    "year": 2015,
+    "artist_name": "Eterna",
     "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=S2Cti12XBw4",
+    "youtube_link": "https://www.youtube.com/watch?v=YAK4SCQo0m0",
     "imvdb_url": null,
     "source": "YouTube"
   },
-  {
-    "id": "yt_atz_aZA3rf0",
-    "song_title": "Because Of You",
-    "year": 2009,
-    "artist_name": "Ne Yo",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=atz_aZA3rf0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_z_aC5xPQ2f4",
-    "song_title": "Closer",
-    "year": 2009,
-    "artist_name": "Ne Yo",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=z_aC5xPQ2f4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_k6M5C-oKw9k",
-    "song_title": "Miss Independent",
-    "year": 2009,
-    "artist_name": "Ne Yo",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=k6M5C-oKw9k",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Bk1wUKoXL20",
-    "song_title": "The Last Of The Famous International Playboys",
-    "year": 1989,
-    "artist_name": "Morrissey",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=Bk1wUKoXL20",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ZB4RFVAlNFw",
-    "song_title": "Rebelde",
-    "year": 2004,
-    "artist_name": "Rebeldes",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=ZB4RFVAlNFw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_-2z3YwCrGMc",
-    "song_title": "Nuestro Amor",
-    "year": 2005,
-    "artist_name": "Rebeldes",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=-2z3YwCrGMc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-
-  {
-    "id": "yt_RQa7SvVCdZk",
-    "song_title": "Lady Marmalade",
-    "year": 2001,
-    "artist_name": "Christina Aguilera, Lil' Kim, Mya, P!nk",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=RQa7SvVCdZk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_6Ejga4kJUts",
-    "song_title": "Zombie",
-    "year": 1994,
-    "artist_name": "The Cranberries",
-    "artist_genre": "Rock Alternativo",
-    "youtube_link": "https://www.youtube.com/watch?v=6Ejga4kJUts",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_SuFScoO4tb0",
-    "song_title": "Honesty",
-    "year": 1979,
-    "artist_name": "Billy Joel",
-    "artist_genre": "Live",
-    "youtube_link": "https://www.youtube.com/watch?v=SuFScoO4tb0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_K7l5ZeVVoCA",
-    "song_title": "What's My Age Again?",
-    "year": 1999,
-    "artist_name": "Blink 182",
-    "artist_genre": "Hardcore",
-    "youtube_link": "https://www.youtube.com/watch?v=K7l5ZeVVoCA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_n3htOCjafTc",
-    "song_title": "Over And Over",
-    "year": 2009,
-    "artist_name": "Nelly ft. Tim McGraw",
+{
+    "id": "yt_-SfT3QVTY9Y",
+    "song_title": "My Flag/Da Homies",
+    "year": 2015,
+    "artist_name": "The Game",
     "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=n3htOCjafTc",
+    "youtube_link": "https://www.youtube.com/watch?v=-SfT3QVTY9Y",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_NdxOCTezeTg",
+    "song_title": "Golden Boy",
+    "year": 2015,
+    "artist_name": "Nadav Guedj",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=NdxOCTezeTg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_8GtVUkyzvhU",
+    "song_title": "Golden Boy",
+    "year": 2015,
+    "artist_name": "Elf Kid",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=8GtVUkyzvhU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_KDxJlW6cxRk",
+    "song_title": "Ocean Drive",
+    "year": 2015,
+    "artist_name": "Duke Dumont",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=KDxJlW6cxRk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_t7zqkLKefm4",
+    "song_title": "She'll Be Ok",
+    "year": 2014,
+    "artist_name": "Bobby Gugliuzza",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=t7zqkLKefm4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_ida2emzrIR0",
+    "song_title": "Young And Old",
+    "year": 2015,
+    "artist_name": "Ulster Page",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=ida2emzrIR0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_rNJwu-YkQlc",
+    "song_title": "I Got The Boy",
+    "year": 2015,
+    "artist_name": "Jana Kramer",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=rNJwu-YkQlc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_roWBYAbm0EQ",
+    "song_title": "Pa' La Camara",
+    "year": 2016,
+    "artist_name": "Chacal",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=roWBYAbm0EQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_jEPQHFb2qBY",
+    "song_title": "Clouds",
+    "year": 2016,
+    "artist_name": "Stereoscope",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=jEPQHFb2qBY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_L5vH4DR5eE0",
+    "song_title": "All Around Me",
+    "year": 2016,
+    "artist_name": "Ulster Page",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=L5vH4DR5eE0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_-1k-qTKm16I",
+    "song_title": "Grenade",
+    "year": 2016,
+    "artist_name": "Bruno Mars",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=-1k-qTKm16I",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_TdSjecWOiZY",
+    "song_title": "She's Broken (He's Ok)",
+    "year": 2016,
+    "artist_name": "She's Ok",
+    "artist_genre": "R & B",
+    "youtube_link": "https://www.youtube.com/watch?v=TdSjecWOiZY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": 893371715925,
+    "song_title": "Boys & Blondes",
+    "year": 2017,
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=ulIr6bA9akk",
+    "imvdb_url": "https://imvdb.com/video/dear-rouge/boys-blondes",
+    "artist": "Dear Rouge"
+  },
+{
+    "id": "yt_LdEEwRN_YFk",
+    "song_title": "Flag of the Beast",
+    "year": 2017,
+    "artist_name": "Emmure",
+    "artist_genre": "Nu Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=LdEEwRN_YFk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_ByCB04uI6JU",
+    "song_title": "Vain Glory Opera (Live in São Paulo)",
+    "year": 2004,
+    "artist_name": "Edguy",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=ByCB04uI6JU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_6kvBC7-snjg",
+    "song_title": "We Do It Like This",
+    "year": 2020,
+    "artist_name": "Marco Maurer Ft. I.R.A.",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=6kvBC7-snjg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_9v_rtaye2yY",
+    "song_title": "MotorSport",
+    "year": 2017,
+    "artist_name": "Migos, Nicki Minaj, Cardi B",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=9v_rtaye2yY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_3pMTRKHIZ-I",
+    "song_title": "Overdose",
+    "year": 2017,
+    "artist_name": "Beyond Unbroken",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=3pMTRKHIZ-I",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt__jCuroTbqBI",
+    "song_title": "U Got The Look",
+    "year": 1987,
+    "artist_name": "Prince",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=_jCuroTbqBI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_NRbnJMkOi4g",
+    "song_title": "Col3tran",
+    "year": 2018,
+    "artist_name": "Penelope",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=NRbnJMkOi4g",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_6G2fyO5ibEE",
+    "song_title": "Playboy",
+    "year": 2017,
+    "artist_name": "Trey Songz",
+    "artist_genre": "R & B",
+    "youtube_link": "https://www.youtube.com/watch?v=6G2fyO5ibEE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_mKm0NnuKT-k",
+    "song_title": "No Strings",
+    "year": 2017,
+    "artist_name": "Rouge",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=mKm0NnuKT-k",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_SaSN3XpBGQk",
+    "song_title": "Shadowside",
+    "year": 2016,
+    "artist_name": "Leigh Lesho",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=SaSN3XpBGQk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_UtvmTu4zAMg",
+    "song_title": "She Drives Me Crazy",
+    "year": 1988,
+    "artist_name": "Fine Young Cannibals",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=UtvmTu4zAMg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_-NZ-5juaQKg",
+    "song_title": "In The Explosion",
+    "year": 2017,
+    "artist_name": "Ulster Page",
+    "artist_genre": "Rock alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=-NZ-5juaQKg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_L6-uJLteKek",
+    "song_title": "To Be With You",
+    "year": 1991,
+    "artist_name": "Mr. Big",
+    "artist_genre": "Hard Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=L6-uJLteKek",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_deZhgUYjJso",
+    "song_title": "Calentando La Habana",
+    "year": 2017,
+    "artist_name": "Chacal",
+    "artist_genre": "Latino",
+    "youtube_link": "https://www.youtube.com/watch?v=deZhgUYjJso",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_GMFewiplIbw",
+    "song_title": "Mayores",
+    "year": 2017,
+    "artist_name": "Becky G, Bad Bunny",
+    "artist_genre": "Latino",
+    "youtube_link": "https://www.youtube.com/watch?v=GMFewiplIbw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_9sg-A-eS6Ig",
+    "song_title": "Subeme La Radio",
+    "year": 2017,
+    "artist_name": "Enrique Iglesias ft. Descemer Bueno, Zion & Lennox",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=9sg-A-eS6Ig",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": 862061096212,
+    "song_title": "Live Through The Night",
+    "year": 2018,
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=HWcAF-orlWg",
+    "imvdb_url": "https://imvdb.com/video/dear-rouge/live-through-the-night",
+    "artist": "Dear Rouge"
+  },
+{
+    "id": "yt_iSgUMPHQEWw",
+    "song_title": "Pretty Little Fears",
+    "year": 2018,
+    "artist_name": "6LACK ft. J. Cole",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=iSgUMPHQEWw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_ApFHIjc8YbA",
+    "song_title": "Anima",
+    "year": 2018,
+    "artist_name": "Byron",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ApFHIjc8YbA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_wpqgjTDO1Jo",
+    "song_title": "Unforgivable",
+    "year": 2018,
+    "artist_name": "Arion",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=wpqgjTDO1Jo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_A-9u4FEYM1s",
+    "song_title": "Through Your Falling Tears",
+    "year": 2018,
+    "artist_name": "Arion",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=A-9u4FEYM1s",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_QYzAUwCLgyk",
+    "song_title": "At The Break Of Dawn",
+    "year": 2018,
+    "artist_name": "Arion",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=QYzAUwCLgyk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_u1V8YRJnr4Q",
+    "song_title": "Have You Ever Seen The Rain",
+    "year": 2018,
+    "artist_name": "Creedence Clearwater Revival",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=u1V8YRJnr4Q",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_ZWijx_AgPiA",
+    "song_title": "Fortunate Son",
+    "year": 2018,
+    "artist_name": "Creedence Clearwater Revival",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ZWijx_AgPiA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_wCCfc2vAuDU",
+    "song_title": "I Heard It Through The Grapevine",
+    "year": 1970,
+    "artist_name": "Creedence Clearwater Revival",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=wCCfc2vAuDU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_P0kJ3r9j5MQ",
+    "song_title": "Fever",
+    "year": 2018,
+    "artist_name": "Madonna",
+    "artist_genre": ["Pop", "Dance"],
+    "youtube_link": "https://www.youtube.com/watch?v=P0kJ3r9j5MQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_N_4SmwN_iDs",
+    "song_title": "The Fever",
+    "year": 2018,
+    "artist_name": "Foreign Figures",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=N_4SmwN_iDs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_haA7DpK9Z4k",
+    "song_title": "Fever",
+    "year": 2018,
+    "artist_name": "Wizkid",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=haA7DpK9Z4k",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_0LsAnR1R00k",
+    "song_title": "White Flag",
+    "year": 2018,
+    "artist_name": "Normandie",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=0LsAnR1R00k",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_N4oG4NUuhZk",
+    "song_title": "Golden Boy",
+    "year": 1995,
+    "artist_name": "Sin With Sebastian",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=N4oG4NUuhZk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_P6zaCV4niKk",
+    "song_title": "Father & Son",
+    "year": 1970,
+    "artist_name": "Yusuf / Cat Stevens",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=P6zaCV4niKk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_frqb6prcIMA",
+    "song_title": "Insecure Men",
+    "year": 2018,
+    "artist_name": "Ulster",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=frqb6prcIMA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_4F-u3922yUo",
+    "song_title": "Straight in the Eye",
+    "year": 2018,
+    "artist_name": "Ulster Page",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=4F-u3922yUo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_WAi5zvGI2H0",
+    "song_title": "Good Ole Boys",
+    "year": 2018,
+    "artist_name": "John Schneider",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=WAi5zvGI2H0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_8ui9umU0C2g",
+    "song_title": "The Silence",
+    "year": 2017,
+    "artist_name": "Manchester Orchestra",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=8ui9umU0C2g",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": 567261183448,
+    "song_title": "Chains",
+    "year": 2018,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=DNOodu-omrA",
+    "imvdb_url": "https://imvdb.com/video/dear-rouge/chains",
+    "artist": "Dear Rouge"
+  },
+{
+    "id": 333701550799,
+    "song_title": "Flash Pose",
+    "year": 2019,
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=rZVhR399IoA",
+    "imvdb_url": "https://imvdb.com/video/pabllo-vittar/flash-pose",
+    "artist": "Pabllo Vittar ft. Charli XCX"
+  },
+{
+    "id": "yt_Fh1IULyAe9I",
+    "song_title": "Anima",
+    "year": 2019,
+    "artist_name": "Stain The Canvas",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=Fh1IULyAe9I",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt__0b4CBK12ss",
+    "song_title": "No One Stands in My Way",
+    "year": 2019,
+    "artist_name": "Arion",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=_0b4CBK12ss",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt__Mc_OM5oNA8",
+    "song_title": "The Seed",
+    "year": 2019,
+    "artist_name": "Aurora",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=_Mc_OM5oNA8",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_CvBfHwUxHIk",
-    "song_title": "Umbrella",
-    "year": 2009,
-    "artist_name": "Rihanna ft. JAY-Z",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=CvBfHwUxHIk",
+    "id": "yt_AvPzwKQKZTc",
+    "song_title": "Apple Tree",
+    "year": 2019,
+    "artist_name": "Aurora",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=AvPzwKQKZTc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_3DIT8Y3LC6M",
+    "song_title": "Animal",
+    "year": 2019,
+    "artist_name": "Aurora",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=3DIT8Y3LC6M",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_URflja3pE3Q",
+    "song_title": "Cathedral Song",
+    "year": 1988,
+    "artist_name": "Tanita Tikaram",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=URflja3pE3Q",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_siy9eHuOEP0",
+    "song_title": "Champagne",
+    "year": 2019,
+    "artist_name": "NKM01, Chacal & Yakarta",
+    "artist_genre": "Latino",
+    "youtube_link": "https://www.youtube.com/watch?v=siy9eHuOEP0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_LLGjlHcFSHY",
+    "song_title": "Clear",
+    "year": 2019,
+    "artist_name": "Moon Boots feat. Nic Hanson",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=LLGjlHcFSHY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_yfLqsEHOL3c",
+    "song_title": "Dallas, Dallas",
+    "year": 2019,
+    "artist_name": "Sir Charles Jones",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=yfLqsEHOL3c",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_FhcB0BLqhto",
+    "song_title": "KhoYa",
+    "year": 2019,
+    "artist_name": "De La Rue",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=FhcB0BLqhto",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_m47Is4ipcF8",
+    "song_title": "Ain t No Future In Yo Frontin",
+    "year": 1991,
+    "artist_name": "Mc Breed And DFC",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=m47Is4ipcF8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_bqcVdHSfgx8",
+    "song_title": "Mpulira Bibyo",
+    "year": 2019,
+    "artist_name": "Grenade",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=bqcVdHSfgx8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_bmsO14ZXVd0",
+    "song_title": "Amen",
+    "year": 2019,
+    "artist_name": "Grenade",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=bmsO14ZXVd0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+      "id": "yt_KQ7FpYDQLOI",
+      "song_title": "Reason With Me",
+      "year": 2019,
+      "artist_name": "Rudeboy",
+      "artist_genre": "Pop",
+      "youtube_link": "https://www.youtube.com/watch?v=KQ7FpYDQLOI",
+      "imvdb_url": null,
+      "source": "YouTube"
+    },
+{
+    "id": "yt_ZpQ_oztfXZ8",
+    "song_title": "Everyday",
+    "year": 2019,
+    "artist_name": "Tiny Twinz",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=ZpQ_oztfXZ8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_sbbNuvEDDJM",
+    "song_title": "Playboys",
+    "year": 2019,
+    "artist_name": "Midland",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=sbbNuvEDDJM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_otSZNOifsfg",
+    "song_title": "Popular",
+    "year": 2019,
+    "artist_name": "Rouge Ft. Emtee",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=otSZNOifsfg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_thK4s81tEgU",
+    "song_title": "RPM",
+    "year": 2019,
+    "artist_name": "SF9",
+    "artist_genre": "K-Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=thK4s81tEgU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_1GNPYTL3CZw",
+    "song_title": "Suspect Device & Alternative Ulster  (Live at Wacken Open Air)",
+    "year": 2018,
+    "artist_name": "Stiff Little Fingers",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=1GNPYTL3CZw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_s3MUYC4KXOg",
+    "song_title": "Spliff",
+    "year": 1982,
+    "artist_name": "Carbona",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=s3MUYC4KXOg",
     "imvdb_url": null,
     "source": "YouTube"
   }

@@ -46,7 +46,7 @@ export const translations = {
       signalSource: 'Músicas',
     },
     sector3: {
-      selectGenre: 'Selecione o Gênero',
+      selectGenre: 'Canais',
       shows: 'Shows',
       fullShow: 'Show completo',
       acoustic: 'Acústico',
@@ -132,7 +132,7 @@ export const translations = {
       signalSource: 'Music Source',
     },
     sector3: {
-      selectGenre: 'Select Genre',
+      selectGenre: 'Canais',
       shows: 'Shows',
       fullShow: 'Full Show',
       acoustic: 'Acoustic',

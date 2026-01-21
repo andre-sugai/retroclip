@@ -18,15 +18,6 @@
     "artist": "Anitta"
   },
   {
-    "id": 375463179469,
-    "song_title": "Black To Gold",
-    "year": 2015,
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=sKq53_imZzs",
-    "imvdb_url": "https://imvdb.com/video/dear-rouge/black-to-gold",
-    "artist": "Dear Rouge"
-  },
-  {
     "id": 729783118114,
     "song_title": "No Meu Talento",
     "year": 2015,
@@ -34,15 +25,6 @@
     "youtube_link": "https://www.youtube.com/watch?v=jtDnmVjPfvM",
     "imvdb_url": "https://imvdb.com/video/anitta/no-meu-talento",
     "artist": "Anitta"
-  },
-  {
-    "id": 228235905979,
-    "song_title": "Tongues",
-    "year": 2015,
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Fh5gx-ZNjeE",
-    "imvdb_url": "https://imvdb.com/video/dear-rouge/tongues",
-    "artist": "Dear Rouge"
   },
   {
     "id": 237349263467,
@@ -64,32 +46,12 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_h6CynjYJ6kY",
-    "song_title": "Revolution Heart. Jay Kaners, Ado Black",
-    "year": 2015,
-    "artist_name": "Ado Negro",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=h6CynjYJ6kY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_yp1vXOiKVgk",
     "song_title": "Angra - Final Light [Official Music Video]",
     "year": 2015,
     "artist_name": "Angra",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=yp1vXOiKVgk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_3A0iXHELGXU",
-    "song_title": "Anima - Kembalilah Untukku (Official Music Video)",
-    "year": 2015,
-    "artist_name": "Anima",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=3A0iXHELGXU",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -120,46 +82,6 @@
     "artist_name": "Ara Ketu",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=yR73Gcc10xc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_t2AkYwqMj3s",
-    "song_title": "Padang, Padang (Live)",
-    "year": 2015,
-    "artist_name": "Asa de guia",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=t2AkYwqMj3s",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_d_HlPboLRL8",
-    "song_title": "AURORA - Runaway",
-    "year": 2015,
-    "artist_name": "Autoras",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=d_HlPboLRL8",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_06ht9MyJLT4",
-    "song_title": "AURORA - Running With The Wolves",
-    "year": 2015,
-    "artist_name": "Autoras",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=06ht9MyJLT4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_EWcocaX9Ek0",
-    "song_title": "Jazz Carnival",
-    "year": 2015,
-    "artist_name": "Azymuth",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=EWcocaX9Ek0",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -344,16 +266,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_dQy02RzWLlI",
-    "song_title": "CHACAL Y YAKARTA - CONTROL (OFFICIAL VIDEO)",
-    "year": 2015,
-    "artist_name": "Chakal",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=dQy02RzWLlI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_Nu8LPmKvxvU",
     "song_title": "Cheiro De Amor - Proposta Indecente (Propuesta Indecente) (Videoclipe) ft. Lucas Lucco",
     "year": 2015,
@@ -364,18 +276,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_iv7lcUkFVSc",
-    "song_title": "O Re Piya | Full Song | Aaja Nachle | Madhuri Dixit | Rahat Fateh Ali Khan | Salim-Sulaiman, Jaideep",
-    "year": 2015,
-    "artist_name": "Cidad\\'e3o Quem",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=iv7lcUkFVSc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_cG9HcWT9q3c",
-    "song_title": "ConeCrewDiretoria - Cleopatra (Clipe Oficial)",
+    "song_title": "Cleopatra",
     "year": 2015,
     "artist_name": "Cone Crew Diretoria",
     "artist_genre": "Rap",
@@ -385,7 +287,7 @@
   },
   {
     "id": "yt_g-7bCYYkMak",
-    "song_title": "ConeCrewDiretoria - Rap Cerva Erva & Muita Larica (Clipe Oficial)",
+    "song_title": "Rap Cerva Erva & Muita Larica",
     "year": 2015,
     "artist_name": "Cone Crew Diretoria",
     "artist_genre": "Rap",
@@ -395,7 +297,7 @@
   },
   {
     "id": "yt_3l-zxvNNe90",
-    "song_title": "ConeCrewDiretoria - Energia (Clipe Oficial)",
+    "song_title": "Energia",
     "year": 2015,
     "artist_name": "Cone Crew Diretoria",
     "artist_genre": "Rap",
@@ -404,28 +306,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_HB44bW4ho8Y",
-    "song_title": "Coral Resgate - Tudo Dele",
-    "year": 2015,
-    "artist_name": "Coral Resgate",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=HB44bW4ho8Y",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Mq_fRiFqEQU",
-    "song_title": "Coral Resgate - 24 Horas Fiel (Lyric Video)",
-    "year": 2015,
-    "artist_name": "Coral Resgate",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=Mq_fRiFqEQU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_4J1paBgTWsY",
-    "song_title": "Dallas Company - Clima de Rodeio (Pseudo Video)",
+    "song_title": "Clima de Rodeio",
     "year": 2015,
     "artist_name": "Dallas Country",
     "artist_genre": "Country",
@@ -435,7 +317,7 @@
   },
   {
     "id": "yt_Ksll94P6Ogc",
-    "song_title": "Dead Fish \"Vitória\" (clipe oficial)",
+    "song_title": "Vitória",
     "year": 2015,
     "artist_name": "Dead Fish",
     "artist_genre": "Hardcore",
@@ -445,7 +327,7 @@
   },
   {
     "id": "yt_emcD-yDwslg",
-    "song_title": "Dead Fish -  Selfegofactóide",
+    "song_title": "Selfegofactóide",
     "year": 2015,
     "artist_name": "Dead Fish",
     "artist_genre": "Hardcore",
@@ -455,17 +337,17 @@
   },
   {
     "id": "yt_bextlD2Fxsg",
-    "song_title": "Zezé Di Camargo & Luciano - O Defensor (Ao Vivo)",
+    "song_title": "O Defensor",
     "year": 2015,
-    "artist_name": "Defensores",
-    "artist_genre": "Rock",
+    "artist_name": "Zezé Di Camargo & Luciano",
+    "artist_genre": "Sertanejo",
     "youtube_link": "https://www.youtube.com/watch?v=bextlD2Fxsg",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_Jbw_ACCpodA",
-    "song_title": "Detonautas Roque Clube - Melhor Plantar o Bem - Video Clipe Oficial",
+    "song_title": "Melhor Plantar o Bem",
     "year": 2015,
     "artist_name": "Detonautas Roque Clube",
     "artist_genre": "Rock",
@@ -474,98 +356,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_dh4zUylmOs4",
-    "song_title": "Me Ama (Clipe emocionante) Diante do Trono",
-    "year": 2015,
-    "artist_name": "Diante do Trono",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=dh4zUylmOs4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_bE1qNEPDdfk",
-    "song_title": "Tetelestai (clipe oficial) | DVD Tetelestai | Diante do Trono",
-    "year": 2015,
-    "artist_name": "Diante do Trono",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=bE1qNEPDdfk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_oDpsyeA-Qq0",
-    "song_title": "Diante do Trono - Preciso De Ti",
-    "year": 2015,
-    "artist_name": "Diante do Trono",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=oDpsyeA-Qq0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_XEa2jjT9SyQ",
-    "song_title": "Discopraise - Se Eu Me Humilhar (Vídeo Ao Vivo)",
-    "year": 2015,
-    "artist_name": "Discopraise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=XEa2jjT9SyQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_c7G28U33V9o",
-    "song_title": "Discopraise - Pedra na Mão (Vídeo Ao Vivo)",
-    "year": 2015,
-    "artist_name": "Discopraise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=c7G28U33V9o",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_4zotzzdLy8o",
-    "song_title": "Discopraise - Favor de Deus (Vídeo Ao Vivo)",
-    "year": 2015,
-    "artist_name": "Discopraise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=4zotzzdLy8o",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_tZCl9_YCeSA",
-    "song_title": "Discopraise - Lá Vou Eu (Vídeo Ao Vivo)",
-    "year": 2015,
-    "artist_name": "Discopraise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=tZCl9_YCeSA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_YAK4SCQo0m0",
-    "song_title": "Dear Jack - Eterna (Official Video)",
-    "year": 2015,
-    "artist_name": "Eterna",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=YAK4SCQo0m0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_icbecyw5Etk",
-    "song_title": "Eterna With Neno Fernando - \"Só Quero você\" ( Official Video Clip ) 2014.",
-    "year": 2015,
-    "artist_name": "Eterna",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=icbecyw5Etk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_UFCdk58pWfc",
-    "song_title": "Finis Africae - Armadilha ( Vídeo Clip Oficial )",
+    "song_title": "Armadilha",
     "year": 2015,
     "artist_name": "Finis Africae",
     "artist_genre": "Rock",
@@ -574,118 +366,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_suXnq3qIOfc",
-    "song_title": "Finis Africae - Doble Reflejo De La Luna En El Agua (Double Reflection Of The Moon On The Water)",
-    "year": 2015,
-    "artist_name": "Finis Africae",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=suXnq3qIOfc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_-SfT3QVTY9Y",
-    "song_title": "The Game - My Flag/Da Homies (Official Music Video)",
-    "year": 2015,
-    "artist_name": "FLG",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=-SfT3QVTY9Y",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_fAvTyxCh6tU",
-    "song_title": "Fruto Sagrado - Superman (Video Oficial)",
-    "year": 2015,
-    "artist_name": "Fruto Sagrado",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=fAvTyxCh6tU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_NdxOCTezeTg",
-    "song_title": "Nadav Guedj - Golden Boy - 🇮🇱 Israel - Official Music Video - Eurovision 2015",
-    "year": 2015,
-    "artist_name": "Golden Boys",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=NdxOCTezeTg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_-w-2K9U8UIs",
-    "song_title": "Nadav Guedj - Golden Boy (LIVE) | Israel 🇮🇱 | Grand Final | Eurovision 2015",
-    "year": 2015,
-    "artist_name": "Golden Boys",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=-w-2K9U8UIs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_8GtVUkyzvhU",
-    "song_title": "Elf Kid  -  Golden Boy - No Hats No Hoods Records",
-    "year": 2015,
-    "artist_name": "Golden Boys",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=8GtVUkyzvhU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ksE1ISbY9AM",
-    "song_title": "Ao Sentir",
-    "year": 2015,
-    "artist_name": "Grupo Elo",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=ksE1ISbY9AM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_vXV_mZvDAWk",
-    "song_title": "Jesus Provou",
-    "year": 2015,
-    "artist_name": "Grupo Elo",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=vXV_mZvDAWk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_kFuSoUl0xPE",
-    "song_title": "Glory Opera - Iara",
-    "year": 2015,
-    "artist_name": "Glory Opera",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=kFuSoUl0xPE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_i6MBDBwPOqs",
-    "song_title": "Helmut Quacken Jr - First Hunting - GLORY OPERA",
-    "year": 2015,
-    "artist_name": "Glory Opera",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=i6MBDBwPOqs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_KDxJlW6cxRk",
-    "song_title": "Duke Dumont - Ocean Drive",
-    "year": 2015,
-    "artist_name": "House Boulevard",
-    "artist_genre": "Eletronico",
-    "youtube_link": "https://www.youtube.com/watch?v=KDxJlW6cxRk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_zGEeeJGHn-Q",
-    "song_title": "Jeito Moleque - Sobrenatural (Ao Vivo)",
+    "song_title": "Sobrenatural",
     "year": 2015,
     "artist_name": "Jeito Moleque",
     "artist_genre": "Samba",
@@ -695,7 +377,7 @@
   },
   {
     "id": "yt_u3f7p0o5XhM",
-    "song_title": "Jeito Moleque - Meu Jeito Moleque (Ao Vivo)",
+    "song_title": "Meu Jeito Moleque",
     "year": 2015,
     "artist_name": "Jeito Moleque",
     "artist_genre": "Samba",
@@ -705,7 +387,7 @@
   },
   {
     "id": "yt_6NjJwD_fm-w",
-    "song_title": "Jeito Moleque - ELA É (Ao Vivo Na Amazônia)",
+    "song_title": "ELA É",
     "year": 2015,
     "artist_name": "Jeito Moleque",
     "artist_genre": "Samba",
@@ -715,7 +397,7 @@
   },
   {
     "id": "yt_VgVOnF3NLJY",
-    "song_title": "Jeito Moleque - NÃO TEM PRA NINGUÉM (Ao Vivo)",
+    "song_title": "NÃO TEM PRA NINGUÉM",
     "year": 2015,
     "artist_name": "Jeito Moleque",
     "artist_genre": "Samba",
@@ -725,7 +407,7 @@
   },
   {
     "id": "yt_4yas1bO-c_w",
-    "song_title": "JOELHO DE PORCO   MARDITO FIAPO DE MANGA",
+    "song_title": "Mardito Fiapo de Manga",
     "year": 2015,
     "artist_name": "Joelho de Porco",
     "artist_genre": "Rock",
@@ -745,7 +427,7 @@
   },
   {
     "id": "yt_oqNTxXbF3aA",
-    "song_title": "K-Sis - Beijos, Blues e Poesia",
+    "song_title": "Beijos, Blues e Poesia",
     "year": 2015,
     "artist_name": "K-Sis",
     "artist_genre": "Pop Rock",
@@ -755,7 +437,7 @@
   },
   {
     "id": "yt_4tfvsYpE_yg",
-    "song_title": "Katsbarnea -  Perto de Deus",
+    "song_title": "Perto de Deus",
     "year": 2015,
     "artist_name": "Katsbarnea",
     "artist_genre": "Rock",
@@ -765,7 +447,7 @@
   },
   {
     "id": "yt_tYINJ2K9ZUw",
-    "song_title": "KLB - Um anjo (CLIPE OFICIAL)",
+    "song_title": "Um anjo",
     "year": 2015,
     "artist_name": "KLB",
     "artist_genre": "Pop",
@@ -775,7 +457,7 @@
   },
   {
     "id": "yt_Jff3uTLOmE8",
-    "song_title": "KLB - Ela não está aqui (CLIPE OFICIAL)",
+    "song_title": "Ela não está aqui",
     "year": 2015,
     "artist_name": "KLB",
     "artist_genre": "Pop",
@@ -787,25 +469,25 @@
     "id": "yt_0yJqmlV4r9A",
     "song_title": "Eu Era Um Lobisomem Juvenil",
     "year": 2015,
-    "artist_name": "Legi\\'e3o Urbana",
-    "artist_genre": "Desconhecido",
+    "artist_name": "Legião Urbana",
+    "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=0yJqmlV4r9A",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_HJM4u4wXAZI",
-    "song_title": "Lulu Santos - Made In Brasil",
+    "song_title": "Made In Brasil",
     "year": 2015,
-    "artist_name": "Made in Brazil",
-    "artist_genre": "Rock",
+    "artist_name": "Lulu Santos",
+    "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=HJM4u4wXAZI",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt__K2lc43fVjY",
-    "song_title": "Maskavo - Asas (Queremos Mais 15 anos - ao vivo) ) [OFFICIAL MUSIC VIDEO]",
+    "song_title": "Asas",
     "year": 2015,
     "artist_name": "Maskavo",
     "artist_genre": "Reggae",
@@ -815,7 +497,7 @@
   },
   {
     "id": "yt_mMMnW26o82I",
-    "song_title": "Maskavo - Um anjo do céu (Queremos Mais 15 anos - ao vivo) ) [OFFICIAL MUSIC VIDEO]",
+    "song_title": "Um anjo do céu",
     "year": 2015,
     "artist_name": "Maskavo",
     "artist_genre": "Reggae",
@@ -825,7 +507,7 @@
   },
   {
     "id": "yt_cdFKDS1vedQ",
-    "song_title": "Maskavo - Quero ver (Queremos Mais 15 anos - ao vivo) ) [OFFICIAL MUSIC VIDEO]",
+    "song_title": "Quero ver",
     "year": 2015,
     "artist_name": "Maskavo",
     "artist_genre": "Reggae",
@@ -835,7 +517,7 @@
   },
   {
     "id": "yt_cPRQzo1f_Fk",
-    "song_title": "Sufocators of Metal | Massacration",
+    "song_title": "Sufocators of Metal",
     "year": 2015,
     "artist_name": "Massacration",
     "artist_genre": "Metal",
@@ -845,7 +527,7 @@
   },
   {
     "id": "yt_xeyqateYZ3s",
-    "song_title": "The Mummy | Massacration",
+    "song_title": "The Mummy",
     "year": 2015,
     "artist_name": "Massacration",
     "artist_genre": "Metal",
@@ -855,7 +537,7 @@
   },
   {
     "id": "yt_lHx94WdICuA",
-    "song_title": "MediaTriz Rap - Fica Ligado Neguin",
+    "song_title": "Fica Ligado Neguin",
     "year": 2015,
     "artist_name": "Mediatriz",
     "artist_genre": "Rock",
@@ -865,7 +547,7 @@
   },
   {
     "id": "yt_rw4JgLHjcJE",
-    "song_title": "Banda Calypso - A lambada do rei / Olha o mestre aí (DVD 15 Anos Ao Vivo em Belém - Oficial)",
+    "song_title": "A lambada do rei / Olha o mestre aí",
     "year": 2015,
     "artist_name": "Mestres da Guitarrada",
     "artist_genre": "Regional",
@@ -1184,46 +866,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_H5FzjuKrmXs",
-    "song_title": "She's Ok (original)",
-    "year": 2015,
-    "artist_name": "She's Ok",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=H5FzjuKrmXs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_t7zqkLKefm4",
-    "song_title": "SHE'LL BE OK (Official Music Video 2014)",
-    "year": 2015,
-    "artist_name": "She's Ok",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=t7zqkLKefm4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_evjltQMCm9E",
-    "song_title": "Stauros - Indiferentes (Video Clipe)",
-    "year": 2015,
-    "artist_name": "Stauros",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=evjltQMCm9E",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_teN1R8YqmZE",
-    "song_title": "Stauros - Não Desista - Video Clipe",
-    "year": 2015,
-    "artist_name": "Stauros",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=teN1R8YqmZE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_APP4E6bhpVo",
     "song_title": "Vem Me Dengar",
     "year": 2015,
@@ -1294,82 +936,12 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_ida2emzrIR0",
-    "song_title": "Ulster Page - Young And Old (Official Music Video)",
-    "year": 2015,
-    "artist_name": "Ulster",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=ida2emzrIR0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_HZQX4qm8gnI",
-    "song_title": "Ultraman Nexus Eiyuu Music Video [MV]",
-    "year": 2015,
-    "artist_name": "Ultramen",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=HZQX4qm8gnI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_UOVVUfXmA_E",
-    "song_title": "Pr. Lucas - Deus De Detalhes (Clipe Oficial MK Music)",
-    "year": 2015,
-    "artist_name": "Uno de Deus",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=UOVVUfXmA_E",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_7TrlHs5x-Do",
-    "song_title": "Preto no Branco - Os Sonhos de Deus ft. Juninho Black, Lukão Carvalho, Eli Soares",
-    "year": 2015,
-    "artist_name": "Uno de Deus",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=7TrlHs5x-Do",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Zv1QV6lrc_Y",
-    "song_title": "Martin Garrix - Forbidden Voices (Official Music Video)",
-    "year": 2015,
-    "artist_name": "Voices",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=Zv1QV6lrc_Y",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_5o5E_Q8wWvM",
-    "song_title": "The Mighty Hunter | CGI short film by Michael Ekblad",
-    "year": 2015,
-    "artist_name": "Zumbis do Espa\\'e7o",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=5o5E_Q8wWvM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_5LfaYKdqfnY",
     "song_title": "Tom Jobim - Chega de saudade (Ao Vivo em Montreal)",
     "year": 2015,
     "artist_name": "Tom Jobim",
     "artist_genre": "Bossa Nova",
     "youtube_link": "https://www.youtube.com/watch?v=5LfaYKdqfnY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_rNJwu-YkQlc",
-    "song_title": "Jana Kramer - I Got The Boy (Official Music Video)",
-    "year": 2015,
-    "artist_name": "Jo\\'e3o Gilberto",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=rNJwu-YkQlc",
     "imvdb_url": null,
     "source": "YouTube"
   },

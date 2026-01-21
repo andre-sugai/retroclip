@@ -8,5 +8,35 @@
     "youtube_link": "https://www.youtube.com/watch?v=1yau13A4UzE",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_HXGAq3DhdbI",
+    "song_title": "Ando Falando Sozinho",
+    "year": 1990,
+    "artist_name": "Polegar",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=HXGAq3DhdbI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ZE-p1ftoptY",
+    "song_title": "Jesse James (Domingão do Faustão 1990)",
+    "year": 1990,
+    "artist_name": "Inimigos do Rei",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ZE-p1ftoptY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_30ibGrwxyJ8",
+    "song_title": "Ego e Fica Comigo (Domingão do Faustão 1990)",
+    "year": 1990,
+    "artist_name": "Placa Luminosa",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=30ibGrwxyJ8",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

@@ -27,5 +27,45 @@
     "youtube_link": "https://www.youtube.com/watch?v=dG1rJZlPaaE",
     "imvdb_url": "https://imvdb.com/video/zero-5/agora-eu-sei",
     "source": "IMVDb"
+  },
+  {
+    "id": "yt_a_YIgY7yaq4",
+    "song_title": "Eu Quis Comer Você",
+    "year": 1987,
+    "artist_name": "Cascavelletes",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=a_YIgY7yaq4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_dgtKCM_YuEU",
+    "song_title": "Ugagogobabago",
+    "year": 1987,
+    "artist_name": "Cascavelletes",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=dgtKCM_YuEU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_VMVD36zUwDw",
+    "song_title": "Moto",
+    "year": 1987,
+    "artist_name": "Cascavelletes",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=VMVD36zUwDw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_oiwG5_utFKM",
+    "song_title": "Carro Roubado",
+    "year": 1987,
+    "artist_name": "Cascavelletes",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=oiwG5_utFKM",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

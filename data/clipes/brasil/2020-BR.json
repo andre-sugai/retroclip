@@ -1,346 +1,167 @@
 [
   {
-    "id": 139571992746,
-    "song_title": "Me Gusta",
-    "year": 2020,
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=kIbjHtE4fd8",
-    "imvdb_url": "https://imvdb.com/video/anitta/me-gusta",
-    "artist": "Anitta"
-  },
-  {
-    "id": 171302893229,
-    "song_title": "PTS",
-    "year": 2020,
-    "artist_name": "Gloria",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=MiAwQM5EwtE",
-    "imvdb_url": "https://imvdb.com/video/gloria/pts",
-    "source": "IMVDb"
-  },
-  {
     "id": "yt_q6p_u22Kt5M",
-    "song_title": "Live VITOR KLEY - A Bolha - #FiqueEmCasa e Cante #Comigo",
+    "song_title": "A Bolha",
     "year": 2020,
-    "artist_name": "A Bolha",
-    "artist_genre": "Desconhecido",
+    "artist_name": "VITOR KLEY",
+    "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=q6p_u22Kt5M",
     "imvdb_url": null,
     "source": "YouTube"
   },
-  {
+   {
     "id": "yt_Fw1VEXl9wxY",
-    "song_title": "Jean Tassy - Saia da Bolha (Prod. Felipe Phyre) | Videoclipe Oficial",
+    "song_title": "Saia da Bolha",
     "year": 2020,
-    "artist_name": "A Bolha",
-    "artist_genre": "Desconhecido",
+    "artist_name": "Jean Tassy",
+    "artist_genre": "Rap",
     "youtube_link": "https://www.youtube.com/watch?v=Fw1VEXl9wxY",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_5SVQOnjaTN0",
-    "song_title": "Microphonic Tube | A Look Inside Amp Maker PP18 Marshall Plexi | Valve Amp Service",
-    "year": 2020,
-    "artist_name": "Ac\\'fasticos e Valvulados",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=5SVQOnjaTN0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_8Cu74Gvy39E",
-    "song_title": "Black Danger_Pafu music video directed by Ado",
-    "year": 2020,
-    "artist_name": "Ado Negro",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=8Cu74Gvy39E",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_XwfG9FdhAc0",
-    "song_title": "AMONG US Dance Video - Moondai EDM Remix (DTB)",
-    "year": 2020,
-    "artist_name": "Almandegas",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=XwfG9FdhAc0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_905czCk919k",
-    "song_title": "AMONG US Song (Dance Music Video) /  Moondai Remix",
-    "year": 2020,
-    "artist_name": "Almandegas",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=905czCk919k",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_KTwqx1Uf1C8",
-    "song_title": "Marracash - MADAME - L'anima ft. Madame",
-    "year": 2020,
-    "artist_name": "Anima",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=KTwqx1Uf1C8",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ooGf0F5_id0",
-    "song_title": "Anima Ft. Sheera - Moon (Original Mix)",
-    "year": 2020,
-    "artist_name": "Anima",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=ooGf0F5_id0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_mQ1myt4-gX4",
-    "song_title": "Anima Christi (Marco Frisina)",
-    "year": 2020,
-    "artist_name": "Anima",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=mQ1myt4-gX4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Mg-5GPnN1d0",
-    "song_title": "SUICÍDIO",
-    "year": 2020,
-    "artist_name": "Antidemon",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Mg-5GPnN1d0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Oi7KnnrOpYA",
-    "song_title": "Nega",
-    "year": 2020,
-    "artist_name": "Anjos do Inferno",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Oi7KnnrOpYA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Hph9CwESUKw",
-    "song_title": "13 de Ouro",
-    "year": 2020,
-    "artist_name": "Anjos do Inferno",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Hph9CwESUKw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_1gqgNOZx6Ak",
-    "song_title": "Templo Soul | Último Dia (CD Apocalipse 16 & Templo Soul)",
-    "year": 2020,
-    "artist_name": "Apocalipse 16",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=1gqgNOZx6Ak",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_d1xedsz5Hac",
-    "song_title": "ARION Feat. Noora Louhimo - Bloodline (2020) // Official Music Video // AFM Records",
-    "year": 2020,
-    "artist_name": "Arion",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=d1xedsz5Hac",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_MMIeAR0YOms",
-    "song_title": "Art Popular - Quando Você Me Beija | ArtPopuloucos #1",
+    "song_title": "Quando Você Me Beija",
     "year": 2020,
     "artist_name": "Art Popular",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pagode",
     "youtube_link": "https://www.youtube.com/watch?v=MMIeAR0YOms",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_0nyvMUXsNGM",
-    "song_title": "Art Popular - Solidão | ArtPopuloucos #2",
+    "song_title": "Solidão",
     "year": 2020,
     "artist_name": "Art Popular",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pagode",
     "youtube_link": "https://www.youtube.com/watch?v=0nyvMUXsNGM",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_ka4m1JI-04g",
-    "song_title": "Art Popular - Temporal | ArtPopuloucos #1",
+    "song_title": "Temporal",
     "year": 2020,
     "artist_name": "Art Popular",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pagode",
     "youtube_link": "https://www.youtube.com/watch?v=ka4m1JI-04g",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_tm8MhkHg2tA",
-    "song_title": "Art Popular - Fricote | ArtPopuloucos #2",
+    "song_title": "Fricote",
     "year": 2020,
     "artist_name": "Art Popular",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pagode",
     "youtube_link": "https://www.youtube.com/watch?v=tm8MhkHg2tA",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_jruNOaI0aCo",
-    "song_title": "Art Popular - Já Que Tá Gostoso Deixa (Mata Papai) | ArtPopuloucos #2",
+    "song_title": "Já Que Tá Gostoso Deixa (Mata Papai)",
     "year": 2020,
     "artist_name": "Art Popular",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pagode",
     "youtube_link": "https://www.youtube.com/watch?v=jruNOaI0aCo",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_9MpaZB6pkhk",
-    "song_title": "Art Popular - Nani | ArtPopuloucos #1",
+    "song_title": "Nani",
     "year": 2020,
     "artist_name": "Art Popular",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pagode",
     "youtube_link": "https://www.youtube.com/watch?v=9MpaZB6pkhk",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_VVAs4bbiRL8",
-    "song_title": "Art Popular - Eternamente Feliz | ArtPopuloucos #1",
+    "song_title": "Eternamente Feliz",
     "year": 2020,
     "artist_name": "Art Popular",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pagode",
     "youtube_link": "https://www.youtube.com/watch?v=VVAs4bbiRL8",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_9doZ7gaVfGk",
-    "song_title": "Art Popular - Pimpolho | ArtPopuloucos",
+    "song_title": "Pimpolho",
     "year": 2020,
     "artist_name": "Art Popular",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pagode",
     "youtube_link": "https://www.youtube.com/watch?v=9doZ7gaVfGk",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_DClQkOnhE5A",
-    "song_title": "Art Popular - Ôa - Ôa Canção do Amor | Acústico 2000",
+    "song_title": "Ôa Canção do Amor",
     "year": 2020,
     "artist_name": "Art Popular",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pagode",
     "youtube_link": "https://www.youtube.com/watch?v=DClQkOnhE5A",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_VkrZKREptjs",
-    "song_title": "Asa De Águia - Dança do Vampiro (Áudio Oficial)",
-    "year": 2020,
-    "artist_name": "Asa de guia",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=VkrZKREptjs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_7YDkrJaiCrw",
-    "song_title": "AURORA - Exist For Love",
+    "song_title": "Exist For Love",
     "year": 2020,
-    "artist_name": "Autoras",
-    "artist_genre": "Desconhecido",
+    "artist_name": "Aurora",
+    "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=7YDkrJaiCrw",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_T4vYxbjWNmk",
-    "song_title": "Babado Novo - Geral Vai No Chão (Clipe Oficial)",
+    "song_title": "Geral Vai No Chão",
     "year": 2020,
     "artist_name": "Babado Novo",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Axé",
     "youtube_link": "https://www.youtube.com/watch?v=T4vYxbjWNmk",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_pNmXEL6g6xo",
-    "song_title": "Murda Beatz & YNW Melly - Banana Split (feat. Lil Durk) [Official Video]",
-    "year": 2020,
-    "artist_name": "Banana Split",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=pNmXEL6g6xo",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_yEYtIeZcmQ4",
-    "song_title": "Bando da lua - Canoeiro",
-    "year": 2020,
-    "artist_name": "Bando da Lua",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=yEYtIeZcmQ4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ps8IQV3BRrk",
-    "song_title": "A grande familiar episódios 90",
-    "year": 2020,
-    "artist_name": "Bar\\'e3o Vermelho",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=ps8IQV3BRrk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_5RmQOTNcI70",
-    "song_title": "F.Snipes - Manifesto (Official Video). Feat. Henrike Baliú (Armada & Blind Pigs) + Paulo Rocker.",
+    "song_title": "Manifesto",
     "year": 2020,
-    "artist_name": "Blind Pigs",
-    "artist_genre": "Desconhecido",
+    "artist_name": "F.Snipes Feat. Henrike Baliú (Armada & Blind Pigs) + Paulo Rocker",
+    "artist_genre": "Punk",
     "youtube_link": "https://www.youtube.com/watch?v=5RmQOTNcI70",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_v9DES7HAov0",
-    "song_title": "Leo Stronda - JLO",
+    "song_title": "JLO",
     "year": 2020,
-    "artist_name": "Bonde da Stronda",
-    "artist_genre": "Desconhecido",
+    "artist_name": "Leo Stronda",
+    "artist_genre": "Rap",
     "youtube_link": "https://www.youtube.com/watch?v=v9DES7HAov0",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_A2RUvOvNoF0",
-    "song_title": "Br'oz - Esmeralda (Ela é um anjo) [ #LiveDoBroz ]",
+    "song_title": "Esmeralda (Ela é um anjo)",
     "year": 2020,
     "artist_name": "Br'oz",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=A2RUvOvNoF0",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_FX_bl74LP0Y",
-    "song_title": "Carbona - Minha Cabeça",
+    "song_title": "Minha Cabeça",
     "year": 2020,
     "artist_name": "Carbona",
     "artist_genre": "Punk",
@@ -349,18 +170,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_38iI0iDd7yI",
-    "song_title": "os cariocas - amor de nada - 1963",
-    "year": 2020,
-    "artist_name": "Os Cariocas",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=38iI0iDd7yI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_AfNJFazLt4g",
-    "song_title": "Eu Amo Mais Você - Banda Catedral (OFICIAL)",
+    "song_title": "Eu Amo Mais Você",
     "year": 2020,
     "artist_name": "Catedral",
     "artist_genre": "Rock",
@@ -369,108 +180,18 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_1FHjLO8TJX4",
-    "song_title": "CATEDRAL - DVD 20 ANOS NA ESTRADA -  (OFICIAL)",
-    "year": 2020,
-    "artist_name": "Catedral",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=1FHjLO8TJX4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Q46Kg0EM__Q",
-    "song_title": "14 bis - Linda Juventude. (Globo de Ouro 1983)",
-    "year": 2020,
-    "artist_name": "14 Bis",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Q46Kg0EM__Q",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_RMjkiWZhj5M",
-    "song_title": "#F3DendiCasa",
-    "year": 2020,
-    "artist_name": "Cavaleiros do Forr\\'f3",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=RMjkiWZhj5M",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_tiO1c85Vr2k",
-    "song_title": "Chacal - Mi Corazón Es Tuyo [Video Oficial]",
-    "year": 2020,
-    "artist_name": "Chakal",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=tiO1c85Vr2k",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_604ZK8fm__A",
-    "song_title": "Chacal x Tempo - Me Quiero Perder [Official Video]",
-    "year": 2020,
-    "artist_name": "Chakal",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=604ZK8fm__A",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_9hu1_eezVwg",
-    "song_title": "Chipset Zero - Electrofixx",
-    "year": 2020,
-    "artist_name": "Chipset Zero",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=9hu1_eezVwg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_iZq0u3quAqo",
-    "song_title": "Hungria - Amor e Fé (Official Music Video) #CheiroDoMato",
+    "song_title": "Amor e Fé",
     "year": 2020,
-    "artist_name": "Cidad\\'e3o Quem",
-    "artist_genre": "Desconhecido",
+    "artist_name": "Hungria",
+    "artist_genre": "Rap",
     "youtube_link": "https://www.youtube.com/watch?v=iZq0u3quAqo",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_NRVMsTF1DZk",
-    "song_title": "EL    RELICÁRIO  THE   CLEVERS.",
-    "year": 2020,
-    "artist_name": "The Clevers",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=NRVMsTF1DZk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_recqOrb1vgo",
-    "song_title": "Clara Mae - Overused (feat. gnash) [Official Music Video]",
-    "year": 2020,
-    "artist_name": "Clera",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=recqOrb1vgo",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_36iAFuhTq80",
-    "song_title": "Clara Mae - Alright (feat Russell Dickerson) [Official Music Video]",
-    "year": 2020,
-    "artist_name": "Clera",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=36iAFuhTq80",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_a9dx3IwPZeE",
-    "song_title": "Companhia do Calypso e Robertinho - Complicada (1ºDVD Ao Vivo em Recife)",
+    "song_title": "Complicada",
     "year": 2020,
     "artist_name": "Companhia do Calypso",
     "artist_genre": "Pop",
@@ -480,7 +201,7 @@
   },
   {
     "id": "yt_Ty5vlBQGDIM",
-    "song_title": "Comunidade Nin-Jitsu - DETETIVE (clipe 02)",
+    "song_title": "DETETIVE",
     "year": 2020,
     "artist_name": "Comunidade Nin-Jitsu",
     "artist_genre": "Rock",
@@ -489,18 +210,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_tPquUHoNjbw",
-    "song_title": "Marco Masini - Il confronto (Official Video - Sanremo 2020)",
-    "year": 2020,
-    "artist_name": "Confronto",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=tPquUHoNjbw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_fXZOdXCvJ3k",
-    "song_title": "A Cor do Som - Frutificar",
+    "song_title": "Frutificar",
     "year": 2020,
     "artist_name": "A Cor do Som",
     "artist_genre": "Desconhecido",
@@ -509,20 +220,10 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_ncDqlVTHeKs",
-    "song_title": "Coral Resgate - Ele está aqui!!!",
-    "year": 2020,
-    "artist_name": "Coral Resgate",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=ncDqlVTHeKs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_cfrFY-uaupY",
-    "song_title": "Trey Lewis - Dicked Down In Dallas (Official Music Video)",
+    "song_title": "Dicked Down In Dallas",
     "year": 2020,
-    "artist_name": "Dallas Country",
+    "artist_name": "Trey Lewis",
     "artist_genre": "Country",
     "youtube_link": "https://www.youtube.com/watch?v=cfrFY-uaupY",
     "imvdb_url": null,
@@ -530,7 +231,7 @@
   },
   {
     "id": "yt_PdwfGrokf5E",
-    "song_title": "Dead Fish - Não Termina Assim (Clipe Oficial)",
+    "song_title": "Não Termina Assim",
     "year": 2020,
     "artist_name": "Dead Fish",
     "artist_genre": "Hardcore",
@@ -539,38 +240,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_sqMwx264ybA",
-    "song_title": "Defensor // Rapha Gonçalves (Clipe Oficial)",
-    "year": 2020,
-    "artist_name": "Defensores",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=sqMwx264ybA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_CaFOL1npyS4",
-    "song_title": "DIANTE DO TRONO | ABA (DEFENSOR) | IMERSÃO 4",
-    "year": 2020,
-    "artist_name": "Defensores",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=CaFOL1npyS4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_csYp7kEFpgY",
-    "song_title": "Defensor (Live) - Nueva Raza Music || VIDEO OFICIAL || 2020",
-    "year": 2020,
-    "artist_name": "Defensores",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=csYp7kEFpgY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_eg46wxME06U",
-    "song_title": "Carta ao Futuro - Detonautas Roque Clube (Clipe Oficial)",
+    "song_title": "Carta ao Futuro",
     "year": 2020,
     "artist_name": "Detonautas Roque Clube",
     "artist_genre": "Rock",
@@ -579,38 +250,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_vhgDHNRGPTQ",
-    "song_title": "DFC feat. Nate Dogg - Things In Tha Hood (Official Video)",
-    "year": 2020,
-    "artist_name": "DFC",
-    "artist_genre": "Hardcore",
-    "youtube_link": "https://www.youtube.com/watch?v=vhgDHNRGPTQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_2Z6nW7jU_uU",
-    "song_title": "Discopraise - Ouvir o Teu Falar (Vídeo Ao Vivo)",
-    "year": 2020,
-    "artist_name": "Discopraise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=2Z6nW7jU_uU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Uh0-HyDydAM",
-    "song_title": "Discopraise - Bem Perto",
-    "year": 2020,
-    "artist_name": "Discopraise",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=Uh0-HyDydAM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_zNn-UjgeBrY",
-    "song_title": "Breakout - Official Music Video - Dr Sin",
+    "song_title": "Breakout",
     "year": 2020,
     "artist_name": "Dr. Sin",
     "artist_genre": "Metal",
@@ -620,7 +261,7 @@
   },
   {
     "id": "yt_NB4aOMPSfro",
-    "song_title": "DR. SIN - FEAR - (Official Video)",
+    "song_title": "Fear",
     "year": 2020,
     "artist_name": "Dr. Sin",
     "artist_genre": "Metal",
@@ -630,7 +271,7 @@
   },
   {
     "id": "yt_iz7bdwCW6Fw",
-    "song_title": "Falamansa - O Amor Que Tudo Pode (Clipe Oficial)",
+    "song_title": "O Amor Que Tudo Pode",
     "year": 2020,
     "artist_name": "Fala Mansa",
     "artist_genre": "Forró",
@@ -639,48 +280,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_maNtJjbh1sQ",
-    "song_title": "Hi-STANDARD - FIGHTING FISTS, ANGRY SOUL [OFFICIAL MUSIC VIDEO]",
-    "year": 2020,
-    "artist_name": "Fist",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=maNtJjbh1sQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_9tq-ijTDwmI",
-    "song_title": "GANG 90 - E SUAS ABSURDETTES - UM FURO NO FUTURO",
-    "year": 2020,
-    "artist_name": "Gang 90 e as Absurdettes",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=9tq-ijTDwmI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_jBGHn_J0B7E",
-    "song_title": "UNIVERSITÁRIO APAIXONADO | GAROTOS DE OURO | AO VIVO",
-    "year": 2020,
-    "artist_name": "Garotos de Ouro",
-    "artist_genre": "Regional",
-    "youtube_link": "https://www.youtube.com/watch?v=jBGHn_J0B7E",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_l3pxt0IaHL4",
-    "song_title": "Garotos de Ouro - Video Raro 1997",
-    "year": 2020,
-    "artist_name": "Garotos de Ouro",
-    "artist_genre": "Regional",
-    "youtube_link": "https://www.youtube.com/watch?v=l3pxt0IaHL4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_H7rO8PNI-JE",
-    "song_title": "SUBÚRBIO OPERÁRIO - GAROTOS PODRES",
+    "song_title": "Subúrbio Operário",
     "year": 2020,
     "artist_name": "Garotos Podres",
     "artist_genre": "Punk",
@@ -699,38 +300,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_FEWCgAmRjlc",
-    "song_title": "ALETULLE - GRAM",
-    "year": 2020,
-    "artist_name": "Gram",
-    "artist_genre": "Indie",
-    "youtube_link": "https://www.youtube.com/watch?v=FEWCgAmRjlc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_k0wvBziL3jo",
-    "song_title": "Lukas Graham - Share That Love (feat. G-Eazy) [Official Music Video]",
-    "year": 2020,
-    "artist_name": "Gram",
-    "artist_genre": "Indie",
-    "youtube_link": "https://www.youtube.com/watch?v=k0wvBziL3jo",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_gC_dwjYc5d0",
-    "song_title": "Glory Opera - When Falls The Winter",
-    "year": 2020,
-    "artist_name": "Glory Opera",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=gC_dwjYc5d0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_R0ZjAsGnbn4",
-    "song_title": "Hateen - Coração de Plástico - videoclipe",
+    "song_title": "Coração de Plástico",
     "year": 2020,
     "artist_name": "Hateen",
     "artist_genre": "Hardcore",
@@ -739,178 +310,18 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_XwrYvwxpoig",
-    "song_title": "Dilachi Hori | Official Song | Sunny Phadke | Bunny | Prashant Nakti & Sonali S. | Varunraj Kalas",
-    "year": 2020,
-    "artist_name": "Hori",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=XwrYvwxpoig",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_b5kO8guseO4",
-    "song_title": "\"Bright\" Performance Clip | Julie and the Phantoms | Netflix Family",
-    "year": 2020,
-    "artist_name": "Julie e os Fantasmas",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=b5kO8guseO4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_-Pp07jgbPHU",
-    "song_title": "\"Edge of Great\" Performance Clip | Julie and the Phantoms | Netflix Family",
-    "year": 2020,
-    "artist_name": "Julie e os Fantasmas",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=-Pp07jgbPHU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_YduFDvZqIhQ",
-    "song_title": "Julie and Luke Perform \"Perfect Harmony\" Clip | Julie and the Phantoms | Netflix Family",
-    "year": 2020,
-    "artist_name": "Julie e os Fantasmas",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=YduFDvZqIhQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Qbwa0SY4kCs",
-    "song_title": "\"Stand Tall\" Performance Clip | Julie and the Phantoms | Netflix Family",
-    "year": 2020,
-    "artist_name": "Julie e os Fantasmas",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=Qbwa0SY4kCs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_HhhtZkSH8pM",
-    "song_title": "\"Unsaid Emily\" Clip | Julie and the Phantoms | Netflix Family",
-    "year": 2020,
-    "artist_name": "Julie e os Fantasmas",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=HhhtZkSH8pM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_OnGinyIMAUc",
-    "song_title": "\"All Eyes on Me\" Performance Clip | Julie and the Phantoms | Netflix Family",
-    "year": 2020,
-    "artist_name": "Julie e os Fantasmas",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=OnGinyIMAUc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_K8BG3oY2IWI",
-    "song_title": "“Edge of Great” Lyric Video | Julie and the Phantoms | Netflix Family",
-    "year": 2020,
-    "artist_name": "Julie e os Fantasmas",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=K8BG3oY2IWI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_koCU43SpQVQ",
-    "song_title": "Julie Sings \"Wake Up\" Clip | Julie and the Phantoms | Netflix Family",
-    "year": 2020,
-    "artist_name": "Julie e os Fantasmas",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=koCU43SpQVQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ebfkLx8YA0A",
-    "song_title": "Live Bala Jones",
-    "year": 2020,
-    "artist_name": "John Bala Jones",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=ebfkLx8YA0A",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_YXGj_-sQq_Q",
-    "song_title": "Jota Quest - A Voz do Coração (Clipe Oficial) ft. Rael",
+    "song_title": "A Voz do Coração",
     "year": 2020,
-    "artist_name": "Jota Quest",
+    "artist_name": "Jota Quest ft. Rael",
     "artist_genre": "Pop Rock",
     "youtube_link": "https://www.youtube.com/watch?v=YXGj_-sQq_Q",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_V6MaJNDcWdI",
-    "song_title": "KARNAK - DRAKMA",
-    "year": 2020,
-    "artist_name": "Karnak",
-    "artist_genre": "World",
-    "youtube_link": "https://www.youtube.com/watch?v=V6MaJNDcWdI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_6E9BQgyrTH4",
-    "song_title": "Karnak Creation Music Video",
-    "year": 2020,
-    "artist_name": "Karnak",
-    "artist_genre": "World",
-    "youtube_link": "https://www.youtube.com/watch?v=6E9BQgyrTH4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_8YZYM6uKF-s",
-    "song_title": "KATSBARNEA - PAREDE BRANQUEADA - (VIDEO CLIP OFICIAL)",
-    "year": 2020,
-    "artist_name": "Katsbarnea",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=8YZYM6uKF-s",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_jp0ADAmnnFk",
-    "song_title": "KATSBARNEA - INVASÃO - VIDEO CLIP DEMO ORIGINAL - BROTHER SIMION",
-    "year": 2020,
-    "artist_name": "Katsbarnea",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=jp0ADAmnnFk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_fv3htbtUKmo",
-    "song_title": "Cazzu, Ñengo Flow - Gatita Gangster",
-    "year": 2020,
-    "artist_name": "Legi\\'e3o Urbana",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=fv3htbtUKmo",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_D0sjCgS7vi8",
-    "song_title": "Trick Daddy feat. Lil Jon & Twista - Let's Go (Official Video) [Explicit]",
-    "year": 2020,
-    "artist_name": "Legi\\'e3o Urbana",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=D0sjCgS7vi8",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_fGTbRCoHM0M",
-    "song_title": "Ls Jack - No Que Depender de Mim (Clipe Oficial)",
+    "song_title": "No Que Depender de Mim",
     "year": 2020,
     "artist_name": "LS Jack",
     "artist_genre": "Pop Rock",
@@ -919,38 +330,18 @@
     "source": "YouTube"
   },
   {
-    "id": "yt__BWR4MsYoDs",
-    "song_title": "LS Jack - Festival de verão Salvador 2004 - FULL",
-    "year": 2020,
-    "artist_name": "LS Jack",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=_BWR4MsYoDs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_IHmzK2i7VvQ",
-    "song_title": "Hermanos Gutiérrez - Hijos del Sol (Official Video)",
-    "year": 2020,
-    "artist_name": "Los Hermanos",
-    "artist_genre": "Indie",
-    "youtube_link": "https://www.youtube.com/watch?v=IHmzK2i7VvQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_ZCXWbKv52jI",
-    "song_title": "EL PRADO - “MADE IN BRAZIL\"🇧🇷",
+    "song_title": "Made in Brazil",
     "year": 2020,
-    "artist_name": "Made in Brazil",
-    "artist_genre": "Rock",
+    "artist_name": "EL PRADO",
+    "artist_genre": "Rap",
     "youtube_link": "https://www.youtube.com/watch?v=ZCXWbKv52jI",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_mi324lra8m0",
-    "song_title": "Maria do Relento - Quando o Sol Entrar - #emcasa",
+    "song_title": "Quando o Sol Entrar",
     "year": 2020,
     "artist_name": "Maria do Relento",
     "artist_genre": "Rock",
@@ -959,78 +350,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_T2IeM2WdEks",
-    "song_title": "METAL MILK SHAKE - MASSACRATION",
-    "year": 2020,
-    "artist_name": "Massacration",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=T2IeM2WdEks",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_dm32MOo9-hc",
-    "song_title": "METAL MASSACRE ATTACK \"Aruê Aruô\" - Massacration",
-    "year": 2020,
-    "artist_name": "Massacration",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=dm32MOo9-hc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_k_WvAH3AE1w",
-    "song_title": "Maluma - Parce (Official Video) ft. Lenny Tavárez, Justin Quiles",
-    "year": 2020,
-    "artist_name": "Mediatriz",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=k_WvAH3AE1w",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_NkgM9YX_lCY",
-    "song_title": "10 sucessos do Mestre Vieira  (medley) - Por Bimartins",
-    "year": 2020,
-    "artist_name": "Mestres da Guitarrada",
-    "artist_genre": "Regional",
-    "youtube_link": "https://www.youtube.com/watch?v=NkgM9YX_lCY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_3mbvWn1EY6g",
-    "song_title": "Motörhead – Ace Of Spades (Official Video)",
-    "year": 2020,
-    "artist_name": "Motir",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=3mbvWn1EY6g",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_UZEFNHod_DU",
-    "song_title": "Salvatore Ganacci - Boycycle (feat. Sébastien Tellier) (Official Music Video)",
-    "year": 2020,
-    "artist_name": "Motir",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=UZEFNHod_DU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_pRhRP7QOsJA",
-    "song_title": "Chiko Yes ft Mr rude (Official Music video)",
-    "year": 2020,
-    "artist_name": "Mr. Rude",
-    "artist_genre": "Ska",
-    "youtube_link": "https://www.youtube.com/watch?v=pRhRP7QOsJA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_DdfbCNZgspU",
-    "song_title": "Mukeka di rato- Deturpação divina- vídeo clipe",
+    "song_title": "Deturpação divina",
     "year": 2020,
     "artist_name": "Mukeka di Rato",
     "artist_genre": "Hardcore",
@@ -1039,138 +360,18 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_licXrqN5KWw",
-    "song_title": "Carnaval Inesquecível na Cidade Alta-Clipe oficial (2006)",
-    "year": 2020,
-    "artist_name": "Mundo Livre S/A",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=licXrqN5KWw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_9HDEHj2yzew",
-    "song_title": "Dua Lipa - Physical (Official Video)",
-    "year": 2020,
-    "artist_name": "M\\'fasica Surda",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=9HDEHj2yzew",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_95sIqFXh6j0",
-    "song_title": "Natiruts, Amani Kush - Tudo Vai Dar Certo (Lyric Video)",
-    "year": 2020,
-    "artist_name": "Natiruts",
-    "artist_genre": "Reggae",
-    "youtube_link": "https://www.youtube.com/watch?v=95sIqFXh6j0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_c5xqiyMpP_I",
-    "song_title": "AMOR E FÉ  - Hungria Hip-hop - Vídeo Clip : JPFilmes 《",
-    "year": 2020,
-    "artist_name": "Nenhum de N\\'f3s",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=c5xqiyMpP_I",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_LRQXacF4oBA",
-    "song_title": "Marisa Monte, Novos Baianos - A Menina Dança",
+    "song_title": "A Menina Dança",
     "year": 2020,
-    "artist_name": "Novos Baianos",
+    "artist_name": "Marisa Monte & Novos Baianos",
     "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=LRQXacF4oBA",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_uPcASGRiTqA",
-    "song_title": "NOVO SOM - VOZ DO CORAÇÃO (CLIPE OFICIAL)",
-    "year": 2020,
-    "artist_name": "Novo Som",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=uPcASGRiTqA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_93axfl2xlao",
-    "song_title": "Música | Tenha Fé",
-    "year": 2020,
-    "artist_name": "Os Originais do Samba",
-    "artist_genre": "Samba",
-    "youtube_link": "https://www.youtube.com/watch?v=93axfl2xlao",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_floWs30sKmM",
-    "song_title": "Janny Brito & Patrick Brito - DIFERENTE (Official Video) By De Fora Music",
-    "year": 2020,
-    "artist_name": "Os Britos",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=floWs30sKmM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_5HMN4_mpRik",
-    "song_title": "Natalhia Britos \"Toda Humanidad\"  [Official Music Video]",
-    "year": 2020,
-    "artist_name": "Os Britos",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=5HMN4_mpRik",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_9PdQkZAf7GE",
-    "song_title": "Tua Presença Vale Mais / Espontâneo - Mateus Brito (AO VIVO)",
-    "year": 2020,
-    "artist_name": "Os Britos",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=9PdQkZAf7GE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_qnmPhERmDkg",
-    "song_title": "ENPOSIB - OVERDOSE FT. PHYLLISIA ROSS (Official Video)",
-    "year": 2020,
-    "artist_name": "Overdose",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=qnmPhERmDkg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_lsfTThmSduI",
-    "song_title": "Palavrantiga - Rookmaaker (Ao Vivo)",
-    "year": 2020,
-    "artist_name": "Palavrantiga",
-    "artist_genre": "Indie",
-    "youtube_link": "https://www.youtube.com/watch?v=lsfTThmSduI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_BeewHmUyt6g",
-    "song_title": "Os Paralamas Do Sucesso - Trac-Trac",
-    "year": 2020,
-    "artist_name": "Paralamas do Sucesso",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=BeewHmUyt6g",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_v6dDJm9X-yY",
-    "song_title": "OS PATA DE ELEFANTE  [ VÍDEO CLIP OFFICIAL ]",
+    "song_title": "Pata de Elefante",
     "year": 2020,
     "artist_name": "Pata de Elefante",
     "artist_genre": "Rock",
@@ -1180,7 +381,7 @@
   },
   {
     "id": "yt_MyuHU277HpU",
-    "song_title": "ESTAMOS VIVOS / OS PATA DE ELEFANTE                                                  [ LIRIC VIDEO ]",
+    "song_title": "Estamos Vivos",
     "year": 2020,
     "artist_name": "Pata de Elefante",
     "artist_genre": "Rock",
@@ -1190,7 +391,7 @@
   },
   {
     "id": "yt_u0uEYRGYr9E",
-    "song_title": "Prateleira #6 - Patife Band \"Corredor Polonês\", por Pena Schmidt",
+    "song_title": "Prateleira #6",
     "year": 2020,
     "artist_name": "Patife Band",
     "artist_genre": "Punk",
@@ -1199,38 +400,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_SeruzkgsHl8",
-    "song_title": "INVENT ANIMATE - Halcyon (Official Music Video)",
-    "year": 2020,
-    "artist_name": "Pavilh\\'e3o 9",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=SeruzkgsHl8",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_1V60dbu-Qyw",
-    "song_title": "william - Penelope (Official Audio) ft. Clever",
-    "year": 2020,
-    "artist_name": "Penelope",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=1V60dbu-Qyw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_-PHz06SlJo0",
-    "song_title": "Placa Luminosa - Velho Demais (1977)",
-    "year": 2020,
-    "artist_name": "Placa Luminosa",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=-PHz06SlJo0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_bTU5UznbT5U",
-    "song_title": "Planta E Raiz - O Ragga / Atual Situação / A Planta Que Brota Da Terra (Ao Vivo)",
+    "song_title": "O Ragga / Atual Situação / A Planta Que Brota Da Terra (Ao Vivo)",
     "year": 2020,
     "artist_name": "Planta & Raiz",
     "artist_genre": "Reggae",
@@ -1240,9 +411,9 @@
   },
   {
     "id": "yt_rNp--D6LQbo",
-    "song_title": "Um Café Lá Em Casa | Quarteto em Cy e Nelson Faria",
+    "song_title": "Um Café Lá Em Casa",
     "year": 2020,
-    "artist_name": "Quarteto em Cy",
+    "artist_name": "Quarteto em Cy e Nelson Faria",
     "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=rNp--D6LQbo",
     "imvdb_url": null,
@@ -1250,9 +421,9 @@
   },
   {
     "id": "yt_AOu-NxCNdN0",
-    "song_title": "Imaginasom Part. Quinteto Violado - Brincadeiras Populares (Clipe Oficial)",
+    "song_title": "Brincadeiras Populares",
     "year": 2020,
-    "artist_name": "Quinteto Violado",
+    "artist_name": "Imaginasom Part. Quinteto Violado",
     "artist_genre": "Regional",
     "youtube_link": "https://www.youtube.com/watch?v=AOu-NxCNdN0",
     "imvdb_url": null,
@@ -1260,9 +431,9 @@
   },
   {
     "id": "yt_XPAqNL4LCjw",
-    "song_title": "Quinteto Violado & Convidados - Asa Branca - Videoclipe",
+    "song_title": "Asa Branca",
     "year": 2020,
-    "artist_name": "Quinteto Violado",
+    "artist_name": "Quinteto Violado & Convidados",
     "artist_genre": "Regional",
     "youtube_link": "https://www.youtube.com/watch?v=XPAqNL4LCjw",
     "imvdb_url": null,
@@ -1270,7 +441,7 @@
   },
   {
     "id": "yt_RoayB0pLRC0",
-    "song_title": "RBD - Sálvame",
+    "song_title": "Sálvame",
     "year": 2020,
     "artist_name": "Rebeldes",
     "artist_genre": "Pop",
@@ -1280,81 +451,11 @@
   },
   {
     "id": "yt_n4aYbJCwdXU",
-    "song_title": "RBD - Ser O Parecer",
+    "song_title": "Ser O Parecer",
     "year": 2020,
     "artist_name": "Rebeldes",
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=n4aYbJCwdXU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_RXliEWuqmWk",
-    "song_title": "Renato e seus Blue Caps - Não Te Esquecerei (California Dreamin') (Áudio Oficial)",
-    "year": 2020,
-    "artist_name": "Renato e Seus Blue Caps",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=RXliEWuqmWk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Tj2dR-s3TmQ",
-    "song_title": "Renato e seus Blue Caps - O Escândalo (Shame and Scandal In The Family) (Áudio Oficial)",
-    "year": 2020,
-    "artist_name": "Renato e Seus Blue Caps",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=Tj2dR-s3TmQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_QaDFfl165SA",
-    "song_title": "Renato e seus Blue Caps - Primeira Lágrima (Áudio Oficial)",
-    "year": 2020,
-    "artist_name": "Renato e Seus Blue Caps",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=QaDFfl165SA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_-7o9tqI-qj0",
-    "song_title": "Renato e seus Blue Caps - Memórias (Áudio Oficial)",
-    "year": 2020,
-    "artist_name": "Renato e Seus Blue Caps",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=-7o9tqI-qj0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt__hF0cdDMXUE",
-    "song_title": "Renato e seus Blue Caps - Tudo Tem Seu Preço (Áudio Oficial)",
-    "year": 2020,
-    "artist_name": "Renato e Seus Blue Caps",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=_hF0cdDMXUE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_abv7YhPOjwI",
-    "song_title": "Renato e seus Blue Caps - Coitadinha de Você (Áudio Oficial)",
-    "year": 2020,
-    "artist_name": "Renato e Seus Blue Caps",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=abv7YhPOjwI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_YuW9DQACR9k",
-    "song_title": "Resgate - FORA DO AQUÁRIO (feat. e Produção Paulo Anhaia) [Oficial Video]",
-    "year": 2020,
-    "artist_name": "Resgate",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=YuW9DQACR9k",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -1380,7 +481,7 @@
   },
   {
     "id": "yt_BmE7pBAZH_I",
-    "song_title": "Replicantes   Hippie Punk Rajneesh   YouTube",
+    "song_title": "Hippie Punk Rajneesh",
     "year": 2020,
     "artist_name": "Os Replicantes",
     "artist_genre": "Punk",
@@ -1390,27 +491,17 @@
   },
   {
     "id": "yt_rqep8FBmBWY",
-    "song_title": "Rouge - One By One (Official Music Video) ft. AKA",
+    "song_title": "One By One",
     "year": 2020,
-    "artist_name": "Rouge",
+    "artist_name": "Rouge ft. AKA",
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=rqep8FBmBWY",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_OJ_wna4kcGE",
-    "song_title": "Sandra de sa Saigon",
-    "year": 2020,
-    "artist_name": "S\\'e1 Rodrix e Guarabyra",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=OJ_wna4kcGE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_LwaWb6f_bgI",
-    "song_title": "SHAMAN| REASON (VIDEO CLIP)",
+    "song_title": "REASON",
     "year": 2020,
     "artist_name": "Shaaman",
     "artist_genre": "Metal",
@@ -1420,7 +511,7 @@
   },
   {
     "id": "yt_kJ6DPPAJKjA",
-    "song_title": "SHAMAN| TURN AWAY (VIDEO CLIP)",
+    "song_title": "TURN AWAY",
     "year": 2020,
     "artist_name": "Shaaman",
     "artist_genre": "Metal",
@@ -1430,7 +521,7 @@
   },
   {
     "id": "yt_AbYNgyj1UXM",
-    "song_title": "SHAMAN| BRAND NEW ME (OFFICIAL VIDEO CLIP)",
+    "song_title": "BRAND NEW ME",
     "year": 2020,
     "artist_name": "Shaaman",
     "artist_genre": "Metal",
@@ -1439,168 +530,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_OFZH1ZqrRS0",
-    "song_title": "Shakin' Stevens - You Drive Me Crazy (Official HD Video)",
-    "year": 2020,
-    "artist_name": "Stevens",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=OFZH1ZqrRS0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_dRvcrWGUmR4",
-    "song_title": "Shakin' Stevens - This Ole House (Official HD Video)",
-    "year": 2020,
-    "artist_name": "Stevens",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=dRvcrWGUmR4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_JzZjw-lVpYY",
-    "song_title": "Yusuf / Cat Stevens – Lady D'Arbanville (Official Music Video)",
-    "year": 2020,
-    "artist_name": "Stevens",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=JzZjw-lVpYY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_kAPYagAtBEQ",
-    "song_title": "Richard Marx - Right Here Waiting (Tradução/Legendado)",
-    "year": 2020,
-    "artist_name": "O Ter\\'e7o",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=kAPYagAtBEQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Fqdjfec744w",
-    "song_title": "Europe - Carrie (Tradução/Legendado)",
-    "year": 2020,
-    "artist_name": "O Ter\\'e7o",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Fqdjfec744w",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_pS0v3gw3EKU",
-    "song_title": "Davi Sacer e Trazendo a Arca – Lembra Senhor (O Encontro) [Clipe Oficial]",
-    "year": 2020,
-    "artist_name": "Trazendo a Arca",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=pS0v3gw3EKU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_9w7C-FS7KsM",
-    "song_title": "Davi Sacer e Trazendo a Arca - Serás Sempre Deus (O Encontro) [Clipe Oficial]",
-    "year": 2020,
-    "artist_name": "Trazendo a Arca",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=9w7C-FS7KsM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_cqR7hNpMUtw",
-    "song_title": "Davi Sacer e Trazendo a Arca - Sobre As Águas (O Encontro) [Clipe Oficial]",
-    "year": 2020,
-    "artist_name": "Trazendo a Arca",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=cqR7hNpMUtw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_1x_a0tO7Esg",
-    "song_title": "Davi Sacer e Trazendo a Arca – Leva-me Além (O Encontro) [Clipe Oficial]",
-    "year": 2020,
-    "artist_name": "Trazendo a Arca",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=1x_a0tO7Esg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_cqWpmnewjhI",
-    "song_title": "Davi Sacer e Trazendo a Arca – Abro Mão (O Encontro) [Clipe Oficial]",
-    "year": 2020,
-    "artist_name": "Trazendo a Arca",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=cqWpmnewjhI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_zynTWAUK5mc",
-    "song_title": "Viper - You Wanna See Me Dead Cause Of My Hops (OFFICIAL VIDEO)",
-    "year": 2020,
-    "artist_name": "Viper",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=zynTWAUK5mc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_8G-Bren2EUs",
-    "song_title": "Viper - Thug Verses (OFFICIAL VIDEO)",
-    "year": 2020,
-    "artist_name": "Viper",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=8G-Bren2EUs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_pie8jL9aPZA",
-    "song_title": "VIPER - The Spreading Soul Forever (Official Video)",
-    "year": 2020,
-    "artist_name": "Viper",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=pie8jL9aPZA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_g6v0BuBxXco",
-    "song_title": "CALIBRE 27 - CORONAVIRUS, sensibilisation pour la population (Vidéo 2020) - #StayHome #WithMe",
-    "year": 2020,
-    "artist_name": "Virus 27",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=g6v0BuBxXco",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_vrBLyxOqqB0",
-    "song_title": "Henry Danger Force",
-    "year": 2020,
-    "artist_name": "Virus 27",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=vrBLyxOqqB0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_kR-8F6fncFg",
-    "song_title": "Be Polite - (Corona Virus Version) (Official Music Video)",
-    "year": 2020,
-    "artist_name": "Virus 27",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=kR-8F6fncFg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_vAIt31tthGs",
-    "song_title": "WRY - Absoluta Incerteza (Official Video)",
+    "song_title": "Absoluta Incerteza",
     "year": 2020,
     "artist_name": "Wry",
     "artist_genre": "Indie",
@@ -1610,7 +541,7 @@
   },
   {
     "id": "yt_DzIJ5JGS7ds",
-    "song_title": "WRY - Travel (Official Video)",
+    "song_title": "Travel",
     "year": 2020,
     "artist_name": "Wry",
     "artist_genre": "Indie",
@@ -1620,7 +551,7 @@
   },
   {
     "id": "yt_pdiCrODupDs",
-    "song_title": "WRY - I feel invisible (Official Video)",
+    "song_title": "I feel invisible",
     "year": 2020,
     "artist_name": "Wry",
     "artist_genre": "Indie",
@@ -1630,7 +561,7 @@
   },
   {
     "id": "yt_ks6UtDVYibo",
-    "song_title": "WRY - Morreu a Esperança (Video Oficial)",
+    "song_title": "Morreu a Esperança",
     "year": 2020,
     "artist_name": "Wry",
     "artist_genre": "Indie",
@@ -1640,7 +571,7 @@
   },
   {
     "id": "yt_VgcRmz0ee64",
-    "song_title": "WRY - Tumulto, Barulho e Confusão (Official Video)",
+    "song_title": "Tumulto, Barulho e Confusão",
     "year": 2020,
     "artist_name": "Wry",
     "artist_genre": "Indie",
@@ -1649,28 +580,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_jGt9u1Jt0a0",
-    "song_title": "Elizeth Cardoso e Zimbo Trio - Refém da Solidão",
-    "year": 2020,
-    "artist_name": "Zimbo Trio",
-    "artist_genre": "Jazz",
-    "youtube_link": "https://www.youtube.com/watch?v=jGt9u1Jt0a0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_BxrLVldZtmg",
-    "song_title": "The Cranberries - Zombie (Lyric Video)",
-    "year": 2020,
-    "artist_name": "Zumbis do Espa\\'e7o",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=BxrLVldZtmg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_douUUoXIdBc",
-    "song_title": "Caetano Veloso - Você Não Me Ensinou a Te Esquecer (Trilha do filme Lisbela e o Prisioneiro)",
+    "song_title": "Você Não Me Ensinou a Te Esquecer",
     "year": 2020,
     "artist_name": "Caetano Veloso",
     "artist_genre": "Desconhecido",
@@ -1679,28 +590,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_iWiN2CDlkC4",
-    "song_title": "Jorge Ben e Trio Mocoto 1970 - TV live",
-    "year": 2020,
-    "artist_name": "Jorge Ben Jor",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=iWiN2CDlkC4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_nJRYD6yG-h0",
-    "song_title": "Tim Maia - Acenda O Farol / Carlos Imperial 1979",
-    "year": 2020,
-    "artist_name": "Tim Maia",
-    "artist_genre": "Soul",
-    "youtube_link": "https://www.youtube.com/watch?v=nJRYD6yG-h0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_UCQU7o1rPeE",
-    "song_title": "Dorival Caymmi  - É doce morrer no mar - Heineken Concerts 96 - São Paulo",
+    "song_title": "É doce morrer no mar (Heineken Concerts 96 - São Paulo)",
     "year": 2020,
     "artist_name": "Dorival Caymmi",
     "artist_genre": "MPB",
@@ -1710,7 +601,7 @@
   },
   {
     "id": "yt_xPC--zu3ttE",
-    "song_title": "Baden Powell Ao Vivo no Pelourinho Valsa de Euridice",
+    "song_title": "Valsa de Euridice (Ao Vivo no Pelourinho)",
     "year": 2020,
     "artist_name": "Baden Powell",
     "artist_genre": "Desconhecido",
@@ -1720,7 +611,7 @@
   },
   {
     "id": "yt_cDnl3Jw08HI",
-    "song_title": "Teco Teco  ( Gal Costa Official Music Video )",
+    "song_title": "Teco Teco",
     "year": 2020,
     "artist_name": "Gal Costa",
     "artist_genre": "MPB",
@@ -1730,9 +621,9 @@
   },
   {
     "id": "yt_UkQsczjFkIw",
-    "song_title": "Sabotage & Mano Brown - Love Song (A Maior Dor de um Homem)",
+    "song_title": "Love Song (A Maior Dor de um Homem)",
     "year": 2020,
-    "artist_name": "Mano Brown",
+    "artist_name": "Sabotage & Mano Brown",
     "artist_genre": "Rap",
     "youtube_link": "https://www.youtube.com/watch?v=UkQsczjFkIw",
     "imvdb_url": null,
@@ -1775,36 +666,6 @@
     "artist_name": "Hermeto Pascoal",
     "artist_genre": "Jazz",
     "youtube_link": "https://www.youtube.com/watch?v=a-S7iJ56VlQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_nUwTnJ8yFXY",
-    "song_title": "LITTLE BIG - TACOS (Official Music Video)",
-    "year": 2020,
-    "artist_name": "Tom Z\\'e9}",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=nUwTnJ8yFXY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_EosMazKaPbU",
-    "song_title": "Eminem - GNAT (Official Music Video)",
-    "year": 2020,
-    "artist_name": "Tom Z\\'e9}",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=EosMazKaPbU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_JFm7YDVlqnI",
-    "song_title": "Drake - Laugh Now Cry Later (Official Music Video) ft. Lil Durk",
-    "year": 2020,
-    "artist_name": "Tom Z\\'e9}",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=JFm7YDVlqnI",
     "imvdb_url": null,
     "source": "YouTube"
   }

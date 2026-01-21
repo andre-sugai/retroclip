@@ -56,6 +56,8 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
   const tGenres = translations[language].sector3.genres;
   const [isCollapsed, setIsCollapsed] = useState(false);
   const [isShowsCollapsed, setIsShowsCollapsed] = useState(false);
+  const [isProgramsCollapsed, setIsProgramsCollapsed] = useState(false);
+
 
   return (
     <div className="flex flex-col flex-1 min-h-0 bg-background overflow-y-auto custom-scrollbar" role="region" aria-label="Playlist">
@@ -195,6 +197,93 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                         >
                             {t.acoustic}
                             {selectedGenre === 'acoustic' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                        </button>
+                    )}
+                </div>
+             </div>
+        </div>
+       </div>
+
+      {/* PROGRAMS SECTION */}
+      {/* Header */}
+      <div 
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[96px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+        onClick={() => setIsProgramsCollapsed(!isProgramsCollapsed)}
+      >
+        <div className="px-6 py-3 flex items-center justify-between">
+             <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
+                <div className="flex items-center justify-center w-6 h-6 border border-muted-foreground/30 rounded bg-zinc-100 dark:bg-zinc-800">
+                  {isProgramsCollapsed ? <ChevronDown className="w-4 h-4" /> : <ChevronUp className="w-4 h-4" />}
+                </div>
+                Programas
+             </h2>
+        </div>
+      </div>
+
+      {/* Programs Content */}
+      <div 
+        className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isProgramsCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
+      >
+        <div className="overflow-hidden">
+             <div className="p-4 bg-zinc-50/30 dark:bg-black/20">
+                <div className="grid grid-cols-1 gap-3">
+                    {/* Documentários Button */}
+                    {availableGenres.has('documentarios') && (
+                        <button
+                            onClick={() => {
+                               if (selectedGenre === 'documentarios') return;
+                               onSelectGenre('documentarios');
+                            }}
+                            className={`
+                              relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                              ${selectedGenre === 'documentarios'
+                                ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                                : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                              }
+                            `}
+                        >
+                            Documentários
+                            {selectedGenre === 'documentarios' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                        </button>
+                    )}
+
+                    {/* Hermes & Renato Button */}
+                    {availableGenres.has('hermes_renato') && (
+                        <button
+                            onClick={() => {
+                               if (selectedGenre === 'hermes_renato') return;
+                               onSelectGenre('hermes_renato');
+                            }}
+                            className={`
+                              relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                              ${selectedGenre === 'hermes_renato'
+                                ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                                : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                              }
+                            `}
+                        >
+                            Hermes & Renato
+                            {selectedGenre === 'hermes_renato' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                        </button>
+                    )}
+
+                    {/* Beavis and Butt-Head Button */}
+                    {availableGenres.has('beavis_butthead') && (
+                        <button
+                            onClick={() => {
+                               if (selectedGenre === 'beavis_butthead') return;
+                               onSelectGenre('beavis_butthead');
+                            }}
+                            className={`
+                              relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                              ${selectedGenre === 'beavis_butthead'
+                                ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                                : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                              }
+                            `}
+                        >
+                            Beavis and Butt-Head
+                            {selectedGenre === 'beavis_butthead' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
                         </button>
                     )}
                 </div>

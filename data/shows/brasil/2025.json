@@ -42,5 +42,15 @@
     "imvdb_url": null,
     "source": "YouTube",
     "is_show": true
+  },
+  {
+    "id": "yt_K3eqRdU5_Bo",
+    "song_title": "RENATO E SEUS BLUE CAPS - AUDIOVISUAL - SHOW AO VIVO - TEATRO RIVAL PETROBRAS/RJ - 22/05/2025.",
+    "year": 2025,
+    "artist_name": "Renato e Seus Blue Caps",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=K3eqRdU5_Bo",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

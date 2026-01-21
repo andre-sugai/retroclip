@@ -42,5 +42,25 @@
     "imvdb_url": null,
     "source": "YouTube",
     "is_show": true
+  },
+  {
+    "id": "yt_Uo_GSbIgzFM",
+    "song_title": "Boiler Room London Live Set",
+    "year": 2017,
+    "artist_name": "Azymuth",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=Uo_GSbIgzFM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_5jIAmNZ4UAc",
+    "song_title": "Obscene Extreme",
+    "year": 2017,
+    "artist_name": "Ratos de Porão",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=5jIAmNZ4UAc",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

@@ -71,11 +71,15 @@ import data2019 from '../data/clipes/global/2019.json';
 
 // BR Data Imports
 import data1929BR from '../data/clipes/brasil/1929-BR.json';
+import data1936BR from '../data/clipes/brasil/1936-BR.json';
+import data1949BR from '../data/clipes/brasil/1949-BR.json';
 import data1950BR from '../data/clipes/brasil/1950-BR.json';
+import data1959BR from '../data/clipes/brasil/1959-BR.json';
 import data1960BR from '../data/clipes/brasil/1960-BR.json';
 import data1962BR from '../data/clipes/brasil/1962-BR.json';
 import data1963BR from '../data/clipes/brasil/1963-BR.json';
 import data1966BR from '../data/clipes/brasil/1966-BR.json';
+import data1967BR from '../data/clipes/brasil/1967-BR.json';
 import data1969BR from '../data/clipes/brasil/1969-BR.json';
 import data1970BR from '../data/clipes/brasil/1970-BR.json';
 import data1972BR from '../data/clipes/brasil/1972-BR.json';
@@ -130,6 +134,18 @@ import data2024BR from '../data/clipes/brasil/2024-BR.json';
 import data2025BR from '../data/clipes/brasil/2025-BR.json';
 import data2026BR from '../data/clipes/brasil/2026-BR.json';
 
+// Programs Imports
+import hermesRenatoData from '../data/programas/hermes_e_renato.json';
+import beavisButtheadData from '../data/programas/beavis_and_butthead.json';
+import documentariosData from '../data/programas/documentarios.json';
+
+const PROGRAMS_DATA = [
+  ...hermesRenatoData.map((item) => ({ ...item, is_program: true, program_name: 'hermes_renato' })),
+  ...beavisButtheadData.map((item) => ({ ...item, is_program: true, program_name: 'beavis_butthead' })),
+  ...documentariosData.map((item) => ({ ...item, is_program: true, program_name: 'documentarios' })),
+];
+
+
 // Global Shows Imports
 import show1979 from '../data/shows/global/1979.json';
 import show1985 from '../data/shows/global/1985.json';
@@ -178,8 +194,14 @@ const SHOWS_GLOBAL = [
 ].map((item) => ({ ...item, is_show: true }));
 
 // Brazil Shows Imports
+import show1969BR from '../data/shows/brasil/1969.json';
+import show1972BR from '../data/shows/brasil/1972.json';
+import show1986BR from '../data/shows/brasil/1986.json';
+import show1991BR from '../data/shows/brasil/1991.json';
 import show1992BR from '../data/shows/brasil/1992.json';
+import show1997BR from '../data/shows/brasil/1997.json';
 import show2005BR from '../data/shows/brasil/2005.json';
+import show2007BR from '../data/shows/brasil/2007.json';
 import show2009BR from '../data/shows/brasil/2009.json';
 import show2011BR from '../data/shows/brasil/2011.json';
 import show2012BR from '../data/shows/brasil/2012.json';
@@ -198,8 +220,14 @@ import show2024BR from '../data/shows/brasil/2024.json';
 import show2025BR from '../data/shows/brasil/2025.json';
 
 const SHOWS_BRASIL = [
+  ...show1969BR,
+  ...show1972BR,
+  ...show1986BR,
+  ...show1991BR,
   ...show1992BR,
+  ...show1997BR,
   ...show2005BR,
+  ...show2007BR,
   ...show2009BR,
   ...show2011BR,
   ...show2012BR,
@@ -287,11 +315,15 @@ const INTL_DATA = [
 ];
 const BR_DATA = [
   ...data1929BR,
+  ...data1936BR,
+  ...data1949BR,
   ...data1950BR,
+  ...data1959BR,
   ...data1960BR,
   ...data1962BR,
   ...data1963BR,
   ...data1966BR,
+  ...data1967BR,
   ...data1969BR,
   ...data1970BR,
   ...data1972BR,
@@ -346,6 +378,7 @@ const BR_DATA = [
   ...data2025BR,
   ...data2026BR,
   ...SHOWS_BRASIL,
+  ...PROGRAMS_DATA,
 ].map((item) => ({ ...item, nationality: 'BR' }));
 
 // Helper to get dataset by region
@@ -358,7 +391,9 @@ const getDataset = (region: 'br' | 'intl' | 'all') => {
 const allItems = [...INTL_DATA, ...BR_DATA];
 export const TOTAL_VIDEOS_COUNT = allItems.length;
 export const TOTAL_SHOWS = allItems.filter((i) => (i as any).is_show).length;
-export const TOTAL_CLIPS = TOTAL_VIDEOS_COUNT - TOTAL_SHOWS;
+export const TOTAL_PROGRAMS = allItems.filter((i) => (i as any).is_program).length;
+export const TOTAL_CLIPS = TOTAL_VIDEOS_COUNT - TOTAL_SHOWS - TOTAL_PROGRAMS;
+
 
 export const INTL_VIDEOS_COUNT = INTL_DATA.length;
 export const BR_VIDEOS_COUNT = BR_DATA.length;
@@ -449,6 +484,8 @@ export const fetchVideosByCriteria = async (
         artist_genre: i.artist_genre,
         nationality: i.nationality || 'INTL',
         is_show: i.is_show,
+        is_program: i.is_program,
+        program_name: i.program_name,
       } as Video;
     })
     .filter((v) => v.embed_id); // Only return videos with valid IDs
@@ -507,6 +544,8 @@ export const fetchVideoById = async (
     artist_genre: i.artist_genre,
     nationality: i.nationality || 'INTL',
     is_show: i.is_show,
+    is_program: i.is_program,
+    program_name: i.program_name,
   } as Video;
 };
 
@@ -523,6 +562,7 @@ export const GENRE_MAP: Record<string, string[]> = {
     'Britpop',
     'Folk Rock',
     'Alternative',
+    'Rock Alternativo',
   ],
   Punk: ['Punk', 'Pop Punk', 'Ska Punk', 'Hardcore'],
   Metal: [

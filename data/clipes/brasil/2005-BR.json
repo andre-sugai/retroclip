@@ -196,5 +196,25 @@
     "youtube_link": "https://www.youtube.com/watch?v=W6aXORQKTbg",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_khWtsQt8VjQ",
+    "song_title": "Ela É Carioca (Ao Vivo No Rio De Janeiro)",
+    "year": 2005,
+    "artist_name": "Os Cariocas",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=khWtsQt8VjQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_-g_PJZygnWI",
+    "song_title": "Adeus América (Ao Vivo No Rio De Janeiro)",
+    "year": 2005,
+    "artist_name": "Os Cariocas",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=-g_PJZygnWI",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

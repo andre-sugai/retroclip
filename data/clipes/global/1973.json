@@ -133,5 +133,18 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=yL6rMomAA40",
     "imvdb_url": "https://imvdb.com/video/earth-and-fire/maybe-tomorrow-maybe-tonight"
+  },
+  {
+    "id": "yt_r8pYpii2Atg",
+    "song_title": "The Ballroom Blitz",
+    "year": 1973,
+    "artist_name": "Sweet",
+    "artist_genre": [
+      "Glam",
+      "Hard Rock"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=r8pYpii2Atg",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

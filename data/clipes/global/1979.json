@@ -1159,5 +1159,15 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=cntvEDbagAw",
     "imvdb_url": "https://imvdb.com/video/the-specials/a-message-to-you-rudy"
+  },
+  {
+    "id": "yt_BlD6jCGVU4A",
+    "song_title": "Lady Writer",
+    "year": 1979,
+    "artist_name": "Dire Straits",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=BlD6jCGVU4A",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

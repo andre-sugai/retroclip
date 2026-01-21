@@ -16,5 +16,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=khcbLyNStqo",
     "imvdb_url": "https://imvdb.com/video/legião-urbana/angra-dos-reis",
     "artist": "Legião Urbana"
+  },
+  {
+    "id": "yt_54y8H5i50r4",
+    "song_title": "Eu Já Sei (Chacrinha 1988)",
+    "year": 1988,
+    "artist_name": "Garotos da Rua",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=54y8H5i50r4",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

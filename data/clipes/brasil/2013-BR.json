@@ -20,10 +20,10 @@
     "id": 887153902233,
     "song_title": "Hangover",
     "year": 2013,
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=doTGKMVQ8oo",
     "imvdb_url": "https://imvdb.com/video/css/hangover",
-    "artist": "CSS"
+    "artist": "Cansei de Ser Sexy"
   },
   {
     "id": 275594617089,
@@ -47,10 +47,10 @@
     "id": 627296326671,
     "song_title": "Into The Sun",
     "year": 2013,
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=vO2sz4I_7Oc",
     "imvdb_url": "https://imvdb.com/video/css/into-the-sun",
-    "artist": "CSS"
+    "artist": "Cansei de Ser Sexy"
   },
   {
     "id": 227901418417,
@@ -167,16 +167,6 @@
     "artist_name": "Almandegas",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=NKfOnpw6Vu4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_5hr4KnA-Bno",
-    "song_title": "OTTO DIX 'Анима' (Anima) official video HD",
-    "year": 2013,
-    "artist_name": "Anima",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=5hr4KnA-Bno",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -352,17 +342,17 @@
   },
   {
     "id": "yt_nZmF9fxTIIA",
-    "song_title": "City Grrrl - CSS feat. Ssion [Official Music Video]",
+    "song_title": "City Grrrl",
     "year": 2013,
-    "artist_name": "Cansei de Ser Sexy",
-    "artist_genre": "Desconhecido",
+    "artist_name": "Cansei de Ser Sexy feat. Ssion",
+    "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=nZmF9fxTIIA",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_piFN051HFtk",
-    "song_title": "Canto dos Malditos na Terra do Nunca - Muito Prazer",
+    "song_title": "Muito Prazer",
     "year": 2013,
     "artist_name": "Canto dos Malditos na Terra do Nunca",
     "artist_genre": "Desconhecido",
@@ -527,16 +517,6 @@
     "artist_name": "Cidade Negra",
     "artist_genre": "Reggae",
     "youtube_link": "https://www.youtube.com/watch?v=d0VVTqmH7Ow",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_SdfL2nY-Xs8",
-    "song_title": "Clean Bandit - Dust Clears ft. Noonie Bao [Official Video]",
-    "year": 2013,
-    "artist_name": "Clera",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=SdfL2nY-Xs8",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -731,16 +711,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_JsLWu4ZN9hg",
-    "song_title": "Drowning Pool - \"One Finger and a Fist\" (Official Music Video)",
-    "year": 2013,
-    "artist_name": "Fist",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=JsLWu4ZN9hg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_oGjcBYTVSHg",
     "song_title": "Garotos da Rua - Tô de Saco Cheio (Clip), 1986",
     "year": 2013,
@@ -761,38 +731,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_lvBOZCrJsAI",
-    "song_title": "Electric Light Orchestra - Livin' Thing (Official Video)",
-    "year": 2013,
-    "artist_name": "Grupo Elo",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=lvBOZCrJsAI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Up4WjdabA2c",
-    "song_title": "Electric Light Orchestra - Last Train to London (Official Video)",
-    "year": 2013,
-    "artist_name": "Grupo Elo",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=Up4WjdabA2c",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_WxjITEdZbWY",
-    "song_title": "Quer Seguir - Grupo Elo",
-    "year": 2013,
-    "artist_name": "Grupo Elo",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=WxjITEdZbWY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_-TdbsZg6CC4",
-    "song_title": "HATEEN - DEPOIS QUE TODOS VÃO EMBORA - Videoclipe Oficial",
+    "song_title": "DEPOIS QUE TODOS VÃO EMBORA",
     "year": 2013,
     "artist_name": "Hateen",
     "artist_genre": "Hardcore",
@@ -802,7 +742,7 @@
   },
   {
     "id": "yt_cIAkLVXoLAQ",
-    "song_title": "HATEEN - OBRIGADO TEMPESTADE (CLIPE OFICIAL)",
+    "song_title": "OBRIGADO TEMPESTADE",
     "year": 2013,
     "artist_name": "Hateen",
     "artist_genre": "Hardcore",
@@ -812,9 +752,9 @@
   },
   {
     "id": "yt_9zvKNuyEqPY",
-    "song_title": "HEVO84 feat. Bonde da Stronda - Minha Pira",
+    "song_title": "Minha Pira",
     "year": 2013,
-    "artist_name": "Hevo84",
+    "artist_name": "HEVO84 feat. Bonde da Stronda",
     "artist_genre": "Pop Rock",
     "youtube_link": "https://www.youtube.com/watch?v=9zvKNuyEqPY",
     "imvdb_url": null,
@@ -822,7 +762,7 @@
   },
   {
     "id": "yt_N04YaKlUjqE",
-    "song_title": "Homens de Marte - Cena de Cinema",
+    "song_title": "Cena de Cinema",
     "year": 2013,
     "artist_name": "Homens de Marte",
     "artist_genre": "Rock",
@@ -832,7 +772,7 @@
   },
   {
     "id": "yt_VO-3ut79haQ",
-    "song_title": "DVD Jeito moleque - Me faz feliz (Ao vivo)",
+    "song_title": "Me faz feliz",
     "year": 2013,
     "artist_name": "Jeito Moleque",
     "artist_genre": "Samba",
@@ -842,7 +782,7 @@
   },
   {
     "id": "yt_n-uH67Bd1To",
-    "song_title": "John Bala Jones - Ei moleque",
+    "song_title": "Ei moleque",
     "year": 2013,
     "artist_name": "John Bala Jones",
     "artist_genre": "Pop Rock",
@@ -921,16 +861,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_IQGrtrEdPiU",
-    "song_title": "F4 - Can't Help Falling In Love 迪士尼 星際寶貝 中文主題曲",
-    "year": 2013,
-    "artist_name": "Metr\\'f4",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=IQGrtrEdPiU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_K-y1FcAb56o",
     "song_title": "Mukeka di Rato - Atletas de Fristo",
     "year": 2013,
@@ -957,16 +887,6 @@
     "artist_name": "Madame Saatan",
     "artist_genre": "Metal",
     "youtube_link": "https://www.youtube.com/watch?v=4WVdtuI60Go",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_PiZHNw1MtzI",
-    "song_title": "AC/DC - Who Made Who (Official HD Video)",
-    "year": 2013,
-    "artist_name": "Nenhum de N\\'f3s",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=PiZHNw1MtzI",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -1061,16 +981,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_6an5bVfQ1gY",
-    "song_title": "WENDY RULE - Penelope (Official Music Video)",
-    "year": 2013,
-    "artist_name": "Penelope",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=6an5bVfQ1gY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_1aWZRDtbJ9o",
     "song_title": "De o seu Melhor",
     "year": 2013,
@@ -1117,16 +1027,6 @@
     "artist_name": "Resgate",
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=8FtrRR_YIPI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_pBwH0XOb6dk",
-    "song_title": "Newsboys - Restart (Lyric Video)",
-    "year": 2013,
-    "artist_name": "Restart",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=pBwH0XOb6dk",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -1211,36 +1111,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_MPYgs_c-3nQ",
-    "song_title": "Uakti | Tiquiê River / Japurá River  (Philip Glass) | Instrumental SESC Brasil",
-    "year": 2013,
-    "artist_name": "Uakti",
-    "artist_genre": "Instrumental",
-    "youtube_link": "https://www.youtube.com/watch?v=MPYgs_c-3nQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_YtFs4emQixk",
-    "song_title": "Uakti | Variações sobre \"Águas de Março\" (Antônio Carlos Jobim) | Instrumental SESC Brasil",
-    "year": 2013,
-    "artist_name": "Uakti",
-    "artist_genre": "Instrumental",
-    "youtube_link": "https://www.youtube.com/watch?v=YtFs4emQixk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_HFzY3bJeAxQ",
-    "song_title": "Ciume - Ultraje A Rigor - Clipe Com Audio HQ",
-    "year": 2013,
-    "artist_name": "Ultraje a Rigor",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=HFzY3bJeAxQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_ApCxd-ysisA",
     "song_title": "REBELDE SEM CAUSA-ULTRAJE A RIGOR-CLIPE-ANO 1986 ( HQ )",
     "year": 2013,
@@ -1280,16 +1150,7 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-  {
-    "id": "yt_7YDPNl7PeUU",
-    "song_title": "Alice In Chains - Voices",
-    "year": 2013,
-    "artist_name": "Voices",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=7YDPNl7PeUU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
+  
   {
     "id": "yt_R_3u7aspmDY",
     "song_title": "MEW - Am I Wry? No",
@@ -1307,16 +1168,6 @@
     "artist_name": "Zeca Baleiro",
     "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=7Y-cWQCB2_U",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_QOrrxu9PNxo",
-    "song_title": "Documentário Jazz Brasileiro - Zimbo Trio [Full HD 1080]",
-    "year": 2013,
-    "artist_name": "Zimbo Trio",
-    "artist_genre": "Jazz",
-    "youtube_link": "https://www.youtube.com/watch?v=QOrrxu9PNxo",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -1347,16 +1198,6 @@
     "artist_name": "Jo\\'e3o Gilberto",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=ukick72Qafc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_VI57QHL6ge0",
-    "song_title": "Joe Satriani - Always With Me, Always With You (Official HD Video)",
-    "year": 2013,
-    "artist_name": "Jo\\'e3o Gilberto",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=VI57QHL6ge0",
     "imvdb_url": null,
     "source": "YouTube"
   },

@@ -45,15 +45,6 @@
     "artist": "Gilberto Gil"
   },
   {
-    "id": 127384698947,
-    "song_title": "Thinking About You",
-    "year": 2014,
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=98gbJw5RtKs",
-    "imvdb_url": "https://imvdb.com/video/dear-rouge/thinking-about-you",
-    "artist": "Dear Rouge"
-  },
-  {
     "id": 993511674796,
     "song_title": "Na Batida",
     "year": 2014,
@@ -84,7 +75,7 @@
     "id": 753438107200,
     "song_title": "Zen (Spanish Version)",
     "year": 2014,
-    "artist_genre": "Pop",
+    "artist_genre": ["Pop", "Latino"],
     "youtube_link": "https://www.youtube.com/watch?v=HRp9rpUtfoY",
     "imvdb_url": "https://imvdb.com/video/anitta/zen-spanish-version",
     "artist": "Anitta"
@@ -117,16 +108,7 @@
     "imvdb_url": "https://imvdb.com/video/vanguart/meu-sol",
     "source": "IMVDb"
   },
-  {
-    "id": "yt_L-s9F8IIHCA",
-    "song_title": "Ama G The Black - Nyabarongo (Official Video) ft. Madiba",
-    "year": 2014,
-    "artist_name": "Ado Negro",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=L-s9F8IIHCA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
+
   {
     "id": "yt_r8-mF4l-07o",
     "song_title": "Angra - Time (Official)",
@@ -228,62 +210,12 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_Ho9nd9MKvf8",
-    "song_title": "BMW E30 M20B25 MTechnic 2 / Alpina G - Power",
-    "year": 2014,
-    "artist_name": "Bar\\'e3o Vermelho",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Ho9nd9MKvf8",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_G4VajXeWQAw",
-    "song_title": "BLIND PIGS - antro de trastes (clipe oficial)",
+    "song_title": "Antro de trastes",
     "year": 2014,
     "artist_name": "Blind Pigs",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "Punk",
     "youtube_link": "https://www.youtube.com/watch?v=G4VajXeWQAw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_r8pYpii2Atg",
-    "song_title": "Sweet - The Ballroom Blitz - Promo Clip (OFFICIAL)",
-    "year": 2014,
-    "artist_name": "Blitz",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=r8pYpii2Atg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_YVbziARikfs",
-    "song_title": "Scooter - Bigroom Blitz ft. Wiz Khalifa",
-    "year": 2014,
-    "artist_name": "Blitz",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=YVbziARikfs",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_tqketmsRz1E",
-    "song_title": "Sweet - The Ballroom Blitz - Silvester-Tanzparty 1974/75 31.12.1974 (OFFICIAL)",
-    "year": 2014,
-    "artist_name": "Blitz",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=tqketmsRz1E",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_z_jdiU47bFA",
-    "song_title": "Sweet - The Ballroom Blitz - Top Of The Pops 20.09.1973 (OFFICIAL)",
-    "year": 2014,
-    "artist_name": "Blitz",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=z_jdiU47bFA",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -338,58 +270,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_y52bQT5J8HA",
-    "song_title": "Carbonara",
-    "year": 2014,
-    "artist_name": "Carbona",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=y52bQT5J8HA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_a_YIgY7yaq4",
-    "song_title": "Os Cascavelletes \"Eu Quis Comer Você\" (Original,1987) !!!HD!!!",
-    "year": 2014,
-    "artist_name": "Cascavelletes",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=a_YIgY7yaq4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_dgtKCM_YuEU",
-    "song_title": "Os Cascavelletes - \"Ugagogobabago\" (Original,1987) !!!HD!!!",
-    "year": 2014,
-    "artist_name": "Cascavelletes",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=dgtKCM_YuEU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_VMVD36zUwDw",
-    "song_title": "Os Cascavelletes - \"Moto\" (Oficial,1987) !!!HD!!!",
-    "year": 2014,
-    "artist_name": "Cascavelletes",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=VMVD36zUwDw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_oiwG5_utFKM",
-    "song_title": "Os Cascavelletes - \"Carro Roubado\" (Original,1987) !!!HD!!!",
-    "year": 2014,
-    "artist_name": "Cascavelletes",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=oiwG5_utFKM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_hA927UE9anY",
-    "song_title": "Banda Catedral - Estações (Videoclipe)",
+    "song_title": "Estações",
     "year": 2014,
     "artist_name": "Catedral",
     "artist_genre": "Rock",
@@ -458,26 +340,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_trk7P-9QDyc",
-    "song_title": "The Black Keys - Fever [Official Video]",
-    "year": 2014,
-    "artist_name": "The Fevers",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=trk7P-9QDyc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_9RHFFeQ2tu4",
-    "song_title": "Fever The Ghost - SOURCE (official music video)",
-    "year": 2014,
-    "artist_name": "The Fevers",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=9RHFFeQ2tu4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_Rrfj4wHS-Oc",
     "song_title": "Fruto Sagrado - Não Quero Mais Acordar Assim (Clipe Oficial MK Music)",
     "year": 2014,
@@ -538,16 +400,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_gm1P1JANPNE",
-    "song_title": "House Boulevard feat Samara - Set Me Free (Official Video)",
-    "year": 2014,
-    "artist_name": "House Boulevard",
-    "artist_genre": "Eletronico",
-    "youtube_link": "https://www.youtube.com/watch?v=gm1P1JANPNE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_28sRXLPUfb8",
     "song_title": "Homens de Marte - A Um Passo do Universo - Live at The Hobby Shop",
     "year": 2014,
@@ -574,36 +426,6 @@
     "artist_name": "Inumanos",
     "artist_genre": "Rap",
     "youtube_link": "https://www.youtube.com/watch?v=Pg53xwolJOE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt__xgRUQHzTZ8",
-    "song_title": "Banda Inumanos - Jaws of death",
-    "year": 2014,
-    "artist_name": "Inumanos",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=_xgRUQHzTZ8",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_bjDavhePud0",
-    "song_title": "Inumanos - Seja o lider",
-    "year": 2014,
-    "artist_name": "Inumanos",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=bjDavhePud0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ptdeTY1d5Oo",
-    "song_title": "J-Squad Krump Mix Vol. 19 \"THE LAB\" Promo",
-    "year": 2014,
-    "artist_name": "J-squad",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=ptdeTY1d5Oo",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -648,16 +470,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_kcnH2LPDm3k",
-    "song_title": "Karnak - Membran Monotheis [ Official Lyric Video ]",
-    "year": 2014,
-    "artist_name": "Karnak",
-    "artist_genre": "World",
-    "youtube_link": "https://www.youtube.com/watch?v=kcnH2LPDm3k",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_MOOkKmYRAfw",
     "song_title": "KLB - Vão Passando os Minutos (Clipe Oficial)",
     "year": 2014,
@@ -668,32 +480,12 @@
     "source": "YouTube"
   },
   {
-    "id": "yt__JhYevwXLRU",
-    "song_title": "Go Hard or Go Home (feat. Stressmatic of the Federation)",
-    "year": 2014,
-    "artist_name": "Legi\\'e3o Urbana",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=_JhYevwXLRU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_svGhw6mBvfQ",
     "song_title": "LS JACK - TARDE DEMAIS-  VIDEO CLIPE (HD)",
     "year": 2014,
     "artist_name": "LS Jack",
     "artist_genre": "Pop Rock",
     "youtube_link": "https://www.youtube.com/watch?v=svGhw6mBvfQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_XvdtKK-UaE0",
-    "song_title": "Ludovico Einaudi - Life (Official Music Video)",
-    "year": 2014,
-    "artist_name": "Ludov",
-    "artist_genre": "Indie",
-    "youtube_link": "https://www.youtube.com/watch?v=XvdtKK-UaE0",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -738,48 +530,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_Lck_K6JxWww",
-    "song_title": "Perpendicular Bisector Song",
-    "year": 2014,
-    "artist_name": "Mediatriz",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=Lck_K6JxWww",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_UAdA3huIBK4",
-    "song_title": "Ni Yao De Ai Lyrics - Meteor Garden F4 - Shan Cai and Dao Ming Si",
-    "year": 2014,
-    "artist_name": "Metr\\'f4",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=UAdA3huIBK4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_Spp_Ql7j5Vk",
-    "song_title": "Qing Fei De Yi",
-    "year": 2014,
-    "artist_name": "Metr\\'f4",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Spp_Ql7j5Vk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_NUsoVlDFqZg",
-    "song_title": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona",
-    "year": 2014,
-    "artist_name": "M\\'fasica Surda",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=NUsoVlDFqZg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_NAkCibImIVs",
-    "song_title": "Os Mutantes - Tecnicolor",
+    "song_title": "Tecnicolor",
     "year": 2014,
     "artist_name": "Os Mutantes",
     "artist_genre": "Rock",
@@ -1038,16 +790,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_ZGzHgo7n4jM",
-    "song_title": "Sam Smith - Restart (Official Music Video)",
-    "year": 2014,
-    "artist_name": "Restart",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=ZGzHgo7n4jM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_DaIgoy16eTo",
     "song_title": "Restart - Renascer (clipe Oficial HD)",
     "year": 2014,
@@ -1139,7 +881,7 @@
   },
   {
     "id": "yt_pSkVHcF7qAo",
-    "song_title": "Shadowside - Habitchual (Habitual) - Official Video HD",
+    "song_title": "Habitual",
     "year": 2014,
     "artist_name": "Shadowside",
     "artist_genre": "Metal",
@@ -1158,42 +900,12 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_2AKtp3XHn38",
-    "song_title": "Young Rival - Black Is Good [Official] (Autostereogram Video)",
-    "year": 2014,
-    "artist_name": "Stereoscope",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=2AKtp3XHn38",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_umZsyAu3xik",
-    "song_title": "Tihuana - Bote Fé! (Video Clip)",
+    "song_title": "Bote Fé!",
     "year": 2014,
     "artist_name": "Tihuana",
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=umZsyAu3xik",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_zU1TlGgME7o",
-    "song_title": "MARCO BENEVENTO :: \"Witches of Ulster\" (Official Video)",
-    "year": 2014,
-    "artist_name": "Ulster",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=zU1TlGgME7o",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_9I51JXpcLwk",
-    "song_title": "Joe Diffie - Pickup Man (Official Music Video)",
-    "year": 2014,
-    "artist_name": "Jo\\'e3o Gilberto",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=9I51JXpcLwk",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -1209,31 +921,11 @@
   },
   {
     "id": "yt_UaQSLWJxIwc",
-    "song_title": "Roberto Carlos - Ese Tipo Soy Yo (Esse Cara Sou Eu) (Roberto Carlos em Las Vegas (Ao Vivo))",
+    "song_title": "Ese Tipo Soy Yo (Esse Cara Sou Eu) - Ao vivo em Las Vegas",
     "year": 2014,
     "artist_name": "Roberto Carlos",
-    "artist_genre": "MPB",
+    "artist_genre": ["MPB", "Latino"],
     "youtube_link": "https://www.youtube.com/watch?v=UaQSLWJxIwc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_qKsWPm55xD4",
-    "song_title": "Noel Rosa - O Poeta da Vila",
-    "year": 2014,
-    "artist_name": "Noel Rosa",
-    "artist_genre": "Samba",
-    "youtube_link": "https://www.youtube.com/watch?v=qKsWPm55xD4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_S3U0sHegYgU",
-    "song_title": "Dorival Caymmi - O Vento (The Wind)",
-    "year": 2014,
-    "artist_name": "Dorival Caymmi",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=S3U0sHegYgU",
     "imvdb_url": null,
     "source": "YouTube"
   },
@@ -1249,10 +941,10 @@
   },
   {
     "id": "yt_j44wrohm3ac",
-    "song_title": "Sepultura - Da Lama ao Caos - Chico Science",
+    "song_title": "Da Lama ao Caos",
     "year": 2014,
-    "artist_name": "Chico Science",
-    "artist_genre": "Rock",
+    "artist_name": "Sepultura",
+    "artist_genre": "Metal",
     "youtube_link": "https://www.youtube.com/watch?v=j44wrohm3ac",
     "imvdb_url": null,
     "source": "YouTube"

@@ -97,5 +97,28 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=eUJ_ifjKopM",
     "imvdb_url": "https://imvdb.com/video/sparks/this-town-aint-big-enough-for-both-of-us/2"
+  },
+  {
+    "id": "yt_CjXlzk_onHk",
+    "song_title": "Sim",
+    "year": 1974,
+    "artist_name": "Cartola",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=CjXlzk_onHk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_tqketmsRz1E",
+    "song_title": "The Ballroom Blitz",
+    "year": 1974,
+    "artist_name": "Sweet",
+    "artist_genre": [
+      "Glam",
+      "Hard Rock"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=tqketmsRz1E",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

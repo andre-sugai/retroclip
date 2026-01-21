@@ -133,5 +133,15 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=zzxHx-mOqRI",
     "imvdb_url": "https://imvdb.com/video/the-doors/break-on-through-to-the-other-side"
+  },
+  {
+    "id": "yt_NldPFVKYmiw",
+    "song_title": "The Girl From Ipanema",
+    "year": 1967,
+    "artist_name": "Frank Sinatra & Tom Jobim",
+    "artist_genre": "Bossa Nova",
+    "youtube_link": "https://www.youtube.com/watch?v=NldPFVKYmiw",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]
