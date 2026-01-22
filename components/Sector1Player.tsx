@@ -71,7 +71,9 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
   }, [currentVideo?.id]);
 
   // Handle Media Session API to prevent external pausing (Bluetooth/Hardware keys)
+  // AND Handle Visibility Change (Auto-Resume on return)
   useEffect(() => {
+    // 1. Media Session
     if ('mediaSession' in navigator) {
       navigator.mediaSession.setActionHandler('pause', () => {
         // Do nothing to prevent pausing, or force play if needed
@@ -95,14 +97,40 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
         }
       });
     }
+
+    // 2. Visibility Change (Fix for iOS Safari Freeze)
+    const handleVisibilityChange = () => {
+      if (document.visibilityState === 'visible') {
+        console.log('[Grooovio] Tab became visible. Checking playback state...');
+        // Small delay to ensure browser engine is fully woke up
+        setTimeout(() => {
+          if (
+            isPlaying && 
+            playerInstanceRef.current && 
+            typeof playerInstanceRef.current.getPlayerState === 'function'
+          ) {
+            const state = playerInstanceRef.current.getPlayerState();
+            // If supposed to be playing but isn't (paused=2, unstarted=-1, cued=5)
+            if (state === 2 || state === -1 || state === 5) {
+               console.log('[Grooovio] Auto-resuming after background backgrounding');
+               playerInstanceRef.current.playVideo();
+            }
+          }
+        }, 300);
+      }
+    };
+
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+
     return () => {
       if ('mediaSession' in navigator) {
         navigator.mediaSession.setActionHandler('pause', null);
         navigator.mediaSession.setActionHandler('stop', null);
         navigator.mediaSession.setActionHandler('play', null);
       }
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
     };
-  }, []);
+  }, [isPlaying]); // Added isPlaying dependency to know if we SHOULD be playing
 
   useEffect(() => {
     onEndedRef.current = onEnded;
