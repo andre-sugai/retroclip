@@ -106,6 +106,39 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
     });
   }, []);
 
+  const widgetRef = React.useRef<HTMLDivElement>(null);
+
+  React.useEffect(() => {
+    if (visitCount !== null && widgetRef.current) {
+        const el = widgetRef.current;
+        // Inject script if not present
+        if (!el.querySelector('#_waud22')) {
+            const script1 = document.createElement('script');
+            script1.id = '_waud22';
+            script1.innerHTML = 'var _wau = _wau || []; _wau.push(["small", "t6392gpmdf", "d22"]);';
+            el.appendChild(script1);
+
+            const script2 = document.createElement('script');
+            script2.async = true;
+            script2.src = '//waust.at/s.js';
+            el.appendChild(script2);
+        }
+
+        // Observer to ensure link opens in new tab
+        const observer = new MutationObserver(() => {
+            const link = el.querySelector('a');
+            if (link && link.getAttribute('target') !== '_blank') {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            }
+        });
+        
+        observer.observe(el, { childList: true, subtree: true });
+
+        return () => observer.disconnect();
+    }
+  }, [visitCount]);
+
   // Adjust value when region changes to ensure it's within valid range
   React.useEffect(() => {
     const currentYear = parseInt(value);
@@ -263,19 +296,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                     </span>
                   </div>
                   {/* Visit Counter Widget */}
-                  <div className="h-[20px] flex items-center overflow-hidden rounded xs" ref={(el) => {
-                    if (el && !el.querySelector('#_waud22')) {
-                      const script1 = document.createElement('script');
-                      script1.id = '_waud22';
-                      script1.innerHTML = 'var _wau = _wau || []; _wau.push(["small", "t6392gpmdf", "d22"]);';
-                      el.appendChild(script1);
-
-                      const script2 = document.createElement('script');
-                      script2.async = true;
-                      script2.src = '//waust.at/s.js';
-                      el.appendChild(script2);
-                    }
-                  }} />
+                  <div className="h-[20px] flex items-center overflow-hidden rounded xs" ref={widgetRef} />
                 </div>
               )}
             </div>
