@@ -254,14 +254,28 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                 {t.donation?.button || 'Me Pague um Café'}
               </button>
 
-              {visitCount !== null && (
-                <div className="w-full flex justify-center mt-2">
-                  <div className="inline-block bg-background/50 dark:bg-black/20 rounded px-2 py-1 font-mono text-[10px] tracking-wide">
-                    <span className="opacity-70">Visitas:</span>{' '}
+      {visitCount !== null && (
+                <div className="w-full flex items-center justify-center mt-2 gap-2">
+                  <div className="h-[20px] flex items-center bg-background/50 dark:bg-black/20 rounded px-2 font-mono text-[10px] tracking-wide border border-transparent">
+                    <span className="opacity-70 mr-1">Visitas:</span>
                     <span className="font-bold">
                       {visitCount.toLocaleString()}
                     </span>
                   </div>
+                  {/* Visit Counter Widget */}
+                  <div className="h-[20px] flex items-center overflow-hidden rounded xs" ref={(el) => {
+                    if (el && !el.querySelector('#_waud22')) {
+                      const script1 = document.createElement('script');
+                      script1.id = '_waud22';
+                      script1.innerHTML = 'var _wau = _wau || []; _wau.push(["small", "t6392gpmdf", "d22"]);';
+                      el.appendChild(script1);
+
+                      const script2 = document.createElement('script');
+                      script2.async = true;
+                      script2.src = '//waust.at/s.js';
+                      el.appendChild(script2);
+                    }
+                  }} />
                 </div>
               )}
             </div>
