@@ -1,311 +1,101 @@
 [
   {
-    "id": "yt_a_YIgY7yaq4",
-    "song_title": "Eu Quis Comer Você",
-    "year": 1987,
-    "artist_name": "Cascavelletes",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=a_YIgY7yaq4",
+    "id": "yt_nJRYD6yG-h0",
+    "song_title": " Acenda O Farol (Programa Carlos Imperial)",
+    "year": 1979,
+    "artist_name": "Tim Maia",
+    "artist_genre": "Soul",
+    "youtube_link": "https://www.youtube.com/watch?v=nJRYD6yG-h0",
     "imvdb_url": null,
     "source": "YouTube"
   },
-  {
-    "id": "yt_HFzY3bJeAxQ",
-    "song_title": "Ciúme",
+{
+    "id": "yt_iWiN2CDlkC4",
+    "song_title": "Ao Vivo",
+    "year": 1970,
+    "artist_name": "Jorge Ben e Trio Mocoto",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=iWiN2CDlkC4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_jGt9u1Jt0a0",
+    "song_title": "Refém da Solidão",
     "year": 1986,
-    "artist_name": "Ultraje a Rigor",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=HFzY3bJeAxQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_dgtKCM_YuEU",
-    "song_title": "Ugagogobabago",
-    "year": 1987,
-    "artist_name": "Cascavelletes",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=dgtKCM_YuEU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_VMVD36zUwDw",
-    "song_title": "Moto",
-    "year": 1987,
-    "artist_name": "Cascavelletes",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=VMVD36zUwDw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_oiwG5_utFKM",
-    "song_title": "Carro Roubado",
-    "year": 1987,
-    "artist_name": "Cascavelletes",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=oiwG5_utFKM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_S3U0sHegYgU",
-    "song_title": "O Vento (The Wind)",
-    "year": 1949,
-    "artist_name": "Dorival Caymmi",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=S3U0sHegYgU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_i24kseCONIg",
-    "song_title": "Maricotinha",
-    "year": 1993,
-    "artist_name": "Chico Buarque e Dorival Caymmi",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=i24kseCONIg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_dpmG5fd63cg",
-    "song_title": "É doce morrer no mar",
-    "year": 1959,
-    "artist_name": "Dorival Caymmi",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=dpmG5fd63cg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_hr219MTemHE",
-    "song_title": "Nós Vamos Invadir Sua Praia",
-    "year": 1985,
-    "artist_name": "Ultraje a Rigor",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=hr219MTemHE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_g3sxSsdB-xw",
-    "song_title": "Essa foi Demais",
-    "year": 1986,
-    "artist_name": "Hermeto Pascoal",
+    "artist_name": "Elizeth Cardoso e Zimbo Trio",
     "artist_genre": "Jazz",
-    "youtube_link": "https://www.youtube.com/watch?v=g3sxSsdB-xw",
+    "youtube_link": "https://www.youtube.com/watch?v=jGt9u1Jt0a0",
     "imvdb_url": null,
     "source": "YouTube"
   },
-  {
-    "id": "yt_mlm_SIw2YnI",
-    "song_title": "A Menina Dança",
-    "year": 1972,
-    "artist_name": "Novos Baianos",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=mlm_SIw2YnI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_4d5tcXcApmk",
-    "song_title": "Dá Pra Mim",
-    "year": 1989,
-    "artist_name": "Polegar",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=4d5tcXcApmk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_k0v-Rw4O2xc",
-    "song_title": "Uma Barata Chamada Kafka",
-    "year": 1989,
-    "artist_name": "Inimigos do Rei",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=k0v-Rw4O2xc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_08KB6LAsrk0",
-    "song_title": "Adelaide (Domingão do Faustão 1989)",
-    "year": 1989,
-    "artist_name": "Inimigos do Rei",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=08KB6LAsrk0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_p03TIGqEc8o",
-    "song_title": "1, 2, 3",
-    "year": 2018,
-    "artist_name": "Sofia Reyes feat. Jason Derulo & De La Ghetto",
-    "artist_genre": "Latino",
-    "youtube_link": "https://www.youtube.com/watch?v=p03TIGqEc8o",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_1gTdgdJ_rMY",
-    "song_title": "Overdose",
-    "year": 2018,
-    "artist_name": "Agnez Mo & Chris Brown",
-    "artist_genre": "R & B",
-    "youtube_link": "https://www.youtube.com/watch?v=1gTdgdJ_rMY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_55ciajQp_Bc",
-    "song_title": "Dá Pra Mim (Domingão do Faustão)",
-    "year": 1989,
-    "artist_name": "Polegar",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=55ciajQp_Bc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_jLXvmH0pI0Q",
-    "song_title": "Se Você Soubesse",
-    "year": 1973,
-    "artist_name": "Renato e Seus Blue Caps",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=jLXvmH0pI0Q",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_J5eGiC_EPwM",
-    "song_title": "Madalena",
-    "year": 1972,
-    "artist_name": "Elis Regina",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=J5eGiC_EPwM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_qtKrCexCCvQ",
-    "song_title": "Amantes",
-    "year": 2000,
-    "artist_name": "Ara Ketu",
-    "artist_genre": "Axé",
-    "youtube_link": "https://www.youtube.com/watch?v=qtKrCexCCvQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_fF18Ki_TXZM",
-    "song_title": "Esqueça Meu Coração (Ao Vivo)",
-    "year": 2006,
-    "artist_name": "Banda Calypso",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=fF18Ki_TXZM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_1bdKMfQtmgY",
-    "song_title": "Disse Adeus (Ao Vivo 2004)",
-    "year": 2004,
-    "artist_name": "Banda Calypso",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=1bdKMfQtmgY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_HmpY_TIEoPI",
-    "song_title": "O teu olhar",
-    "year": 1936,
-    "artist_name": "Bando da Lua",
-    "artist_genre": "Samba",
-    "youtube_link": "https://www.youtube.com/watch?v=HmpY_TIEoPI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_khWtsQt8VjQ",
-    "song_title": "Ela É Carioca (Ao Vivo No Rio De Janeiro)",
-    "year": 2005,
-    "artist_name": "Os Cariocas",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=khWtsQt8VjQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_-g_PJZygnWI",
-    "song_title": "Adeus América (Ao Vivo No Rio De Janeiro)",
-    "year": 2005,
-    "artist_name": "Os Cariocas",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=-g_PJZygnWI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_54y8H5i50r4",
-    "song_title": "Eu Já Sei (Chacrinha 1988)",
-    "year": 1988,
-    "artist_name": "Garotos da Rua",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=54y8H5i50r4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_HnG0Uvj2xVQ",
-    "song_title": "Adelaide Minha Anã Paraguaia (Ao Vivo no programa MilkShake)",
-    "year": 1989,
-    "artist_name": "Inimigos do Rei",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=HnG0Uvj2xVQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_ZE-p1ftoptY",
-    "song_title": "Jesse James (Domingão do Faustão 1990)",
-    "year": 1990,
-    "artist_name": "Inimigos do Rei",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=ZE-p1ftoptY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_TgZcsz64a2Y",
-    "song_title": "Adelaide (Ao Vivo no Domingão do Faustão 1989)",
-    "year": 1989,
-    "artist_name": "Inimigos do Rei",
-    "artist_genre": "Pop Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=TgZcsz64a2Y",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_30ibGrwxyJ8",
-    "song_title": "Ego e Fica Comigo (Domingão do Faustão 1990)",
-    "year": 1990,
+{
+    "id": "yt_-PHz06SlJo0",
+    "song_title": "Velho Demais",
+    "year": 1977,
     "artist_name": "Placa Luminosa",
     "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=30ibGrwxyJ8",
+    "youtube_link": "https://www.youtube.com/watch?v=-PHz06SlJo0",
     "imvdb_url": null,
     "source": "YouTube"
   },
-  {
-    "id": "yt_58hfre8oLuc",
-    "song_title": "O Circo (TV Record 1967)",
-    "year": 1967,
-    "artist_name": "Quarteto em Cy",
+{
+    "id": "yt_BeewHmUyt6g",
+    "song_title": "Trac-Trac",
+    "year": 1991,
+    "artist_name": "Paralamas do Sucesso",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=BeewHmUyt6g",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_93axfl2xlao",
+    "song_title": "Tenha Fé (Ao Vivo TV Cultura)",
+    "year": 1972,
+    "artist_name": "Os Originais do Samba",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=93axfl2xlao",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_licXrqN5KWw",
+    "song_title": "Carnaval Inesquecível na Cidade Alta",
+    "year": 2006,
+    "artist_name": "Mundo Livre S/A",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=licXrqN5KWw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_dm32MOo9-hc",
+    "song_title": "Metal Massacre Attack",
+    "year": 2004,
+    "artist_name": "Massacration",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=dm32MOo9-hc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_T2IeM2WdEks",
+    "song_title": "Metal Milk Shake",
+    "year": 2005,
+    "artist_name": "Massacration",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=T2IeM2WdEks",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+{
+    "id": "yt_Q46Kg0EM__Q",
+    "song_title": "Linda Juventude (Globo de Ouro)",
+    "year": 1983,
+    "artist_name": "14 Bis",
     "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=58hfre8oLuc",
+    "youtube_link": "https://www.youtube.com/watch?v=Q46Kg0EM__Q",
     "imvdb_url": null,
     "source": "YouTube"
   }

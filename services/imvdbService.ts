@@ -89,6 +89,7 @@ import data1975BR from '../data/clipes/brasil/1975-BR.json';
 import data1976BR from '../data/clipes/brasil/1976-BR.json';
 import data1977BR from '../data/clipes/brasil/1977-BR.json';
 import data1978BR from '../data/clipes/brasil/1978-BR.json';
+import data1979BR from '../data/clipes/brasil/1979-BR.json';
 import data1980BR from '../data/clipes/brasil/1980-BR.json';
 import data1983BR from '../data/clipes/brasil/1983-BR.json';
 import data1984BR from '../data/clipes/brasil/1984-BR.json';
@@ -200,6 +201,7 @@ import show1986BR from '../data/shows/brasil/1986.json';
 import show1991BR from '../data/shows/brasil/1991.json';
 import show1992BR from '../data/shows/brasil/1992.json';
 import show1997BR from '../data/shows/brasil/1997.json';
+import show2004BR from '../data/shows/brasil/2004.json';
 import show2005BR from '../data/shows/brasil/2005.json';
 import show2007BR from '../data/shows/brasil/2007.json';
 import show2009BR from '../data/shows/brasil/2009.json';
@@ -226,6 +228,7 @@ const SHOWS_BRASIL = [
   ...show1991BR,
   ...show1992BR,
   ...show1997BR,
+  ...show2004BR,
   ...show2005BR,
   ...show2007BR,
   ...show2009BR,
@@ -333,6 +336,7 @@ const BR_DATA = [
   ...data1976BR,
   ...data1977BR,
   ...data1978BR,
+  ...data1979BR,
   ...data1980BR,
   ...data1983BR,
   ...data1984BR,

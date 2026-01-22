@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Calendar, Film, Play, Clock, Coffee } from 'lucide-react';
+import { Calendar, Film, Play, Clock, Coffee, ChevronDown, ChevronUp } from 'lucide-react';
 import { Button } from './ui/Button';
 import { DonationModal } from './DonationModal';
 import {
@@ -66,6 +66,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
   selectedRegion,
   onRegionChange,
 }) => {
+  const [isCollapsed, setIsCollapsed] = useState(false);
   const [value, setValue] = useState<string>('2000');
   const [mode, setMode] = useState<'year' | 'decade' | 'all'>('all');
   const [isDonationModalOpen, setIsDonationModalOpen] = useState(false);
@@ -142,222 +143,256 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
 
   return (
     <div
-      className="w-full flex flex-col p-6 bg-zinc-50 dark:bg-zinc-900/50 backdrop-blur-sm"
+      className="w-full flex flex-col bg-zinc-50 dark:bg-zinc-900/50 backdrop-blur-sm"
       role="search"
     >
-      <div className="flex items-center justify-between mb-6">
-        <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-2">
-          <Clock className="w-3 h-3" /> {t.timeMachine}
-        </h2>
-
-        {/* Language Toggles */}
-        <div className="flex gap-2">
-          <button
-            title="Português"
-            onClick={() => onLanguageChange('pt')}
-            className={`w-6 h-4 overflow-hidden rounded-sm shadow-sm ring-1 ring-black/10 transition-transform ${
-              language === 'pt'
-                ? 'ring-primary ring-2 scale-110'
-                : 'opacity-50 hover:opacity-100'
-            }`}
-          >
-            <FlagBR />
-          </button>
-          <button
-            title="English"
-            onClick={() => onLanguageChange('en')}
-            className={`w-6 h-4 overflow-hidden rounded-sm shadow-sm ring-1 ring-black/10 transition-transform ${
-              language === 'en'
-                ? 'ring-primary ring-2 scale-110'
-                : 'opacity-50 hover:opacity-100'
-            }`}
-          >
-            <FlagUS />
-          </button>
-        </div>
-      </div>
-
-      {/* Availability Notice & Count */}
-      <div className="bg-primary/10 border border-primary/20 text-primary rounded-md p-3 text-xs mb-4 text-center leading-relaxed relative overflow-hidden">
-        <p className="font-bold mb-1">{t.comingSoon}</p>
-        <p className="opacity-80 mb-2">
-          {currentVideo ? (
-            <>
-              <span className="font-bold">{currentVideo.song_title}</span>
-              {' - '}
-              <span>
-                {currentVideo.artists?.map((a: any) => a.name).join(', ')}
-              </span>{' '}
-              <span className="opacity-70">({currentVideo.year})</span>
-              {currentVideo.nationality === 'BR' && (
-                <span className="ml-2 text-[10px] bg-green-500/20 text-green-500 px-1 rounded">
-                  BR
-                </span>
+      {/* Collapsible Header */}
+      <div
+        className="flex flex-col border-b border-border z-20 sticky top-0 cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+        onClick={() => setIsCollapsed(!isCollapsed)}
+      >
+        <div className="px-6 py-3 flex items-center justify-between">
+          <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
+            <div className="flex items-center justify-center w-6 h-6 border border-muted-foreground/30 rounded bg-zinc-100 dark:bg-zinc-800">
+              {isCollapsed ? (
+                <ChevronDown className="w-4 h-4" />
+              ) : (
+                <ChevronUp className="w-4 h-4" />
               )}
-            </>
-          ) : (
-            t.availabilityNotice
-          )}
-        </p>
+            </div>
+            <span className="flex items-center gap-2">
+              <Clock className="w-3 h-3" /> {t.timeMachine}
+            </span>
+          </h2>
 
-        {/* Stats Breakdown */}
-        <div className="flex flex-col gap-1 items-center bg-background/50 dark:bg-black/20 rounded px-3 py-2 font-mono text-[10px] tracking-wide mt-1 w-full">
-          <div className="flex justify-between w-full">
-            <span className="opacity-70">Clipes:</span>
-            <span className="font-bold">{TOTAL_CLIPS}</span>
-          </div>
-          <div className="flex justify-between w-full">
-            <span className="opacity-70">Shows:</span>
-            <span className="font-bold">{TOTAL_SHOWS}</span>
-          </div>
-          <div className="flex justify-between w-full">
-            <span className="opacity-70">Programas:</span>
-            <span className="font-bold">{TOTAL_PROGRAMS}</span>
-          </div>
-          <div className="w-full h-px bg-current opacity-10 my-0.5"></div>
-          <div className="flex justify-between w-full">
-            <span className="opacity-70 font-bold uppercase">Total:</span>
-            <span className="font-bold">{TOTAL_VIDEOS_COUNT}</span>
+          {/* Language Toggles */}
+          <div className="flex gap-2" onClick={(e) => e.stopPropagation()}>
+            <button
+              title="Português"
+              onClick={() => onLanguageChange('pt')}
+              className={`w-6 h-4 overflow-hidden rounded-sm shadow-sm ring-1 ring-black/10 transition-transform ${
+                language === 'pt'
+                  ? 'ring-primary ring-2 scale-110'
+                  : 'opacity-50 hover:opacity-100'
+              }`}
+            >
+              <FlagBR />
+            </button>
+            <button
+              title="English"
+              onClick={() => onLanguageChange('en')}
+              className={`w-6 h-4 overflow-hidden rounded-sm shadow-sm ring-1 ring-black/10 transition-transform ${
+                language === 'en'
+                  ? 'ring-primary ring-2 scale-110'
+                  : 'opacity-50 hover:opacity-100'
+              }`}
+            >
+              <FlagUS />
+            </button>
           </div>
         </div>
-        {/* Donation Button */}
-        <button
-          type="button"
-          onClick={() => setIsDonationModalOpen(true)}
-          className="w-full mt-3 bg-yellow-400 hover:bg-yellow-500 text-yellow-950 text-[10px] font-bold py-2 px-3 rounded shadow-sm transition-colors flex items-center justify-center gap-1.5 active:scale-[0.98]"
-        >
-          <Coffee className="w-3 h-3" />
-          {t.donation?.button || 'Me Pague um Café'}
-        </button>
-
-        {visitCount !== null && (
-          <div className="w-full flex justify-center mt-2">
-            <div className="inline-block bg-background/50 dark:bg-black/20 rounded px-2 py-1 font-mono text-[10px] tracking-wide">
-              <span className="opacity-70">Visitas:</span>{' '}
-              <span className="font-bold">{visitCount.toLocaleString()}</span>
-            </div>
-          </div>
-        )}
       </div>
 
-      <form onSubmit={handleSubmit} className="flex flex-col gap-5">
-        {/* Region / Signal Source Filter */}
-        <div className="flex flex-col gap-2">
-          <label className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-2">
-            {t.signalSource}
-          </label>
-          <div className="grid grid-cols-3 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
-            <button
-              type="button"
-              onClick={() => onRegionChange('intl')}
-              className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
-                selectedRegion === 'intl'
-                  ? 'bg-background shadow-sm text-foreground'
-                  : 'text-muted-foreground hover:text-foreground'
-              }`}
-              title="Apenas internacionais"
-            >
-              Global
-            </button>
-            <button
-              type="button"
-              onClick={() => onRegionChange('br')}
-              className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
-                selectedRegion === 'br'
-                  ? 'bg-background shadow-sm text-foreground'
-                  : 'text-muted-foreground hover:text-foreground'
-              }`}
-              title="Apenas nacionais"
-            >
-              Brasil
-            </button>
-            <button
-              type="button"
-              onClick={() => onRegionChange('all')}
-              className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
-                selectedRegion === 'all'
-                  ? 'bg-background shadow-sm text-foreground'
-                  : 'text-muted-foreground hover:text-foreground'
-              }`}
-              title="Misturado"
-            >
-              Mix
-            </button>
-          </div>
-        </div>
+      {/* Collapsible Content */}
+      <div
+        className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${
+          isCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'
+        }`}
+      >
+        <div className="overflow-hidden">
+          <div className="p-6">
+            {/* Availability Notice & Count */}
+            <div className="bg-primary/10 border border-primary/20 text-primary rounded-md p-3 text-xs mb-4 text-center leading-relaxed relative overflow-hidden">
+              <p className="font-bold mb-1">{t.comingSoon}</p>
+              <p className="opacity-80 mb-2">
+                {currentVideo ? (
+                  <>
+                    <span className="font-bold">{currentVideo.song_title}</span>
+                    {' - '}
+                    <span>
+                      {currentVideo.artists?.map((a: any) => a.name).join(', ')}
+                    </span>{' '}
+                    <span className="opacity-70">({currentVideo.year})</span>
+                    {currentVideo.nationality === 'BR' && (
+                      <span className="ml-2 text-[10px] bg-green-500/20 text-green-500 px-1 rounded">
+                        BR
+                      </span>
+                    )}
+                  </>
+                ) : (
+                  t.availabilityNotice
+                )}
+              </p>
 
-        {/* Mode Toggles */}
-        <div className="grid grid-cols-3 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
-          <button
-            type="button"
-            onClick={() => setMode('year')}
-            className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-2 ${
-              mode === 'year'
-                ? 'bg-background shadow-sm text-foreground'
-                : 'text-muted-foreground hover:text-foreground'
-            }`}
-          >
-            <Calendar className="w-3 h-3" /> {t.yearMode}
-          </button>
-          <button
-            type="button"
-            onClick={() => {
-              setMode('decade');
-              // Ensure value is decade-compliant roughly
-              if (value.slice(-1) !== '0') setValue(value.slice(0, 3) + '0');
-            }}
-            className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-2 ${
-              mode === 'decade'
-                ? 'bg-background shadow-sm text-foreground'
-                : 'text-muted-foreground hover:text-foreground'
-            }`}
-          >
-            <Film className="w-3 h-3" /> {t.decadeMode}
-          </button>
-          <button
-            type="button"
-            onClick={() => {
-              setMode('all');
-              onSearch('all', 'all');
-            }}
-            className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-2 ${
-              mode === 'all'
-                ? 'bg-background shadow-sm text-foreground'
-                : 'text-muted-foreground hover:text-foreground'
-            }`}
-          >
-            <Film className="w-3 h-3" /> {t.allMode}
-          </button>
-        </div>
+              {/* Stats Breakdown */}
+              <div className="flex flex-col gap-1 items-center bg-background/50 dark:bg-black/20 rounded px-3 py-2 font-mono text-[10px] tracking-wide mt-1 w-full">
+                <div className="flex justify-between w-full">
+                  <span className="opacity-70">Clipes:</span>
+                  <span className="font-bold">{TOTAL_CLIPS}</span>
+                </div>
+                <div className="flex justify-between w-full">
+                  <span className="opacity-70">Shows:</span>
+                  <span className="font-bold">{TOTAL_SHOWS}</span>
+                </div>
+                <div className="flex justify-between w-full">
+                  <span className="opacity-70">Programas:</span>
+                  <span className="font-bold">{TOTAL_PROGRAMS}</span>
+                </div>
+                <div className="w-full h-px bg-current opacity-10 my-0.5"></div>
+                <div className="flex justify-between w-full">
+                  <span className="opacity-70 font-bold uppercase">Total:</span>
+                  <span className="font-bold">{TOTAL_VIDEOS_COUNT}</span>
+                </div>
+              </div>
+              {/* Donation Button */}
+              <button
+                type="button"
+                onClick={() => setIsDonationModalOpen(true)}
+                className="w-full mt-3 bg-yellow-400 hover:bg-yellow-500 text-yellow-950 text-[10px] font-bold py-2 px-3 rounded shadow-sm transition-colors flex items-center justify-center gap-1.5 active:scale-[0.98]"
+              >
+                <Coffee className="w-3 h-3" />
+                {t.donation?.button || 'Me Pague um Café'}
+              </button>
 
-        {/* Quick Select Chips */}
-        {mode === 'decade' && (
-          <div className="flex gap-2 overflow-x-auto pb-2 -mx-1 px-1 no-scrollbar mask-linear-fade">
-            {quickDecades.map((decade) => {
-              const availableDecades =
-                selectedRegion === 'br'
-                  ? [
-                      '1920',
-                      '1960',
-                      '1970',
-                      '1980',
-                      '1990',
-                      '2000',
-                      '2010',
-                      '2020',
-                    ]
-                  : ['1960', '1970', '1980', '1990', '2000', '2010', '2020'];
-              const isAvailable = availableDecades.includes(decade);
-              const isSelected = value === decade;
-              return (
+              {visitCount !== null && (
+                <div className="w-full flex justify-center mt-2">
+                  <div className="inline-block bg-background/50 dark:bg-black/20 rounded px-2 py-1 font-mono text-[10px] tracking-wide">
+                    <span className="opacity-70">Visitas:</span>{' '}
+                    <span className="font-bold">
+                      {visitCount.toLocaleString()}
+                    </span>
+                  </div>
+                </div>
+              )}
+            </div>
+
+            <form onSubmit={handleSubmit} className="flex flex-col gap-5">
+              {/* Region / Signal Source Filter */}
+              <div className="flex flex-col gap-2">
+                <label className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-2">
+                  {t.signalSource}
+                </label>
+                <div className="grid grid-cols-3 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
+                  <button
+                    type="button"
+                    onClick={() => onRegionChange('intl')}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                      selectedRegion === 'intl'
+                        ? 'bg-background shadow-sm text-foreground'
+                        : 'text-muted-foreground hover:text-foreground'
+                    }`}
+                    title="Apenas internacionais"
+                  >
+                    Global
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => onRegionChange('br')}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                      selectedRegion === 'br'
+                        ? 'bg-background shadow-sm text-foreground'
+                        : 'text-muted-foreground hover:text-foreground'
+                    }`}
+                    title="Apenas nacionais"
+                  >
+                    Brasil
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => onRegionChange('all')}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                      selectedRegion === 'all'
+                        ? 'bg-background shadow-sm text-foreground'
+                        : 'text-muted-foreground hover:text-foreground'
+                    }`}
+                    title="Misturado"
+                  >
+                    Mix
+                  </button>
+                </div>
+              </div>
+
+              {/* Mode Toggles */}
+              <div className="grid grid-cols-3 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
                 <button
-                  key={decade}
+                  type="button"
+                  onClick={() => setMode('year')}
+                  className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-2 ${
+                    mode === 'year'
+                      ? 'bg-background shadow-sm text-foreground'
+                      : 'text-muted-foreground hover:text-foreground'
+                  }`}
+                >
+                  <Calendar className="w-3 h-3" /> {t.yearMode}
+                </button>
+                <button
                   type="button"
                   onClick={() => {
-                    setValue(decade);
-                    onSearch('decade', decade);
+                    setMode('decade');
+                    // Ensure value is decade-compliant roughly
+                    if (value.slice(-1) !== '0')
+                      setValue(value.slice(0, 3) + '0');
                   }}
-                  className={`
+                  className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-2 ${
+                    mode === 'decade'
+                      ? 'bg-background shadow-sm text-foreground'
+                      : 'text-muted-foreground hover:text-foreground'
+                  }`}
+                >
+                  <Film className="w-3 h-3" /> {t.decadeMode}
+                </button>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setMode('all');
+                    onSearch('all', 'all');
+                  }}
+                  className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-2 ${
+                    mode === 'all'
+                      ? 'bg-background shadow-sm text-foreground'
+                      : 'text-muted-foreground hover:text-foreground'
+                  }`}
+                >
+                  <Film className="w-3 h-3" /> {t.allMode}
+                </button>
+              </div>
+
+              {/* Quick Select Chips */}
+              {mode === 'decade' && (
+                <div className="flex gap-2 overflow-x-auto pb-2 -mx-1 px-1 no-scrollbar mask-linear-fade">
+                  {quickDecades.map((decade) => {
+                    const availableDecades =
+                      selectedRegion === 'br'
+                        ? [
+                            '1920',
+                            '1960',
+                            '1970',
+                            '1980',
+                            '1990',
+                            '2000',
+                            '2010',
+                            '2020',
+                          ]
+                        : [
+                            '1960',
+                            '1970',
+                            '1980',
+                            '1990',
+                            '2000',
+                            '2010',
+                            '2020',
+                          ];
+                    const isAvailable = availableDecades.includes(decade);
+                    const isSelected = value === decade;
+                    return (
+                      <button
+                        key={decade}
+                        type="button"
+                        onClick={() => {
+                          setValue(decade);
+                          onSearch('decade', decade);
+                        }}
+                        className={`
                                 flex-none px-4 py-2 text-xs font-bold rounded-md border transition-all
                                 ${
                                   isSelected
@@ -367,60 +402,63 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                                     : 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 opacity-50 cursor-not-allowed'
                                 }
                             `}
-                >
-                  {decade}s
-                </button>
-              );
-            })}
-          </div>
-        )}
-
-        {mode === 'year' && (
-          <div className="flex gap-3">
-            {/* Input - Only in 'year' mode */}
-            {mode === 'year' && (
-              <div className="relative group flex-1">
-                <input
-                  type="number"
-                  min={selectedRegion === 'br' ? '1920' : '1950'}
-                  max="2025"
-                  step={mode === 'decade' ? 10 : 1}
-                  value={value}
-                  onChange={(e) => setValue(e.target.value)}
-                  className="w-full h-12 pl-4 pr-4 rounded-xl border-2 border-transparent bg-zinc-200 dark:bg-zinc-800 focus:bg-background text-2xl font-black tracking-widest text-center transition-all focus:border-primary focus:outline-none"
-                  placeholder="2000"
-                />
-                <span className="absolute right-4 top-1/2 -translate-y-1/2 text-muted-foreground text-xs font-mono opacity-50 pointer-events-none">
-                  {mode === 'decade' ? 's' : ''}
-                </span>
-              </div>
-            )}
-
-            {/* Main Action Button */}
-            <Button
-              type="submit"
-              disabled={isLoading}
-              size="lg"
-              className={`h-12 text-base gap-2 rounded-xl shadow-lg hover:shadow-primary/20 transition-all active:scale-[0.98] ${
-                mode !== 'all' ? 'w-auto px-8' : 'w-full'
-              }`}
-            >
-              {isLoading ? (
-                <span className="h-5 w-5 animate-spin rounded-full border-2 border-current border-t-transparent" />
-              ) : (
-                <Play className="h-5 w-5 fill-current" />
+                      >
+                        {decade}s
+                      </button>
+                    );
+                  })}
+                </div>
               )}
-              {isLoading ? t.traveling : t.play}
-            </Button>
-          </div>
-        )}
-      </form>
 
-      <DonationModal
-        isOpen={isDonationModalOpen}
-        onClose={() => setIsDonationModalOpen(false)}
-        language={language}
-      />
+              {mode === 'year' && (
+                <div className="flex gap-3">
+                  {/* Input - Only in 'year' mode */}
+                  {mode === 'year' && (
+                    <div className="relative group flex-1">
+                      <input
+                        type="number"
+                        min={selectedRegion === 'br' ? '1920' : '1950'}
+                        max="2025"
+                        step={mode === 'decade' ? 10 : 1}
+                        value={value}
+                        onChange={(e) => setValue(e.target.value)}
+                        className="w-full h-12 pl-4 pr-4 rounded-xl border-2 border-transparent bg-zinc-200 dark:bg-zinc-800 focus:bg-background text-2xl font-black tracking-widest text-center transition-all focus:border-primary focus:outline-none"
+                        placeholder="2000"
+                      />
+                      <span className="absolute right-4 top-1/2 -translate-y-1/2 text-muted-foreground text-xs font-mono opacity-50 pointer-events-none">
+                        {mode === 'decade' ? 's' : ''}
+                      </span>
+                    </div>
+                  )}
+
+                  {/* Main Action Button */}
+                  <Button
+                    type="submit"
+                    disabled={isLoading}
+                    size="lg"
+                    className={`h-12 text-base gap-2 rounded-xl shadow-lg hover:shadow-primary/20 transition-all active:scale-[0.98] ${
+                      mode !== 'all' ? 'w-auto px-8' : 'w-full'
+                    }`}
+                  >
+                    {isLoading ? (
+                      <span className="h-5 w-5 animate-spin rounded-full border-2 border-current border-t-transparent" />
+                    ) : (
+                      <Play className="h-5 w-5 fill-current" />
+                    )}
+                    {isLoading ? t.traveling : t.play}
+                  </Button>
+                </div>
+              )}
+            </form>
+
+            <DonationModal
+              isOpen={isDonationModalOpen}
+              onClose={() => setIsDonationModalOpen(false)}
+              language={language}
+            />
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

@@ -166,6 +166,23 @@ const App: React.FC = () => {
     }
   }, []);
 
+  // Load all videos from selected region on mount to populate availableGenres
+  useEffect(() => {
+    const loadInitialVideos = async () => {
+      try {
+        const videos = await fetchVideosByCriteria('all', 'all', selectedRegion);
+        setAllVideos(videos);
+        console.log('[Grooovio] Initial videos loaded:', videos.length);
+        console.log('[Grooovio] Programs found:', videos.filter(v => (v as any).is_program === true).length);
+      } catch (error) {
+        console.error('[Grooovio] Failed to load initial videos:', error);
+      }
+    };
+
+    loadInitialVideos();
+  }, [selectedRegion]);
+
+
   // Determine available genres based on current video list
   const availableGenres = useMemo(() => {
     const genres = new Set<string>();
@@ -379,6 +396,11 @@ const App: React.FC = () => {
     setSelectedGenre(genreId);
     setShowClickToStart(false); // Dismiss overlay on interaction
     setShowWelcome(false); // Dismiss welcome screen
+
+    // Auto-close sidebar on mobile
+    if (typeof window !== 'undefined' && window.innerWidth < 768) {
+      setIsSidebarOpen(false);
+    }
 
     // Ensure we have videos to filter
     let sourceVideos = allVideos;
@@ -764,7 +786,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.9.1 // ARIA-COMPLIANT
+              V 1.10.0 // ARIA-COMPLIANT
             </p>
           </div>
 

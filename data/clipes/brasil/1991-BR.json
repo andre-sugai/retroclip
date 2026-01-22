@@ -1,11 +1,12 @@
 [
   {
-    "id": 146642749110,
-    "song_title": "Arise",
+    "id": "yt_BeewHmUyt6g",
+    "song_title": "Trac-Trac",
     "year": 1991,
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=6BOHpjIZyx0",
-    "imvdb_url": "https://imvdb.com/video/sepultura/arise",
-    "artist": "Sepultura"
+    "artist_name": "Paralamas do Sucesso",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=BeewHmUyt6g",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]
