@@ -1,5 +1,6 @@
 
 import React, { useEffect, useRef } from 'react';
+import { Loader2 } from 'lucide-react';
 
 interface TVStaticProps {
   active: boolean;
@@ -119,11 +120,15 @@ export const TVStatic: React.FC<TVStaticProps> = ({ active, enableAudio = false 
   if (!active) return null;
 
   return (
-    <div className="absolute inset-0 z-40 pointer-events-none bg-black">
+    <div className="absolute inset-0 z-40 pointer-events-none bg-black flex items-center justify-center">
         <canvas 
             ref={canvasRef} 
-            className="w-full h-full object-cover opacity-100"
+            className="absolute inset-0 w-full h-full object-cover opacity-100"
         />
+        <div className="relative z-50 flex flex-col items-center justify-center gap-4 text-white drop-shadow-md">
+            <Loader2 className="w-12 h-12 animate-spin text-white" />
+            <p className="text-sm font-mono uppercase animate-pulse font-bold tracking-widest text-white">CARREGANDO...</p>
+        </div>
     </div>
   );
 };

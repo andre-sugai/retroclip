@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Video } from '../types';
-import { Loader2, Radio, ChevronDown, ChevronUp } from 'lucide-react';
+import { Radio, ChevronDown, ChevronUp } from 'lucide-react';
 import { translations, Language } from '../translations';
 
 interface Sector3PlaylistProps {
@@ -84,13 +84,7 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
         <div className="overflow-hidden">
           <div className="p-4 bg-zinc-50/30 dark:bg-black/20">
             
-            {/* Loading State */}
-            {isLoading && (
-                <div className="flex flex-col items-center justify-center h-40 gap-4 text-primary">
-                    <Loader2 className="w-8 h-8 animate-spin" />
-                    <p className="text-xs font-mono uppercase animate-pulse">{t.loading}</p>
-                </div>
-            )}
+            {/* Loading State Removed from Here */}
 
             {/* Info Text if not loading and empty queue */}
             {!isLoading && queue.length === 0 && (
