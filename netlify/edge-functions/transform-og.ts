@@ -4,25 +4,35 @@ export default async (request: Request, context: Context) => {
   const url = new URL(request.url);
   const videoId = url.searchParams.get("v");
 
-  // Get the response from the origin
+  // Call the next middleware/origin
   const response = await context.next();
-  const page = await response.text();
 
-  // If there is a video ID that looks like a YouTube ID (11 chars), inject the OG image
-  // We check for length 11 to differentiate from internal numeric IDs (though some old IDs might be short, 
-  // currently we are standardizing on using embed_id for shares which is 11 chars)
-  if (videoId && videoId.length === 11) {
+  // 1. Safety Check: Only process HTML content
+  const contentType = response.headers.get("content-type") || "";
+  if (!contentType.includes("text/html")) {
+    return response;
+  }
+
+  // 2. Performance Check: If no video ID, don't waste time parsing text
+  if (!videoId || videoId.length !== 11) {
+    return response;
+  }
+
+  // 3. Transformation Logic
+  try {
+    const page = await response.text();
     const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
     
     // Replace the default og:image
-    // We look for the existing og:image tag and replace it content
     const updatedPage = page.replace(
       /<meta property="og:image" content="[^"]+" \/>/,
       `<meta property="og:image" content="${thumbnailUrl}" />`
     );
 
     return new Response(updatedPage, response);
+  } catch (error) {
+    console.error("Error transforming OG image:", error);
+    // If anything fails, return original response
+    return response;
   }
-
-  return response;
 };
