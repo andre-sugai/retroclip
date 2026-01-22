@@ -125,20 +125,62 @@ const App: React.FC = () => {
       const loadDeepLinkedVideo = async () => {
         console.log(`[Grooovio App] Deep linking to video: ${videoId}`);
         try {
+          // 1. Fetch the specific video first
           const video = await fetchVideoById(videoId);
+          
           if (video) {
             console.log(`[Grooovio App] Video found: ${video.song_title}`);
+            
+            // 2. Determine context for "Up Next" (Year or All)
+            const contextType = video.year ? 'year' : 'all';
+            const contextValue = video.year ? video.year.toString() : 'all';
+            const contextRegion = video.nationality === 'BR' ? 'br' : (video.nationality ? 'intl' : 'all');
+
+            // Set state immediately with the single video so it's ready
             setState((prev) => ({
               ...prev,
               currentVideo: video,
-              queue: [video], // Set single video queue or fetch context? Single for now or fetch year...
-              // For now just set the video. If they want more they can search/filter.
-              isLoading: false,
+              queue: [video], 
+              isLoading: false, // temporarily false while we fetch context
               hasStarted: true,
               isPlaying: false, // Wait for user click interaction
             }));
-            // Also fetch context? Maybe fetch 'all' in background?
-            // Simple version: just play the video.
+
+            // 3. Fetch related videos in background to fill the queue
+            console.log(`[Grooovio App] Fetching context: ${contextType} ${contextValue} (${contextRegion})`);
+            
+            try {
+               const relatedVideos = await fetchVideosByCriteria(contextType, contextValue, contextRegion);
+               
+               if (relatedVideos.length > 0) {
+                 // Filter out the current video to avoid immediate duplicate
+                 const otherVideos = relatedVideos.filter(v => v.id !== video.id);
+                 
+                 // Shuffle
+                 const shuffle = (array: Video[]) => {
+                    const newArr = [...array];
+                    for (let i = newArr.length - 1; i > 0; i--) {
+                        const j = Math.floor(Math.random() * (i + 1));
+                        [newArr[i], newArr[j]] = [newArr[j], newArr[i]];
+                    }
+                    return newArr;
+                 };
+                 
+                 const shuffledContext = shuffle(otherVideos);
+                 
+                 // Update queue: [Current, ...Rest]
+                 setAllVideos(relatedVideos); // Update "All Videos" for genre filtering context
+                 setSelectedRegion(contextRegion); // Sync region selector
+
+                 setState(prev => ({
+                   ...prev,
+                   queue: [video, ...shuffledContext]
+                 }));
+               }
+            } catch (err) {
+              console.warn("Failed to fetch context for deep link", err);
+            }
+
           } else {
             // Not found fallback
             console.warn('Video not found by ID:', videoId);
@@ -250,7 +292,7 @@ const App: React.FC = () => {
 
     // Use current URL origin + path, append ?v=ID
     const baseUrl = `${window.location.protocol}//${window.location.host}${window.location.pathname}`;
-    const shareUrl = `${baseUrl}?v=${state.currentVideo.id}`;
+    const shareUrl = `${baseUrl}?v=${state.currentVideo.embed_id || state.currentVideo.id}`;
 
     const shareText = `Acho que você vai curtir esse clipe, conheça o Grooovio!\n\n${
       state.currentVideo.song_title

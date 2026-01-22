@@ -510,9 +510,18 @@ export const fetchVideoById = async (
   const allData = getDataset('all');
   console.log(`[Grooovio Fetch] RAW_DATA length: ${allData.length}`);
 
-  const found = allData.find(
+  let found = allData.find(
     (v: any) => v.id && v.id.toString() === id.toString()
   );
+
+  // If not found by internal ID, try finding by YouTube ID (for deep links from shares)
+  if (!found) {
+    console.log(`[Grooovio Fetch] ID not found, trying matches for YouTube ID: ${id}`);
+    found = allData.find((v: any) => {
+       const yId = getYouTubeId(v.youtube_link || '') || getYouTubeId(v.imvdb_url || '');
+       return yId === id;
+    });
+  }
 
   if (!found) {
     console.warn(`[Grooovio Fetch] Video not found in RAW_DATA for ID: ${id}`);
