@@ -104,19 +104,23 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
     // 2. Visibility Change (Fix for iOS Safari Freeze)
     const handleVisibilityChange = () => {
       if (document.visibilityState === 'visible') {
-        console.log('[Grooovio] Tab became visible. Checking playback state...');
+        console.log(
+          '[Grooovio] Tab became visible. Checking playback state...'
+        );
         // Small delay to ensure browser engine is fully woke up
         setTimeout(() => {
           if (
-            isPlaying && 
-            playerInstanceRef.current && 
+            isPlaying &&
+            playerInstanceRef.current &&
             typeof playerInstanceRef.current.getPlayerState === 'function'
           ) {
             const state = playerInstanceRef.current.getPlayerState();
             // If supposed to be playing but isn't (paused=2, unstarted=-1, cued=5)
             if (state === 2 || state === -1 || state === 5) {
-               console.log('[Grooovio] Auto-resuming after background backgrounding');
-               playerInstanceRef.current.playVideo();
+              console.log(
+                '[Grooovio] Auto-resuming after background backgrounding'
+              );
+              playerInstanceRef.current.playVideo();
             }
           }
         }, 300);
@@ -250,21 +254,23 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
               event.target.playVideo();
               event.target.playVideo();
               // event.target.setLoop(true); // Removed to fix infinite loop issue
-              
+
               // Detect autoplay failure (in-app browsers like Instagram)
               setTimeout(() => {
                 try {
                   const state = event.target.getPlayerState();
                   // If not playing after attempt, show overlay
                   if (state !== 1) {
-                    console.log('[Grooovio] Autoplay blocked, showing play overlay');
+                    console.log(
+                      '[Grooovio] Autoplay blocked, showing play overlay'
+                    );
                     setShowPlayOverlay(true);
                   }
                 } catch (e) {
                   console.warn('[Grooovio] Could not check player state');
                 }
               }, 1000);
-              
+
               // Unmute after starting only if not muted
               if (!isMuted) {
                 setTimeout(() => {
@@ -578,9 +584,11 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
       {/* Transparent layer to prevent clicks on the YouTube iframe */}
       <div className="absolute inset-0 z-[5] bg-transparent cursor-default" />
 
-      <div className={`absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end px-5 pt-5 pb-24 md:p-12 transition-opacity duration-700 ${
-        showInfo ? 'opacity-100' : 'opacity-100 md:opacity-0'
-      }`}>
+      <div
+        className={`absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end px-5 pr-20 pt-5 pb-24 md:p-12 transition-opacity duration-700 ${
+          showInfo ? 'opacity-100' : 'opacity-100 md:opacity-0'
+        }`}
+      >
         <div key={currentVideo.id} className="flex flex-col justify-end">
           <div
             className={`flex items-center gap-3 mb-1 md:mb-2 opacity-100 md:opacity-0 ${
@@ -598,7 +606,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           </div>
 
           <h1
-            className={`text-2xl md:text-6xl font-black text-white drop-shadow-2xl tracking-tighter uppercase leading-none mb-1 md:mb-2 line-clamp-2 opacity-100 md:opacity-0 ${
+            className={`text-2xl md:text-6xl font-black text-white drop-shadow-2xl tracking-tighter uppercase leading-none mb-1 md:mb-2 line-clamp-2 truncate opacity-100 md:opacity-0 ${
               showInfo ? 'md:animate-slide-up' : 'md:animate-slide-down-out'
             }`}
             style={{ animationDelay: showInfo ? '0.2s' : '0s' }}
@@ -607,7 +615,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           </h1>
 
           <p
-            className={`text-sm md:text-2xl text-white/90 font-medium tracking-wide drop-shadow-lg opacity-100 md:opacity-0 ${
+            className={`text-sm md:text-2xl text-white/90 font-medium tracking-wide drop-shadow-lg truncate opacity-100 md:opacity-0 ${
               showInfo ? 'md:animate-fade-in' : 'md:animate-fade-out'
             }`}
             style={{ animationDelay: showInfo ? '0.4s' : '0s' }}
@@ -621,24 +629,27 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
       {showPlayOverlay && (
         <div className="absolute inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-md animate-fade-in p-6">
           <div className="flex flex-col items-center gap-6 max-w-sm text-center">
-            
             <div className="w-16 h-16 rounded-full bg-zinc-800 flex items-center justify-center mb-2 animate-bounce">
               <Play className="w-8 h-8 text-zinc-400" fill="currentColor" />
             </div>
 
             <div className="space-y-2">
               <h3 className="text-xl font-bold text-white">
-                {language === 'pt' ? 'Reprodução Bloqueada' : 'Playback Blocked'}
+                {language === 'pt'
+                  ? 'Reprodução Bloqueada'
+                  : 'Playback Blocked'}
               </h3>
               <p className="text-sm text-zinc-400 leading-relaxed">
-                {language === 'pt' 
-                  ? 'O navegador deste aplicativo não suporta reprodução automática. Para assistir, abra no navegador.' 
-                  : 'This app\'s browser restricts autoplay. To watch, please open in your system browser.'}
+                {language === 'pt'
+                  ? 'O navegador deste aplicativo não suporta reprodução automática. Para assistir, abra no navegador.'
+                  : "This app's browser restricts autoplay. To watch, please open in your system browser."}
               </p>
             </div>
 
             <a
-              href={`${window.location.protocol}//${window.location.host}${window.location.pathname}?v=${currentVideo.embed_id || currentVideo.id}`}
+              href={`${window.location.protocol}//${window.location.host}${
+                window.location.pathname
+              }?v=${currentVideo.embed_id || currentVideo.id}`}
               target="_blank"
               rel="noopener noreferrer"
               className="w-full bg-primary hover:bg-primary/90 text-primary-foreground font-bold py-4 px-6 rounded-full transition-all duration-300 hover:scale-105 shadow-lg flex items-center justify-center gap-2 group"
@@ -646,10 +657,13 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
                 console.log('[Grooovio] User opening in external browser');
                 // Optional: try to force play just in case, but likely will fail or be ignored if navigating away
                 try {
-                   if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
-                      playerInstanceRef.current.playVideo();
-                   }
-                } catch(err) {}
+                  if (
+                    playerInstanceRef.current &&
+                    typeof playerInstanceRef.current.playVideo === 'function'
+                  ) {
+                    playerInstanceRef.current.playVideo();
+                  }
+                } catch (err) {}
               }}
             >
               <span>
@@ -657,21 +671,25 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
               </span>
               <CircleArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </a>
-            
-            <button 
+
+            <button
               onClick={() => setShowPlayOverlay(false)}
               className="text-xs text-zinc-500 hover:text-zinc-300 underline underline-offset-4 mt-2"
             >
-              {language === 'pt' ? 'Tentar reproduzir aqui mesmo' : 'Try playing here anyway'}
+              {language === 'pt'
+                ? 'Tentar reproduzir aqui mesmo'
+                : 'Try playing here anyway'}
             </button>
           </div>
         </div>
       )}
 
       {/* Next Button - Bottom Right */}
-      <div className={`absolute bottom-8 right-8 z-30 transition-opacity duration-700 ${
-        showInfo ? 'opacity-100' : 'opacity-100 md:opacity-0'
-      }`}>
+      <div
+        className={`absolute bottom-24 right-8 z-30 transition-opacity duration-700 ${
+          showInfo ? 'opacity-100' : 'opacity-100 md:opacity-0'
+        }`}
+      >
         <button
           onClick={(e) => {
             e.stopPropagation();
@@ -683,7 +701,10 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           style={{ animationDelay: showInfo ? '0.5s' : '0s' }}
           aria-label={t.nextVideo || 'Next video'}
         >
-          <CircleArrowRight className="w-12 h-12 md:w-16 md:h-16 drop-shadow-2xl" strokeWidth={1.5} />
+          <CircleArrowRight
+            className="w-12 h-12 md:w-16 md:h-16 drop-shadow-2xl"
+            strokeWidth={1.5}
+          />
         </button>
       </div>
     </div>
