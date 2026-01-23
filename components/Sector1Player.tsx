@@ -623,9 +623,39 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           <button
             onClick={(e) => {
               e.stopPropagation();
+              console.log('[Grooovio] Play overlay clicked');
+              
               if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+                // Multiple play attempts for stubborn in-app browsers
                 playerInstanceRef.current.playVideo();
-                setShowPlayOverlay(false);
+                
+                // Unmute if not muted
+                if (!isMuted) {
+                  try {
+                    playerInstanceRef.current.unMute();
+                  } catch (e) {
+                    console.warn('[Grooovio] Could not unmute');
+                  }
+                }
+                
+                // Second play attempt after unmute
+                setTimeout(() => {
+                  if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+                    playerInstanceRef.current.playVideo();
+                  }
+                }, 100);
+                
+                // Third attempt for extra stubborn browsers
+                setTimeout(() => {
+                  if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+                    playerInstanceRef.current.playVideo();
+                  }
+                }, 300);
+                
+                // Hide overlay after attempts
+                setTimeout(() => {
+                  setShowPlayOverlay(false);
+                }, 500);
               }
             }}
             className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-8 md:p-12 transition-all duration-300 hover:scale-110 shadow-2xl"
