@@ -31,22 +31,21 @@ export const InAppBrowserWarning: React.FC<InAppBrowserWarningProps> = ({
 
   return (
     <div className="fixed inset-0 z-[100] bg-black/95 backdrop-blur-xl flex flex-col items-center justify-center p-6 text-center animate-fade-in overflow-y-auto">
-      {/* Logo no lugar da seta */}
-      <div className="absolute top-4 right-4">
-        <div className="text-right">
-          <h1 className="text-2xl font-black tracking-tighter uppercase leading-none">
-            Grooov<span className="text-primary">io</span>
-          </h1>
-          <p className="text-[8px] text-muted-foreground font-mono">
-            V 1.13.14 // ARIA-COMPLIANT
-          </p>
-        </div>
+      {/* Seta animada voltou para o canto superior direito */}
+      <div className="absolute top-4 right-4 animate-bounce duration-1000">
+        <ArrowUpRight className="w-12 h-12 text-primary rotate-12 filter drop-shadow-[0_0_10px_rgba(255,255,255,0.5)]" />
       </div>
 
       <div className="max-w-md w-full space-y-6 relative my-auto">
         <div className="space-y-4">
-          <div className="w-20 h-20 bg-zinc-800 rounded-2xl mx-auto flex items-center justify-center border border-zinc-700 shadow-2xl">
-            <ExternalLink className="w-10 h-10 text-primary" />
+          {/* Logo do Grooovio no lugar do ícone ExternalLink */}
+          <div className="w-20 h-20 bg-zinc-800 rounded-2xl mx-auto flex flex-col items-center justify-center border border-zinc-700 shadow-2xl p-2">
+            <h1 className="text-lg font-black tracking-tighter uppercase leading-none text-white">
+              Grooov<span className="text-primary">io</span>
+            </h1>
+            <p className="text-[6px] text-muted-foreground font-mono mt-0.5">
+              V 1.13.15 // ARIA-COMPLIANT
+            </p>
           </div>
 
           <h2 className="text-3xl font-black text-white tracking-tight">
