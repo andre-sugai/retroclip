@@ -625,8 +625,17 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
               onClick={(e) => {
                 e.stopPropagation();
                 console.log('[Grooovio] Opening in external browser');
-                // Open current URL in external browser
-                window.open(window.location.href, '_blank');
+                
+                // Create a temporary link element to force external browser
+                const link = document.createElement('a');
+                link.href = window.location.href;
+                link.target = '_system'; // Forces external browser on mobile
+                link.rel = 'noopener noreferrer';
+                
+                // Programmatically click the link
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
               }}
               className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-8 md:p-12 transition-all duration-300 hover:scale-110 shadow-2xl"
               aria-label="Open in browser"
