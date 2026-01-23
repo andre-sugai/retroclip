@@ -52,5 +52,21 @@
     "youtube_link": "https://www.youtube.com/watch?v=K3eqRdU5_Bo",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 212845979298,
+    "song_title": "Tiny Desk Brasil",
+    "year": 2025,
+    "artist_name": "Céu",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=ZrksaLcNnFI"
+  },
+  {
+    "id": 482260168490,
+    "song_title": "João Rock",
+    "year": 2025,
+    "artist_name": "Natiruts",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Ju3Fqsv84w4"
   }
 ]

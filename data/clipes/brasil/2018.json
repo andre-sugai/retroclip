@@ -706,5 +706,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=1gTdgdJ_rMY",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_6HNx41pJw1I",
+    "song_title": "Bergamotas",
+    "year": 2018,
+    "artist_name": "Os Replicantes",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=6HNx41pJw1I",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

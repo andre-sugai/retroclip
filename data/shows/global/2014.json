@@ -22,5 +22,21 @@
     "artist_name": "Aerosmith",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=neFgnugwc14"
+  },
+  {
+    "id": 964364665828,
+    "song_title": "Slade - Full Concert - 08/04/75 - Winterland (OFFICIAL)",
+    "year": 2014,
+    "artist_name": "Slade",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=aqcpx2K2SVA"
+  },
+  {
+    "id": 827346195797,
+    "song_title": "Tool Live DVD 2014 (Full Concert)",
+    "year": 2014,
+    "artist_name": "ToolArchive",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=sRRfcBPLj8Y"
   }
 ]

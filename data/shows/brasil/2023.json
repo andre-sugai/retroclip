@@ -31,5 +31,21 @@
     "imvdb_url": null,
     "source": "YouTube",
     "is_show": true
+  },
+  {
+    "id": 129022329466,
+    "song_title": "Ao Vivo",
+    "year": 2023,
+    "artist_name": "The Originals",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=DJsiM39-gF0"
+  },
+  {
+    "id": 490124165190,
+    "song_title": "Pra todo mundo ouvir (Ao vivo)",
+    "year": 2023,
+    "artist_name": "The Originals",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=qg5a6NVlra8"
   }
 ]

@@ -1,0 +1,759 @@
+[
+  {
+    "id": 1768362020333627,
+    "song_title": "Mantenha A Dúvida E Espere Até Ouvir Falar De Nós",
+    "year": 2012,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=bLF8e-e82ys"
+  },
+  {
+    "id": 1768362020333689,
+    "song_title": "Charlie Brown Jr. ao vivo na Arena Anhembi",
+    "year": 2012,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=4boofqA08zY"
+  },
+  {
+    "id": 1768362020333701,
+    "song_title": "Céu Azul (webclipe)",
+    "year": 2012,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=LG1Qi1UbQ-8"
+  },
+  {
+    "id": 1768362020333733,
+    "song_title": "Mantenha A Duvida E Espere Ate Ouvir Falar De Nos (Deixe-Me So)",
+    "year": 2012,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Brk7D0ZRHJU"
+  },
+  {
+    "id": 1768364809987936,
+    "song_title": "Céu Azul (Ao Vivo)",
+    "year": 2012,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=DzhwydXmtH4"
+  },
+  {
+    "id": 1768364862755045,
+    "song_title": "Céu Azul",
+    "year": 2012,
+    "artist_name": "Charlie Brown Jr.",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=8Pilhg_dIQs"
+  },
+  {
+    "id": 120531185491,
+    "song_title": "Meiga e Abusada",
+    "year": 2012,
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=IBl4O2exar4",
+    "imvdb_url": "https://imvdb.com/video/anitta/meiga-e-abusada",
+    "artist": "Anitta"
+  },
+  {
+    "id": 222441657421,
+    "song_title": "Kilo",
+    "year": 2012,
+    "artist_name": "Bonde Do Role",
+    "artist_genre": "Funk",
+    "youtube_link": "https://www.youtube.com/watch?v=wPqGoeLUZ_w",
+    "imvdb_url": "https://imvdb.com/video/bonde-do-role/kilo",
+    "source": "IMVDb"
+  },
+  {
+    "id": 918173371428,
+    "song_title": "Abominável",
+    "year": 2012,
+    "artist_name": "CPM 22",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=BUC0jGPxV8M",
+    "imvdb_url": "https://imvdb.com/video/cpm-22/abominavel",
+    "source": "IMVDb"
+  },
+  {
+    "id": 128397841582,
+    "song_title": "Infinito",
+    "year": 2012,
+    "artist_name": "Fresno",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=UXLfnchfP8U",
+    "imvdb_url": "https://imvdb.com/video/fresno/infinito",
+    "source": "IMVDb"
+  },
+  {
+    "id": 126623049940,
+    "song_title": "World Scum",
+    "year": 2012,
+    "artist_name": "Soulfly",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=T_EPTbMPtdc",
+    "imvdb_url": "https://imvdb.com/video/soulfly/world-scum",
+    "source": "IMVDb"
+  },
+  {
+    "id": 217327261636,
+    "song_title": "Mi Vida Eres Tu",
+    "year": 2012,
+    "artist_name": "Vanguart",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=oSU8UYodkmQ",
+    "imvdb_url": "https://imvdb.com/video/vanguart/mi-vida-eres-tu",
+    "source": "IMVDb"
+  },
+  {
+    "id": 153333146408,
+    "song_title": "Nessa Cidade",
+    "year": 2012,
+    "artist_name": "Vanguart",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=O27WdvqaM-c",
+    "imvdb_url": "https://imvdb.com/video/vanguart/nessa-cidade",
+    "source": "IMVDb"
+  },
+  {
+    "id": "yt_Jz_hwBytqfc",
+    "song_title": "Um Por Todos",
+    "year": 2012,
+    "artist_name": "Ao Cubo Feat. GOG, MPXIII, Elly, Dexter, Don Pixote e Helião",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=Jz_hwBytqfc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_0oNhsdVZv7Y",
+    "song_title": "Ara Ketu Bom Demais",
+    "year": 2012,
+    "artist_name": "Ara Ketu e Daniela Mercury",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=0oNhsdVZv7Y",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6Rw18HoPE7s",
+    "song_title": "A Volta",
+    "year": 2012,
+    "artist_name": "Ara Ketu",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=6Rw18HoPE7s",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_jInuy-Ufy5o",
+    "song_title": "Para Navegar",
+    "year": 2012,
+    "artist_name": "Asa de guia",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=jInuy-Ufy5o",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_EcHUu99yhl0",
+    "song_title": "Lindinalva",
+    "year": 2012,
+    "artist_name": "Babado Novo",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=EcHUu99yhl0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_LndCanx_l7A",
+    "song_title": "Janaína",
+    "year": 2012,
+    "artist_name": "Biquini Cavado",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=LndCanx_l7A",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6L6-bim6qic",
+    "song_title": "Bonde da Maromba",
+    "year": 2012,
+    "artist_name": "Bonde da Stronda",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=6L6-bim6qic",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_OpuYJAkV0vc",
+    "song_title": "Olha a Minha Cara",
+    "year": 2012,
+    "artist_name": "Canto dos Malditos na Terra do Nunca",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=OpuYJAkV0vc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_XA3p39u97xs",
+    "song_title": "Sinta Vontade de Ficar",
+    "year": 2012,
+    "artist_name": "Canto dos Malditos na Terra do Nunca",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=XA3p39u97xs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_KNFhffBOyWo",
+    "song_title": "O Mundo era bem mais legal",
+    "year": 2012,
+    "artist_name": "Carbona",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=KNFhffBOyWo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_K7XT8yYaP90",
+    "song_title": "Ela Não Quis ir Comigo Pro Cinema",
+    "year": 2012,
+    "artist_name": "Carbona",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=K7XT8yYaP90",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_47g1O81wIlI",
+    "song_title": "Meu Primeiro All Star",
+    "year": 2012,
+    "artist_name": "Carbona",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=47g1O81wIlI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_rTjL9U6Sd4E",
+    "song_title": "Catedral",
+    "year": 2012,
+    "artist_name": "Zélia Duncan",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=rTjL9U6Sd4E",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_60RotmMB6tY",
+    "song_title": "Perto de Deus",
+    "year": 2012,
+    "artist_name": "Cidade Negra",
+    "artist_genre": "Reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=60RotmMB6tY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt__ITsLnbPv2I",
+    "song_title": "Não Aguento Mais (AO VIVO no Opinião)",
+    "year": 2012,
+    "artist_name": "Comunidade Nin-Jitsu",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=_ITsLnbPv2I",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_7Ma_jKI_450",
+    "song_title": "Chama os Mulekes",
+    "year": 2012,
+    "artist_name": "Cone Crew Diretoria",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=7Ma_jKI_450",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_nALAhcwg5_E",
+    "song_title": "Chefe de Quadrilha",
+    "year": 2012,
+    "artist_name": "Cone Crew Diretoria",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=nALAhcwg5_E",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_2c-ZJT6HzL0",
+    "song_title": "Alto Astral",
+    "year": 2012,
+    "artist_name": "A Cor do Som",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=2c-ZJT6HzL0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_RMFj7vd64ic",
+    "song_title": "O Dia Que Não Terminou",
+    "year": 2012,
+    "artist_name": "Detonautas Roque Clube",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=RMFj7vd64ic",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_9s3o85FqiVA",
+    "song_title": "Quando o Sol Se For",
+    "year": 2012,
+    "artist_name": "Detonautas Roque Clube",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=9s3o85FqiVA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_A_ziG9iHs1g",
+    "song_title": "Vamos Viver",
+    "year": 2012,
+    "artist_name": "Detonautas Roque Clube",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=A_ziG9iHs1g",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_8zsZ3Ql8x7o",
+    "song_title": "Outro Lugar",
+    "year": 2012,
+    "artist_name": "Detonautas Roque Clube",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=8zsZ3Ql8x7o",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_VTVyFgTKvCY",
+    "song_title": "Olhos Certos",
+    "year": 2012,
+    "artist_name": "Detonautas Roque Clube",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=VTVyFgTKvCY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_lQX3oSSh9rU",
+    "song_title": "Paranóia Satânica",
+    "year": 2012,
+    "artist_name": "DFC",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=lQX3oSSh9rU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_qjghSo8Yi2Q",
+    "song_title": "1 X 0 Eu",
+    "year": 2012,
+    "artist_name": "Dibob",
+    "artist_genre": "Pop Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=qjghSo8Yi2Q",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_c0CRwTpnKqE",
+    "song_title": "Foi Difícil",
+    "year": 2012,
+    "artist_name": "Dibob",
+    "artist_genre": "Pop Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=c0CRwTpnKqE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_oHsCriIx5wE",
+    "song_title": "Mapas Do Acaso",
+    "year": 2012,
+    "artist_name": "Engenheiros do Hawaii",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=oHsCriIx5wE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_CMiKdEpcreU",
+    "song_title": "Xote da Alegria",
+    "year": 2012,
+    "artist_name": "Falamansa",
+    "artist_genre": "Forró",
+    "youtube_link": "https://www.youtube.com/watch?v=CMiKdEpcreU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_7egIywaawa8",
+    "song_title": "Taste",
+    "year": 2012,
+    "artist_name": "Forgotten Boys",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=7egIywaawa8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Rdy_I8aPpNo",
+    "song_title": "All You See",
+    "year": 2012,
+    "artist_name": "Forgotten Boys",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Rdy_I8aPpNo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_AD0oNHAHyq4",
+    "song_title": "Vomitaram no Trem",
+    "year": 2012,
+    "artist_name": "Garotos Podres",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=AD0oNHAHyq4",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_i5-gbrPGkpY",
+    "song_title": "Esperar Você",
+    "year": 2012,
+    "artist_name": "Hevo84",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=i5-gbrPGkpY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_8tw5YT4iNJU",
+    "song_title": "Sem Querer",
+    "year": 2012,
+    "artist_name": "Homens de Marte",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=8tw5YT4iNJU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_LrJOBZ8GLRg",
+    "song_title": "Só de Passagem",
+    "year": 2012,
+    "artist_name": "Homens de Marte",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=LrJOBZ8GLRg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_cvsrrpmDQmU",
+    "song_title": "Meu Mundo",
+    "year": 2012,
+    "artist_name": "Homens de Marte",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=cvsrrpmDQmU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_bEsis9ekZQw",
+    "song_title": "Apanhador de Estrelas",
+    "year": 2012,
+    "artist_name": "Homens de Marte",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=bEsis9ekZQw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_l-i4LY5yyso",
+    "song_title": "Tipo Fiona",
+    "year": 2012,
+    "artist_name": "Inimigos da HP",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=l-i4LY5yyso",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_PcBgfuB64yA",
+    "song_title": "Na Moral",
+    "year": 2012,
+    "artist_name": "Jota Quest ft. Seu Jorge",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=PcBgfuB64yA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ieR5AacpHAc",
+    "song_title": "Sentimental",
+    "year": 2012,
+    "artist_name": "Los Hermanos",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=ieR5AacpHAc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_qr4DZcKF_hw",
+    "song_title": "Farofada Rock'n Roll",
+    "year": 2012,
+    "artist_name": "Maria do Relento",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=qr4DZcKF_hw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_3OJL5RfWw9Q",
+    "song_title": "Palavras Certas",
+    "year": 2012,
+    "artist_name": "Mediatriz",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=3OJL5RfWw9Q",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_t82AcM4KlIk",
+    "song_title": "Aquele Sonho",
+    "year": 2012,
+    "artist_name": "Mediatriz ft. Vini",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=t82AcM4KlIk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_1E9AhpsERAA",
+    "song_title": "Pedra",
+    "year": 2012,
+    "artist_name": "Mukeka di Rato",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=1E9AhpsERAA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_orJxgdTe1zU",
+    "song_title": "Minha Escolinha",
+    "year": 2012,
+    "artist_name": "Mukeka di Rato",
+    "artist_genre": "Hardcore",
+    "youtube_link": "https://www.youtube.com/watch?v=orJxgdTe1zU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_0MIwNtjTLKY",
+    "song_title": "Até o Fim",
+    "year": 2012,
+    "artist_name": "Madame Saatan",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=0MIwNtjTLKY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_oYuIZLGrmcg",
+    "song_title": "Incondicional",
+    "year": 2012,
+    "artist_name": "Oficina G3",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=oYuIZLGrmcg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ZLT9mstA0Fk",
+    "song_title": "Reza Vela",
+    "year": 2012,
+    "artist_name": "O Rappa",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ZLT9mstA0Fk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_F19PnbWigSA",
+    "song_title": "Súplica Cearense",
+    "year": 2012,
+    "artist_name": "O Rappa",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=F19PnbWigSA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_NRcL5QIYoEQ",
+    "song_title": "O Salto",
+    "year": 2012,
+    "artist_name": "O Rappa",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=NRcL5QIYoEQ",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_oJ3HKnEwNZc",
+    "song_title": "Monstro Invisível",
+    "year": 2012,
+    "artist_name": "O Rappa",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=oJ3HKnEwNZc",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_H67pBfAncSA",
+    "song_title": "Você É o Melhor Pra Mim (Ao Vivo)",
+    "year": 2012,
+    "artist_name": "Rebeldes",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=H67pBfAncSA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_zu_cj4Mig-g",
+    "song_title": "O Amor Está Em Jogo (Ao Vivo)",
+    "year": 2012,
+    "artist_name": "Rebeldes",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=zu_cj4Mig-g",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_MSSeND0NAsk",
+    "song_title": "Invisível",
+    "year": 2012,
+    "artist_name": "Rosa de Saron",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=MSSeND0NAsk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_p2rzlMcZaGY",
+    "song_title": "Máquina do Tempo",
+    "year": 2012,
+    "artist_name": "Rosa de Saron",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=p2rzlMcZaGY",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_9rLvX4V1uIo",
+    "song_title": "Lembrancas",
+    "year": 2012,
+    "artist_name": "Rosa de Saron",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=9rLvX4V1uIo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Pj7Yc6mlRFo",
+    "song_title": "O Mapa da Mina",
+    "year": 2012,
+    "artist_name": "Rumbora",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Pj7Yc6mlRFo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_bcMnybtA6n8",
+    "song_title": "Sabendo Que é Assim a Vida",
+    "year": 2012,
+    "artist_name": "Walverdes",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=bcMnybtA6n8",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_poxZ7ikx1ms",
+    "song_title": "Triste (Tom Jobim)",
+    "year": 2012,
+    "artist_name": "Zimbo Trio",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=poxZ7ikx1ms",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_7QWzShM3fbo",
+    "song_title": "Você É Linda",
+    "year": 2012,
+    "artist_name": "Caetano Veloso, Gilberto Gil, Ivete Sangalo",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=7QWzShM3fbo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Mqx8fe7v7po",
+    "song_title": "Não Enche",
+    "year": 2012,
+    "artist_name": "Caetano Veloso",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=Mqx8fe7v7po",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_rd3LEsKIjNI",
+    "song_title": "Mas Que Nada",
+    "year": 2012,
+    "artist_name": "Jorge Ben Jor",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=rd3LEsKIjNI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_fxtkVjBoDGg",
+    "song_title": "Esse Cara Sou Eu",
+    "year": 2012,
+    "artist_name": "Roberto Carlos",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=fxtkVjBoDGg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_pmOrZ5hvcoE",
+    "song_title": "Reza",
+    "year": 2012,
+    "artist_name": "Rita Lee",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=pmOrZ5hvcoE",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_TeF8W3WMycA",
+    "song_title": "Foi um Rio que passou em Minha Vida",
+    "year": 2012,
+    "artist_name": "Paulinho da Viola",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=TeF8W3WMycA",
+    "imvdb_url": null,
+    "source": "YouTube"
+  }
+]

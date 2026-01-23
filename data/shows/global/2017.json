@@ -6,5 +6,37 @@
     "artist_name": "Coldplay",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=tPUd5iqq7wA"
+  },
+  {
+    "id": 366027582264,
+    "song_title": "Bon Jovi - Rock in Rio 2017 - FULL CONCERT (1080p)",
+    "year": 2017,
+    "artist_name": "Bon Jovi",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=uRcdRlcLagA"
+  },
+  {
+    "id": 720916053128,
+    "song_title": "The National - Live at Sydney Opera House",
+    "year": 2017,
+    "artist_name": "The National",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=uWd0EWKpH94"
+  },
+  {
+    "id": 432950127492,
+    "song_title": "Nine Inch Nails - Panorama NYC Concert - 07/30/2017 [Webcast Mirror]",
+    "year": 2017,
+    "artist_name": "Nine Inch Nails",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=sSVOgQKiYQ4"
+  },
+  {
+    "id": 704543311634,
+    "song_title": "The Chemical Brothers Dont Think Live Japan 2012 HD",
+    "year": 2017,
+    "artist_name": "Music Video",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=9NXhrs_CFFM"
   }
 ]

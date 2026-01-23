@@ -58,5 +58,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=hr219MTemHE",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_KkNjYIgHkvw",
+    "song_title": "Música da Lagoa",
+    "year": 1985,
+    "artist_name": "Hermeto Pascoal",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=KkNjYIgHkvw",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

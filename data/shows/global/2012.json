@@ -6,5 +6,37 @@
     "artist_name": "The Cure",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=UEc2os_rj6c"
+  },
+  {
+    "id": 107165816185,
+    "song_title": "Bjork - Royal Opera House",
+    "year": 2012,
+    "artist_name": "Bjork",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=KWiSZk0z60U"
+  },
+  {
+    "id": 742744568991,
+    "song_title": "Rage Against The Machine - (HD)(Live)(Woodstock 1999)(Full Concert)(PRO-SHOT)",
+    "year": 2012,
+    "artist_name": "Rage Against The Machine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=dnspDgJ8tbQ"
+  },
+  {
+    "id": 717869453404,
+    "song_title": "No Doubt Live in Hamburg Full Concert (Germany 01.03.2000)",
+    "year": 2012,
+    "artist_name": "Yaroslav Alexandrovski",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=T2L3e44fVTs"
+  },
+  {
+    "id": 467772644399,
+    "song_title": "Incubus - 2012.06.30 - Rock Werchter, Belgium",
+    "year": 2012,
+    "artist_name": "Incubus",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ubhzpQTGaOY"
   }
 ]

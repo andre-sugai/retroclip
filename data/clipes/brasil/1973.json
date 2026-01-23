@@ -58,5 +58,55 @@
     "youtube_link": "https://www.youtube.com/watch?v=jLXvmH0pI0Q",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_qIGN9fDhrEU",
+    "song_title": "O Sol Nascerá (Programa Ensaio)",
+    "year": 1973,
+    "artist_name": "Cartola",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=qIGN9fDhrEU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_0_YWjMezuow",
+    "song_title": "Amor Proibido (Programa Ensaio)",
+    "year": 1973,
+    "artist_name": "Cartola",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=0_YWjMezuow",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Xd0xM7pulo0",
+    "song_title": "Bem Feito (Programa Ensaio)",
+    "year": 1973,
+    "artist_name": "Cartola",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=Xd0xM7pulo0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_3Hx7Bz6LGS0",
+    "song_title": "Preta, pretinha",
+    "year": 1973,
+    "artist_name": "Novos Baianos",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=3Hx7Bz6LGS0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_CQFXc2YQKL4",
+    "song_title": "Tive Sim (Ao Vivo)",
+    "year": 1973,
+    "artist_name": "Cartola",
+    "artist_genre": "Samba",
+    "youtube_link": "https://www.youtube.com/watch?v=CQFXc2YQKL4",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

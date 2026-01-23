@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Video } from '../types';
-import { Disc3 } from 'lucide-react';
+import { Disc3, CircleArrowRight } from 'lucide-react';
 import { translations, Language } from '../translations';
 
 declare global {
@@ -595,6 +595,25 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
             {currentVideo.artists.map((a) => a.name).join(', ')}
           </p>
         </div>
+      </div>
+
+      {/* Next Button - Bottom Right */}
+      <div className={`absolute bottom-8 right-8 z-30 transition-opacity duration-700 ${
+        showInfo ? 'opacity-100' : 'opacity-100 md:opacity-0'
+      }`}>
+        <button
+          onClick={(e) => {
+            e.stopPropagation();
+            onEnded();
+          }}
+          className={`pointer-events-auto text-white transition-all duration-300 hover:scale-110 opacity-100 md:opacity-0 ${
+            showInfo ? 'md:animate-fade-in' : 'md:animate-fade-out'
+          }`}
+          style={{ animationDelay: showInfo ? '0.5s' : '0s' }}
+          aria-label={t.nextVideo || 'Next video'}
+        >
+          <CircleArrowRight className="w-12 h-12 md:w-16 md:h-16 drop-shadow-2xl" strokeWidth={1.5} />
+        </button>
       </div>
     </div>
   );

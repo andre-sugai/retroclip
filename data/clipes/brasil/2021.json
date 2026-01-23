@@ -8,7 +8,6 @@
     "imvdb_url": "https://imvdb.com/video/pabllo-vittar/triste-com-t",
     "artist": "Pabllo Vittar"
   },
-
   {
     "id": "yt_3ZnBpxR2dQs",
     "song_title": "Ando Negro",
@@ -174,49 +173,37 @@
   },
   {
     "id": "yt_EOuuaOxlmFI",
-    "song_title": "OS PATA DE ELEFANTE - A MANADA ft. ZOIO 3D, PRETA BEA, SUPER BIRO, FLA NEVES E DJ NANDEZ [BOOM BAP]",
+    "song_title": "A Manada",
     "year": 2021,
-    "artist_name": "Pata de Elefante",
-    "artist_genre": "Rock",
+    "artist_name": "Os Pata de Elefante ft. Zoio 3D, Preta Bea, Super Biro, Fla Neves e DJ Nandez",
+    "artist_genre": "Rap",
     "youtube_link": "https://www.youtube.com/watch?v=EOuuaOxlmFI",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_2ffZMMl52c4",
-    "song_title": "Os Pata de Elefante - Mantendo o Peso Ft. D-DOg Mc (ClipOficial)",
+    "song_title": "Mantendo o Peso",
     "year": 2021,
-    "artist_name": "Pata de Elefante",
-    "artist_genre": "Rock",
+    "artist_name": "Os Pata de Elefante ft. D-DOg Mc",
+    "artist_genre": "Rap",
     "youtube_link": "https://www.youtube.com/watch?v=2ffZMMl52c4",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_PAvPfPtlLuM",
-    "song_title": "PHOLHAS - MY MISTAKE - Legendado",
-    "year": 2021,
-    "artist_name": "Pholhas",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=PAvPfPtlLuM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_EgsBzmqTYs0",
-    "song_title": "Helio Santisteban (PHOLHAS) - She made me cry",
+    "song_title": "She made me cry",
     "year": 2021,
-    "artist_name": "Pholhas",
+    "artist_name": "Helio Santisteban (PHOLHAS)",
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=EgsBzmqTYs0",
     "imvdb_url": null,
     "source": "YouTube"
   },
-
-
   {
     "id": "yt_SPmd4TwRM4g",
-    "song_title": "Rebelde (Video Oficial)",
+    "song_title": "Rebelde",
     "year": 2021,
     "artist_name": "Rebeldes",
     "artist_genre": "Pop",
@@ -225,33 +212,8 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_6HNx41pJw1I",
-    "song_title": "Os Replicantes | Bergamotas | Videoclipe Oficial",
-    "year": 2021,
-    "artist_name": "Os Replicantes",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=6HNx41pJw1I",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-
-  {
-    "id": "yt_Txhq-9g1v9A",
-    "song_title": "Tchê Garotos -  Pimentinha - DVD Ao Vivo e Bem Vivo",
-    "year": 2021,
-    "artist_name": "Tch Garotos",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Txhq-9g1v9A",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-
-
-
-
-  {
     "id": "yt_RSbCDINX9N8",
-    "song_title": "WRY - Where I Stand (Official Video)",
+    "song_title": "Where I Stand",
     "year": 2021,
     "artist_name": "Wry",
     "artist_genre": "Indie",
@@ -259,20 +221,19 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-
   {
     "id": "yt_22gCVzU9WUY",
-    "song_title": "Caetano Veloso - Anjos Tronchos (Clipe Oficial)",
+    "song_title": "Anjos Tronchos",
     "year": 2021,
     "artist_name": "Caetano Veloso",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "MPB",
     "youtube_link": "https://www.youtube.com/watch?v=22gCVzU9WUY",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
     "id": "yt_nWmJvqc_0BA",
-    "song_title": "Como é Grande o Meu Amor por Você - Elas Cantam Roberto Carlos (Ao Vivo)",
+    "song_title": "Como é Grande o Meu Amor por Você (Ao Vivo)",
     "year": 2021,
     "artist_name": "Roberto Carlos",
     "artist_genre": "MPB",
@@ -281,52 +242,12 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_CQFXc2YQKL4",
-    "song_title": "Cartola - Tive Sim",
-    "year": 2021,
-    "artist_name": "Cartola",
-    "artist_genre": "Samba",
-    "youtube_link": "https://www.youtube.com/watch?v=CQFXc2YQKL4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_CcCtKg6IYDY",
-    "song_title": "Emicida - São Pixinguinha | A COLORS SHOW",
-    "year": 2021,
-    "artist_name": "Pixinguinha",
-    "artist_genre": "Choro",
-    "youtube_link": "https://www.youtube.com/watch?v=CcCtKg6IYDY",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_5Z0IEmi56zE",
-    "song_title": "Marisa Monte e Paulinho da Viola - Carinhoso (Pixinguinha)",
-    "year": 2021,
-    "artist_name": "Pixinguinha",
-    "artist_genre": "Choro",
-    "youtube_link": "https://www.youtube.com/watch?v=5Z0IEmi56zE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_0K8N_2FVoNQ",
     "song_title": "São Pixinguinha - A COLORS SHOW",
     "year": 2021,
-    "artist_name": "Pixinguinha",
-    "artist_genre": "Choro",
-    "youtube_link": "https://www.youtube.com/watch?v=0K8N_2FVoNQ",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_KkNjYIgHkvw",
-    "song_title": "Hermeto Pascoal 🇧🇷 Música da Lagoa (1985) HQ 1080p",
-    "year": 2021,
-    "artist_name": "Hermeto Pascoal",
-    "artist_genre": "Jazz",
-    "youtube_link": "https://www.youtube.com/watch?v=KkNjYIgHkvw",
+    "artist_name": "Emicida",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=CcCtKg6IYDY",
     "imvdb_url": null,
     "source": "YouTube"
   }

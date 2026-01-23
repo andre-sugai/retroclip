@@ -57,7 +57,7 @@
   },
   {
     "id": 1768364843015898,
-    "song_title": "A Banca (Ratata É Bicho Solto)",
+    "song_title": "A Banca (Ratata É Bicho Solto",
     "year": 2003,
     "artist_name": "Charlie Brown Jr.",
     "artist_genre": "Live",
@@ -118,5 +118,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=eyt4taffUYI",
     "imvdb_url": "https://imvdb.com/video/velhas-virgens/se-deus-nao-quisesse",
     "source": "IMVDb"
+  },
+  {
+    "id": "yt_5Z0IEmi56zE",
+    "song_title": "Carinhoso (Pixinguinha)",
+    "year": 2003,
+    "artist_name": "Marisa Monte e Paulinho da Viola",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=5Z0IEmi56zE",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

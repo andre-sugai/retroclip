@@ -22,5 +22,37 @@
     "artist_name": "Live",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=9gIBXq93hjA"
+  },
+  {
+    "id": 243899765247,
+    "song_title": "Whitesnake - Made in Japan Full Concert [Blu-ray * 1080p Premium HD]",
+    "year": 2023,
+    "artist_name": "Whitesnake",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=DpanX6BFdgQ"
+  },
+  {
+    "id": 814692427735,
+    "song_title": "Marisa Monte | Filme Portas Ao Vivo (completo)",
+    "year": 2023,
+    "artist_name": "MARISAMONTE",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=xWHGbsqUuys"
+  },
+  {
+    "id": 646849328912,
+    "song_title": "Vitor Kley  - A Bolha Ao Vivo em São Paulo (Show Completo)",
+    "year": 2023,
+    "artist_name": "Vitor Kley",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=UBJEA5eSIG4"
+  },
+  {
+    "id": 672025984673,
+    "song_title": "Twenty One Pilots Live at Lollapalooza Brasil 2016 - Full Concert",
+    "year": 2023,
+    "artist_name": "Twenty One Pilots Live at Lollapalooza Brasil 2016",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=iWDn5inx-sQ"
   }
 ]

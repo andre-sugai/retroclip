@@ -6,5 +6,13 @@
     "artist_name": "John Fogerty",
     "artist_genre": "Rock",
     "youtube_link": "https://youtu.be/H4uzympZPx0?si=qhr57x8Dwsthg3t6"
+  },
+  {
+    "id": 423315394819,
+    "song_title": "Beastie Boys - Awesome....I Shot That! Live at Madison Square Garden 9th October 2004",
+    "year": 2026,
+    "artist_name": "Beastie Boys",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=pKLjNcaasUA"
   }
 ]

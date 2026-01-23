@@ -67,5 +67,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=oiwG5_utFKM",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_GaYrgeI5VZo",
+    "song_title": "Armadilha",
+    "year": 1987,
+    "artist_name": "Finis Africae",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=GaYrgeI5VZo",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

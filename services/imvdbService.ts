@@ -1,47 +1,44 @@
 import { Video } from '../types';
 
-// Provided Database for 1994 (Validated Subset)
-// Provided Database for 1994 (Validated Subset)
-// Provided Database for 1994 (Validated Subset)
-// Provided Database for 1994 (Validated Subset)
-import data1999 from '../data/clipes/global/1999.json';
-import data1998 from '../data/clipes/global/1998.json';
-import data1997 from '../data/clipes/global/1997.json';
-import data1996 from '../data/clipes/global/1996.json';
-import data1995 from '../data/clipes/global/1995.json';
-import data1994 from '../data/clipes/global/1994.json';
-import data1993 from '../data/clipes/global/1993.json';
-import data1992 from '../data/clipes/global/1992.json';
-import data1991 from '../data/clipes/global/1991.json';
-import data1990 from '../data/clipes/global/1990.json';
-import data1989 from '../data/clipes/global/1989.json';
-import data1988 from '../data/clipes/global/1988.json';
-import data1987 from '../data/clipes/global/1987.json';
-import data1986 from '../data/clipes/global/1986.json';
-import data1985 from '../data/clipes/global/1985.json';
-import data1984 from '../data/clipes/global/1984.json';
-import data1983 from '../data/clipes/global/1983.json';
-import data1982 from '../data/clipes/global/1982.json';
-import data1981 from '../data/clipes/global/1981.json';
-import data1980 from '../data/clipes/global/1980.json';
+// Global Clips Imports
+import data1960 from '../data/clipes/global/1960.json';
+import data1963 from '../data/clipes/global/1963.json';
+import data1964 from '../data/clipes/global/1964.json';
+import data1965 from '../data/clipes/global/1965.json';
+import data1966 from '../data/clipes/global/1966.json';
+import data1967 from '../data/clipes/global/1967.json';
+import data1968 from '../data/clipes/global/1968.json';
+import data1969 from '../data/clipes/global/1969.json';
+import data1970 from '../data/clipes/global/1970.json';
+import data1971 from '../data/clipes/global/1971.json';
+import data1972 from '../data/clipes/global/1972.json';
+import data1973 from '../data/clipes/global/1973.json';
+import data1974 from '../data/clipes/global/1974.json';
+import data1975 from '../data/clipes/global/1975.json';
+import data1976 from '../data/clipes/global/1976.json';
+import data1977 from '../data/clipes/global/1977.json';
 import data1978 from '../data/clipes/global/1978.json';
 import data1979 from '../data/clipes/global/1979.json';
-import data1977 from '../data/clipes/global/1977.json';
-import data1976 from '../data/clipes/global/1976.json';
-import data1975 from '../data/clipes/global/1975.json';
-import data1974 from '../data/clipes/global/1974.json';
-import data1973 from '../data/clipes/global/1973.json';
-import data1972 from '../data/clipes/global/1972.json';
-import data1971 from '../data/clipes/global/1971.json';
-import data1970 from '../data/clipes/global/1970.json';
-import data1969 from '../data/clipes/global/1969.json';
-import data1968 from '../data/clipes/global/1968.json';
-import data1967 from '../data/clipes/global/1967.json';
-import data1966 from '../data/clipes/global/1966.json';
-import data1965 from '../data/clipes/global/1965.json';
-import data1964 from '../data/clipes/global/1964.json';
-import data1963 from '../data/clipes/global/1963.json';
-import data1960 from '../data/clipes/global/1960.json';
+import data1980 from '../data/clipes/global/1980.json';
+import data1981 from '../data/clipes/global/1981.json';
+import data1982 from '../data/clipes/global/1982.json';
+import data1983 from '../data/clipes/global/1983.json';
+import data1984 from '../data/clipes/global/1984.json';
+import data1985 from '../data/clipes/global/1985.json';
+import data1986 from '../data/clipes/global/1986.json';
+import data1987 from '../data/clipes/global/1987.json';
+import data1988 from '../data/clipes/global/1988.json';
+import data1989 from '../data/clipes/global/1989.json';
+import data1990 from '../data/clipes/global/1990.json';
+import data1991 from '../data/clipes/global/1991.json';
+import data1992 from '../data/clipes/global/1992.json';
+import data1993 from '../data/clipes/global/1993.json';
+import data1994 from '../data/clipes/global/1994.json';
+import data1995 from '../data/clipes/global/1995.json';
+import data1996 from '../data/clipes/global/1996.json';
+import data1997 from '../data/clipes/global/1997.json';
+import data1998 from '../data/clipes/global/1998.json';
+import data1999 from '../data/clipes/global/1999.json';
 import data2000 from '../data/clipes/global/2000.json';
 import data2001 from '../data/clipes/global/2001.json';
 import data2002 from '../data/clipes/global/2002.json';
@@ -52,88 +49,88 @@ import data2006 from '../data/clipes/global/2006.json';
 import data2007 from '../data/clipes/global/2007.json';
 import data2008 from '../data/clipes/global/2008.json';
 import data2009 from '../data/clipes/global/2009.json';
+import data2010 from '../data/clipes/global/2010.json';
+import data2011 from '../data/clipes/global/2011.json';
+import data2012 from '../data/clipes/global/2012.json';
+import data2013 from '../data/clipes/global/2013.json';
+import data2014 from '../data/clipes/global/2014.json';
 import data2015 from '../data/clipes/global/2015.json';
+import data2016 from '../data/clipes/global/2016.json';
+import data2017 from '../data/clipes/global/2017.json';
+import data2018 from '../data/clipes/global/2018.json';
+import data2019 from '../data/clipes/global/2019.json';
 import data2020 from '../data/clipes/global/2020.json';
 import data2021 from '../data/clipes/global/2021.json';
 import data2022 from '../data/clipes/global/2022.json';
 import data2023 from '../data/clipes/global/2023.json';
 import data2024 from '../data/clipes/global/2024.json';
 import data2025 from '../data/clipes/global/2025.json';
-import data2010 from '../data/clipes/global/2010.json';
-import data2011 from '../data/clipes/global/2011.json';
-import data2012 from '../data/clipes/global/2012.json';
-import data2013 from '../data/clipes/global/2013.json';
-import data2014 from '../data/clipes/global/2014.json';
-import data2016 from '../data/clipes/global/2016.json';
-import data2017 from '../data/clipes/global/2017.json';
-import data2018 from '../data/clipes/global/2018.json';
-import data2019 from '../data/clipes/global/2019.json';
 
 // BR Data Imports
-import data1929BR from '../data/clipes/brasil/1929-BR.json';
-import data1936BR from '../data/clipes/brasil/1936-BR.json';
-import data1949BR from '../data/clipes/brasil/1949-BR.json';
-import data1950BR from '../data/clipes/brasil/1950-BR.json';
-import data1959BR from '../data/clipes/brasil/1959-BR.json';
-import data1960BR from '../data/clipes/brasil/1960-BR.json';
-import data1962BR from '../data/clipes/brasil/1962-BR.json';
-import data1963BR from '../data/clipes/brasil/1963-BR.json';
-import data1966BR from '../data/clipes/brasil/1966-BR.json';
-import data1967BR from '../data/clipes/brasil/1967-BR.json';
-import data1969BR from '../data/clipes/brasil/1969-BR.json';
-import data1970BR from '../data/clipes/brasil/1970-BR.json';
-import data1972BR from '../data/clipes/brasil/1972-BR.json';
-import data1973BR from '../data/clipes/brasil/1973-BR.json';
-import data1974BR from '../data/clipes/brasil/1974-BR.json';
-import data1975BR from '../data/clipes/brasil/1975-BR.json';
-import data1976BR from '../data/clipes/brasil/1976-BR.json';
-import data1977BR from '../data/clipes/brasil/1977-BR.json';
-import data1978BR from '../data/clipes/brasil/1978-BR.json';
-import data1979BR from '../data/clipes/brasil/1979-BR.json';
-import data1980BR from '../data/clipes/brasil/1980-BR.json';
-import data1983BR from '../data/clipes/brasil/1983-BR.json';
-import data1984BR from '../data/clipes/brasil/1984-BR.json';
-import data1985BR from '../data/clipes/brasil/1985-BR.json';
-import data1986BR from '../data/clipes/brasil/1986-BR.json';
-import data1987BR from '../data/clipes/brasil/1987-BR.json';
-import data1988BR from '../data/clipes/brasil/1988-BR.json';
-import data1989BR from '../data/clipes/brasil/1989-BR.json';
-import data1990BR from '../data/clipes/brasil/1990-BR.json';
-import data1991BR from '../data/clipes/brasil/1991-BR.json';
-import data1992BR from '../data/clipes/brasil/1992-BR.json';
-import data1993BR from '../data/clipes/brasil/1993-BR.json';
-import data1994BR from '../data/clipes/brasil/1994-BR.json';
-import data1995BR from '../data/clipes/brasil/1995-BR.json';
-import data1996BR from '../data/clipes/brasil/1996-BR.json';
-import data1997BR from '../data/clipes/brasil/1997-BR.json';
-import data1999BR from '../data/clipes/brasil/1999-BR.json';
-import data2000BR from '../data/clipes/brasil/2000-BR.json';
-import data2001BR from '../data/clipes/brasil/2001-BR.json';
-import data2002BR from '../data/clipes/brasil/2002-BR.json';
-import data2003BR from '../data/clipes/brasil/2003-BR.json';
-import data2004BR from '../data/clipes/brasil/2004-BR.json';
-import data2005BR from '../data/clipes/brasil/2005-BR.json';
-import data2006BR from '../data/clipes/brasil/2006-BR.json';
-import data2007BR from '../data/clipes/brasil/2007-BR.json';
-import data2008BR from '../data/clipes/brasil/2008-BR.json';
-import data2009BR from '../data/clipes/brasil/2009-BR.json';
-import data2010BR from '../data/clipes/brasil/2010-BR.json';
-import data2011BR from '../data/clipes/brasil/2011-BR.json';
-import data2012BR from '../data/clipes/brasil/2012-BR.json';
-import data2013BR from '../data/clipes/brasil/2013-BR.json';
-import data2014BR from '../data/clipes/brasil/2014-BR.json';
-import data2015BR from '../data/clipes/brasil/2015-BR.json';
-import data2016BR from '../data/clipes/brasil/2016-BR.json';
-import data2017BR from '../data/clipes/brasil/2017-BR.json';
-import data2018BR from '../data/clipes/brasil/2018-BR.json';
-import data2019BR from '../data/clipes/brasil/2019-BR.json';
-import data2020BR from '../data/clipes/brasil/2020-BR.json';
-import data2021BR from '../data/clipes/brasil/2021-BR.json';
-import data2022BR from '../data/clipes/brasil/2022-BR.json';
-import data2023BR from '../data/clipes/brasil/2023-BR.json';
-import data2024BR from '../data/clipes/brasil/2024-BR.json';
-import data2025BR from '../data/clipes/brasil/2025-BR.json';
-import data2026BR from '../data/clipes/brasil/2026-BR.json';
+import data1929BR from '../data/clipes/brasil/1929.json';
+import data1936BR from '../data/clipes/brasil/1936.json';
+import data1949BR from '../data/clipes/brasil/1949.json';
+import data1950BR from '../data/clipes/brasil/1950.json';
+import data1959BR from '../data/clipes/brasil/1959.json';
+import data1960BR from '../data/clipes/brasil/1960.json';
+import data1962BR from '../data/clipes/brasil/1962.json';
+import data1963BR from '../data/clipes/brasil/1963.json';
+import data1966BR from '../data/clipes/brasil/1966.json';
+import data1967BR from '../data/clipes/brasil/1967.json';
+import data1969BR from '../data/clipes/brasil/1969.json';
+import data1970BR from '../data/clipes/brasil/1970.json';
+import data1972BR from '../data/clipes/brasil/1972.json';
+import data1973BR from '../data/clipes/brasil/1973.json';
+import data1974BR from '../data/clipes/brasil/1974.json';
+import data1975BR from '../data/clipes/brasil/1975.json';
+import data1976BR from '../data/clipes/brasil/1976.json';
+import data1977BR from '../data/clipes/brasil/1977.json';
+import data1978BR from '../data/clipes/brasil/1978.json';
+import data1979BR from '../data/clipes/brasil/1979.json';
+import data1980BR from '../data/clipes/brasil/1980.json';
+import data1983BR from '../data/clipes/brasil/1983.json';
+import data1984BR from '../data/clipes/brasil/1984.json';
+import data1985BR from '../data/clipes/brasil/1985.json';
+import data1986BR from '../data/clipes/brasil/1986.json';
+import data1987BR from '../data/clipes/brasil/1987.json';
+import data1988BR from '../data/clipes/brasil/1988.json';
+import data1989BR from '../data/clipes/brasil/1989.json';
+import data1990BR from '../data/clipes/brasil/1990.json';
+import data1991BR from '../data/clipes/brasil/1991.json';
+import data1992BR from '../data/clipes/brasil/1992.json';
+import data1993BR from '../data/clipes/brasil/1993.json';
+import data1994BR from '../data/clipes/brasil/1994.json';
+import data1995BR from '../data/clipes/brasil/1995.json';
+import data1996BR from '../data/clipes/brasil/1996.json';
+import data1997BR from '../data/clipes/brasil/1997.json';
+import data1999BR from '../data/clipes/brasil/1999.json';
+import data2000BR from '../data/clipes/brasil/2000.json';
+import data2001BR from '../data/clipes/brasil/2001.json';
+import data2002BR from '../data/clipes/brasil/2002.json';
+import data2003BR from '../data/clipes/brasil/2003.json';
+import data2004BR from '../data/clipes/brasil/2004.json';
+import data2005BR from '../data/clipes/brasil/2005.json';
+import data2006BR from '../data/clipes/brasil/2006.json';
+import data2007BR from '../data/clipes/brasil/2007.json';
+import data2008BR from '../data/clipes/brasil/2008.json';
+import data2009BR from '../data/clipes/brasil/2009.json';
+import data2010BR from '../data/clipes/brasil/2010.json';
+import data2011BR from '../data/clipes/brasil/2011.json';
+import data2012BR from '../data/clipes/brasil/2012.json';
+import data2013BR from '../data/clipes/brasil/2013.json';
+import data2014BR from '../data/clipes/brasil/2014.json';
+import data2015BR from '../data/clipes/brasil/2015.json';
+import data2016BR from '../data/clipes/brasil/2016.json';
+import data2017BR from '../data/clipes/brasil/2017.json';
+import data2018BR from '../data/clipes/brasil/2018.json';
+import data2019BR from '../data/clipes/brasil/2019.json';
+import data2020BR from '../data/clipes/brasil/2020.json';
+import data2021BR from '../data/clipes/brasil/2021.json';
+import data2022BR from '../data/clipes/brasil/2022.json';
+import data2023BR from '../data/clipes/brasil/2023.json';
+import data2024BR from '../data/clipes/brasil/2024.json';
+import data2025BR from '../data/clipes/brasil/2025.json';
+import data2026BR from '../data/clipes/brasil/2026.json';
 
 // Programs Imports
 import hermesRenatoData from '../data/programas/hermes_e_renato.json';
@@ -154,21 +151,32 @@ import show1991 from '../data/shows/global/1991.json';
 import show1992 from '../data/shows/global/1992.json';
 import show1993 from '../data/shows/global/1993.json';
 import show1994 from '../data/shows/global/1994.json';
+import show1996 from '../data/shows/global/1996.json';
 import show1997 from '../data/shows/global/1997.json';
 import show1999 from '../data/shows/global/1999.json';
+import show2001 from '../data/shows/global/2001.json';
 import show2002 from '../data/shows/global/2002.json';
 import show2003 from '../data/shows/global/2003.json';
 import show2007 from '../data/shows/global/2007.json';
 import show2008 from '../data/shows/global/2008.json';
 import show2009 from '../data/shows/global/2009.json';
+import show2010 from '../data/shows/global/2010.json';
 import show2011 from '../data/shows/global/2011.json';
 import show2012 from '../data/shows/global/2012.json';
+import show2013 from '../data/shows/global/2013.json';
 import show2014 from '../data/shows/global/2014.json';
 import show2015 from '../data/shows/global/2015.json';
+import show2016 from '../data/shows/global/2016.json';
 import show2017 from '../data/shows/global/2017.json';
+import show2018 from '../data/shows/global/2018.json';
+import show2019 from '../data/shows/global/2019.json';
+import show2020 from '../data/shows/global/2020.json';
 import show2021 from '../data/shows/global/2021.json';
+import show2022 from '../data/shows/global/2022.json';
 import show2023 from '../data/shows/global/2023.json';
+import show2024 from '../data/shows/global/2024.json';
 import show2025 from '../data/shows/global/2025.json';
+import show2026 from '../data/shows/global/2026.json';
 
 const SHOWS_GLOBAL = [
   ...show1979,
@@ -177,21 +185,32 @@ const SHOWS_GLOBAL = [
   ...show1992,
   ...show1993,
   ...show1994,
+  ...show1996,
   ...show1997,
   ...show1999,
+  ...show2001,
   ...show2002,
   ...show2003,
   ...show2007,
   ...show2008,
   ...show2009,
+  ...show2010,
   ...show2011,
   ...show2012,
+  ...show2013,
   ...show2014,
   ...show2015,
+  ...show2016,
   ...show2017,
+  ...show2018,
+  ...show2019,
+  ...show2020,
   ...show2021,
+  ...show2022,
   ...show2023,
+  ...show2024,
   ...show2025,
+  ...show2026,
 ].map((item) => ({ ...item, is_show: true }));
 
 // Brazil Shows Imports
@@ -203,6 +222,7 @@ import show1992BR from '../data/shows/brasil/1992.json';
 import show1997BR from '../data/shows/brasil/1997.json';
 import show2004BR from '../data/shows/brasil/2004.json';
 import show2005BR from '../data/shows/brasil/2005.json';
+import show2006BR from '../data/shows/brasil/2006.json';
 import show2007BR from '../data/shows/brasil/2007.json';
 import show2009BR from '../data/shows/brasil/2009.json';
 import show2011BR from '../data/shows/brasil/2011.json';
@@ -230,6 +250,7 @@ const SHOWS_BRASIL = [
   ...show1997BR,
   ...show2004BR,
   ...show2005BR,
+  ...show2006BR,
   ...show2007BR,
   ...show2009BR,
   ...show2011BR,
@@ -250,34 +271,34 @@ const SHOWS_BRASIL = [
 ].map((item) => ({ ...item, is_show: true }));
 
 const INTL_DATA = [
+  ...data1960,
+  ...data1963,
+  ...data1964,
+  ...data1965,
+  ...data1966,
+  ...data1967,
+  ...data1968,
+  ...data1969,
+  ...data1970,
+  ...data1971,
+  ...data1972,
+  ...data1973,
+  ...data1974,
+  ...data1975,
+  ...data1976,
+  ...data1977,
+  ...data1978,
+  ...data1979,
+  ...data1980,
+  ...data1981,
+  ...data1982,
+  ...data1983,
+  ...data1984,
+  ...data1985,
+  ...data1986,
+  ...data1987,
   ...data1988,
   ...data1989,
-  ...data1987,
-  ...data1986,
-  ...data1985,
-  ...data1984,
-  ...data1983,
-  ...data1982,
-  ...data1981,
-  ...data1980,
-  ...data1979,
-  ...data1978,
-  ...data1977,
-  ...data1976,
-  ...data1975,
-  ...data1974,
-  ...data1973,
-  ...data1972,
-  ...data1971,
-  ...data1970,
-  ...data1969,
-  ...data1968,
-  ...data1967,
-  ...data1966,
-  ...data1965,
-  ...data1964,
-  ...data1963,
-  ...data1960,
   ...data1990,
   ...data1991,
   ...data1992,
@@ -451,12 +472,12 @@ export const fetchVideosByCriteria = async (
 
   if (type === 'year') {
     const year = parseInt(value);
-    filtered = sourceData.filter((v) => v.year === year);
+    filtered = sourceData.filter((v: any) => v.year === year);
   } else if (type === 'decade') {
     const startYear = parseInt(value);
     const endYear = startYear + 9;
     filtered = sourceData.filter(
-      (v) => v.year >= startYear && v.year <= endYear
+      (v: any) => v.year >= startYear && v.year <= endYear
     );
   } else if (type === 'all') {
     // No filtering needed, use all data
@@ -745,9 +766,9 @@ export const getCollectionHighlights = () => {
   return {
     oldest: oldest
       ? {
-          title: oldest.song_title,
-          artist: oldest.artist || oldest.artist_name,
-          year: oldest.year,
+          title: (oldest as any).song_title,
+          artist: (oldest as any).artist || (oldest as any).artist_name,
+          year: (oldest as any).year,
         }
       : null,
     goldenYear,

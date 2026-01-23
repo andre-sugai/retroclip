@@ -20,5 +20,13 @@
     "imvdb_url": null,
     "source": "YouTube",
     "is_show": true
+  },
+  {
+    "id": 415598909779,
+    "song_title": "Rádio Pirata Ao Vivo 35 anos",
+    "year": 2022,
+    "artist_name": "Paulo Ricardo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=D-LiTwOjE30"
   }
 ]

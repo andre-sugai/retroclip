@@ -14,5 +14,21 @@
     "artist_name": "Alice in Chains",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=eDEtFIyKit0"
+  },
+  {
+    "id": 861202885495,
+    "song_title": "KISS Live at Madison Square Garden 1996 (Full Concert)",
+    "year": 2021,
+    "artist_name": "Luis Garcia",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=mGarleVlICU"
+  },
+  {
+    "id": 569615193649,
+    "song_title": "The Cure - In Orange (4K Remastered)",
+    "year": 2021,
+    "artist_name": "The Cure",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=SXvEVl9MFB4"
   }
 ]

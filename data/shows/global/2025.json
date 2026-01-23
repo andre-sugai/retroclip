@@ -46,5 +46,117 @@
     "artist_name": "Jamiroquai",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watc"
+  },
+  {
+    "id": 502420214135,
+    "song_title": "Gorillaz Live (YouTube Music Nights)",
+    "year": 2025,
+    "artist_name": "Gorillaz",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=WIjcU9CZgbM"
+  },
+  {
+    "id": 914790892977,
+    "song_title": "Queen: Live at Wembley Stadium | Full Concert",
+    "year": 2025,
+    "artist_name": "Front Row Music",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=poiwqYcFqYY"
+  },
+  {
+    "id": 382762178713,
+    "song_title": "Deep Purple: Come Hell Or High Water | Full Concert",
+    "year": 2025,
+    "artist_name": "Front Row Music",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=WkCU6ECtchQ"
+  },
+  {
+    "id": 890959566728,
+    "song_title": "The Prodigy - Full Concert [HD] | Live at Pinkpop 2005",
+    "year": 2025,
+    "artist_name": "The Prodigy",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=un_O5WrZDNc"
+  },
+  {
+    "id": 120706675693,
+    "song_title": "Lynyrd Skynyrd - Live From The Florida Theater 2015 (FULL CONCERT HD)",
+    "year": 2025,
+    "artist_name": "Lynyrd Skynyrd",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=QyasDmQVKro"
+  },
+  {
+    "id": 256411904693,
+    "song_title": "Judas Priest: Epitaph | Full Concert",
+    "year": 2025,
+    "artist_name": "Front Row Music",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=V22SXB-_N6E"
+  },
+  {
+    "id": 122459324468,
+    "song_title": "Linkin Park - Full Concert [HD] | Live at Pinkpop 2012",
+    "year": 2025,
+    "artist_name": "Linkin Park",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=vXsFpdYAV9c"
+  },
+  {
+    "id": 174404435681,
+    "song_title": "The Offspring - Full Concert [HD] | Live at Pinkpop 2001",
+    "year": 2025,
+    "artist_name": "The Offspring",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=gye0_8VzSgM"
+  },
+  {
+    "id": 600466419665,
+    "song_title": "𝐏𝐢𝐧𝐤 𝐅𝐥𝐨𝐲𝐝 - 𝐋𝐢𝐯𝐞 𝐀𝐭 𝐏𝐨𝐦𝐩𝐞𝐢𝐢 - 𝟒𝐊 𝐑𝐞𝐦𝐚𝐬𝐭𝐞𝐫𝐞𝐝 𝐅𝐮𝐥𝐥 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝟏𝟗𝟕𝟐",
+    "year": 2025,
+    "artist_name": "𝐏𝐢𝐧𝐤 𝐅𝐥𝐨𝐲𝐝",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=c6szdhj2fMY"
+  },
+  {
+    "id": 788064099366,
+    "song_title": "The Doobie Brothers - Rockin' Down The Highway: The Wildlife Concert | Full Concert",
+    "year": 2025,
+    "artist_name": "The Doobie Brothers",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=4aU8JLColJM"
+  },
+  {
+    "id": 338443444985,
+    "song_title": "Underworld | Boiler Room: London",
+    "year": 2025,
+    "artist_name": "Boiler Room",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=rAOHJqJMYDA"
+  },
+  {
+    "id": 334960559747,
+    "song_title": "The Pretenders - With Friends 2006 FULL HD CONCERT",
+    "year": 2025,
+    "artist_name": "The Pretenders",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=hArV-M7ErEY"
+  },
+  {
+    "id": 537514513352,
+    "song_title": "Kings of Leon: Live at the O2 London, England | Full Concert",
+    "year": 2025,
+    "artist_name": "Front Row Music",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Brv_dh8Qt5U"
+  },
+  {
+    "id": 825770794023,
+    "song_title": "Biohazard - Full Concert [HD] | Live at Pinkpop 1995",
+    "year": 2025,
+    "artist_name": "Biohazard",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=qWnLeNfGVPo"
   }
 ]
