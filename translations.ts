@@ -12,24 +12,50 @@ export const translations = {
     },
     welcome: {
       title: 'Bem-vindx!',
-      subtitle: 'MTV morreu, mas o Grooovio vive. Milhares de clipes, sem comerciais.',
+      subtitle:
+        'MTV morreu, mas o Grooovio vive. Milhares de clipes, sem comerciais.',
       feature1Title: 'Viagem no Tempo',
-      feature1Desc: 'Escolha um ano específico ou uma década inteira para explorar.',
+      feature1Desc:
+        'Escolha um ano específico ou uma década inteira para explorar.',
       feature2Title: 'Modo Aleatório',
-      feature2Desc: 'Selecione "Tudo" para reproduzir clipes de todas as épocas em ordem aleatória.',
+      feature2Desc:
+        'Selecione "Tudo" para reproduzir clipes de todas as épocas em ordem aleatória.',
       feature3Title: 'Filtro por Gênero',
-      feature3Desc: 'Refine sua experiência filtrando por gêneros musicais como Rock, Pop, Rap e mais.',
+      feature3Desc:
+        'Refine sua experiência filtrando por gêneros musicais como Rock, Pop, Rap e mais.',
       featureFreeTitle: '100% Gratuito',
-      featureFreeDesc: 'Explore um acervo com mais de 90 mil clipes. Sem assinaturas, pura música.',
+      featureFreeDesc:
+        'Explore um acervo com mais de 90 mil clipes. Sem assinaturas, pura música.',
       feature4Title: 'Apoie o Projeto',
-      feature4Desc: 'Gostou? Considere me pagar um café para manter o projeto vivo!',
+      feature4Desc:
+        'Gostou? Considere me pagar um café para manter o projeto vivo!',
       startButton: 'Clique aqui',
       desktopNotice: 'Experiência otimizada para desktop',
       credits: '2026 - Site desenvolvido por André Sugai ♥',
     },
+    inAppBrowser: {
+      title: 'Abra no Navegador',
+      subtitle: 'Este site só funciona no navegador padrão do seu celular.',
+      instruction: 'Toque no menu',
+      menuIcon: '•••',
+      instructionContinue: 'no canto superior direito e selecione:',
+      openBrowserOption: '"Abrir no Navegador"',
+      alternativeOption: 'ou "Abrir no Chrome/Safari"',
+      alternativeTitle: 'Alternativa',
+      copyButton: 'Copiar',
+      copiedButton: 'Copiado!',
+      dismissButton: 'Tentar navegar aqui mesmo (Instável)',
+      stepByStep: {
+        title: 'Como abrir no navegador:',
+        step1: '1. Toque nos três pontinhos (•••) no canto superior direito',
+        step2: '2. Selecione "Abrir no Navegador" ou "Abrir no Chrome/Safari"',
+        step3: '3. O site será aberto no seu navegador padrão',
+      },
+    },
     sector1: {
       awaitingSignal: 'Aguardando Sinal',
-      instruction: 'Selecione uma frequência (Ano/Década) no Setor 2 e inicie a sequência.',
+      instruction:
+        'Selecione uma frequência (Ano/Década) no Setor 2 e inicie a sequência.',
       nowPlaying: 'Tocando Agora',
       year: 'Ano',
     },
@@ -41,7 +67,8 @@ export const translations = {
       play: 'Tocar',
       traveling: 'Viajando...',
       comingSoon: 'Tocando agora:',
-      availabilityNotice: 'Temos mais de 90 mil clipes para você! Escolha o gênero e curta',
+      availabilityNotice:
+        'Temos mais de 90 mil clipes para você! Escolha o gênero e curta',
       totalClips: 'Clipes Catalogados',
       signalSource: 'Músicas',
     },
@@ -84,7 +111,8 @@ export const translations = {
       text: 'Se esse projeto trouxe boas memórias, novidades ou mesmo um pouco de diversão em meio a tanta correria do dia a dia e você quiser apoiar o desenvolvimento, considere me pagar um cafézinho! ☕ Você pode contribuir com o valor que desejar, desde que seja pelo menos R$ 1,00.',
       copy: 'COPIAR',
       copied: 'COPIADO!',
-      footer: 'Toda contribuição incentiva novas features! Envie sua ideia através da mensagem do Pix.',
+      footer:
+        'Toda contribuição incentiva novas features! Envie sua ideia através da mensagem do Pix.',
     },
   },
   en: {
@@ -98,24 +126,48 @@ export const translations = {
     },
     welcome: {
       title: 'Welcome to Grooovio!',
-      subtitle: 'Your musical time machine. Travel through the decades and rediscover the music videos that made history.',
+      subtitle:
+        'Your musical time machine. Travel through the decades and rediscover the music videos that made history.',
       feature1Title: 'Time Travel',
       feature1Desc: 'Choose a specific year or an entire decade to explore.',
       feature2Title: 'Random Mode',
       feature2Desc: 'Select "All" to play clips from all eras in random order.',
       feature3Title: 'Genre Filter',
-      feature3Desc: 'Refine your experience by filtering music genres like Rock, Pop, Rap, and more.',
+      feature3Desc:
+        'Refine your experience by filtering music genres like Rock, Pop, Rap, and more.',
       featureFreeTitle: '100% Free',
-      featureFreeDesc: 'Explore a collection of over 80k clips. No subscriptions, just pure music.',
+      featureFreeDesc:
+        'Explore a collection of over 80k clips. No subscriptions, just pure music.',
       feature4Title: 'Support the Project',
-      feature4Desc: 'Enjoying it? Consider buying me a coffee to keep the project alive!',
+      feature4Desc:
+        'Enjoying it? Consider buying me a coffee to keep the project alive!',
       startButton: 'Start the Journey',
       desktopNotice: 'Best experienced on desktop',
       credits: '2026 - Developed by André Sugai ♥',
     },
+    inAppBrowser: {
+      title: 'Open in Browser',
+      subtitle: 'This site only works in your default mobile browser.',
+      instruction: 'Tap the menu',
+      menuIcon: '•••',
+      instructionContinue: 'in the top right corner and select:',
+      openBrowserOption: '"Open in Browser"',
+      alternativeOption: 'or "Open in Chrome/Safari"',
+      alternativeTitle: 'Alternative',
+      copyButton: 'Copy',
+      copiedButton: 'Copied!',
+      dismissButton: 'Try browsing here anyway (Unstable)',
+      stepByStep: {
+        title: 'How to open in browser:',
+        step1: '1. Tap the three dots (•••) in the top right corner',
+        step2: '2. Select "Open in Browser" or "Open in Chrome/Safari"',
+        step3: '3. The site will open in your default browser',
+      },
+    },
     sector1: {
       awaitingSignal: 'Awaiting Signal',
-      instruction: 'Select a frequency (Year/Decade) in Sector 2 and initiate sequence.',
+      instruction:
+        'Select a frequency (Year/Decade) in Sector 2 and initiate sequence.',
       nowPlaying: 'Now Playing',
       year: 'Year',
     },
@@ -170,7 +222,8 @@ export const translations = {
       text: 'If this project brought back good memories, news, or even a bit of fun amidst the daily rush and you want to support development, consider buying me a coffee! ☕ You can contribute any amount you wish.',
       copy: 'COPY',
       copied: 'COPIED!',
-      footer: 'Every contribution encourages new features! Send your idea through the Pix message.',
+      footer:
+        'Every contribution encourages new features! Send your idea through the Pix message.',
     },
   },
 };

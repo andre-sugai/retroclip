@@ -11,7 +11,10 @@ interface WelcomeScreenProps {
   language: Language;
 }
 
-export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language }) => {
+export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({
+  onStart,
+  language,
+}) => {
   const t = translations[language].welcome;
   const [visitCount, setVisitCount] = React.useState<number | null>(null);
   const [showInAppWarning, setShowInAppWarning] = React.useState(false);
@@ -25,7 +28,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
 
   React.useEffect(() => {
     // Fetch total visits from GoatCounter
-    getTotalVisits().then(count => {
+    getTotalVisits().then((count) => {
       setVisitCount(count);
     });
   }, []);
@@ -34,26 +37,26 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
     <div className="absolute inset-0 z-[60] flex items-center justify-center bg-zinc-900 overflow-hidden">
       {/* Background Video */}
       <div className="absolute inset-0 z-0">
-        <video 
-          autoPlay 
-          loop 
-          muted 
+        <video
+          autoPlay
+          loop
+          muted
           playsInline
           className="w-full h-full object-cover opacity-70"
         >
           <source src="/videos/web2-optimized.webm" type="video/webm" />
         </video>
-        
+
         {/* CRT TV Effects */}
         {/* Scanlines */}
         <div className="crt-scanlines" />
-        
+
         {/* Blue Vignette */}
         <div className="crt-vignette" />
-        
+
         {/* Grain/Noise */}
         <div className="crt-grain" />
-        
+
         {/* Curvature Overlay */}
         <div className="crt-curve" />
       </div>
@@ -176,104 +179,131 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
       `}</style>
 
       <div className="relative z-10 p-4 md:p-8 flex items-center justify-center w-full min-h-screen">
-      <div className="max-w-2xl w-full my-auto">
-        {/* Logo */}
-        <div className="text-center mb-4 md:mb-8">
-          <h1 className="text-4xl md:text-6xl font-black tracking-tighter uppercase mb-1 md:mb-2">
-            Grooov<span className="text-primary">io</span>
-          </h1>
-          <p className="text-[10px] md:text-sm text-muted-foreground font-mono">V 1.13.11 // ARIA-COMPLIANT</p>
-        </div>
-
-        {/* Welcome Message */}
-        <div className="bg-background/80 backdrop-blur-md rounded-2xl p-5 md:p-8 border border-border shadow-2xl">
-          <h2 className="text-xl md:text-3xl font-bold mb-2 md:mb-4 text-center">{t.title}</h2>
-          <p className="text-sm md:text-lg text-muted-foreground mb-4 md:mb-6 leading-tight">{t.subtitle}</p>
-
-          {/* Features */}
-          <div className="space-y-2 md:space-y-4 mb-6 md:mb-8">
-            <div className="flex items-start gap-2 md:gap-3">
-              <Clock className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
-              <div>
-                <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">{t.feature1Title}</h3>
-                <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">{t.feature1Desc}</p>
-              </div>
-            </div>
-
-            <div className="flex items-start gap-2 md:gap-3">
-              <Film className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
-              <div>
-                <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">{t.feature2Title}</h3>
-                <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">{t.feature2Desc}</p>
-              </div>
-            </div>
-
-            <div className="flex items-start gap-2 md:gap-3">
-              <Disc3 className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
-              <div>
-                <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">{t.feature3Title}</h3>
-                <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">{t.feature3Desc}</p>
-              </div>
-            </div>
-
-            <div className="flex items-start gap-2 md:gap-3">
-              <Sparkles className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
-              <div>
-                <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">{t.featureFreeTitle}</h3>
-                <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">{t.featureFreeDesc}</p>
-              </div>
-            </div>
-
-            <div className="flex items-start gap-2 md:gap-3">
-              <Coffee className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
-              <div>
-                <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">{t.feature4Title}</h3>
-                <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">{t.feature4Desc}</p>
-              </div>
-            </div>
+        <div className="max-w-2xl w-full my-auto">
+          {/* Logo */}
+          <div className="text-center mb-4 md:mb-8">
+            <h1 className="text-4xl md:text-6xl font-black tracking-tighter uppercase mb-1 md:mb-2">
+              Grooov<span className="text-primary">io</span>
+            </h1>
+            <p className="text-[10px] md:text-sm text-muted-foreground font-mono">
+              V 1.13.13 // ARIA-COMPLIANT
+            </p>
           </div>
 
-          {/* Start Button */}
-          <div className="flex flex-col items-center w-full gap-3 md:gap-6">
-            <Button 
-              onClick={() => {
-                if (isInAppBrowser()) {
-                   setShowInAppWarning(true);
-                   return;
-                }
-                onStart();
-              }}
-              className="w-auto px-8 md:px-12 h-10 md:h-14 text-base md:text-lg font-bold neon-button rounded-full"
-              variant="primary"
-            >
-              <PlayCircle className="w-5 h-5 md:w-6 md:h-6 mr-2" />
-              {t.startButton}
-            </Button>
-            <div className="flex flex-col gap-1">
-              <p className="text-[10px] md:text-xs text-muted-foreground/70 text-center leading-tight">
-                {t.desktopNotice}
-              </p>
-              <p className="text-[10px] md:text-xs text-muted-foreground/60 text-center leading-tight">
-                {t.credits}
-              </p>
-              {visitCount !== null && (
-                <p className="text-[10px] text-muted-foreground/50 text-center font-mono leading-tight">
-                  Total Visitas: {visitCount.toLocaleString()}
+          {/* Welcome Message */}
+          <div className="bg-background/80 backdrop-blur-md rounded-2xl p-5 md:p-8 border border-border shadow-2xl">
+            <h2 className="text-xl md:text-3xl font-bold mb-2 md:mb-4 text-center">
+              {t.title}
+            </h2>
+            <p className="text-sm md:text-lg text-muted-foreground mb-4 md:mb-6 leading-tight">
+              {t.subtitle}
+            </p>
+
+            {/* Features */}
+            <div className="space-y-2 md:space-y-4 mb-6 md:mb-8">
+              <div className="flex items-start gap-2 md:gap-3">
+                <Clock className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
+                <div>
+                  <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">
+                    {t.feature1Title}
+                  </h3>
+                  <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">
+                    {t.feature1Desc}
+                  </p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-2 md:gap-3">
+                <Film className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
+                <div>
+                  <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">
+                    {t.feature2Title}
+                  </h3>
+                  <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">
+                    {t.feature2Desc}
+                  </p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-2 md:gap-3">
+                <Disc3 className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
+                <div>
+                  <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">
+                    {t.feature3Title}
+                  </h3>
+                  <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">
+                    {t.feature3Desc}
+                  </p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-2 md:gap-3">
+                <Sparkles className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
+                <div>
+                  <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">
+                    {t.featureFreeTitle}
+                  </h3>
+                  <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">
+                    {t.featureFreeDesc}
+                  </p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-2 md:gap-3">
+                <Coffee className="w-4 h-4 md:w-6 md:h-6 text-primary mt-1 flex-shrink-0" />
+                <div>
+                  <h3 className="font-semibold text-sm md:text-base leading-none md:leading-normal">
+                    {t.feature4Title}
+                  </h3>
+                  <p className="text-[11px] md:text-sm text-muted-foreground leading-tight">
+                    {t.feature4Desc}
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            {/* Start Button */}
+            <div className="flex flex-col items-center w-full gap-3 md:gap-6">
+              <Button
+                onClick={() => {
+                  if (isInAppBrowser()) {
+                    setShowInAppWarning(true);
+                    return;
+                  }
+                  onStart();
+                }}
+                className="w-auto px-8 md:px-12 h-10 md:h-14 text-base md:text-lg font-bold neon-button rounded-full"
+                variant="primary"
+              >
+                <PlayCircle className="w-5 h-5 md:w-6 md:h-6 mr-2" />
+                {t.startButton}
+              </Button>
+              <div className="flex flex-col gap-1">
+                <p className="text-[10px] md:text-xs text-muted-foreground/70 text-center leading-tight">
+                  {t.desktopNotice}
                 </p>
-              )}
+                <p className="text-[10px] md:text-xs text-muted-foreground/60 text-center leading-tight">
+                  {t.credits}
+                </p>
+                {visitCount !== null && (
+                  <p className="text-[10px] text-muted-foreground/50 text-center font-mono leading-tight">
+                    Total Visitas: {visitCount.toLocaleString()}
+                  </p>
+                )}
+              </div>
             </div>
           </div>
         </div>
       </div>
 
       {showInAppWarning && (
-         <InAppBrowserWarning 
-            language={language} 
-            onDismiss={() => {
-              setShowInAppWarning(false);
-              onStart();
-            }} 
-         />
+        <InAppBrowserWarning
+          language={language}
+          onDismiss={() => {
+            setShowInAppWarning(false);
+            onStart();
+          }}
+        />
       )}
     </div>
   );
