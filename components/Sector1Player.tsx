@@ -619,24 +619,37 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
 
       {/* Play Overlay - For In-App Browsers (Instagram, Facebook, etc.) */}
       {showPlayOverlay && (
-        <div className="absolute inset-0 z-40 flex items-center justify-center bg-black/60 backdrop-blur-sm animate-fade-in">
-          <div className="flex flex-col items-center gap-4 px-6">
-            <a
-              href={window.location.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-8 md:p-12 transition-all duration-300 hover:scale-110 shadow-2xl flex items-center justify-center"
-              aria-label="Open in browser"
+        <div 
+          className="absolute inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm animate-fade-in"
+          onClick={() => {
+            // Global click handler on the overlay also works
+            if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+                playerInstanceRef.current.playVideo();
+                playerInstanceRef.current.unMute();
+            }
+            setShowPlayOverlay(false);
+          }}
+        >
+          <div className="flex flex-col items-center gap-4 px-6 pointer-events-none"> 
+             {/* pointer-events-none so the click passes through to the parent div or we handle it on button specifically */}
+            <button
               onClick={(e) => {
-                console.log('[Grooovio] Link clicked - opening in external browser');
+                e.stopPropagation(); // Handle it directly here
+                if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+                    playerInstanceRef.current.playVideo();
+                    playerInstanceRef.current.unMute();
+                }
+                setShowPlayOverlay(false);
               }}
+              className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-6 md:p-8 transition-all duration-300 hover:scale-110 shadow-2xl flex items-center justify-center animate-pulse"
+              aria-label="Play Video"
             >
-              <Play className="w-16 h-16 md:w-24 md:h-24" fill="currentColor" />
-            </a>
-            <p className="text-white text-sm md:text-base text-center max-w-xs font-medium drop-shadow-lg">
+              <Play className="w-12 h-12 md:w-16 md:h-16 ml-1" fill="currentColor" />
+            </button>
+            <p className="text-white text-sm md:text-base text-center font-medium drop-shadow-lg animate-pulse">
               {language === 'pt' 
-                ? 'Toque para abrir no navegador' 
-                : 'Tap to open in browser'}
+                ? 'Toque para iniciar' 
+                : 'Tap to start'}
             </p>
           </div>
         </div>
