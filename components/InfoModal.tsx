@@ -53,7 +53,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         'Escolha entre clipes internacionais, brasileiros ou misturados',
         'Compartilhe seus clipes favoritos',
       ],
-      version: 'Versão 1.13.15',
+      version: 'Versão 1.13.16',
       close: 'Fechar',
       tabs: {
         about: 'Sobre',
@@ -89,7 +89,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         'Choose between international, Brazilian or mixed clips',
         'Share your favorite clips',
       ],
-      version: 'Version 1.13.15',
+      version: 'Version 1.13.16',
       close: 'Close',
       tabs: {
         about: 'About',
@@ -116,7 +116,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
 
   // Calculate accurate percentages
   const intlPercentage = Math.round(
-    (INTL_VIDEOS_COUNT / TOTAL_VIDEOS_COUNT) * 100,
+    (INTL_VIDEOS_COUNT / TOTAL_VIDEOS_COUNT) * 100
   );
   const brPercentage = Math.round((BR_VIDEOS_COUNT / TOTAL_VIDEOS_COUNT) * 100);
 
@@ -284,7 +284,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
                     onClick={() =>
                       window.open(
                         'https://linkedin.com/in/andresugai',
-                        '_blank',
+                        '_blank'
                       )
                     }
                   >
@@ -412,10 +412,10 @@ export const InfoModal: React.FC<InfoModalProps> = ({
                               index === 0
                                 ? 'bg-yellow-100 text-yellow-700 dark:bg-yellow-500/20 dark:text-yellow-500'
                                 : index === 1
-                                  ? 'bg-zinc-100 text-zinc-700 dark:bg-zinc-500/20 dark:text-zinc-400'
-                                  : index === 2
-                                    ? 'bg-amber-100 text-amber-800 dark:bg-amber-500/20 dark:text-amber-500'
-                                    : 'bg-zinc-50 text-zinc-500 dark:bg-zinc-800 dark:text-zinc-600'
+                                ? 'bg-zinc-100 text-zinc-700 dark:bg-zinc-500/20 dark:text-zinc-400'
+                                : index === 2
+                                ? 'bg-amber-100 text-amber-800 dark:bg-amber-500/20 dark:text-amber-500'
+                                : 'bg-zinc-50 text-zinc-500 dark:bg-zinc-800 dark:text-zinc-600'
                             }
                           `}
                           >

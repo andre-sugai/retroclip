@@ -41,7 +41,7 @@ const App: React.FC = () => {
   // Layout State
   // Default to closed on mobile (< 768px), open on desktop
   const [isSidebarOpen, setIsSidebarOpen] = useState(() =>
-    typeof window !== 'undefined' ? window.innerWidth >= 768 : true,
+    typeof window !== 'undefined' ? window.innerWidth >= 768 : true
   );
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [showShareCopied, setShowShareCopied] = useState(false);
@@ -53,7 +53,7 @@ const App: React.FC = () => {
 
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null);
   const [selectedRegion, setSelectedRegion] = useState<'br' | 'intl' | 'all'>(
-    'all',
+    'all'
   ); // Default to Mix
   const [allVideos, setAllVideos] = useState<Video[]>([]); // Store full unfiltered list
   const [lastSearchParams, setLastSearchParams] = useState<{
@@ -138,8 +138,8 @@ const App: React.FC = () => {
               video.nationality === 'BR'
                 ? 'br'
                 : video.nationality
-                  ? 'intl'
-                  : 'all';
+                ? 'intl'
+                : 'all';
 
             // Set state immediately with the single video so it's ready
             setState((prev) => ({
@@ -153,20 +153,20 @@ const App: React.FC = () => {
 
             // 3. Fetch related videos in background to fill the queue
             console.log(
-              `[Grooovio App] Fetching context: ${contextType} ${contextValue} (${contextRegion})`,
+              `[Grooovio App] Fetching context: ${contextType} ${contextValue} (${contextRegion})`
             );
 
             try {
               const relatedVideos = await fetchVideosByCriteria(
                 contextType,
                 contextValue,
-                contextRegion,
+                contextRegion
               );
 
               if (relatedVideos.length > 0) {
                 // Filter out the current video to avoid immediate duplicate
                 const otherVideos = relatedVideos.filter(
-                  (v) => v.id !== video.id,
+                  (v) => v.id !== video.id
                 );
 
                 // Shuffle
@@ -227,13 +227,13 @@ const App: React.FC = () => {
         const videos = await fetchVideosByCriteria(
           'all',
           'all',
-          selectedRegion,
+          selectedRegion
         );
         setAllVideos(videos);
         console.log('[Grooovio] Initial videos loaded:', videos.length);
         console.log(
           '[Grooovio] Programs found:',
-          videos.filter((v) => (v as any).is_program === true).length,
+          videos.filter((v) => (v as any).is_program === true).length
         );
       } catch (error) {
         console.error('[Grooovio] Failed to load initial videos:', error);
@@ -283,7 +283,7 @@ const App: React.FC = () => {
         Object.entries(GENRE_MAP).forEach(([id, keywords]) => {
           if (
             keywords.some(
-              (k) => video.artist_genre.includes(k) || video.artist_genre === k,
+              (k) => video.artist_genre.includes(k) || video.artist_genre === k
             )
           ) {
             genres.add(id);
@@ -301,7 +301,7 @@ const App: React.FC = () => {
     console.log('[Grooovio] Total videos in allVideos:', allVideos.length);
     console.log(
       '[Grooovio] Shows count:',
-      allVideos.filter((v) => v.is_show === true).length,
+      allVideos.filter((v) => v.is_show === true).length
     );
 
     return genres;
@@ -313,7 +313,9 @@ const App: React.FC = () => {
 
     // Use current URL origin + path, append ?v=ID
     const baseUrl = `${window.location.protocol}//${window.location.host}${window.location.pathname}`;
-    const shareUrl = `${baseUrl}?v=${state.currentVideo.embed_id || state.currentVideo.id}`;
+    const shareUrl = `${baseUrl}?v=${
+      state.currentVideo.embed_id || state.currentVideo.id
+    }`;
 
     const shareText = `Acho que você vai curtir esse clipe, conheça o Grooovio!\n\n${
       state.currentVideo.song_title
@@ -333,7 +335,7 @@ const App: React.FC = () => {
   // Logic: Search & Auto-Play
   const handleSearch = async (
     type: 'year' | 'decade' | 'all',
-    value: string,
+    value: string
   ) => {
     setLastSearchParams({ type, value });
     setState((prev) => ({
@@ -432,7 +434,7 @@ const App: React.FC = () => {
   const handleNext = () => {
     setState((prev) => {
       const currentIndex = prev.queue.findIndex(
-        (v) => v.id === prev.currentVideo?.id,
+        (v) => v.id === prev.currentVideo?.id
       );
       const nextIndex = currentIndex + 1;
 
@@ -491,7 +493,7 @@ const App: React.FC = () => {
     if (genreId) {
       if (genreId === 'Clássicos') {
         filteredQueue = sourceVideos.filter(
-          (video) => video.year && video.year >= 1960 && video.year <= 1999,
+          (video) => video.year && video.year >= 1960 && video.year <= 1999
         );
       } else if (genreId === 'full_show') {
         // Filter videos flagged as shows
@@ -501,27 +503,27 @@ const App: React.FC = () => {
         filteredQueue = sourceVideos.filter(
           (video) =>
             (video as any).is_program &&
-            (video as any).program_name === 'hermes_renato',
+            (video as any).program_name === 'hermes_renato'
         );
       } else if (genreId === 'beavis_butthead') {
         // Filter videos for Beavis and Butt-Head program
         filteredQueue = sourceVideos.filter(
           (video) =>
             (video as any).is_program &&
-            (video as any).program_name === 'beavis_butthead',
+            (video as any).program_name === 'beavis_butthead'
         );
       } else if (genreId === 'documentarios') {
         // Filter videos for Documentários program
         filteredQueue = sourceVideos.filter(
           (video) =>
             (video as any).is_program &&
-            (video as any).program_name === 'documentarios',
+            (video as any).program_name === 'documentarios'
         );
       } else if (genreId === 'acoustic') {
         filteredQueue = sourceVideos.filter(
           (video) =>
             video.artist_genre === 'acousticShow' ||
-            (video.artist_genre && video.artist_genre.includes('acousticShow')),
+            (video.artist_genre && video.artist_genre.includes('acousticShow'))
         );
       } else {
         // Map UI Genre ID to matching sub-genres/keywords in artist_genre
@@ -542,7 +544,7 @@ const App: React.FC = () => {
       // Filter out programs when 'All' is selected
       // We want 'All' to be a mix of music clips/shows, but exclude specific programs like Hermes & Renato
       filteredQueue = sourceVideos.filter(
-        (video) => !(video as any).is_program,
+        (video) => !(video as any).is_program
       );
     }
 
@@ -632,7 +634,7 @@ const App: React.FC = () => {
         if (!availableDecades.includes(searchTarget.value)) {
           adjustedSearchParams.value = '2020';
           console.log(
-            `[Grooovio] Decade ${searchTarget.value} not available in ${region}, switching to 2020`,
+            `[Grooovio] Decade ${searchTarget.value} not available in ${region}, switching to 2020`
           );
         }
       }
@@ -653,7 +655,7 @@ const App: React.FC = () => {
         const videos = await fetchVideosByCriteria(
           adjustedSearchParams.type,
           adjustedSearchParams.value,
-          region,
+          region
         );
         setAllVideos(videos);
 
@@ -668,7 +670,7 @@ const App: React.FC = () => {
             if (selectedGenre === 'Clássicos') {
               startQueue = videos.filter(
                 (video) =>
-                  video.year && video.year >= 1960 && video.year <= 1999,
+                  video.year && video.year >= 1960 && video.year <= 1999
               );
             } else {
               const genreMap: Record<string, string[]> = {
@@ -776,7 +778,7 @@ const App: React.FC = () => {
                   return (
                     g &&
                     targetGenres.some(
-                      (target) => g.includes(target) || g === target,
+                      (target) => g.includes(target) || g === target
                     )
                   );
                 });
@@ -857,7 +859,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.13.15 // ARIA-COMPLIANT
+              V 1.13.16 // ARIA-COMPLIANT
             </p>
           </div>
 
