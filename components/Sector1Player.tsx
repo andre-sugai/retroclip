@@ -621,31 +621,22 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
       {showPlayOverlay && (
         <div className="absolute inset-0 z-40 flex items-center justify-center bg-black/60 backdrop-blur-sm animate-fade-in">
           <div className="flex flex-col items-center gap-4 px-6">
-            <button
-              onClick={(e) => {
-                e.stopPropagation();
-                console.log('[Grooovio] Opening in external browser');
-                
-                // Create a temporary link element to force external browser
-                const link = document.createElement('a');
-                link.href = window.location.href;
-                link.target = '_system'; // Forces external browser on mobile
-                link.rel = 'noopener noreferrer';
-                
-                // Programmatically click the link
-                document.body.appendChild(link);
-                link.click();
-                document.body.removeChild(link);
-              }}
-              className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-8 md:p-12 transition-all duration-300 hover:scale-110 shadow-2xl"
+            <a
+              href={window.location.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-8 md:p-12 transition-all duration-300 hover:scale-110 shadow-2xl flex items-center justify-center"
               aria-label="Open in browser"
+              onClick={(e) => {
+                console.log('[Grooovio] Link clicked - opening in external browser');
+              }}
             >
               <Play className="w-16 h-16 md:w-24 md:h-24" fill="currentColor" />
-            </button>
+            </a>
             <p className="text-white text-sm md:text-base text-center max-w-xs font-medium drop-shadow-lg">
               {language === 'pt' 
-                ? 'Abrir no navegador para reproduzir' 
-                : 'Open in browser to play'}
+                ? 'Toque para abrir no navegador' 
+                : 'Tap to open in browser'}
             </p>
           </div>
         </div>
