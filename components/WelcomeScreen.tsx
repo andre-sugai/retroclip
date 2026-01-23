@@ -34,15 +34,6 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
     <div className="absolute inset-0 z-[60] flex items-center justify-center bg-zinc-900 overflow-hidden">
       {/* Background Video */}
       <div className="absolute inset-0 z-0">
-        {showInAppWarning && (
-           <InAppBrowserWarning 
-              language={language} 
-              onDismiss={() => {
-                setShowInAppWarning(false);
-                onStart();
-              }} 
-           />
-        )}
         <video 
           autoPlay 
           loop 
@@ -191,7 +182,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
           <h1 className="text-4xl md:text-6xl font-black tracking-tighter uppercase mb-1 md:mb-2">
             Grooov<span className="text-primary">io</span>
           </h1>
-          <p className="text-[10px] md:text-sm text-muted-foreground font-mono">V 1.13.10 // ARIA-COMPLIANT</p>
+          <p className="text-[10px] md:text-sm text-muted-foreground font-mono">V 1.13.11 // ARIA-COMPLIANT</p>
         </div>
 
         {/* Welcome Message */}
@@ -274,7 +265,16 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
           </div>
         </div>
       </div>
-    </div>
+
+      {showInAppWarning && (
+         <InAppBrowserWarning 
+            language={language} 
+            onDismiss={() => {
+              setShowInAppWarning(false);
+              onStart();
+            }} 
+         />
+      )}
     </div>
   );
 };

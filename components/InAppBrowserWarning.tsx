@@ -39,8 +39,8 @@ export const InAppBrowserWarning: React.FC<InAppBrowserWarningProps> = ({ langua
           
           <p className="text-zinc-400 text-lg leading-relaxed">
             {isPT 
-              ? 'Este aplicativo bloqueia a reprodução de vídeo. Para a melhor experiência, toque no menu ' 
-              : 'This app restricts video playback. For the best experience, tap the menu '}
+              ? 'Este site só funciona no navegador padrão do seu celular. Toque no menu ' 
+              : 'This site only works in your default mobile browser. Tap the menu '}
             <span className="text-white font-bold px-1 py-0.5 bg-zinc-800 rounded text-sm inline-block mx-1">•••</span>
             {isPT ? ' acima e selecione:' : ' above and select:'}
           </p>
