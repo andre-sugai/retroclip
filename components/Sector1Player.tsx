@@ -619,38 +619,51 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
 
       {/* Play Overlay - For In-App Browsers (Instagram, Facebook, etc.) */}
       {showPlayOverlay && (
-        <div 
-          className="absolute inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm animate-fade-in"
-          onClick={() => {
-            // Global click handler on the overlay also works
-            if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
-                playerInstanceRef.current.playVideo();
-                playerInstanceRef.current.unMute();
-            }
-            setShowPlayOverlay(false);
-          }}
-        >
-          <div className="flex flex-col items-center gap-4 px-6 pointer-events-none"> 
-             {/* pointer-events-none so the click passes through to the parent div or we handle it on button specifically */}
-            <button
+        <div className="absolute inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-md animate-fade-in p-6">
+          <div className="flex flex-col items-center gap-6 max-w-sm text-center">
+            
+            <div className="w-16 h-16 rounded-full bg-zinc-800 flex items-center justify-center mb-2 animate-bounce">
+              <Play className="w-8 h-8 text-zinc-400" fill="currentColor" />
+            </div>
+
+            <div className="space-y-2">
+              <h3 className="text-xl font-bold text-white">
+                {language === 'pt' ? 'Reprodução Bloqueada' : 'Playback Blocked'}
+              </h3>
+              <p className="text-sm text-zinc-400 leading-relaxed">
+                {language === 'pt' 
+                  ? 'O navegador deste aplicativo não suporta reprodução automática. Para assistir, abra no navegador.' 
+                  : 'This app\'s browser restricts autoplay. To watch, please open in your system browser.'}
+              </p>
+            </div>
+
+            <a
+              href={`${window.location.protocol}//${window.location.host}${window.location.pathname}?v=${currentVideo.embed_id || currentVideo.id}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full bg-primary hover:bg-primary/90 text-primary-foreground font-bold py-4 px-6 rounded-full transition-all duration-300 hover:scale-105 shadow-lg flex items-center justify-center gap-2 group"
               onClick={(e) => {
-                e.stopPropagation(); // Handle it directly here
-                if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
-                    playerInstanceRef.current.playVideo();
-                    playerInstanceRef.current.unMute();
-                }
-                setShowPlayOverlay(false);
+                console.log('[Grooovio] User opening in external browser');
+                // Optional: try to force play just in case, but likely will fail or be ignored if navigating away
+                try {
+                   if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+                      playerInstanceRef.current.playVideo();
+                   }
+                } catch(err) {}
               }}
-              className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-6 md:p-8 transition-all duration-300 hover:scale-110 shadow-2xl flex items-center justify-center animate-pulse"
-              aria-label="Play Video"
             >
-              <Play className="w-12 h-12 md:w-16 md:h-16 ml-1" fill="currentColor" />
+              <span>
+                {language === 'pt' ? 'Abrir no Navegador' : 'Open in Browser'}
+              </span>
+              <CircleArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </a>
+            
+            <button 
+              onClick={() => setShowPlayOverlay(false)}
+              className="text-xs text-zinc-500 hover:text-zinc-300 underline underline-offset-4 mt-2"
+            >
+              {language === 'pt' ? 'Tentar reproduzir aqui mesmo' : 'Try playing here anyway'}
             </button>
-            <p className="text-white text-sm md:text-base text-center font-medium drop-shadow-lg animate-pulse">
-              {language === 'pt' 
-                ? 'Toque para iniciar' 
-                : 'Tap to start'}
-            </p>
           </div>
         </div>
       )}
