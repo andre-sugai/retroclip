@@ -30,7 +30,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose, language 
         'Escolha entre clipes internacionais, brasileiros ou misturados',
         'Compartilhe seus clipes favoritos'
       ],
-      version: 'Versão 1.13.2',
+      version: 'Versão 1.13.3',
       close: 'Fechar',
       tabs: {
         about: 'Sobre',
@@ -65,7 +65,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose, language 
         'Choose between international, Brazilian or mixed clips',
         'Share your favorite clips'
       ],
-      version: 'Version 1.13.2',
+      version: 'Version 1.13.3',
       close: 'Close',
       tabs: {
         about: 'About',

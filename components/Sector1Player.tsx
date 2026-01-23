@@ -619,50 +619,26 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
 
       {/* Play Overlay - For In-App Browsers (Instagram, Facebook, etc.) */}
       {showPlayOverlay && (
-        <div className="absolute inset-0 z-40 flex items-center justify-center bg-black/40 backdrop-blur-sm animate-fade-in">
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              console.log('[Grooovio] Play overlay clicked');
-              
-              if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
-                // Multiple play attempts for stubborn in-app browsers
-                playerInstanceRef.current.playVideo();
-                
-                // Unmute if not muted
-                if (!isMuted) {
-                  try {
-                    playerInstanceRef.current.unMute();
-                  } catch (e) {
-                    console.warn('[Grooovio] Could not unmute');
-                  }
-                }
-                
-                // Second play attempt after unmute
-                setTimeout(() => {
-                  if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
-                    playerInstanceRef.current.playVideo();
-                  }
-                }, 100);
-                
-                // Third attempt for extra stubborn browsers
-                setTimeout(() => {
-                  if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
-                    playerInstanceRef.current.playVideo();
-                  }
-                }, 300);
-                
-                // Hide overlay after attempts
-                setTimeout(() => {
-                  setShowPlayOverlay(false);
-                }, 500);
-              }
-            }}
-            className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-8 md:p-12 transition-all duration-300 hover:scale-110 shadow-2xl"
-            aria-label="Play video"
-          >
-            <Play className="w-16 h-16 md:w-24 md:h-24" fill="currentColor" />
-          </button>
+        <div className="absolute inset-0 z-40 flex items-center justify-center bg-black/60 backdrop-blur-sm animate-fade-in">
+          <div className="flex flex-col items-center gap-4 px-6">
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                console.log('[Grooovio] Opening in external browser');
+                // Open current URL in external browser
+                window.open(window.location.href, '_blank');
+              }}
+              className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-8 md:p-12 transition-all duration-300 hover:scale-110 shadow-2xl"
+              aria-label="Open in browser"
+            >
+              <Play className="w-16 h-16 md:w-24 md:h-24" fill="currentColor" />
+            </button>
+            <p className="text-white text-sm md:text-base text-center max-w-xs font-medium drop-shadow-lg">
+              {language === 'pt' 
+                ? 'Abrir no navegador para reproduzir' 
+                : 'Open in browser to play'}
+            </p>
+          </div>
         </div>
       )}
 
