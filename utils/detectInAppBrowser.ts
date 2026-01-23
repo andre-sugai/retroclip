@@ -17,6 +17,8 @@ export const isInAppBrowser = (): boolean => {
     'WhatsApp',
     'Line',
     'Snapchat', // SnapChat
+    'TikTok',
+    'musical_ly',
   ];
 
   return rules.some((rule) => ua.includes(rule));
