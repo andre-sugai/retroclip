@@ -3,6 +3,7 @@ import { Button } from './ui/Button';
 import { PlayCircle, Clock, Film, Disc3, Coffee, Sparkles } from 'lucide-react';
 import { translations, Language } from '../translations';
 import { getTotalVisits } from '../services/goatCounterService';
+import { isInAppBrowser, getMobileOS } from '../utils/detectInAppBrowser';
 
 interface WelcomeScreenProps {
   onStart: () => void;
@@ -12,6 +13,7 @@ interface WelcomeScreenProps {
 export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language }) => {
   const t = translations[language].welcome;
   const [visitCount, setVisitCount] = React.useState<number | null>(null);
+  const [showWelcome, setShowWelcome] = React.useState(true);
 
   React.useEffect(() => {
     // Fetch total visits from GoatCounter
@@ -172,7 +174,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
           <h1 className="text-4xl md:text-6xl font-black tracking-tighter uppercase mb-1 md:mb-2">
             Grooov<span className="text-primary">io</span>
           </h1>
-          <p className="text-[10px] md:text-sm text-muted-foreground font-mono">V 1.13.7 // ARIA-COMPLIANT</p>
+          <p className="text-[10px] md:text-sm text-muted-foreground font-mono">V 1.13.8 // ARIA-COMPLIANT</p>
         </div>
 
         {/* Welcome Message */}
@@ -226,7 +228,37 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
           {/* Start Button */}
           <div className="flex flex-col items-center w-full gap-3 md:gap-6">
             <Button 
-              onClick={onStart}
+              onClick={() => {
+                // Check for In-App Browser
+                if (isInAppBrowser()) {
+                  const currentUrl = window.location.href;
+                  const os = getMobileOS();
+                  
+                  if (os === 'android') {
+                    // Try to force Chrome on Android
+                    window.location.href = `googlechrome://navigate?url=${encodeURIComponent(currentUrl)}`;
+                    
+                    // Fallback
+                    setTimeout(() => {
+                       window.location.href = currentUrl; 
+                    }, 500); 
+                    return;
+                  } 
+                  
+                  // On iOS or others, just try window.open
+                  const newWin = window.open(currentUrl, '_system');
+                  if (!newWin || newWin.closed || typeof newWin.closed == 'undefined') { 
+                      alert(language === 'pt' 
+                        ? 'Por favor, abra este site no Safari ou Chrome para uma melhor experiência.' 
+                        : 'Please open this website in Safari or Chrome for the best experience.');
+                  }
+                }
+
+                setShowWelcome(false);
+                setTimeout(() => {
+                   onStart();
+                }, 500);
+              }}
               className="w-auto px-8 md:px-12 h-10 md:h-14 text-base md:text-lg font-bold neon-button rounded-full"
               variant="primary"
             >
