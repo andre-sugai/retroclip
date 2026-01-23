@@ -31,9 +31,16 @@ export const InAppBrowserWarning: React.FC<InAppBrowserWarningProps> = ({
 
   return (
     <div className="fixed inset-0 z-[100] bg-black/95 backdrop-blur-xl flex flex-col items-center justify-center p-6 text-center animate-fade-in overflow-y-auto">
-      {/* Animated Arrow pointing to top right menu */}
-      <div className="absolute top-4 right-4 animate-bounce duration-1000">
-        <ArrowUpRight className="w-12 h-12 text-primary rotate-12 filter drop-shadow-[0_0_10px_rgba(255,255,255,0.5)]" />
+      {/* Logo no lugar da seta */}
+      <div className="absolute top-4 right-4">
+        <div className="text-right">
+          <h1 className="text-2xl font-black tracking-tighter uppercase leading-none">
+            Grooov<span className="text-primary">io</span>
+          </h1>
+          <p className="text-[8px] text-muted-foreground font-mono">
+            V 1.13.14 // ARIA-COMPLIANT
+          </p>
+        </div>
       </div>
 
       <div className="max-w-md w-full space-y-6 relative my-auto">
