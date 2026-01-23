@@ -17,6 +17,13 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
   const [showInAppWarning, setShowInAppWarning] = React.useState(false);
 
   React.useEffect(() => {
+    // Check for In-App Browser immediately on mount
+    if (isInAppBrowser()) {
+      setShowInAppWarning(true);
+    }
+  }, []);
+
+  React.useEffect(() => {
     // Fetch total visits from GoatCounter
     getTotalVisits().then(count => {
       setVisitCount(count);
@@ -184,7 +191,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, language 
           <h1 className="text-4xl md:text-6xl font-black tracking-tighter uppercase mb-1 md:mb-2">
             Grooov<span className="text-primary">io</span>
           </h1>
-          <p className="text-[10px] md:text-sm text-muted-foreground font-mono">V 1.13.9 // ARIA-COMPLIANT</p>
+          <p className="text-[10px] md:text-sm text-muted-foreground font-mono">V 1.13.10 // ARIA-COMPLIANT</p>
         </div>
 
         {/* Welcome Message */}
