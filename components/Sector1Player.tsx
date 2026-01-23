@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Video } from '../types';
-import { Disc3, CircleArrowRight } from 'lucide-react';
+import { Disc3, CircleArrowRight, Play } from 'lucide-react';
 import { translations, Language } from '../translations';
 
 declare global {
@@ -49,6 +49,9 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
   // 3. Info Visibility Timer (Refactored for interaction)
   const [showInfo, setShowInfo] = useState(true);
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+  // 4. Play Overlay for In-App Browsers (Instagram, Facebook, etc.)
+  const [showPlayOverlay, setShowPlayOverlay] = useState(false);
 
   const activateInfo = () => {
     setShowInfo(true);
@@ -247,6 +250,21 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
               event.target.playVideo();
               event.target.playVideo();
               // event.target.setLoop(true); // Removed to fix infinite loop issue
+              
+              // Detect autoplay failure (in-app browsers like Instagram)
+              setTimeout(() => {
+                try {
+                  const state = event.target.getPlayerState();
+                  // If not playing after attempt, show overlay
+                  if (state !== 1) {
+                    console.log('[Grooovio] Autoplay blocked, showing play overlay');
+                    setShowPlayOverlay(true);
+                  }
+                } catch (e) {
+                  console.warn('[Grooovio] Could not check player state');
+                }
+              }, 1000);
+              
               // Unmute after starting only if not muted
               if (!isMuted) {
                 setTimeout(() => {
@@ -270,6 +288,8 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
             }
             // 1 = PLAYING
             if (event.data === 1) {
+              // Hide play overlay when video starts
+              setShowPlayOverlay(false);
               if (onVideoPlay) onVideoPlay();
               startProgressInterval(event.target);
             }
@@ -596,6 +616,25 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           </p>
         </div>
       </div>
+
+      {/* Play Overlay - For In-App Browsers (Instagram, Facebook, etc.) */}
+      {showPlayOverlay && (
+        <div className="absolute inset-0 z-40 flex items-center justify-center bg-black/40 backdrop-blur-sm animate-fade-in">
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              if (playerInstanceRef.current && typeof playerInstanceRef.current.playVideo === 'function') {
+                playerInstanceRef.current.playVideo();
+                setShowPlayOverlay(false);
+              }
+            }}
+            className="pointer-events-auto bg-white/90 hover:bg-white text-black rounded-full p-8 md:p-12 transition-all duration-300 hover:scale-110 shadow-2xl"
+            aria-label="Play video"
+          >
+            <Play className="w-16 h-16 md:w-24 md:h-24" fill="currentColor" />
+          </button>
+        </div>
+      )}
 
       {/* Next Button - Bottom Right */}
       <div className={`absolute bottom-8 right-8 z-30 transition-opacity duration-700 ${
