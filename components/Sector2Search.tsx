@@ -290,7 +290,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
               <button
                 type="button"
                 onClick={() => setIsDonationModalOpen(true)}
-                className="w-full mt-3 bg-yellow-400 hover:bg-yellow-500 text-yellow-900 text-[10px] font-bold py-2 px-3 rounded shadow-sm transition-colors flex items-center justify-center gap-1.5 active:scale-[0.98]"
+                className="w-full mt-3 bg-yellow-400 hover:bg-yellow-500 text-gray-700 text-[10px] font-bold py-2 px-3 rounded shadow-sm transition-colors flex items-center justify-center gap-1.5 active:scale-[0.98]"
               >
                 <Coffee className="w-3 h-3" />
                 {t.donation?.button || 'Me Pague um Café'}
@@ -443,7 +443,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                                 flex-none px-4 py-2 text-xs font-bold rounded-md border transition-all
                                 ${
                                   isSelected
-                                    ? 'bg-yellow-400 hover:bg-yellow-500 text-yellow-900 border-yellow-400 shadow-md scale-105'
+                                    ? 'bg-yellow-400 hover:bg-yellow-500 text-gray-700 border-yellow-400 shadow-md scale-105'
                                     : isAvailable
                                     ? 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 hover:bg-primary hover:text-primary-foreground hover:border-primary'
                                     : 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 opacity-50 cursor-not-allowed'
