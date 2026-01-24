@@ -1,5 +1,13 @@
 import React, { useState } from 'react';
-import { Calendar, Film, Play, Clock, Coffee, ChevronDown, ChevronUp } from 'lucide-react';
+import {
+  Calendar,
+  Film,
+  Play,
+  Clock,
+  Coffee,
+  ChevronDown,
+  ChevronUp,
+} from 'lucide-react';
 import { Button } from './ui/Button';
 import { DonationModal } from './DonationModal';
 import {
@@ -110,32 +118,33 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
 
   React.useEffect(() => {
     if (visitCount !== null && widgetRef.current) {
-        const el = widgetRef.current;
-        // Inject script if not present
-        if (!el.querySelector('#_waud22')) {
-            const script1 = document.createElement('script');
-            script1.id = '_waud22';
-            script1.innerHTML = 'var _wau = _wau || []; _wau.push(["small", "t6392gpmdf", "d22"]);';
-            el.appendChild(script1);
+      const el = widgetRef.current;
+      // Inject script if not present
+      if (!el.querySelector('#_waud22')) {
+        const script1 = document.createElement('script');
+        script1.id = '_waud22';
+        script1.innerHTML =
+          'var _wau = _wau || []; _wau.push(["small", "t6392gpmdf", "d22"]);';
+        el.appendChild(script1);
 
-            const script2 = document.createElement('script');
-            script2.async = true;
-            script2.src = '//waust.at/s.js';
-            el.appendChild(script2);
+        const script2 = document.createElement('script');
+        script2.async = true;
+        script2.src = '//waust.at/s.js';
+        el.appendChild(script2);
+      }
+
+      // Observer to ensure link opens in new tab
+      const observer = new MutationObserver(() => {
+        const link = el.querySelector('a');
+        if (link && link.getAttribute('target') !== '_blank') {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
         }
+      });
 
-        // Observer to ensure link opens in new tab
-        const observer = new MutationObserver(() => {
-            const link = el.querySelector('a');
-            if (link && link.getAttribute('target') !== '_blank') {
-                link.setAttribute('target', '_blank');
-                link.setAttribute('rel', 'noopener noreferrer');
-            }
-        });
-        
-        observer.observe(el, { childList: true, subtree: true });
+      observer.observe(el, { childList: true, subtree: true });
 
-        return () => observer.disconnect();
+      return () => observer.disconnect();
     }
   }, [visitCount]);
 
@@ -281,13 +290,13 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
               <button
                 type="button"
                 onClick={() => setIsDonationModalOpen(true)}
-                className="w-full mt-3 bg-yellow-400 hover:bg-yellow-500 text-yellow-950 text-[10px] font-bold py-2 px-3 rounded shadow-sm transition-colors flex items-center justify-center gap-1.5 active:scale-[0.98]"
+                className="w-full mt-3 bg-yellow-400 hover:bg-yellow-500 text-yellow-900 text-[10px] font-bold py-2 px-3 rounded shadow-sm transition-colors flex items-center justify-center gap-1.5 active:scale-[0.98]"
               >
                 <Coffee className="w-3 h-3" />
                 {t.donation?.button || 'Me Pague um Café'}
               </button>
 
-      {visitCount !== null && (
+              {visitCount !== null && (
                 <div className="w-full flex items-center justify-center mt-2 gap-2">
                   <div className="h-[20px] flex items-center bg-background/50 dark:bg-black/20 rounded px-2 font-mono text-[10px] tracking-wide border border-transparent">
                     <span className="opacity-70 mr-1">Visitas:</span>
@@ -296,7 +305,10 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                     </span>
                   </div>
                   {/* Visit Counter Widget */}
-                  <div className="h-[20px] flex items-center overflow-hidden rounded xs" ref={widgetRef} />
+                  <div
+                    className="h-[20px] flex items-center overflow-hidden rounded xs"
+                    ref={widgetRef}
+                  />
                 </div>
               )}
             </div>
@@ -431,7 +443,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                                 flex-none px-4 py-2 text-xs font-bold rounded-md border transition-all
                                 ${
                                   isSelected
-                                    ? 'bg-yellow-400 hover:bg-yellow-500 text-yellow-950 border-yellow-400 shadow-md scale-105'
+                                    ? 'bg-yellow-400 hover:bg-yellow-500 text-yellow-900 border-yellow-400 shadow-md scale-105'
                                     : isAvailable
                                     ? 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 hover:bg-primary hover:text-primary-foreground hover:border-primary'
                                     : 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 opacity-50 cursor-not-allowed'
