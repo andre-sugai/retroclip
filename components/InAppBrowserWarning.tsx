@@ -171,7 +171,7 @@ export const InAppBrowserWarning: React.FC<InAppBrowserWarningProps> = ({
                 Grooov<span className="text-primary">io</span>
               </h1>
               <p className="text-[10px] text-muted-foreground font-mono mt-1">
-                V 1.13.23 // ARIA-COMPLIANT
+                V 1.13.24 // ARIA-COMPLIANT
               </p>
             </div>
 
