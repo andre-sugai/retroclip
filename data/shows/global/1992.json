@@ -15,5 +15,13 @@
     "youtube_link": "https://www.youtube.com/watch?v=P9fPF204icg",
     "artist": "Pearl Jam",
     "is_show": true
+  },
+  {
+    "id": 450389412181,
+    "song_title": "Live At CBGB's NY",
+    "year": 1992,
+    "artist_name": "Social Distortion",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=d2fAo-dupxk"
   }
 ]

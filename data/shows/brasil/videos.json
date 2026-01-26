@@ -1,98 +1,186 @@
 [
   {
-    "id": 618322830087,
-    "song_title": "MTV Apresenta",
-    "year": 2018,
-    "artist_name": "Otto",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=J_v_ZV0-AA4"
-  },
-  {
-    "id": 880825731266,
-    "song_title": "ProgramaEnsaio",
-    "year": 1997,
-    "artist_name": "Tim Maia",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=BzvWbXJVfVM"
-  },
-  {
-    "id": 744272772836,
-    "song_title": "Jockey Club - Rio de Janeiro",
-    "year": 1990,
-    "artist_name": "Legião Urbana",
+    "id": 215213340921,
+    "song_title": "IRA! - João Rock 2023 (Show Completo)",
+    "year": 2023,
+    "artist_name": "IRA!",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=aboVnkBCnEI"
+    "youtube_link": "https://www.youtube.com/watch?v=4G9ZyLKuoek"
   },
   {
-    "id": 212845979298,
-    "song_title": "Tiny Desk Brasil",
+    "id": 531503918109,
+    "song_title": "BARÃO VERMELHO | JOÃO ROCK 2025 (SHOW COMPLETO)",
     "year": 2025,
-    "artist_name": "Céu",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=ZrksaLcNnFI"
-  },
-  {
-    "id": 151170971168,
-    "song_title": "Radar TVE-RS",
-    "year": 2003,
-    "artist_name": "Replicantes",
+    "artist_name": "A Radio Rock",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=F742kNEDoMY"
+    "youtube_link": "https://www.youtube.com/watch?v=u_LIXGl6eDQ"
   },
   {
-    "id": 132911891892,
-    "song_title": "Turnê SETEVIDAS Ao Vivo",
+    "id": 549680118647,
+    "song_title": "Tim Maia - Show completo da virada de 1997/1998",
+    "year": 2012,
+    "artist_name": "Tim Maia",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=3thQ5w6myUk"
+  },
+  {
+    "id": 776479921203,
+    "song_title": "Maiara e Maraisa - Show Completo (Ao Vivo em Goiânia)",
+    "year": 2015,
+    "artist_name": "Maiara e Maraisa",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=NGkmSj4_RJQ"
+  },
+  {
+    "id": 890379341844,
+    "song_title": "Zeca Pagodinho 40 anos Ao Vivo -  SHOW COMPLETO OFICIAL",
+    "year": 2024,
+    "artist_name": "Zeca Pagodinho 40 anos Ao Vivo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Qph5Wb_QGhY"
+  },
+  {
+    "id": 956564963090,
+    "song_title": "Skank - Os Três Primeiros (Ao Vivo no Circo Voador) | Show Completo",
+    "year": 2024,
+    "artist_name": "Skank",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=oxHBe3MEX9c"
+  },
+  {
+    "id": 651794225870,
+    "song_title": "Racionais MC's 3 Décadas Ao Vivo - Show Completo",
+    "year": 2024,
+    "artist_name": "Racionais MC's 3 Décadas Ao Vivo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=4Z84StWghVs"
+  },
+  {
+    "id": 929799591695,
+    "song_title": "Capital Inicial Ao Vivo no #Quintou | Filtr (Show Completo)",
+    "year": 2025,
+    "artist_name": null,
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Io8SK-C2rtE"
+  },
+  {
+    "id": 880561445985,
+    "song_title": "CPM 22 - João Rock 2022 (Show Completo)",
+    "year": 2022,
+    "artist_name": "CPM 22",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=SmvLeHofWFE"
+  },
+  {
+    "id": 842022615873,
+    "song_title": "Planet Hemp - BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA (Show Completo)",
+    "year": 2024,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=9i0ZXjyy6eU"
+  },
+  {
+    "id": 465854946428,
+    "song_title": "Cazuza - Especial 'Uma Prova de Amor' - SEM CORTES - COMPLETO",
+    "year": 2020,
+    "artist_name": "Cazuza",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=bodzvyMzIxo"
+  },
+  {
+    "id": 706855405363,
+    "song_title": "Corona Luau MTV SHOW COMPLETO",
+    "year": 2024,
+    "artist_name": "MTV Brasil",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=oPVxqABuPpU"
+  },
+  {
+    "id": 964604016753,
+    "song_title": "Bell Marques ao vivo no VUMBORA PRO MAR (Show Completo)",
+    "year": 2021,
+    "artist_name": "Bell Marques",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=gCKjBPz6m9k"
+  },
+  {
+    "id": 122431145639,
+    "song_title": "TNT Ao Vivo 2004 - Show Completo em Vídeo",
+    "year": 2023,
+    "artist_name": "TNT Ao Vivo 2004",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=CAvKXdV_EtU"
+  },
+  {
+    "id": 384528230406,
+    "song_title": "ASA DE ÁGUIA - SHOW AO VIVO - DVD  COMPLETO",
+    "year": 2018,
+    "artist_name": "ASA DE ÁGUIA",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=4oo2AJbaxhY"
+  },
+  {
+    "id": 373396363747,
+    "song_title": "Titãs - João Rock 2022 (Show Completo)",
+    "year": 2022,
+    "artist_name": "Titãs",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=bkJ4Gip7M5U"
+  },
+  {
+    "id": 703414392262,
+    "song_title": "Sambabook Beth Carvalho - Completo",
+    "year": 2025,
+    "artist_name": "Sambabook Beth Carvalho",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=P1EeeOuOTSY"
+  },
+  {
+    "id": 991878561343,
+    "song_title": "Pitty - ACNXX Ao Vivo em Salvador",
     "year": 2024,
     "artist_name": "Pitty",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=uG-7IFz2-cY"
+    "youtube_link": "https://www.youtube.com/watch?v=iydTs_RsB-o"
   },
   {
-    "id": 574352174796,
-    "song_title": "Cidade das Artes - RJ",
-    "year": 2016,
-    "artist_name": "A Inusitada Superbanda",
+    "id": 634141392287,
+    "song_title": "Planet Hemp - BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA (Show Completo)",
+    "year": 2024,
+    "artist_name": "Planet Hemp",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=ybmwMYqStmQ"
+    "youtube_link": "https://www.youtube.com/watch?v=9i0ZXjyy6eU"
   },
   {
-    "id": 129022329466,
-    "song_title": "Ao Vivo",
-    "year": 2023,
-    "artist_name": "The Originals",
+    "id": 499148701677,
+    "song_title": "Planet Hemp AO VIVO - Documentario Show MTV 2000 - Completo!!!",
+    "year": 2014,
+    "artist_name": "Planet Hemp AO VIVO",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=DJsiM39-gF0"
+    "youtube_link": "https://www.youtube.com/watch?v=WiFxAVJcTOk"
   },
   {
-    "id": 850761647583,
-    "song_title": "Ao Vivo",
-    "year": 1999,
-    "artist_name": "DjavanOficial",
+    "id": 619473572928,
+    "song_title": "Sex Noise - Circo Voador 1996 - \"Paredão\"",
+    "year": 2009,
+    "artist_name": "Sex Noise",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=gYC8FF10y2M"
+    "youtube_link": "https://www.youtube.com/watch?v=G6xlT6h_axk"
   },
   {
-    "id": 415598909779,
-    "song_title": "Rádio Pirata Ao Vivo 35 anos",
-    "year": 2022,
-    "artist_name": "Paulo Ricardo",
+    "id": 153262030586,
+    "song_title": "Kamundjangos no Aeroanta de Curitiba em  29/1/1997 .",
+    "year": 2021,
+    "artist_name": "Ilustre Comunicação Criativa",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=D-LiTwOjE30"
+    "youtube_link": "https://www.youtube.com/watch?v=t1xa5-u3JIM"
   },
   {
-    "id": 482260168490,
-    "song_title": "João Rock",
-    "year": 2025,
-    "artist_name": "Natiruts",
+    "id": 815562962749,
+    "song_title": "Lançamento do CD Paredão Circo Voador, 1996",
+    "year": 2013,
+    "artist_name": "90under",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Ju3Fqsv84w4"
-  },
-  {
-    "id": 490124165190,
-    "song_title": "Pra todo mundo ouvir (Ao vivo)",
-    "year": 2023,
-    "artist_name": "The Originals",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=qg5a6NVlra8"
+    "youtube_link": "https://www.youtube.com/watch?v=L0iSEccbabc"
   }
 ]

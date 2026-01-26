@@ -28,5 +28,21 @@
     "artist_name": "Paulo Ricardo",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=D-LiTwOjE30"
+  },
+  {
+    "id": 880561445985,
+    "song_title": "CPM 22 - João Rock 2022 (Show Completo)",
+    "year": 2022,
+    "artist_name": "CPM 22",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=SmvLeHofWFE"
+  },
+  {
+    "id": 373396363747,
+    "song_title": "Titãs - João Rock 2022 (Show Completo)",
+    "year": 2022,
+    "artist_name": "Titãs",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=bkJ4Gip7M5U"
   }
 ]

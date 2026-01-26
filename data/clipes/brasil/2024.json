@@ -60,16 +60,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_1IyWHmsspYk",
-    "song_title": "Canção Eterna (Ao Vivo) | Fhop Music",
-    "year": 2024,
-    "artist_name": "Eterna",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=1IyWHmsspYk",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_ozrSLguSG-c",
     "song_title": "Akao.47 -  \"PIRATARIA ETERNA\" (Official Music Video)",
     "year": 2024,
@@ -91,9 +81,9 @@
   },
   {
     "id": "yt_k5mDJK0_iSU",
-    "song_title": "Falamansa feat Marcelo Falcão - Oh! Chuva (Videoclipe Oficial)",
+    "song_title": "Oh! Chuva",
     "year": 2024,
-    "artist_name": "Fala Mansa",
+    "artist_name": "Falamansa feat Marcelo Falcão",
     "artist_genre": "Forró",
     "youtube_link": "https://www.youtube.com/watch?v=k5mDJK0_iSU",
     "imvdb_url": null,
@@ -608,5 +598,61 @@
     "youtube_link": "https://www.youtube.com/watch?v=xG70ULbTm7I",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 519497102754,
+    "song_title": "LEGALIZE JÁ (Ao Vivo)",
+    "year": 2024,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=oC1Nk6mtXEU"
+  },
+  {
+    "id": 837657993746,
+    "song_title": "Legalize Já (Ao Vivo Na Plantação - Versão 360º)",
+    "year": 2024,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=z_4bAoqLX3I"
+  },
+  {
+    "id": 586309643534,
+    "song_title": "QUEIMANDO TUDO (Ao Vivo - Baseado em Fatos Reais: 30 Anos de Fumaça)",
+    "year": 2024,
+    "artist_name": "Planet Hemp, Black Alien",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=MMtz6NRD5cw"
+  },
+  {
+    "id": 701600913064,
+    "song_title": "MANTENHA O RESPEITO (Ao Vivo - Baseado em Fatos Reais: 30 Anos de Fumaça)",
+    "year": 2024,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=t7JSDB5d54A"
+  },
+  {
+    "id": 358201606885,
+    "song_title": "DIGDIGDIG RMX / DUAS CIDADES (Baseado em Fatos Reais: 30 Anos de Fumaça)",
+    "year": 2024,
+    "artist_name": "Planet Hemp & BaianaSystem",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=W0Sw1fVQyJ0"
+  },
+  {
+    "id": 651559635889,
+    "song_title": "Dig Dig Dig (Hempa) (Versão 360º)",
+    "year": 2024,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=8Kx4nyfVFjA"
+  },
+  {
+    "id": 346248474875,
+    "song_title": "EX-QUADRILHA / FAZENDO A CABEÇA (Ao Vivo) [Baseado em Fatos Reais: 30 Anos de Fumaça]",
+    "year": 2024,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=Y6n2BDqO0-o"
   }
 ]

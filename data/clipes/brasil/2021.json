@@ -108,8 +108,6 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-
-
   {
     "id": "yt_RfPATvJgr7s",
     "song_title": "A Internacional",
@@ -120,7 +118,6 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-
   {
     "id": "yt_rJxWcn5Ud7A",
     "song_title": "Zoombido - Uma barata chamada Kafka",
@@ -250,5 +247,21 @@
     "youtube_link": "https://www.youtube.com/watch?v=CcCtKg6IYDY",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 320542172118,
+    "song_title": "Legalize Já",
+    "year": 2021,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=338mv4ZtFsU"
+  },
+  {
+    "id": 595017610545,
+    "song_title": "Mantenha o Respeito (Ao Vivo)",
+    "year": 2021,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=ZEHwVaJgii4"
   }
 ]

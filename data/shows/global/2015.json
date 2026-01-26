@@ -6,5 +6,37 @@
     "artist_name": "Mark Lanegan Band",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=Ekzt6bIHFRw"
+  },
+  {
+    "id": 155199971154,
+    "song_title": "Madonna - Confessions Tour",
+    "year": 2015,
+    "artist_name": "Madonna",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=liXbh4lZRmk"
+  },
+  {
+    "id": 978275250099,
+    "song_title": "Whitney Houston: Live in Concert (Japan 1990)",
+    "year": 2015,
+    "artist_name": "Son Nguyen",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Co5XR8ZUP_k"
+  },
+  {
+    "id": 379255542329,
+    "song_title": "Melvins Live @ villette sonique",
+    "year": 2015,
+    "artist_name": "Cannabear",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=WRi-jLC6a-k"
+  },
+  {
+    "id": 381106515204,
+    "song_title": "Melvins Live @ Amoeba 07-15-2008",
+    "year": 2015,
+    "artist_name": "Thanasis Katsadas",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ZR8KGPMwU3w"
   }
 ]

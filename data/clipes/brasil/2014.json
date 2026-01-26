@@ -75,7 +75,10 @@
     "id": 753438107200,
     "song_title": "Zen (Spanish Version)",
     "year": 2014,
-    "artist_genre": ["Pop", "Latino"],
+    "artist_genre": [
+      "Pop",
+      "Latino"
+    ],
     "youtube_link": "https://www.youtube.com/watch?v=HRp9rpUtfoY",
     "imvdb_url": "https://imvdb.com/video/anitta/zen-spanish-version",
     "artist": "Anitta"
@@ -108,7 +111,6 @@
     "imvdb_url": "https://imvdb.com/video/vanguart/meu-sol",
     "source": "IMVDb"
   },
-
   {
     "id": "yt_r8-mF4l-07o",
     "song_title": "Angra - Time (Official)",
@@ -924,7 +926,10 @@
     "song_title": "Ese Tipo Soy Yo (Esse Cara Sou Eu) - Ao vivo em Las Vegas",
     "year": 2014,
     "artist_name": "Roberto Carlos",
-    "artist_genre": ["MPB", "Latino"],
+    "artist_genre": [
+      "MPB",
+      "Latino"
+    ],
     "youtube_link": "https://www.youtube.com/watch?v=UaQSLWJxIwc",
     "imvdb_url": null,
     "source": "YouTube"
@@ -1008,5 +1013,13 @@
     "youtube_link": "https://www.youtube.com/watch?v=V6T07WuDSOI",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 514358037606,
+    "song_title": "Ex-Quadrilha Da Fumaça",
+    "year": 2014,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=GGnyoknc980"
   }
 ]

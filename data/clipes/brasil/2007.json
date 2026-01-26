@@ -356,5 +356,85 @@
     "youtube_link": "https://www.youtube.com/watch?v=63zVm46_gA4",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_VGzAk9LhH6w",
+    "song_title": "Entre O Desespero E A Esperança",
+    "year": 2007,
+    "artist_name": "Ao Cubo",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=VGzAk9LhH6w",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_j1_zee9uHmM",
+    "song_title": "Ela é Carioca",
+    "year": 2007,
+    "artist_name": "Os Cariocas",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=j1_zee9uHmM",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_5O3KKlFZ1sU",
+    "song_title": "Rio",
+    "year": 2007,
+    "artist_name": "Os Cariocas",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=5O3KKlFZ1sU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_6B1Vc_UPmXk",
+    "song_title": "Todo Azul Do Mar (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=6B1Vc_UPmXk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ZZMmbi1kfUo",
+    "song_title": "Linda Juventude (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=ZZMmbi1kfUo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_f5ONpooy7hs",
+    "song_title": "Sonhando O Futuro (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=f5ONpooy7hs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Uqvqc2o38tw",
+    "song_title": "Planeta Sonho (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=Uqvqc2o38tw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_cyDHa1o4mvs",
+    "song_title": "Mesmo De Brincadeira (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=cyDHa1o4mvs",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

@@ -858,5 +858,29 @@
     "youtube_link": "https://www.youtube.com/watch?v=E6p7-YZsz8s",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 357413851112,
+    "song_title": "Queimando Tudo (MTV Ao Vivo)",
+    "year": 2025,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=oxSA3DAce-s"
+  },
+  {
+    "id": 710210252742,
+    "song_title": "Mantenha O Respeito (MTV Ao Vivo)",
+    "year": 2025,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=1_jOXTVelns"
+  },
+  {
+    "id": 675444777307,
+    "song_title": "Dig Dig Dig (Hempa) (MTV Ao Vivo)",
+    "year": 2025,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=6C8aoe7Hkyk"
   }
 ]

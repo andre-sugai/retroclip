@@ -1,192 +1,954 @@
 [
-{
-    "id": "yt_kUPypjnRt8A",
-    "song_title": "In The Name Of Love",
+  {
+    "id": 637862329649,
+    "song_title": "Rollins Band - Liar (1994) Official Music Video Remastered",
+    "year": 2020,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=GhKMVlHz9FQ"
+  },
+  {
+    "id": 318295984776,
+    "song_title": "Rollins Band - Illumination",
+    "year": 2009,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=n7MZwH24CI8"
+  },
+  {
+    "id": 489025228245,
+    "song_title": "Hard-Ons and Henry Rollins - Let There Be Rock",
+    "year": 2024,
+    "artist_name": "Hard-Ons and Henry Rollins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=FMzowawbDbk"
+  },
+  {
+    "id": 377790566624,
+    "song_title": "Rollins Band - Disconnect (HQ)",
+    "year": 2012,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=8KANoVk5CgQ"
+  },
+  {
+    "id": 449244794499,
+    "song_title": "Rollins Band - Disconnect | Bizarre Festival 1997",
+    "year": 2020,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=G8pHCPtVRdg"
+  },
+  {
+    "id": 522090372932,
+    "song_title": "Henry Rollins - Liar Live Reading Festival 28.08.94",
+    "year": 2018,
+    "artist_name": "Henry Rollins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=y0ZV_LCrHA0"
+  },
+  {
+    "id": 857023431742,
+    "song_title": "Rollins Band -  Low Self Opinion (Official Music Video) 1992 Remastered",
+    "year": 2023,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=rKb6Ik0Jm3s"
+  },
+  {
+    "id": 241150820672,
+    "song_title": "Henry Rollins - Liar - Higher Quality",
+    "year": 2013,
+    "artist_name": "Henry Rollins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=awY1MRlMKMc"
+  },
+  {
+    "id": 616694377050,
+    "song_title": "Rollins Band - Low Self Opinion",
+    "year": 2007,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=o28dyt7w3As"
+  },
+  {
+    "id": 337606766974,
+    "song_title": "Rollins Band - Tearing",
+    "year": 2017,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_gC-n_UIezo"
+  },
+  {
+    "id": 615622857499,
+    "song_title": "Rollins Band - Starve",
+    "year": 2009,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=lLvsnkQtZLI"
+  },
+  {
+    "id": 702557120920,
+    "song_title": "The Henry Rollins Band - Liar Live(woodstock 94')",
+    "year": 2011,
+    "artist_name": "The Henry Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=h0nP2a42Ccc"
+  },
+  {
+    "id": 289030768447,
+    "song_title": "Rollins Band - Love's So Heavy",
+    "year": 2009,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=6aWmVbg__V0"
+  },
+  {
+    "id": 534390014870,
+    "song_title": "Rollins Band - Love's So Heavy (Montreux Jazz Festival 2000)",
+    "year": 2012,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=-PZHRZe8UGE"
+  },
+  {
+    "id": 281347421225,
+    "song_title": "Henry Rollins & Cyndi Lauper \"Rise Above\" Dec 10, 2019",
+    "year": 2019,
+    "artist_name": "mmmmpopmuzik",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=oNnGmq99Xv4"
+  },
+  {
+    "id": 721461690230,
+    "song_title": "Rollins Band - Get Some Go Again",
+    "year": 2009,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=eN7oXHNV058"
+  },
+  {
+    "id": 479094026307,
+    "song_title": "Morphine - Buena (Official Music Video)",
+    "year": 2023,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=EthwxA_2lFQ"
+  },
+  {
+    "id": 388701112703,
+    "song_title": "Morphine - Honey White (Official Music Video)",
+    "year": 2023,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=IZ1T3x2fEiU"
+  },
+  {
+    "id": 395855173577,
+    "song_title": "Morphine - Buena (Live on 2 Meter Sessions)",
+    "year": 2013,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=f1BEjGet8M8"
+  },
+  {
+    "id": 994295858624,
+    "song_title": "Morphine - Thursday (Official Music Video)",
+    "year": 2023,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=3xz4umNws0s"
+  },
+  {
+    "id": 133685516944,
+    "song_title": "Morphine \"You speak my language\" \"Honey white\"",
+    "year": 2008,
+    "artist_name": "behind007",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=1sheJcFCL6I"
+  },
+  {
+    "id": 379472845715,
+    "song_title": "Morphine - Early To Bed (official video HD)",
+    "year": 2015,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=5at5LJgHg1Y"
+  },
+  {
+    "id": 725097073977,
+    "song_title": "Morphine - Cure For Pain.",
+    "year": 2012,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=BgvBWR0Tr7I"
+  },
+  {
+    "id": 591988476847,
+    "song_title": "Morphine \"All wrong\" \"Whisper\"",
+    "year": 2008,
+    "artist_name": "behind007",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=m1iTZItBzGY"
+  },
+  {
+    "id": 135379553630,
+    "song_title": "Morphine - Super Sex (Official Music Video)",
+    "year": 2023,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=2_FJn5jGG38"
+  },
+  {
+    "id": 216620717354,
+    "song_title": "Morphine - Cure For Pain (Live at Super Rock, Lisbon '95)",
+    "year": 2009,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=UytG95_GwTw"
+  },
+  {
+    "id": 949232512827,
+    "song_title": "Morphine -  Buena (Live on Late Night With Conan O'Brien)",
+    "year": 2023,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=CYXUIIduIPM"
+  },
+  {
+    "id": 424843998845,
+    "song_title": "Morphine - My Brain + Sharks (Live on 2 Meter Sessions)",
+    "year": 2020,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=YcgfpKFhQm0"
+  },
+  {
+    "id": 872224755896,
+    "song_title": "Morphine - Good (Live at The Middle East 1993)",
+    "year": 2022,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=mJsY6RvYZys"
+  },
+  {
+    "id": 716742830176,
+    "song_title": "Morphine - I'm Free Now (Live at The Middle East 1993)",
+    "year": 2022,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=QvEDvXueUjM"
+  },
+  {
+    "id": 752656765885,
+    "song_title": "Morphine - Radar (1993)",
     "year": 2021,
-    "artist_name": "ARION Ft. CYAN KICKS",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=kUPypjnRt8A",
-    "imvdb_url": null,
-    "source": "YouTube"
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=fwJoTQQ-us8"
   },
-{
-    "id": "yt_ygno4cGrO4A",
-    "song_title": "Out Of My Life",
+  {
+    "id": 266367784276,
+    "song_title": "Have a Lucky Day - Morphine (Subtitulada Inglés/Español)",
+    "year": 2014,
+    "artist_name": "Have a Lucky Day",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=oCuFuFz50pk"
+  },
+  {
+    "id": 295608330211,
+    "song_title": "Temple Of The Dog - Hunger Strike",
+    "year": 2012,
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=VUb450Alpps"
+  },
+  {
+    "id": 333676735470,
+    "song_title": "Temple Of The Dog - Hunger Strike (Legendado em Português)",
     "year": 2021,
-    "artist_name": "Arion",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=ygno4cGrO4A",
-    "imvdb_url": null,
-    "source": "YouTube"
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=E8IXkQi_pPA"
   },
-{
-    "id": "yt_K17df81RL9Y",
-    "song_title": "Cure For Me",
+  {
+    "id": 554236460765,
+    "song_title": "Temple of the Dog   Say Hello 2 Heaven   Live at Moore Theater 1990",
+    "year": 2017,
+    "artist_name": "EternitysRose",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=SXOzGY46In0"
+  },
+  {
+    "id": 149376697883,
+    "song_title": "Temple Of The Dog - Say Hello 2 Heaven (Alternate Mix / Pseudo Video)",
+    "year": 2016,
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=dwXBfbCfbro"
+  },
+  {
+    "id": 747966104524,
+    "song_title": "Temple Of The Dog - Times Of Trouble - Madison Square Garden",
+    "year": 2016,
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=r_W0rBpM-cU"
+  },
+  {
+    "id": 390147710799,
+    "song_title": "Temple of the Dog - War Pigs (Black Sabbath cover) – Live in San Francisco",
+    "year": 2016,
+    "artist_name": "Temple of the Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=O-q5ksqQBuk"
+  },
+  {
+    "id": 879568443725,
+    "song_title": "Temple Of The Dog - Reach Down [Live At Alpine Valley]",
+    "year": 2017,
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Wp-KrJGb5Sk"
+  },
+  {
+    "id": 430182011352,
+    "song_title": "Temple of the Dog - Say Hello 2 Heaven - Alpine Valley (September 3, 2011)",
+    "year": 2016,
+    "artist_name": "Temple of the Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ORqYGEmrMm0"
+  },
+  {
+    "id": 717876194356,
+    "song_title": "Chris Cornell & Eddie Vedder - Hunger Strike (September 8, 1992)",
+    "year": 2012,
+    "artist_name": "Chris Cornell & Eddie Vedder",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ZbPD7n_S9ME"
+  },
+  {
+    "id": 443184869552,
+    "song_title": "Temple Of The Dog - Times Of Trouble (Legendado em Português)",
+    "year": 2020,
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=qJHdCOHnln4"
+  },
+  {
+    "id": 836980587466,
+    "song_title": "Eddie Vedder and Chris Cornell's last performance of \"Hunger Strike\"",
+    "year": 2018,
+    "artist_name": "Grunge_maker",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=F-7d96UFSbM"
+  },
+  {
+    "id": 131301010582,
+    "song_title": "Temple of the Dog - Call me a dog  - Live at Benaroya Hall PROSHOT",
+    "year": 2020,
+    "artist_name": "Temple of the Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=DZTBFqc1WwE"
+  },
+  {
+    "id": 175947751572,
+    "song_title": "Temple of the Dog - Times of Trouble - Philadelphia (November 4, 2016)",
+    "year": 2016,
+    "artist_name": "Temple of the Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=paD2O9ZAGbA"
+  },
+  {
+    "id": 568834671780,
+    "song_title": "Temple Of The Dog - Hunger Strike",
+    "year": 2009,
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ogIcfCtuTc8"
+  },
+  {
+    "id": 942976012890,
+    "song_title": "Temple of the Dog - Stargazer (Mother Love Bone cover) – Live in San Francisco",
+    "year": 2016,
+    "artist_name": "Temple of the Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=R2ZjXApa7zk"
+  },
+  {
+    "id": 159378750254,
+    "song_title": "Temple Of The Dog - Angel Of Fire (Demo / Pseudo Video)",
+    "year": 2016,
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=cTgSUE-LzRk"
+  },
+  {
+    "id": 798129101396,
+    "song_title": "Mother Love Bone - Stargazer",
+    "year": 2012,
+    "artist_name": "Mother Love Bone",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=p9n9gW1wCks"
+  },
+  {
+    "id": 525882020806,
+    "song_title": "Temple of the Dog - Wooden Jesus (Seattle, 1990)",
+    "year": 2009,
+    "artist_name": "Temple of the Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ix5L5hxtoxQ"
+  },
+  {
+    "id": 673480191658,
+    "song_title": "Temple Of The Dog - Hunger Strike",
+    "year": 2008,
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=dxj5g-HQ11E"
+  },
+  {
+    "id": 957768201316,
+    "song_title": "Mother Love Bone - Star Dog Champion ( official video)",
+    "year": 2020,
+    "artist_name": "Mother Love Bone",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=L5cGLC61NkY"
+  },
+  {
+    "id": 823843769363,
+    "song_title": "Chloe Dancer/ Crown of Thorns Mother Love Bone",
+    "year": 2011,
+    "artist_name": "bentleyabc",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=FyBJoFz_QPw"
+  },
+  {
+    "id": 481510976972,
+    "song_title": "Mother Love Bone - Holy Roller",
+    "year": 2025,
+    "artist_name": "Mother Love Bone",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=pRW-frHcJ-k"
+  },
+  {
+    "id": 718126190203,
+    "song_title": "Pearl Jam  - Chloe Dancer & Crown Of Thorns Toronto 2011 COMPLETE & SDB",
+    "year": 2011,
+    "artist_name": "Pearl Jam",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=tdiCLZOxB3Q"
+  },
+  {
+    "id": 759688904466,
+    "song_title": "Mother Love Bone \"This is Shangrila\" Sunset Strip Video, 1991",
+    "year": 2022,
+    "artist_name": "The Video Vault",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=LRkB5umIq0U"
+  },
+  {
+    "id": 574219350970,
+    "song_title": "Mother Love Bone - Bone China (Seattle, 1989)",
+    "year": 2009,
+    "artist_name": "Mother Love Bone",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Uwo05U8CNQA"
+  },
+  {
+    "id": 703103049449,
+    "song_title": "shame - One Rizla (Official Video)",
+    "year": 2017,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=7Mz_K1b5rVk"
+  },
+  {
+    "id": 654788637998,
+    "song_title": "shame - Cutthroat (Official Video)",
+    "year": 2025,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=iEZfLcdJemo"
+  },
+  {
+    "id": 929058997710,
+    "song_title": "shame - Concrete (Official Video)",
+    "year": 2017,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_MVLqZpnwow"
+  },
+  {
+    "id": 493061163240,
+    "song_title": "shame - Water in the Well (Official Video)",
+    "year": 2020,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=O9yivp5zyjo"
+  },
+  {
+    "id": 375682197028,
+    "song_title": "shame - Six-Pack (Official Video)",
+    "year": 2023,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=WquSaLZt91c"
+  },
+  {
+    "id": 550846966993,
+    "song_title": "shame - Fingers of Steel (Official Video)",
+    "year": 2022,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ULLsuL0y-Fk"
+  },
+  {
+    "id": 201925039887,
+    "song_title": "shame – Nigel Hitter (Exclusive Soccer AM Performance)",
     "year": 2021,
-    "artist_name": "Aurora",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=K17df81RL9Y",
-    "imvdb_url": null,
-    "source": "YouTube"
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=3qzOGubzfxg"
   },
-{
-    "id": "yt_sJZ1G0e5bWU",
-    "song_title": "Le Banana Split",
+  {
+    "id": 284024968880,
+    "song_title": "Shame - Six-Pack (Glastonbury 2023)",
+    "year": 2023,
+    "artist_name": "Shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=bJ2sbD5V-IM"
+  },
+  {
+    "id": 674764155403,
+    "song_title": "shame - Tasteless (Official Video)",
+    "year": 2017,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Tpi4V1bUEzM"
+  },
+  {
+    "id": 702595420368,
+    "song_title": "shame - The Lick (Live at Dropout Studios)",
+    "year": 2016,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=J_i1FZEHH2o"
+  },
+  {
+    "id": 187659338504,
+    "song_title": "shame - Spartak (Official Video)",
+    "year": 2025,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=u4G3_9UFLDc"
+  },
+  {
+    "id": 405229263049,
+    "song_title": "shame - Alphabet (Official Video)",
+    "year": 2020,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=jka7aCIHT-I"
+  },
+  {
+    "id": 270018014900,
+    "song_title": "shame - Dust on Trial",
+    "year": 2018,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=AiFxUhgU4LE"
+  },
+  {
+    "id": 578498680366,
+    "song_title": "The Nixons Sister (Official Video)",
+    "year": 2018,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=7wEok7dFgBs"
+  },
+  {
+    "id": 413659377758,
+    "song_title": "Stabbing Westward - What Do I Have To Do?",
+    "year": 2009,
+    "artist_name": "Stabbing Westward",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=VNsVpL8TDLA"
+  },
+  {
+    "id": 204099220263,
+    "song_title": "STABBING WESTWARD SHAME live 120 mins",
+    "year": 2008,
+    "artist_name": "oscilatorbank",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=bFvmvRwOlhc"
+  },
+  {
+    "id": 554637549153,
+    "song_title": "Stabbing Westward - So Far Away (2001)",
     "year": 2021,
-    "artist_name": "Lio",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=sJZ1G0e5bWU",
-    "imvdb_url": null,
-    "source": "YouTube"
+    "artist_name": "Stabbing Westward",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=3iT1gizYsd8"
   },
-{
-    "id": "yt_0h86S5fN9pQ",
-    "song_title": "Banana Splits",
-    "year": 1979,
-    "artist_name": "The Dickies",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=0h86S5fN9pQ",
-    "imvdb_url": null,
-    "source": "YouTube"
+  {
+    "id": 509255021061,
+    "song_title": "Dead and Gone - Stabbing Westward",
+    "year": 2020,
+    "artist_name": "Dead and Gone",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=s2c2xW78t6U"
   },
-{
-    "id": "yt_PooFx8wfHxs",
-    "song_title": "Zona Barial",
+  {
+    "id": 877672586645,
+    "song_title": "Crawl Stabbing Westward",
+    "year": 2020,
+    "artist_name": "Stabbing Westward",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=xwHjEGpNVPg"
+  },
+  {
+    "id": 612909060421,
+    "song_title": "Stabbing Westward \"Ghost\" directed by Christopher Hall",
+    "year": 2022,
+    "artist_name": "COP International",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=TVJg2vySvTM"
+  },
+  {
+    "id": 520319609689,
+    "song_title": "The Nixons \"Sister\" (Live) (Official Video)",
     "year": 2021,
-    "artist_name": "De La Rue",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=PooFx8wfHxs",
-    "imvdb_url": null,
-    "source": "YouTube"
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=JI-P1J23usA"
   },
-{
-    "id": "yt_2A6TpvnmygM",
-    "song_title": "Cocodrilho Tiburão",
-    "year": 2021,
-    "artist_name": "De La Rue",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=2A6TpvnmygM",
-    "imvdb_url": null,
-    "source": "YouTube"
+  {
+    "id": 366831423466,
+    "song_title": "The Nixons Wire (Official Video)",
+    "year": 2018,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=fHkxI9fgtCM"
   },
-{
-    "id": "yt_GQbLKgtm2yU",
-    "song_title": "MENTE PIRATA",
-    "year": 2021,
-    "artist_name": "De La Rue",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=GQbLKgtm2yU",
-    "imvdb_url": null,
-    "source": "YouTube"
+  {
+    "id": 608192743515,
+    "song_title": "The Nixons Song of the Year (Official Video)",
+    "year": 2018,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=BK4bNRgOzCM"
   },
-{
-    "id": "yt_lILv_fGDjTw",
-    "song_title": "Let This Love Lie Dead",
-    "year": 2021,
-    "artist_name": "First",
-    "artist_genre": "Hardcore",
-    "youtube_link": "https://www.youtube.com/watch?v=lILv_fGDjTw",
-    "imvdb_url": null,
-    "source": "YouTube"
+  {
+    "id": 996036382068,
+    "song_title": "The Nixons Baton Rouge (Official Video)",
+    "year": 2019,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=7mobc-b9Ja4"
   },
-{
-    "id": "yt_a-dB3V4yyJ8",
-    "song_title": "KD and Lunch Meat",
-    "year": 2021,
-    "artist_name": "Golden Boys",
-    "artist_genre": "Indie",
-    "youtube_link": "https://www.youtube.com/watch?v=a-dB3V4yyJ8",
-    "imvdb_url": null,
-    "source": "YouTube"
+  {
+    "id": 664858126709,
+    "song_title": "The Nixons Sister (Live on Friday Night)",
+    "year": 2018,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=DPVHQfFwC-Q"
   },
-{
-    "id": "yt_CR-lTsdMlJk",
-    "song_title": "Dript Out",
-    "year": 2021,
-    "artist_name": "Nas Hori x LOWC8 x KIID HORI x Wani Hori",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=CR-lTsdMlJk",
-    "imvdb_url": null,
-    "source": "YouTube"
+  {
+    "id": 147460343245,
+    "song_title": "The Nixons Head (Official Video)",
+    "year": 2018,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=y1T_fYDzCec"
   },
-{
-    "id": "yt_hJCZet2PMKw",
-    "song_title": "I Stand On That",
-    "year": 2021,
-    "artist_name": "E-40 ft. Joyner Lucas & T.I.",
-    "artist_genre": "Rap",
-    "youtube_link": "https://www.youtube.com/watch?v=hJCZet2PMKw",
-    "imvdb_url": null,
-    "source": "YouTube"
+  {
+    "id": 956071127235,
+    "song_title": "The Nixons \"Kaleidoscope\" (Official Video)",
+    "year": 2022,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=cx6Iw7Ix8ik"
   },
-{
-    "id": "yt_PweyXXYvS6o",
-    "song_title": "Embrace",
-    "year": 2021,
-    "artist_name": "Ludovico Technique",
-    "artist_genre": "Gothic Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=PweyXXYvS6o",
-    "imvdb_url": null,
-    "source": "YouTube"
+  {
+    "id": 656506568322,
+    "song_title": "The Nixons - Crutch (official video)",
+    "year": 2019,
+    "artist_name": "The Nixons",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Gd-oX1EO2jM"
   },
-{
-    "id": "yt_78lgKae6CbU",
-    "song_title": "Becoming Numb",
-    "year": 2021,
-    "artist_name": "Ludovico Technique",
-    "artist_genre": "Gothic Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=78lgKae6CbU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_6fQc57t7VSA",
-    "song_title": "Whorehouse Blues",
-    "year": 2021,
-    "artist_name": "Motörhead",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=6fQc57t7VSA",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_tHV7AwkzYWg",
-    "song_title": "Rock Out",
-    "year": 2021,
-    "artist_name": "Motörhead",
-    "artist_genre": "Metal",
-    "youtube_link": "https://www.youtube.com/watch?v=tHV7AwkzYWg",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_1_4ELAxKrDc",
-    "song_title": "The Motto",
-    "year": 2021,
-    "artist_name": "Tiësto & Ava Max",
-    "artist_genre": "Dance",
-    "youtube_link": "https://www.youtube.com/watch?v=1_4ELAxKrDc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_wdCHlJoAP8I",
-    "song_title": "No Milk Today",
-    "year": 1966,
-    "artist_name": "Herman's Hermits",
+  {
+    "id": 289545982181,
+    "song_title": "Nixons Binoculars",
+    "year": 1996,
+    "artist_name": "The Eat",
     "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=wdCHlJoAP8I",
-    "imvdb_url": null,
-    "source": "YouTube"
+    "youtube_link": "https://www.youtube.com/watch?v=CutkrPSFNn4"
   },
-{
-    "id": "yt_9QnWJhPF6OU",
-    "song_title": "Queen of Spades",
-    "year": 2021,
-    "artist_name": "Andre de Brito",
-    "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=9QnWJhPF6OU",
-    "imvdb_url": null,
-    "source": "YouTube"
+  {
+    "id": 339008509389,
+    "song_title": "The Nixons Wire (Live on Friday Night)",
+    "year": 2018,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=mAXCdvNOnlQ"
+  },
+  {
+    "id": 549996891360,
+    "song_title": "The Nixons Foma (Live in Boston 7/31/1996)",
+    "year": 2018,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=CceLMbpeHYU"
+  },
+  {
+    "id": 124191990368,
+    "song_title": "The Nixons \"Letters\" (Official Video)",
+    "year": 2022,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=LiUVNiFH_8E"
+  },
+  {
+    "id": 135380192055,
+    "song_title": "The Nixons Live in Boston - Sister",
+    "year": 2017,
+    "artist_name": "The Nixons Live in Boston",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=VGsUevNlPjM"
+  },
+  {
+    "id": 878704120392,
+    "song_title": "The Nixons Leave (Live in Boston 7/31/1996)",
+    "year": 2018,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=eJbu_Sra-88"
+  },
+  {
+    "id": 146905329450,
+    "song_title": "The Nixons - Sister (Live from Grunge Night 8) [PRO SHOT] w/ The Ivins",
+    "year": 2023,
+    "artist_name": "The Nixons",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=n6aB2sQgGFk"
+  },
+  {
+    "id": 698665398344,
+    "song_title": "The Nixons \"One by One\" (Live)",
+    "year": 2020,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=nGX17XV6WAY"
+  },
+  {
+    "id": 781496226794,
+    "song_title": "The Nixons FOMA (Live at SXSW 1995)",
+    "year": 2018,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=0O3AUrtwmbY"
+  },
+  {
+    "id": 579992444441,
+    "song_title": "The Nixons  perform The Fall",
+    "year": 2013,
+    "artist_name": "calembear",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=S2q8_CucWfM"
+  },
+  {
+    "id": 937280014873,
+    "song_title": "Drugstore (Glastonbury '95)",
+    "year": 2008,
+    "artist_name": "malmal2006",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=TK8lE-a_kAQ"
+  },
+  {
+    "id": 745092266015,
+    "song_title": "Melvins - Honey Bucket (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=3RMmIJn_4FA"
+  },
+  {
+    "id": 440363517687,
+    "song_title": "Mo Kenney - \"Mary Jane's Last Dance (Tom Petty Cover)\" | House Of Strombo",
+    "year": 2017,
+    "artist_name": "Mo Kenney",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_4Eq-k7dBOU"
+  },
+  {
+    "id": 922566788380,
+    "song_title": "Melvins - Revolve (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=19y8V_WCtTI"
+  },
+  {
+    "id": 861752624062,
+    "song_title": "Melvins - \"Revolve\" - Live TV 1995",
+    "year": 2018,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=H0dDHiND0io"
+  },
+  {
+    "id": 512217890211,
+    "song_title": "13. Melvins - A History of Bad Men (Live in Norway, 2007)",
+    "year": 2010,
+    "artist_name": "13. Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=7Q7Q-KjD600"
+  },
+  {
+    "id": 987488824581,
+    "song_title": "Melvins - Hooch (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=U9LzoUxz74I"
+  },
+  {
+    "id": 511534273446,
+    "song_title": "Melvins - 'The Bit' (Live at 3RRR)",
+    "year": 2017,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=melj1Btb_Ko"
+  },
+  {
+    "id": 158837100306,
+    "song_title": "MELVINS - Spoonman",
+    "year": 2022,
+    "artist_name": "MELVINS",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=fQ38X-kmi1Y"
+  },
+  {
+    "id": 139231578525,
+    "song_title": "Melvins - War on Wisdom (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=4AHDMiVzzBQ"
+  },
+  {
+    "id": 425255038513,
+    "song_title": "Melvins - Lizzy (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=UmlJ0bexfDM"
+  },
+  {
+    "id": 778443431432,
+    "song_title": "Melvins playing Houdini (Whole Album) at Festsaal Kreuzberg 2013",
+    "year": 2013,
+    "artist_name": "The2011AWESOME",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=4d5sKZyZ_dc"
+  },
+  {
+    "id": 939319595254,
+    "song_title": "Melvins - Let It All Be @ Launch",
+    "year": 2010,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=t-nmcfiC3nM"
+  },
+  {
+    "id": 963494087595,
+    "song_title": "High On Fire - The Black Plot",
+    "year": 2016,
+    "artist_name": "High On Fire",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=AZlgBRokTCg"
+  },
+  {
+    "id": 794729007686,
+    "song_title": "THE MELVINS - \"Onions Make the Milk Taste Bad\" (Live from Los Angeles, CA 2017) #JAMINTHEVAN",
+    "year": 2017,
+    "artist_name": "THE MELVINS",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=4fo6avj9JCs"
+  },
+  {
+    "id": 381266172074,
+    "song_title": "HIGH ON FIRE - \"Rumors of War\" (Official Music Video)",
+    "year": 2007,
+    "artist_name": "HIGH ON FIRE",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=89h-X-tZa_w"
+  },
+  {
+    "id": 669955123516,
+    "song_title": "Butthole Surfers - Who Was In My Room Last Night?",
+    "year": 2024,
+    "artist_name": "Butthole Surfers",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=IRbAxhTNkBY"
+  },
+  {
+    "id": 137467582736,
+    "song_title": "Melvins - Queen (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=sgd_IjQrPv4"
+  },
+  {
+    "id": 342289680617,
+    "song_title": "Melvins - Queen (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=sgd_IjQrPv4"
+  },
+  {
+    "id": 179463607843,
+    "song_title": "Melvins - Electric Flower (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=VhkFYzeWi8o"
+  },
+  {
+    "id": 564663640120,
+    "song_title": "Melvins - With Teeth (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=pmomoopO-lQ"
+  },
+  {
+    "id": 843223060098,
+    "song_title": "Night Goat - Melvins (European Tour 2009) Perfect Quality",
+    "year": 2010,
+    "artist_name": "Night Goat",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=jzkDVmotWCs"
+  },
+  {
+    "id": 503521407562,
+    "song_title": "THE MELVINS - \"We Are Doomed\" (30th Anniversary Tour)",
+    "year": 2013,
+    "artist_name": "THE MELVINS",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_-KjztYK9iY"
+  },
+  {
+    "id": 998493964313,
+    "song_title": "Melvins - Mombius Hibachi (Official Video)",
+    "year": 2025,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=pYwnMqXCrWY"
   }
 ]

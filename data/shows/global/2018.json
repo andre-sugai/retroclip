@@ -62,5 +62,237 @@
     "artist_name": "Pitchfork",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=STixAvSrnlc"
+  },
+  {
+    "id": 734057582586,
+    "song_title": "Shame - Full Performance (Live on KEXP)",
+    "year": 2018,
+    "artist_name": "Shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=sJFjJMP5M0E"
+  },
+  {
+    "id": 172759334429,
+    "song_title": "#topsoff for Shame - One Rizla on Later... with Jools Holland",
+    "year": 2018,
+    "artist_name": "#topsoff for Shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=wkK5qTohwRc"
+  },
+  {
+    "id": 828989962081,
+    "song_title": "Queer Songbook Orchestra (Ft. Leah Fay of July Talk + Alanna Stuart of Bonjay) | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=klkj2X6vYQE"
+  },
+  {
+    "id": 631678707393,
+    "song_title": "John Prine | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=w5Rkm_dqm7A"
+  },
+  {
+    "id": 967474502390,
+    "song_title": "Snotty Nose Rez Kids | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Qnv5oPY5-OU"
+  },
+  {
+    "id": 856490543447,
+    "song_title": "Chilly Gonzales | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=r9Doc8jap_o"
+  },
+  {
+    "id": 803100753254,
+    "song_title": "Behemoth | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=MEQBUv8Ls3w"
+  },
+  {
+    "id": 464565686725,
+    "song_title": "The Charlatans | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ZH2Fmsa0xcA"
+  },
+  {
+    "id": 204622827045,
+    "song_title": "Fucked Up | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=aEk65xpELmQ"
+  },
+  {
+    "id": 964854558326,
+    "song_title": "Shad - \"Stakes Is High (De La Soul Cover)\" | House Of Strombo",
+    "year": 2018,
+    "artist_name": "Shad",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=LOBv-1-6cNw"
+  },
+  {
+    "id": 994195806697,
+    "song_title": "Rufus Wainwright - \"Grey Gardens\" | House Of Strombo",
+    "year": 2018,
+    "artist_name": "Rufus Wainwright",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Ry_SFWO7KVA"
+  },
+  {
+    "id": 211704201189,
+    "song_title": "Jeremy Dutcher, Partner + Snotty Nose Rez Kids | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=W6I96e9eEnM"
+  },
+  {
+    "id": 601149515643,
+    "song_title": "Courtney Barnett | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=KIlKi7FrLdA"
+  },
+  {
+    "id": 991383645508,
+    "song_title": "Les Stroud | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Q_5F1p7PaxA"
+  },
+  {
+    "id": 100240513780,
+    "song_title": "Cœur de pirate | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=x6_UVO49QYY"
+  },
+  {
+    "id": 287606728017,
+    "song_title": "Billy Talent | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ObntNul2CN0"
+  },
+  {
+    "id": 508939429830,
+    "song_title": "Power Trip | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=3fV0Wdjxyis"
+  },
+  {
+    "id": 807795788494,
+    "song_title": "The Melvins | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=WvSVXrkSfr4"
+  },
+  {
+    "id": 794704837420,
+    "song_title": "Franz Ferdinand | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_m5DC0dK16Q"
+  },
+  {
+    "id": 349093664466,
+    "song_title": "Fred Penner | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=0BL_Yq5UFzI"
+  },
+  {
+    "id": 146366827236,
+    "song_title": "Do Make Say Think | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=daPjsZUnLz0"
+  },
+  {
+    "id": 905638469003,
+    "song_title": "Barenaked Ladies | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=MJlsCkNI2Ww"
+  },
+  {
+    "id": 248668102437,
+    "song_title": "Randy Bachman + Tal Bachman | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=fvqGeF39y4w"
+  },
+  {
+    "id": 830271385134,
+    "song_title": "Black Mountain On Dave Grohl | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=5fXIdTs1MZo"
+  },
+  {
+    "id": 431498450188,
+    "song_title": "Black Mountain | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=X0G24JcvPnw"
+  },
+  {
+    "id": 525683513294,
+    "song_title": "Death From Above | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=43zLcvLjrZc"
+  },
+  {
+    "id": 730564323969,
+    "song_title": "Jim Cuddy | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=mNkJ3Erwu48"
+  },
+  {
+    "id": 612824899001,
+    "song_title": "Angel Olsen | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=-7tkjsBJ0ug"
+  },
+  {
+    "id": 737020793251,
+    "song_title": "SPOON | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=RAQpZguQoBo"
   }
 ]

@@ -38,5 +38,47 @@
     "artist_name": "ToolArchive",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=sRRfcBPLj8Y"
+  },
+  {
+    "id": 235437777601,
+    "song_title": "Bee Gees - One Night Only 1997 (Show Completo) 720p (HD)",
+    "year": 2014,
+    "artist_name": "Bee Gees",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=e0npW4WoGmc"
+  },
+  {
+    "id": 368954344839,
+    "song_title": "Elvis Presley in concert - june 19, 1977 Omaha best quality (so far I know of)",
+    "year": 2014,
+    "artist_name": "Elvis Presley in concert",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=tzhQ6CmZsq0"
+  },
+  {
+    "id": 1769287282240798,
+    "song_title": "Full Concert - Giants Stadium",
+    "url": "https://www.youtube.com/watch?v=7SSrZjSoRj4",
+    "year": "2014",
+    "duration": "1:18:38",
+    "channel": "Boston on MV",
+    "views": "2.3M",
+    "artist_name": "Boston"
+  },
+  {
+    "id": 314045744251,
+    "song_title": "Basia Bulat: Full Interview | House Of Strombo",
+    "year": 2014,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=g_N7OTeAZ0Y"
+  },
+  {
+    "id": 306137646388,
+    "song_title": "Melvins @ UCLA  3/3/1993 (FULL SHOW)",
+    "year": 2014,
+    "artist_name": "HORNSS",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=8MRgCcYyKQk"
   }
 ]

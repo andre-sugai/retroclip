@@ -230,7 +230,6 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-  
   {
     "id": "yt_EkpuciH-xPM",
     "song_title": "Nem Todo Dia É Igual",
@@ -381,8 +380,6 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-  
-  
   {
     "id": "yt_xiSS-H-csSM",
     "song_title": "De Longe",
@@ -393,7 +390,6 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-  
   {
     "id": "yt_Ik8QYT3yISU",
     "song_title": "Talismã",
@@ -401,6 +397,16 @@
     "artist_name": "Paulinho da Viola",
     "artist_genre": "Live",
     "youtube_link": "https://www.youtube.com/watch?v=Ik8QYT3yISU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_dX5G812V5yI",
+    "song_title": "Chuva Agora (Ao Vivo no VMB)",
+    "year": 2008,
+    "artist_name": "Nove Mil Anjos",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=dX5G812V5yI",
     "imvdb_url": null,
     "source": "YouTube"
   }

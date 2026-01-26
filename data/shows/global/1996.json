@@ -14,7 +14,25 @@
     "year": 1996,
     "artist_genre": "acousticShow",
     "youtube_link": "https://www.youtube.com/watch?v=n_04G_-bOAs",
-    "artist": "Oasis",
+    "artist_name": "Oasis",
     "is_show": true
+  },
+  {
+    "id": 861202885495,
+    "song_title": "Live at Madison Square Garden",
+    "year": 1996,
+    "artist_name": "KISS ",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=mGarleVlICU"
+  },
+  {
+    "id": 1769287282240700,
+    "song_title": "A Night In London",
+    "url": "https://www.youtube.com/watch?v=XOlrUi3BSVg",
+    "year": "1996",
+    "duration": "1:34:37",
+    "channel": "Mark Knopfler",
+    "views": "2.3M",
+    "artist_name": "Mark Knopfler"
   }
 ]

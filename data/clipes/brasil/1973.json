@@ -108,5 +108,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=CQFXc2YQKL4",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_DwVc0G3IKU4",
+    "song_title": "Rosa de Hiroshima",
+    "year": 1973,
+    "artist_name": "Secos e Molhados",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=DwVc0G3IKU4",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

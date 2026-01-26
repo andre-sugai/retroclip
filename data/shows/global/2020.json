@@ -30,5 +30,65 @@
     "artist_name": "Radiohead",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=C9_IhE5Xk0k"
+  },
+  {
+    "id": 1769287282240733,
+    "song_title": "Live̲ After̲ Dea̲th",
+    "url": "https://www.youtube.com/watch?v=_32lh6BJjDg",
+    "year": "2020",
+    "duration": "1:57:50",
+    "channel": "DRanik30",
+    "views": "479.1K",
+    "artist_name": "Iron Maiden"
+  },
+  {
+    "id": 1769287282240800,
+    "song_title": "Romantic Paradise",
+    "url": "https://www.youtube.com/watch?v=YB0wMEt-4-M",
+    "year": "2020",
+    "duration": "1:27:14",
+    "channel": "André Rieu",
+    "views": "9.9M",
+    "artist_name": "André Rieu"
+  },
+  {
+    "id": 389929549040,
+    "song_title": "Rollins Band on Sessions at West 54th Street",
+    "year": 2020,
+    "artist_name": "Brian Sherman",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=8QDkIitpKVc"
+  },
+  {
+    "id": 162772819119,
+    "song_title": "Morphine - Live at Bullet Sound Studios (1994) v2",
+    "year": 2020,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=1H1T5lb57Nw"
+  },
+  {
+    "id": 970339468031,
+    "song_title": "Mother Love Bone Live at The Central - December 10, 1988",
+    "year": 2020,
+    "artist_name": "Mother Love Bone Live at The Central",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=9htcD4tpqIU"
+  },
+  {
+    "id": 205110496522,
+    "song_title": "Mother Love Bone Live - at Legends in Tacoma Jan 26, 1990",
+    "year": 2020,
+    "artist_name": "Mother Love Bone Live",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=riBeZy2s1rc"
+  },
+  {
+    "id": 539372568258,
+    "song_title": "THE MELVINS - BULLHEAD/STONERWITCH (full show, 4 cameras)",
+    "year": 2020,
+    "artist_name": "THE MELVINS",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=8NUPV_LdJFM"
   }
 ]

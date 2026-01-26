@@ -712,16 +712,16 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-    {
-      "id": "yt_3AJUpaVa9_c",
-      "song_title": "And I Love Her",
-      "year": 2016,
-      "artist_name": "Roberto Carlos",
-      "artist_genre": "Latino",
-      "youtube_link": "https://www.youtube.com/watch?v=3AJUpaVa9_c",
-      "imvdb_url": null,
-      "source": "YouTube"
-    },
+  {
+    "id": "yt_3AJUpaVa9_c",
+    "song_title": "And I Love Her",
+    "year": 2016,
+    "artist_name": "Roberto Carlos",
+    "artist_genre": "Latino",
+    "youtube_link": "https://www.youtube.com/watch?v=3AJUpaVa9_c",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
   {
     "id": "yt_DFBBy0RY8p0",
     "song_title": "Foi Um Rio Que Passou Em Minha Vida",
@@ -771,5 +771,21 @@
     "youtube_link": "https://www.youtube.com/watch?v=8gvcxB6WHHU",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 296098951455,
+    "song_title": "Queimando Tudo (Lollapalooza)",
+    "year": 2016,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=sNRfL9i5dAA"
+  },
+  {
+    "id": 469157201905,
+    "song_title": "Mantenha o respeito (Lollapalooza)",
+    "year": 2016,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=NmbC5P-5ldc"
   }
 ]

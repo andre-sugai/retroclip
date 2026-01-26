@@ -97,5 +97,25 @@
     "youtube_link": "https://www.youtube.com/watch?v=PAvPfPtlLuM",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_Jj_GWA3t6qU",
+    "song_title": "Berimbau e Wave",
+    "year": 1989,
+    "artist_name": "Os Cariocas",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=Jj_GWA3t6qU",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_OUs-0m4pTAI",
+    "song_title": "Infinita Highway",
+    "year": 1989,
+    "artist_name": "Engenheiros do Hawaii",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=2cTmeXesGM0",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

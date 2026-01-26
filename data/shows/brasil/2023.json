@@ -47,5 +47,21 @@
     "artist_name": "The Originals",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=qg5a6NVlra8"
+  },
+  {
+    "id": 215213340921,
+    "song_title": "IRA! - João Rock 2023 (Show Completo)",
+    "year": 2023,
+    "artist_name": "IRA!",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=4G9ZyLKuoek"
+  },
+  {
+    "id": 122431145639,
+    "song_title": "TNT Ao Vivo 2004 - Show Completo em Vídeo",
+    "year": 2023,
+    "artist_name": "TNT Ao Vivo 2004",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=CAvKXdV_EtU"
   }
 ]

@@ -1,231 +1,191 @@
 [
-{
-    "id": "yt_I4XBs99nQCc",
-    "song_title": "Da Lama Ao Caos",
-    "year": 1994,
-    "artist_name": "Chico Science & Nação Zumbi ",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=I4XBs99nQCc",
+  {
+    "id": "yt_VGzAk9LhH6w",
+    "song_title": "Entre O Desespero E A Esperança",
+    "year": 2007,
+    "artist_name": "Ao Cubo",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=VGzAk9LhH6w",
     "imvdb_url": null,
     "source": "YouTube"
   },
-{
-    "id": "yt_o-gkzqXzS4k",
-    "song_title": "Maracatu de Tiro Certeiro",
-    "year": 1994,
-    "artist_name": "Chico Science & Nação Zumbi",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=o-gkzqXzS4k",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_lWh6py31Dmc",
-    "song_title": "Tarde em Itapuã",
-    "year": 1968,
-    "artist_name": "Tom Jobim, Vinícius de Moraes, Toquinho e Miúcha",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=lWh6py31Dmc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_2Xc-Yll4xc0",
-    "song_title": "Gita",
-    "year": 1974,
-    "artist_name": "Raul Seixas",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=2Xc-Yll4xc0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_8fNVNHQ_4ZM",
-    "song_title": "Eu Também Vou Reclamar",
-    "year": 1976,
-    "artist_name": "Raul Seixas",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=8fNVNHQ_4ZM",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_OTFN-zCSLY4",
-    "song_title": "Maluco Beleza",
-    "year": 1978,
-    "artist_name": "Raul Seixas",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=OTFN-zCSLY4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_hu_XSw4e9GU",
-    "song_title": "Tente Outra Vez",
-    "year": 1975,
-    "artist_name": "Raul Seixas",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=hu_XSw4e9GU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_CfgYcLBP9lI",
-    "song_title": "Sociedade Alternativa",
-    "year": 1974,
-    "artist_name": "Raul Seixas",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=CfgYcLBP9lI",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_693j3n2P3z0",
-    "song_title": "O Trem das Sete",
-    "year": 1974,
-    "artist_name": "Raul Seixas",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=693j3n2P3z0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_DcoVEMethks",
-    "song_title": "Eu Nasci Há Dez Mil Anos Atrás",
-    "year": 1976,
-    "artist_name": "Raul Seixas",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=DcoVEMethks",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_qIGN9fDhrEU",
-    "song_title": "O Sol Nascerá (Programa Ensaio)",
-    "year": 1973,
-    "artist_name": "Cartola",
-    "artist_genre": "Samba",
-    "youtube_link": "https://www.youtube.com/watch?v=qIGN9fDhrEU",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_0_YWjMezuow",
-    "song_title": "Amor Proibido (Programa Ensaio)",
-    "year": 1973,
-    "artist_name": "Cartola",
-    "artist_genre": "Samba",
-    "youtube_link": "https://www.youtube.com/watch?v=0_YWjMezuow",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_Xd0xM7pulo0",
-    "song_title": "Bem Feito (Programa Ensaio)",
-    "year": 1973,
-    "artist_name": "Cartola",
-    "artist_genre": "Samba",
-    "youtube_link": "https://www.youtube.com/watch?v=Xd0xM7pulo0",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_GaYrgeI5VZo",
-    "song_title": "Armadilha",
-    "year": 1987,
-    "artist_name": "Finis Africae",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=GaYrgeI5VZo",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_H9pbohMqmwU",
-    "song_title": "Robocop Gay (Ao vivo no Faustão)",
-    "year": 1995,
-    "artist_name": "Mamonas Assassinas",
+  {
+    "id": "yt_l9MAEaxYBDc",
+    "song_title": "Não Tem Lua",
+    "year": 2006,
+    "artist_name": "Asa de guia",
     "artist_genre": "Pop",
-    "youtube_link": "https://www.youtube.com/watch?v=H9pbohMqmwU",
+    "youtube_link": "https://www.youtube.com/watch?v=l9MAEaxYBDc",
     "imvdb_url": null,
     "source": "YouTube"
   },
-{
-    "id": "yt_r7Ib0r983DE",
-    "song_title": "Ritmo de Festa",
-    "year": 1990,
-    "artist_name": "Maria do Relento",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=r7Ib0r983DE",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_3Hx7Bz6LGS0",
-    "song_title": "Preta, pretinha",
-    "year": 1973,
-    "artist_name": "Novos Baianos",
+  {
+    "id": "yt_j1_zee9uHmM",
+    "song_title": "Ela é Carioca",
+    "year": 2007,
+    "artist_name": "Os Cariocas",
     "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=3Hx7Bz6LGS0",
+    "youtube_link": "https://www.youtube.com/watch?v=j1_zee9uHmM",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_mf2O5o3CeWc",
-    "song_title": "Faraó Divindade do Egito (Ensaio)",
-    "year": 1993,
-    "artist_name": "Olodum",
-    "artist_genre": "Axé",
-    "youtube_link": "https://www.youtube.com/watch?v=mf2O5o3CeWc",
+    "id": "yt_5O3KKlFZ1sU",
+    "song_title": "Rio",
+    "year": 2007,
+    "artist_name": "Os Cariocas",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=5O3KKlFZ1sU",
     "imvdb_url": null,
     "source": "YouTube"
   },
   {
-    "id": "yt_PA8vPfPtlLuM",
-    "song_title": "My Mistake",
+    "id": "yt_Jj_GWA3t6qU",
+    "song_title": "Berimbau e Wave",
     "year": 1989,
-    "artist_name": "Pholhas",
-    "artist_genre": "Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=PAvPfPtlLuM",
+    "artist_name": "Os Cariocas",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=Jj_GWA3t6qU",
     "imvdb_url": null,
     "source": "YouTube"
   },
-{
-    "id": "yt_6HNx41pJw1I",
-    "song_title": "Bergamotas",
-    "year": 2018,
+  {
+    "id": "yt_6B1Vc_UPmXk",
+    "song_title": "Todo Azul Do Mar (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=6B1Vc_UPmXk",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_ZZMmbi1kfUo",
+    "song_title": "Linda Juventude (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=ZZMmbi1kfUo",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_f5ONpooy7hs",
+    "song_title": "Sonhando O Futuro (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=f5ONpooy7hs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_Uqvqc2o38tw",
+    "song_title": "Planeta Sonho (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=Uqvqc2o38tw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_cyDHa1o4mvs",
+    "song_title": "Mesmo De Brincadeira (Ao Vivo)",
+    "year": 2007,
+    "artist_name": "14 Bis",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=cyDHa1o4mvs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_OUs-0m4pTAI",
+    "song_title": "Infinita Highway",
+    "year": 1989,
+    "artist_name": "Engenheiros do Hawaii",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=2cTmeXesGM0",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_dU7z892mV8w",
+    "song_title": "Sabe O Que Acontece Comigo",
+    "year": 1984,
+    "artist_name": "Garotos da Rua",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=dU7z892mV8w",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_lkqcWKuzlQw",
+    "song_title": "Balada Do Louco (Ao Vivo)",
+    "year": 2006,
+    "artist_name": "Os Mutantes",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=lkqcWKuzlQw",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_bmoHC-FgwKs",
+    "song_title": "I Feel A Little Spaced Out (Ando Meio Desligado) (Ao Vivo)",
+    "year": 2006,
+    "artist_name": "Os Mutantes",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=bmoHC-FgwKs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_TlYxS9kQljs",
+    "song_title": "A Minha Menina (Ao Vivo)",
+    "year": 2006,
+    "artist_name": "Os Mutantes",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=TlYxS9kQljs",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_dX5G812V5yI",
+    "song_title": "Chuva Agora (Ao Vivo no VMB)",
+    "year": 2008,
+    "artist_name": "Nove Mil Anjos",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=dX5G812V5yI",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_zggjYeV7aVA",
+    "song_title": "Nicotina",
+    "year": 1985,
     "artist_name": "Os Replicantes",
     "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=6HNx41pJw1I",
+    "youtube_link": "https://www.youtube.com/watch?v=zggjYeV7aVA",
     "imvdb_url": null,
     "source": "YouTube"
   },
-{
-    "id": "yt_CQFXc2YQKL4",
-    "song_title": "Tive Sim (Ao Vivo)",
+  {
+    "id": "yt_DwVc0G3IKU4",
+    "song_title": "Rosa de Hiroshima",
     "year": 1973,
-    "artist_name": "Cartola",
-    "artist_genre": "Samba",
-    "youtube_link": "https://www.youtube.com/watch?v=CQFXc2YQKL4",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-{
-    "id": "yt_5Z0IEmi56zE",
-    "song_title": "Carinhoso (Pixinguinha)",
-    "year": 2003,
-    "artist_name": "Marisa Monte e Paulinho da Viola",
+    "artist_name": "Secos e Molhados",
     "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=5Z0IEmi56zE",
+    "youtube_link": "https://www.youtube.com/watch?v=DwVc0G3IKU4",
     "imvdb_url": null,
     "source": "YouTube"
   },
-{
-    "id": "yt_KkNjYIgHkvw",
-    "song_title": "Música da Lagoa",
-    "year": 1985,
-    "artist_name": "Hermeto Pascoal",
-    "artist_genre": "Jazz",
-    "youtube_link": "https://www.youtube.com/watch?v=KkNjYIgHkvw",
+  {
+    "id": "yt_jxRi0MS6j1k",
+    "song_title": "Energia (Ao Vivo)",
+    "year": 1982,
+    "artist_name": "Jorge Ben Jor feat Lorraine com Tim Maia",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=jxRi0MS6j1k",
     "imvdb_url": null,
     "source": "YouTube"
   }

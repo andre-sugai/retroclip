@@ -68,5 +68,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=KkNjYIgHkvw",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_zggjYeV7aVA",
+    "song_title": "Nicotina",
+    "year": 1985,
+    "artist_name": "Os Replicantes",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=zggjYeV7aVA",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

@@ -68,5 +68,29 @@
     "artist_name": "Natiruts",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=Ju3Fqsv84w4"
+  },
+  {
+    "id": 531503918109,
+    "song_title": "BARÃO VERMELHO | JOÃO ROCK 2025 (SHOW COMPLETO)",
+    "year": 2025,
+    "artist_name": "A Radio Rock",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=u_LIXGl6eDQ"
+  },
+  {
+    "id": 929799591695,
+    "song_title": "Capital Inicial Ao Vivo no #Quintou | Filtr (Show Completo)",
+    "year": 2025,
+    "artist_name": null,
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Io8SK-C2rtE"
+  },
+  {
+    "id": 703414392262,
+    "song_title": "Sambabook Beth Carvalho - Completo",
+    "year": 2025,
+    "artist_name": "Sambabook Beth Carvalho",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=P1EeeOuOTSY"
   }
 ]

@@ -1041,46 +1041,6 @@
     "source": "YouTube"
   },
   {
-    "id": "yt_tBxf_gp2Xho",
-    "song_title": "Secos e Molhados - O Vira",
-    "year": 2013,
-    "artist_name": "Secos e Molhados",
-    "artist_genre": "MPB",
-    "youtube_link": "https://www.youtube.com/watch?v=tBxf_gp2Xho",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_j66BFb8eqNo",
-    "song_title": "Minha Herança - Toque No Altar",
-    "year": 2013,
-    "artist_name": "Toque no Altar",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=j66BFb8eqNo",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_GUoBKcB7r0U",
-    "song_title": "Davi Sacer - Toque no Altar (DVD No Caminho do Milagre)",
-    "year": 2013,
-    "artist_name": "Toque no Altar",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=GUoBKcB7r0U",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_XTOqThmcWvw",
-    "song_title": "TOQUE NO ALTAR - Se a tua voz ouvir - DVD Deus de Promessas",
-    "year": 2013,
-    "artist_name": "Toque no Altar",
-    "artist_genre": "Gospel",
-    "youtube_link": "https://www.youtube.com/watch?v=XTOqThmcWvw",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
     "id": "yt_NAH7x7SucwQ",
     "song_title": "Tihuana - Minha Rainha  (Feat. Digão - Raimundos)  Video Clip Oficial",
     "year": 2013,
@@ -1150,7 +1110,6 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-  
   {
     "id": "yt_R_3u7aspmDY",
     "song_title": "MEW - Am I Wry? No",
@@ -1400,5 +1359,13 @@
     "youtube_link": "https://www.youtube.com/watch?v=UPMPye2gg3o",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 820171876524,
+    "song_title": "Queimando Tudo",
+    "year": 2013,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=36i38d7J0gg"
   }
 ]

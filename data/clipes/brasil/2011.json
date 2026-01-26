@@ -363,7 +363,6 @@
     "imvdb_url": null,
     "source": "YouTube"
   },
-  
   {
     "id": "yt_KtHH_fRfgcg",
     "song_title": "Amanhã Não Vai Mudar",
@@ -1393,5 +1392,29 @@
     "youtube_link": "https://www.youtube.com/watch?v=pqUF4dXOPcY",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 756325587418,
+    "song_title": "Mantenha o Respeito",
+    "year": 2011,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=3I-2NTEIdq4"
+  },
+  {
+    "id": 662322064297,
+    "song_title": "Dig Dig Dig (Hempa)",
+    "year": 2011,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=zCeJQ2de3qo"
+  },
+  {
+    "id": 386265882044,
+    "song_title": "Ex-quadrilha da Fumaça",
+    "year": 2011,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=r8PimfoxaFk"
   }
 ]

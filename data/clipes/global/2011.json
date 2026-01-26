@@ -35462,5 +35462,61 @@
     "youtube_link": "https://www.youtube.com/watch?v=4aEJCK1qBxA",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 129136541306,
+    "song_title": "Nailbomb - Cockroaches Live HD",
+    "year": 2011,
+    "artist_name": "Nailbomb",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ybneJIAJ7HY"
+  },
+  {
+    "id": 490248372051,
+    "song_title": "KMFDM - A Drug Against The War",
+    "year": 2011,
+    "artist_name": "KMFDM",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=9qKCDJAFkWo"
+  },
+  {
+    "id": 144009135341,
+    "song_title": "KMFDM - Megalomaniac [HD].mp4",
+    "year": 2011,
+    "artist_name": "KMFDM",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=YoYq_cdlmbk"
+  },
+  {
+    "id": 921451467706,
+    "song_title": "KMFDM - Liebeslied (Live 1992)",
+    "year": 2011,
+    "artist_name": "KMFDM",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=58pp4Nhl0Ww"
+  },
+  {
+    "id": 702557120920,
+    "song_title": "The Henry Rollins Band - Liar Live(woodstock 94')",
+    "year": 2011,
+    "artist_name": "The Henry Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=h0nP2a42Ccc"
+  },
+  {
+    "id": 823843769363,
+    "song_title": "Chloe Dancer/ Crown of Thorns Mother Love Bone",
+    "year": 2011,
+    "artist_name": "bentleyabc",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=FyBJoFz_QPw"
+  },
+  {
+    "id": 718126190203,
+    "song_title": "Pearl Jam  - Chloe Dancer & Crown Of Thorns Toronto 2011 COMPLETE & SDB",
+    "year": 2011,
+    "artist_name": "Pearl Jam",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=tdiCLZOxB3Q"
   }
 ]

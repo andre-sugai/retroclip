@@ -88,6 +88,7 @@ import data1977BR from '../data/clipes/brasil/1977.json';
 import data1978BR from '../data/clipes/brasil/1978.json';
 import data1979BR from '../data/clipes/brasil/1979.json';
 import data1980BR from '../data/clipes/brasil/1980.json';
+import data1982BR from '../data/clipes/brasil/1982.json';
 import data1983BR from '../data/clipes/brasil/1983.json';
 import data1984BR from '../data/clipes/brasil/1984.json';
 import data1985BR from '../data/clipes/brasil/1985.json';
@@ -138,25 +139,44 @@ import beavisButtheadData from '../data/programas/beavis_and_butthead.json';
 import documentariosData from '../data/programas/documentarios.json';
 
 const PROGRAMS_DATA = [
-  ...hermesRenatoData.map((item) => ({ ...item, is_program: true, program_name: 'hermes_renato' })),
-  ...beavisButtheadData.map((item) => ({ ...item, is_program: true, program_name: 'beavis_butthead' })),
-  ...documentariosData.map((item) => ({ ...item, is_program: true, program_name: 'documentarios' })),
+  ...hermesRenatoData.map((item) => ({
+    ...item,
+    is_program: true,
+    program_name: 'hermes_renato',
+  })),
+  ...beavisButtheadData.map((item) => ({
+    ...item,
+    is_program: true,
+    program_name: 'beavis_butthead',
+  })),
+  ...documentariosData.map((item) => ({
+    ...item,
+    is_program: true,
+    program_name: 'documentarios',
+  })),
 ];
 
-
 // Global Shows Imports
+import show1964 from '../data/shows/global/1964.json';
+import show1973 from '../data/shows/global/1973.json';
 import show1979 from '../data/shows/global/1979.json';
+import show1980 from '../data/shows/global/1980.json';
+import show1981 from '../data/shows/global/1981.json';
+import show1982 from '../data/shows/global/1982.json';
 import show1985 from '../data/shows/global/1985.json';
+import show1988 from '../data/shows/global/1988.json';
 import show1991 from '../data/shows/global/1991.json';
 import show1992 from '../data/shows/global/1992.json';
 import show1993 from '../data/shows/global/1993.json';
 import show1994 from '../data/shows/global/1994.json';
+import show1995 from '../data/shows/global/1995.json';
 import show1996 from '../data/shows/global/1996.json';
 import show1997 from '../data/shows/global/1997.json';
 import show1999 from '../data/shows/global/1999.json';
 import show2001 from '../data/shows/global/2001.json';
 import show2002 from '../data/shows/global/2002.json';
 import show2003 from '../data/shows/global/2003.json';
+import show2006 from '../data/shows/global/2006.json';
 import show2007 from '../data/shows/global/2007.json';
 import show2008 from '../data/shows/global/2008.json';
 import show2009 from '../data/shows/global/2009.json';
@@ -179,18 +199,26 @@ import show2025 from '../data/shows/global/2025.json';
 import show2026 from '../data/shows/global/2026.json';
 
 const SHOWS_GLOBAL = [
+  ...show1964,
+  ...show1973,
   ...show1979,
+  ...show1980,
+  ...show1981,
+  ...show1982,
   ...show1985,
+  ...show1988,
   ...show1991,
   ...show1992,
   ...show1993,
   ...show1994,
+  ...show1995,
   ...show1996,
   ...show1997,
   ...show1999,
   ...show2001,
   ...show2002,
   ...show2003,
+  ...show2006,
   ...show2007,
   ...show2008,
   ...show2009,
@@ -214,11 +242,17 @@ const SHOWS_GLOBAL = [
 ].map((item) => ({ ...item, is_show: true }));
 
 // Brazil Shows Imports
+import show1928BR from '../data/shows/brasil/1928.json';
 import show1969BR from '../data/shows/brasil/1969.json';
 import show1972BR from '../data/shows/brasil/1972.json';
+import show1976BR from '../data/shows/brasil/1976.json';
+import show1978BR from '../data/shows/brasil/1978.json';
+import show1982BR from '../data/shows/brasil/1982.json';
 import show1986BR from '../data/shows/brasil/1986.json';
+import show1989BR from '../data/shows/brasil/1989.json';
 import show1991BR from '../data/shows/brasil/1991.json';
 import show1992BR from '../data/shows/brasil/1992.json';
+import show1996BR from '../data/shows/brasil/1996.json';
 import show1997BR from '../data/shows/brasil/1997.json';
 import show2004BR from '../data/shows/brasil/2004.json';
 import show2005BR from '../data/shows/brasil/2005.json';
@@ -242,11 +276,17 @@ import show2024BR from '../data/shows/brasil/2024.json';
 import show2025BR from '../data/shows/brasil/2025.json';
 
 const SHOWS_BRASIL = [
+  ...show1928BR,
   ...show1969BR,
   ...show1972BR,
+  ...show1976BR,
+  ...show1978BR,
+  ...show1982BR,
   ...show1986BR,
+  ...show1989BR,
   ...show1991BR,
   ...show1992BR,
+  ...show1996BR,
   ...show1997BR,
   ...show2004BR,
   ...show2005BR,
@@ -359,6 +399,7 @@ const BR_DATA = [
   ...data1978BR,
   ...data1979BR,
   ...data1980BR,
+  ...data1982BR,
   ...data1983BR,
   ...data1984BR,
   ...data1985BR,
@@ -416,9 +457,10 @@ const getDataset = (region: 'br' | 'intl' | 'all') => {
 const allItems = [...INTL_DATA, ...BR_DATA];
 export const TOTAL_VIDEOS_COUNT = allItems.length;
 export const TOTAL_SHOWS = allItems.filter((i) => (i as any).is_show).length;
-export const TOTAL_PROGRAMS = allItems.filter((i) => (i as any).is_program).length;
+export const TOTAL_PROGRAMS = allItems.filter(
+  (i) => (i as any).is_program
+).length;
 export const TOTAL_CLIPS = TOTAL_VIDEOS_COUNT - TOTAL_SHOWS - TOTAL_PROGRAMS;
-
 
 export const INTL_VIDEOS_COUNT = INTL_DATA.length;
 export const BR_VIDEOS_COUNT = BR_DATA.length;
@@ -537,10 +579,13 @@ export const fetchVideoById = async (
 
   // If not found by internal ID, try finding by YouTube ID (for deep links from shares)
   if (!found) {
-    console.log(`[Grooovio Fetch] ID not found, trying matches for YouTube ID: ${id}`);
+    console.log(
+      `[Grooovio Fetch] ID not found, trying matches for YouTube ID: ${id}`
+    );
     found = allData.find((v: any) => {
-       const yId = getYouTubeId(v.youtube_link || '') || getYouTubeId(v.imvdb_url || '');
-       return yId === id;
+      const yId =
+        getYouTubeId(v.youtube_link || '') || getYouTubeId(v.imvdb_url || '');
+      return yId === id;
     });
   }
 

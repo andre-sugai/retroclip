@@ -158,5 +158,55 @@
     "artist_name": "Biohazard",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=qWnLeNfGVPo"
+  },
+  {
+    "id": 1769287282240777,
+    "song_title": "Live in Dublin",
+    "url": "https://www.youtube.com/watch?v=hVH89ggy1fY",
+    "year": "2025",
+    "duration": "1:54:07",
+    "channel": "André Rieu",
+    "views": "3.7M",
+    "artist_name": "André Rieu"
+  },
+  {
+    "id": 195865429326,
+    "song_title": "Rollins Band - Full Concert [HD] | Live at Pinkpop 1995",
+    "year": 2025,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=PQsvXQSIggU"
+  },
+  {
+    "id": 189545341279,
+    "song_title": "Morphine  - Live at Pinkpop 1994",
+    "year": 2025,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=hvhNk-zcbNA"
+  },
+  {
+    "id": 316019152990,
+    "song_title": "Mother Love Bone - The Love Bone Earth Affair",
+    "year": 2025,
+    "artist_name": "Mother Love Bone",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=NRGXbLQcdD8"
+  },
+  {
+    "id": 952400798562,
+    "song_title": "shame - live at Into The Great Wide Open 2025",
+    "year": 2025,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_ajjlqnONVw"
+  },
+  {
+    "id": 169307880641,
+    "song_title": "Live @ JBTV | Stabbing Westward",
+    "year": 2025,
+    "artist_name": "JBTV Music Television",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=SrWfdFHeWwQ"
   }
 ]

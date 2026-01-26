@@ -24733,5 +24733,29 @@
     "youtube_link": "https://www.youtube.com/watch?v=gVP-rBd0afY",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 512217890211,
+    "song_title": "13. Melvins - A History of Bad Men (Live in Norway, 2007)",
+    "year": 2010,
+    "artist_name": "13. Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=7Q7Q-KjD600"
+  },
+  {
+    "id": 939319595254,
+    "song_title": "Melvins - Let It All Be @ Launch",
+    "year": 2010,
+    "artist_name": "Melvins",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=t-nmcfiC3nM"
+  },
+  {
+    "id": 843223060098,
+    "song_title": "Night Goat - Melvins (European Tour 2009) Perfect Quality",
+    "year": 2010,
+    "artist_name": "Night Goat",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=jzkDVmotWCs"
   }
 ]

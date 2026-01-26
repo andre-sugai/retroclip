@@ -139,11 +139,18 @@
     "song_title": "The Ballroom Blitz",
     "year": 1973,
     "artist_name": "Sweet",
-    "artist_genre": [
-      "Glam",
-      "Hard Rock"
-    ],
+    "artist_genre": ["Glam", "Hard Rock"],
     "youtube_link": "https://www.youtube.com/watch?v=r8pYpii2Atg",
+    "imvdb_url": null,
+    "source": "YouTube"
+  },
+  {
+    "id": "yt_tBxf_gp2Xho",
+    "song_title": "O Vira (Ao Vivo - TV Cultura)",
+    "year": 1973,
+    "artist_name": "Secos e Molhados",
+    "artist_genre": "MPB",
+    "youtube_link": "https://www.youtube.com/watch?v=tBxf_gp2Xho",
     "imvdb_url": null,
     "source": "YouTube"
   }

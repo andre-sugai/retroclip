@@ -755,5 +755,21 @@
     "youtube_link": "https://www.youtube.com/watch?v=TeF8W3WMycA",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 170922203773,
+    "song_title": "Queimando Tudo",
+    "year": 2012,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=Kif_gUd_CAA"
+  },
+  {
+    "id": 907928508129,
+    "song_title": "Dig Dig Dig (Hempa) (Ao Vivo no VMB)",
+    "year": 2012,
+    "artist_name": "Planet Hemp",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=JrLeZbMydUU"
   }
 ]

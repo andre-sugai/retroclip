@@ -1,82 +1,948 @@
 [
   {
-    "id": 783373010624,
-    "song_title": "Stevie Wonder  -  Live At Last .2009  (Full)",
-    "year": 2016,
-    "artist_name": "Stevie Wonder",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Oqxs2WutrzQ"
+    "id": 1769287282240682,
+    "song_title": "The Dance",
+    "url": "https://www.youtube.com/watch?v=9suHkG7QfYw",
+    "year": "1997",
+    "duration": "1:44:28",
+    "channel": "Raphael Wellerson",
+    "views": "2.2M",
+    "artist_name": "Fleetwood Mac"
   },
   {
-    "id": 334960559747,
-    "song_title": "The Pretenders - With Friends 2006 FULL HD CONCERT",
+    "id": 1769287282240700,
+    "song_title": "A Night In London",
+    "url": "https://www.youtube.com/watch?v=XOlrUi3BSVg",
+    "year": "1996",
+    "duration": "1:34:37",
+    "channel": "Mark Knopfler",
+    "views": "2.3M",
+    "artist_name": "Mark Knopfler"
+  },
+  {
+    "id": 1769287282240709,
+    "song_title": "Live At River Plate 2009",
+    "url": "https://www.youtube.com/watch?v=bFqzXDf9AOM",
+    "year": "2009",
+    "duration": "1:51:29",
+    "channel": "AC⁄DC - Remasters",
+    "views": "1.1M",
+    "artist_name": "AC/DC"
+  },
+  {
+    "id": 1769287282240711,
+    "song_title": "Rockshow",
+    "url": "https://www.youtube.com/watch?v=8ahZ1ijLmMY",
+    "year": "1980",
+    "duration": "2:09:28",
+    "channel": "Levi Weiss",
+    "views": "527.2K",
+    "artist_name": "Paul McCartney & Wings"
+  },
+  {
+    "id": 1769287282240713,
+    "song_title": "Live @ Madison Square Garden",
+    "url": "https://www.youtube.com/watch?v=lNQLVykmR-Y",
+    "year": "2019",
+    "duration": "2:11:08",
+    "channel": "Knopflertk Unlimited",
+    "views": "3.7M",
+    "artist_name": "Mark Knopfler"
+  },
+  {
+    "id": 1769287282240733,
+    "song_title": "Live̲ After̲ Dea̲th",
+    "url": "https://www.youtube.com/watch?v=_32lh6BJjDg",
+    "year": "2020",
+    "duration": "1:57:50",
+    "channel": "DRanik30",
+    "views": "479.1K",
+    "artist_name": "Iron Maiden"
+  },
+  {
+    "id": 1769287282240740,
+    "song_title": "Live at the Royal Albert Hall",
+    "url": "https://www.youtube.com/watch?v=PbtJi1-v8h8",
+    "year": "2006",
+    "duration": "2:32:17",
+    "channel": "HDPinkFloyd",
+    "views": "7.5M",
+    "artist_name": "David Gilmour"
+  },
+  {
+    "id": 1769287282240741,
+    "song_title": "Delicate Sound of Thunder",
+    "url": "https://www.youtube.com/watch?v=jbiQKQj2YAM",
+    "year": "1988",
+    "duration": "2:10:50",
+    "channel": "Slowed Music",
+    "views": "3.9M",
+    "artist_name": "Pink Floyd"
+  },
+  {
+    "id": 1769287282240743,
+    "song_title": "The Concert in Central Park",
+    "url": "https://www.youtube.com/watch?v=x2bd1zp_q6Y",
+    "year": "1981",
+    "duration": "1:26:32",
+    "channel": "RE-MASTERPIECES",
+    "views": "3.4M",
+    "artist_name": "Simon and Garfunkel"
+  },
+  {
+    "id": 1769287282240745,
+    "song_title": "Milano",
+    "url": "https://www.youtube.com/watch?v=JRkXajEVcdc",
+    "year": "2019",
+    "duration": "2:09:38",
+    "channel": "farco",
+    "views": "4.3M",
+    "artist_name": "Mark Knopfler"
+  },
+  {
+    "id": 1769287282240751,
+    "song_title": "London Calling: Live In Hyde Park ",
+    "url": "https://www.youtube.com/watch?v= Full Concert",
+    "year": "a_8c",
+    "duration": "5625:10:01",
+    "channel": "11138",
+    "views": "N/A",
+    "artist_name": "Bruce Springsteen"
+  },
+  {
+    "id": 1769287282240753,
+    "song_title": "One Night Only",
+    "url": "https://www.youtube.com/watch?v=OuTWePEkXj4",
+    "year": "1997",
+    "duration": "1:48:54",
+    "channel": "Esau Leemon",
+    "views": "31.2M",
+    "artist_name": "Bee Gees"
+  },
+  {
+    "id": 1769287282240760,
+    "song_title": "Live From Paris ",
+    "url": "https://www.youtube.com/watch?v= Full Concert",
+    "year": "IHqU",
+    "duration": "5625:20:08",
+    "channel": "5995",
+    "views": "N/A",
+    "artist_name": "Shakira"
+  },
+  {
+    "id": 1769287282240762,
+    "song_title": "Live at Shea Stadium ",
+    "url": "https://www.youtube.com/watch?v= Full Concert",
+    "year": "DgQi",
+    "duration": "5625:13:42",
+    "channel": "8445",
+    "views": "N/A",
+    "artist_name": "Billy Joel"
+  },
+  {
+    "id": 1769287282240763,
+    "song_title": "Santana",
+    "url": "https://www.youtube.com/watch?v= Live at North Sea Jazz Festival 2004",
+    "year": "UOwv",
+    "duration": "5622:21:58",
+    "channel": "4617",
+    "views": "N/A",
+    "artist_name": "Santana"
+  },
+  {
+    "id": 1769287282240767,
+    "song_title": "Aloha from Hawaii",
+    "url": "https://www.youtube.com/watch?v=DfjIOL5MxLY",
+    "year": "1973",
+    "duration": "1:04:19",
+    "channel": "Raseraa",
+    "views": "1.9M",
+    "artist_name": "Elvis Presley"
+  },
+  {
+    "id": 1769287282240772,
+    "song_title": "American Outlaws",
+    "url": "https://www.youtube.com/watch?v= Full Concert",
+    "year": "DbfV",
+    "duration": "5625:12:10",
+    "channel": "9504",
+    "views": "N/A",
+    "artist_name": "The Highwaymen"
+  },
+  {
+    "id": 1769287282240777,
+    "song_title": "Live in Dublin",
+    "url": "https://www.youtube.com/watch?v=hVH89ggy1fY",
+    "year": "2025",
+    "duration": "1:54:07",
+    "channel": "André Rieu",
+    "views": "3.7M",
+    "artist_name": "André Rieu"
+  },
+  {
+    "id": 1769287282240779,
+    "song_title": "Hammersmith",
+    "url": "https://www.youtube.com/watch?v=Lr2N6SluA64",
+    "year": "1982",
+    "duration": "1:35:28",
+    "channel": "xxxx",
+    "views": "2.7M",
+    "artist_name": "Iron Maiden"
+  },
+  {
+    "id": 1769287282240780,
+    "song_title": "Top of the World Tour",
+    "url": "https://www.youtube.com/watch?v= Full Concert",
+    "year": "KKlx",
+    "duration": "5625:06:41",
+    "channel": "5087",
+    "views": "N/A",
+    "artist_name": "The Chicks"
+  },
+  {
+    "id": 1769287282240784,
+    "song_title": "The Ultimate Concert",
+    "url": "https://www.youtube.com/watch?v=_jWteSj7HmI",
+    "year": "2022",
+    "duration": "5:05:09",
+    "channel": "What Is and What Should Be",
+    "views": "3.2M",
+    "artist_name": "Led Zeppelin"
+  },
+  {
+    "id": 1769287282240790,
+    "song_title": "Under the Desert Sky",
+    "url": "https://www.youtube.com/watch?v=UVByTzYL8KI",
+    "year": "2006",
+    "duration": "1:59:10",
+    "channel": "Denis Čuček - DC Music",
+    "views": "5.2M",
+    "artist_name": "Andrea Bocelli"
+  },
+  {
+    "id": 1769287282240791,
+    "song_title": "AVO Session Basel",
+    "url": "https://www.youtube.com/watch?v=rabgw9QwXok",
+    "year": "2012",
+    "duration": "1:28:34",
+    "channel": "Play Music",
+    "views": "2.5M",
+    "artist_name": "Rod Stewart"
+  },
+  {
+    "id": 1769287282240793,
+    "song_title": "Concert: The Long GoodBye - Final Tour",
+    "url": "https://www.youtube.com/watch?v=-StiyGAW8cw",
+    "year": "2023",
+    "duration": "2:02:12",
+    "channel": "Onlythebest",
+    "views": "2.9K",
+    "artist_name": "EAGLES"
+  },
+  {
+    "id": 1769287282240797,
+    "song_title": "Mark Knopfler and Emmylou Harris",
+    "url": "https://www.youtube.com/watch?v=dCiRap5a3Ms",
+    "year": "2006",
+    "duration": "1:41:57",
+    "channel": "Mark Knopfler",
+    "views": "2.6M",
+    "artist_name": "Mark Knopfler"
+  },
+  {
+    "id": 1769287282240798,
+    "song_title": "Full Concert - Giants Stadium",
+    "url": "https://www.youtube.com/watch?v=7SSrZjSoRj4",
+    "year": "2014",
+    "duration": "1:18:38",
+    "channel": "Boston on MV",
+    "views": "2.3M",
+    "artist_name": "Boston"
+  },
+  {
+    "id": 1769287282240800,
+    "song_title": "Romantic Paradise",
+    "url": "https://www.youtube.com/watch?v=YB0wMEt-4-M",
+    "year": "2020",
+    "duration": "1:27:14",
+    "channel": "André Rieu",
+    "views": "9.9M",
+    "artist_name": "André Rieu"
+  },
+  {
+    "id": 1769287282240805,
+    "song_title": "Live in Australia",
+    "url": "https://www.youtube.com/watch?v=LNQutZEKFHE",
+    "year": "1964",
+    "duration": "29:13",
+    "channel": "Kane McCarthy",
+    "views": "7.8M",
+    "artist_name": "The Beatles"
+  },
+  {
+    "id": 1769287282240805,
+    "song_title": "Live in London",
+    "url": "https://www.youtube.com/watch?v=i1pNI9T94RU",
+    "year": "2024",
+    "duration": "1:39:09",
+    "channel": "Cory Wong",
+    "views": "1.2M",
+    "artist_name": "Cory Wong"
+  },
+  {
+    "id": 389929549040,
+    "song_title": "Rollins Band on Sessions at West 54th Street",
+    "year": 2020,
+    "artist_name": "Brian Sherman",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=8QDkIitpKVc"
+  },
+  {
+    "id": 195865429326,
+    "song_title": "Rollins Band - Full Concert [HD] | Live at Pinkpop 1995",
     "year": 2025,
-    "artist_name": "The Pretenders",
+    "artist_name": "Rollins Band",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=hArV-M7ErEY"
+    "youtube_link": "https://www.youtube.com/watch?v=PQsvXQSIggU"
   },
   {
-    "id": 537514513352,
-    "song_title": "Kings of Leon: Live at the O2 London, England | Full Concert",
-    "year": 2025,
-    "artist_name": "Front Row Music",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Brv_dh8Qt5U"
-  },
-  {
-    "id": 925635812040,
-    "song_title": "Fantomas Live in Moscow (2005)",
-    "year": 2016,
-    "artist_name": "doctoraresdee",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=AXrjO78yU1M"
-  },
-  {
-    "id": 825770794023,
-    "song_title": "Biohazard - Full Concert [HD] | Live at Pinkpop 1995",
-    "year": 2025,
-    "artist_name": "Biohazard",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=qWnLeNfGVPo"
-  },
-  {
-    "id": 254763201801,
-    "song_title": "Led Zeppelin - Live at Earls Court (May 24th, 1975) - Video",
+    "id": 268983467814,
+    "song_title": "MORPHINE live on Dutch TV Show \"2 Meter Sessies\" (1994)",
     "year": 2024,
-    "artist_name": "Led Zeppelin",
+    "artist_name": "2metersessions",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=IIu3peq4c7M"
+    "youtube_link": "https://www.youtube.com/watch?v=iFjAkPPyIPU"
   },
   {
-    "id": 978295536795,
-    "song_title": "Led Zeppelin: Live on TV BYEN/Danmarks Radio [Full Performance]",
+    "id": 189545341279,
+    "song_title": "Morphine  - Live at Pinkpop 1994",
+    "year": 2025,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=hvhNk-zcbNA"
+  },
+  {
+    "id": 162772819119,
+    "song_title": "Morphine - Live at Bullet Sound Studios (1994) v2",
+    "year": 2020,
+    "artist_name": "Morphine",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=1H1T5lb57Nw"
+  },
+  {
+    "id": 751370696550,
+    "song_title": "TEMPLE  OF THE DOG - PJ20 ALPINE VALLEY - DIRECTORS CUT",
+    "year": 2017,
+    "artist_name": "TEMPLE  OF THE DOG",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=hHIz3qWy8oI"
+  },
+  {
+    "id": 970339468031,
+    "song_title": "Mother Love Bone Live at The Central - December 10, 1988",
+    "year": 2020,
+    "artist_name": "Mother Love Bone Live at The Central",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=9htcD4tpqIU"
+  },
+  {
+    "id": 316019152990,
+    "song_title": "Mother Love Bone - The Love Bone Earth Affair",
+    "year": 2025,
+    "artist_name": "Mother Love Bone",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=NRGXbLQcdD8"
+  },
+  {
+    "id": 205110496522,
+    "song_title": "Mother Love Bone Live - at Legends in Tacoma Jan 26, 1990",
+    "year": 2020,
+    "artist_name": "Mother Love Bone Live",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=riBeZy2s1rc"
+  },
+  {
+    "id": 734057582586,
+    "song_title": "Shame - Full Performance (Live on KEXP)",
+    "year": 2018,
+    "artist_name": "Shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=sJFjJMP5M0E"
+  },
+  {
+    "id": 385802043207,
+    "song_title": "shame - Full Performance (Live in Brazil)",
+    "year": 2021,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=WttuFvnxi2k"
+  },
+  {
+    "id": 172759334429,
+    "song_title": "#topsoff for Shame - One Rizla on Later... with Jools Holland",
+    "year": 2018,
+    "artist_name": "#topsoff for Shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=wkK5qTohwRc"
+  },
+  {
+    "id": 532685220603,
+    "song_title": "Shame: Tiny Desk (Home) Concert",
+    "year": 2021,
+    "artist_name": "NPR Music",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=dYlX_R9opns"
+  },
+  {
+    "id": 952400798562,
+    "song_title": "shame - live at Into The Great Wide Open 2025",
+    "year": 2025,
+    "artist_name": "shame",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_ajjlqnONVw"
+  },
+  {
+    "id": 169307880641,
+    "song_title": "Live @ JBTV | Stabbing Westward",
+    "year": 2025,
+    "artist_name": "JBTV Music Television",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=SrWfdFHeWwQ"
+  },
+  {
+    "id": 518288824982,
+    "song_title": "The Nixons SXSW (Full LIVE Show)",
+    "year": 2019,
+    "artist_name": "The Nixons Official",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=DxIbgsas2XI"
+  },
+  {
+    "id": 977329703746,
+    "song_title": "Alexisonfire | House Of Strombo",
+    "year": 2019,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=4WOyIMbk_as"
+  },
+  {
+    "id": 373672907683,
+    "song_title": "Broken Social Scene | House Of Strombo",
+    "year": 2019,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=XrV14ujN4pw"
+  },
+  {
+    "id": 828989962081,
+    "song_title": "Queer Songbook Orchestra (Ft. Leah Fay of July Talk + Alanna Stuart of Bonjay) | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=klkj2X6vYQE"
+  },
+  {
+    "id": 631678707393,
+    "song_title": "John Prine | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=w5Rkm_dqm7A"
+  },
+  {
+    "id": 967474502390,
+    "song_title": "Snotty Nose Rez Kids | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Qnv5oPY5-OU"
+  },
+  {
+    "id": 856490543447,
+    "song_title": "Chilly Gonzales | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=r9Doc8jap_o"
+  },
+  {
+    "id": 803100753254,
+    "song_title": "Behemoth | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=MEQBUv8Ls3w"
+  },
+  {
+    "id": 464565686725,
+    "song_title": "The Charlatans | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ZH2Fmsa0xcA"
+  },
+  {
+    "id": 204622827045,
+    "song_title": "Fucked Up | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=aEk65xpELmQ"
+  },
+  {
+    "id": 964854558326,
+    "song_title": "Shad - \"Stakes Is High (De La Soul Cover)\" | House Of Strombo",
+    "year": 2018,
+    "artist_name": "Shad",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=LOBv-1-6cNw"
+  },
+  {
+    "id": 994195806697,
+    "song_title": "Rufus Wainwright - \"Grey Gardens\" | House Of Strombo",
+    "year": 2018,
+    "artist_name": "Rufus Wainwright",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Ry_SFWO7KVA"
+  },
+  {
+    "id": 211704201189,
+    "song_title": "Jeremy Dutcher, Partner + Snotty Nose Rez Kids | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=W6I96e9eEnM"
+  },
+  {
+    "id": 601149515643,
+    "song_title": "Courtney Barnett | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=KIlKi7FrLdA"
+  },
+  {
+    "id": 991383645508,
+    "song_title": "Les Stroud | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=Q_5F1p7PaxA"
+  },
+  {
+    "id": 100240513780,
+    "song_title": "Cœur de pirate | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=x6_UVO49QYY"
+  },
+  {
+    "id": 287606728017,
+    "song_title": "Billy Talent | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ObntNul2CN0"
+  },
+  {
+    "id": 508939429830,
+    "song_title": "Power Trip | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=3fV0Wdjxyis"
+  },
+  {
+    "id": 807795788494,
+    "song_title": "The Melvins | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=WvSVXrkSfr4"
+  },
+  {
+    "id": 794704837420,
+    "song_title": "Franz Ferdinand | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_m5DC0dK16Q"
+  },
+  {
+    "id": 349093664466,
+    "song_title": "Fred Penner | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=0BL_Yq5UFzI"
+  },
+  {
+    "id": 146366827236,
+    "song_title": "Do Make Say Think | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=daPjsZUnLz0"
+  },
+  {
+    "id": 905638469003,
+    "song_title": "Barenaked Ladies | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=MJlsCkNI2Ww"
+  },
+  {
+    "id": 248668102437,
+    "song_title": "Randy Bachman + Tal Bachman | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=fvqGeF39y4w"
+  },
+  {
+    "id": 830271385134,
+    "song_title": "Black Mountain On Dave Grohl | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=5fXIdTs1MZo"
+  },
+  {
+    "id": 431498450188,
+    "song_title": "Black Mountain | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=X0G24JcvPnw"
+  },
+  {
+    "id": 525683513294,
+    "song_title": "Death From Above | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=43zLcvLjrZc"
+  },
+  {
+    "id": 730564323969,
+    "song_title": "Jim Cuddy | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=mNkJ3Erwu48"
+  },
+  {
+    "id": 612824899001,
+    "song_title": "Angel Olsen | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=-7tkjsBJ0ug"
+  },
+  {
+    "id": 737020793251,
+    "song_title": "SPOON | House Of Strombo",
+    "year": 2018,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=RAQpZguQoBo"
+  },
+  {
+    "id": 786479302909,
+    "song_title": "Hannah Georgas + Friends | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=IUwGsT7DtvI"
+  },
+  {
+    "id": 769897046893,
+    "song_title": "LIGHTS | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=fdc0saFSrqk"
+  },
+  {
+    "id": 116624575669,
+    "song_title": "Steve Earle | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=HJkqb1GEuGk"
+  },
+  {
+    "id": 914917124448,
+    "song_title": "Pierre Kwenders | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=gtza33dXJwM"
+  },
+  {
+    "id": 890417844333,
+    "song_title": "Emily Haines & The Soft Skeleton | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ecxgcAtQ4WM"
+  },
+  {
+    "id": 600752784144,
+    "song_title": "The Kents | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=l-LzBgAikhk"
+  },
+  {
+    "id": 274850757348,
+    "song_title": "The Barr Brothers | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=hgscK12owxY"
+  },
+  {
+    "id": 356430774447,
+    "song_title": "Jessie Reyez | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=By8hycyRxTM"
+  },
+  {
+    "id": 215212653085,
+    "song_title": "Cold Specks | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=m9xNDtTCN8s"
+  },
+  {
+    "id": 989362125585,
+    "song_title": "Partner | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=_z_4n98GCwQ"
+  },
+  {
+    "id": 449833895549,
+    "song_title": "Sam Patch + Iskwé | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=abjT0A-9KZk"
+  },
+  {
+    "id": 950458075834,
+    "song_title": "Mac DeMarco | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=FZ-HlE9D0qs"
+  },
+  {
+    "id": 760059622548,
+    "song_title": "Blue Rodeo | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=yuPP44wF30k"
+  },
+  {
+    "id": 365024305819,
+    "song_title": "Against Me! | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=eo8907qo7jQ"
+  },
+  {
+    "id": 997596898782,
+    "song_title": "Dinosaur Jr. | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=jlXfw0qAh7k"
+  },
+  {
+    "id": 968034247890,
+    "song_title": "Kate Tempest | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=L1ieALn0QGQ"
+  },
+  {
+    "id": 461066161436,
+    "song_title": "A Tribe Called Red | House Of Strombo",
+    "year": 2017,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=7Tsiet4QrX4"
+  },
+  {
+    "id": 715830440315,
+    "song_title": "Charles Bradley | House Of Strombo",
     "year": 2016,
-    "artist_name": "Led Zeppelin Rarities",
+    "artist_name": "The Strombo Show /  House of Strombo",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=k-WSbMW7BPc"
+    "youtube_link": "https://www.youtube.com/watch?v=Izy48abJBVg"
   },
   {
-    "id": 706754176353,
-    "song_title": "Kraftwerk live | Rockpalast | 1970",
-    "year": 2018,
-    "artist_name": "WDR Rockpalast",
+    "id": 919517652051,
+    "song_title": "Chantal Kreviazuk | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=vNoFHdlMrtI"
+    "youtube_link": "https://www.youtube.com/watch?v=u-CRbmgZBeg"
   },
   {
-    "id": 158158191291,
-    "song_title": "Phoenix @ Brooklyn Steel | Pitchfork Live | Full Set",
-    "year": 2018,
-    "artist_name": "Pitchfork",
+    "id": 716608165593,
+    "song_title": "Arkells (Part One) | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=STixAvSrnlc"
+    "youtube_link": "https://www.youtube.com/watch?v=oLadNmqolTE"
   },
   {
-    "id": 672025984673,
-    "song_title": "Twenty One Pilots Live at Lollapalooza Brasil 2016 - Full Concert",
-    "year": 2023,
-    "artist_name": "Twenty One Pilots Live at Lollapalooza Brasil 2016",
+    "id": 487993823465,
+    "song_title": "Chelsea Wolfe | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=iWDn5inx-sQ"
+    "youtube_link": "https://www.youtube.com/watch?v=GbG1sQLfk0c"
+  },
+  {
+    "id": 207956841617,
+    "song_title": "Collective Soul | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=mG7tGFtIjKI"
+  },
+  {
+    "id": 374007775680,
+    "song_title": "By Divine Right | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ZsMuL8HIPGo"
+  },
+  {
+    "id": 231260891499,
+    "song_title": "Jim Bryson | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=suc05CENo5A"
+  },
+  {
+    "id": 831355676052,
+    "song_title": "The Range | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=2RuokmfWKP0"
+  },
+  {
+    "id": 658561996235,
+    "song_title": "Hannah Georgas | Strombo Sessions",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=47_pUUcXN-M"
+  },
+  {
+    "id": 866129517135,
+    "song_title": "The Kills | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=f7lNtFnrHMA"
+  },
+  {
+    "id": 705068059110,
+    "song_title": "The Cult | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=JQrFmHgNya0"
+  },
+  {
+    "id": 741667129119,
+    "song_title": "Jazz Cartier | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=DIuuXi9xiqI"
+  },
+  {
+    "id": 962747041207,
+    "song_title": "Dilly Dally | House Of Strombo",
+    "year": 2016,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ue5q5cpo8E4"
+  },
+  {
+    "id": 314045744251,
+    "song_title": "Basia Bulat: Full Interview | House Of Strombo",
+    "year": 2014,
+    "artist_name": "The Strombo Show /  House of Strombo",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=g_N7OTeAZ0Y"
+  },
+  {
+    "id": 186233054384,
+    "song_title": "MELVINS - Full Set (Live from Los Angeles, CA 2017) #JAMINTHEVAN",
+    "year": 2019,
+    "artist_name": "MELVINS",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=OFado_sy5LI"
+  },
+  {
+    "id": 794802746947,
+    "song_title": "Mike Patton / Mondo Cane - Teatro Caupolicán, Santiago, Chile, Sep. 21, 2011 (HD) (Full Show)",
+    "year": 2011,
+    "artist_name": "Mike Patton / Mondo Cane",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=iDOl5q7UXfg"
+  },
+  {
+    "id": 306137646388,
+    "song_title": "Melvins @ UCLA  3/3/1993 (FULL SHOW)",
+    "year": 2014,
+    "artist_name": "HORNSS",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=8MRgCcYyKQk"
+  },
+  {
+    "id": 539372568258,
+    "song_title": "THE MELVINS - BULLHEAD/STONERWITCH (full show, 4 cameras)",
+    "year": 2020,
+    "artist_name": "THE MELVINS",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=8NUPV_LdJFM"
+  },
+  {
+    "id": 379255542329,
+    "song_title": "Melvins Live @ villette sonique",
+    "year": 2015,
+    "artist_name": "Cannabear",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=WRi-jLC6a-k"
+  },
+  {
+    "id": 381106515204,
+    "song_title": "Melvins Live @ Amoeba 07-15-2008",
+    "year": 2015,
+    "artist_name": "Thanasis Katsadas",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=ZR8KGPMwU3w"
   }
 ]
