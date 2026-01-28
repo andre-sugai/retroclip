@@ -8090,5 +8090,167 @@
     "youtube_link": "https://www.youtube.com/watch?v=RQa7SvVCdZk",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523452992795,
+    "song_title": "I'm A Thug (Official Video)",
+    "year": 2001,
+    "artist_name": "Trick Daddy",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=OA8plLojVp8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523486677946,
+    "song_title": "If You're Gone (Official Video)",
+    "year": 2001,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=E8bmhhnkM5o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523526073390,
+    "song_title": "Back 2 Good (Official Video)",
+    "year": 2001,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=2X5Dr-uFVGw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523557898785,
+    "song_title": "Cumbersome (Official Video)",
+    "year": 2001,
+    "artist_name": "Seven Mary Three",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=NjNn4bbbgSw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523589962378,
+    "song_title": "Lunch Or Dinner (Official Video)",
+    "year": 2001,
+    "artist_name": "Sunshine Anderson",
+    "artist_genre": "american",
+    "youtube_link": "https://www.youtube.com/watch?v=zbJsl3zRNbc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523662410909,
+    "song_title": "House Of Pain (Official Video)",
+    "year": 2001,
+    "artist_name": "Faster Pussycat",
+    "artist_genre": "industrial rock",
+    "youtube_link": "https://www.youtube.com/watch?v=eunWuKxfAC8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523765243998,
+    "song_title": "Show Me (Official Video)",
+    "year": 2001,
+    "artist_name": "Howard Hewett",
+    "artist_genre": "soul",
+    "youtube_link": "https://www.youtube.com/watch?v=hWEyLeOlLbg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524100106730,
+    "song_title": "Mad Season (Official Video)",
+    "year": 2001,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=OOfbSQVjULQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524145300911,
+    "song_title": "Pull Over (Official Video)",
+    "year": 2001,
+    "artist_name": "Trina",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=grmJsiGf5Bk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

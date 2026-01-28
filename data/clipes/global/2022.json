@@ -8730,5 +8730,131 @@
     "artist_name": "MELVINS",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=fQ38X-kmi1Y"
+  },
+  {
+    "id": 1769520530915770,
+    "song_title": "New Boot Goofin’ (From “American Song Contest”) (Official Music Video)",
+    "year": 2022,
+    "artist_name": "Ryan Charles",
+    "artist_genre": "jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=IKT3tOarh7E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523489480732,
+    "song_title": "I Am The Club (Official Video)",
+    "year": 2022,
+    "artist_name": "Plies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dU8HjSG3bB0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523856700029,
+    "song_title": "Nonstop To Nowhere (Official Video)",
+    "year": 2022,
+    "artist_name": "Faster Pussycat",
+    "artist_genre": "industrial rock",
+    "youtube_link": "https://www.youtube.com/watch?v=4m83udrJlxw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524005759744,
+    "song_title": "Pimp Like Me (Official Video)",
+    "year": 2022,
+    "artist_name": "Twista",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=WgcTpvLxZ7w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524065060908,
+    "song_title": "Poison Ivy (Official Video)",
+    "year": 2022,
+    "artist_name": "Faster Pussycat",
+    "artist_genre": "industrial rock",
+    "youtube_link": "https://www.youtube.com/watch?v=YC075wUDRQ0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524209257312,
+    "song_title": "I Am The Club (Official Video)",
+    "year": 2022,
+    "artist_name": "Plies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GYov9kbryIA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769525715478242,
+    "song_title": "Before I Knew It 🤠🎸 #MasonRamsey’s official music video for his viral track is here.",
+    "year": 2022,
+    "artist_name": "",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PrlTotlhHNU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

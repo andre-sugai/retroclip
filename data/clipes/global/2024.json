@@ -6186,5 +6186,113 @@
     "artist_name": "Butthole Surfers",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=IRbAxhTNkBY"
+  },
+  {
+    "id": 1769520256972364,
+    "song_title": "Fantasy [Official Video]",
+    "year": 2024,
+    "artist_name": "Dawn Richard x Ebonie Smith",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CoHVBxW6i6I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "4K",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769520291531250,
+    "song_title": "Dare To Dream [Official Music Video]",
+    "year": 2024,
+    "artist_name": "Genesis Be & Ebonie Smith",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=chRo51tLjNk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "4K",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769520311221174,
+    "song_title": "You're Hired (feat. Ayra Starr) [Official Music Video]",
+    "year": 2024,
+    "artist_name": "NEIKED",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PXRfHAkp_4Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522820969435,
+    "song_title": "Be My Lover (Official Video)",
+    "year": 2024,
+    "artist_name": "INNA",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=txckpZ0miUE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523671424861,
+    "song_title": "Daydreamin' (feat. Jill Scott) [Official Video]",
+    "year": 2024,
+    "artist_name": "Lupe Fiasco",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=7XOAStfv-v0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524062570876,
+    "song_title": "Hip-Hop Saved My Life (feat. Nikki Jean) [Official Video]",
+    "year": 2024,
+    "artist_name": "Lupe Fiasco",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=Z3YV1hzALHs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

@@ -7614,5 +7614,77 @@
     "youtube_link": "https://www.youtube.com/watch?v=NdYWuo9OFAw",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523242657370,
+    "song_title": "I Could Be The One (Official Video)",
+    "year": 1998,
+    "artist_name": "Donna Lewis",
+    "artist_genre": "rockabilly",
+    "youtube_link": "https://www.youtube.com/watch?v=wG2XUkzzeJ0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523520091359,
+    "song_title": "Crazy (Official Video)",
+    "year": 1998,
+    "artist_name": "Alana Davis",
+    "artist_genre": "jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=g94UfAM1HmY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523703402606,
+    "song_title": "Moment Of Weakness (Official Video)",
+    "year": 1998,
+    "artist_name": "Bif Naked",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=UWuddKPLXSw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523790683284,
+    "song_title": "I Could Be The One (Official Video)",
+    "year": 1998,
+    "artist_name": "Donna Lewis",
+    "artist_genre": "rockabilly",
+    "youtube_link": "https://www.youtube.com/watch?v=Yf_fBxw0RB4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

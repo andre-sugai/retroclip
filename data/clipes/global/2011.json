@@ -35518,5 +35518,185 @@
     "artist_name": "Pearl Jam",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=tdiCLZOxB3Q"
+  },
+  {
+    "id": 1769523010393016,
+    "song_title": "Trouble (Official Video)",
+    "year": 2011,
+    "artist_name": "Alvin & The Chipmunks: Chipwrecked",
+    "artist_genre": "fictitious artist",
+    "youtube_link": "https://www.youtube.com/watch?v=eCizhI6YLgI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523058805446,
+    "song_title": "Yes (Official Video)",
+    "year": 2011,
+    "artist_name": "Musiq Soulchild",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=bM9fzser6RY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523067681173,
+    "song_title": "Thing Called Us (Andre Harrell Version) [Official Video]",
+    "year": 2011,
+    "artist_name": "Hamilton Park",
+    "artist_genre": "nu metal",
+    "youtube_link": "https://www.youtube.com/watch?v=p36MAlGa724",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523167845821,
+    "song_title": "Don't Turn The Lights On (Official Video)",
+    "year": 2011,
+    "artist_name": "Chromeo",
+    "artist_genre": "funktronica",
+    "youtube_link": "https://www.youtube.com/watch?v=TuM5pB4dE-A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523251066089,
+    "song_title": "This Girl (Official Video)",
+    "year": 2011,
+    "artist_name": "Laza Morgan",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NkLiVhhG0WE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "288p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523262363002,
+    "song_title": "Kids In Love (Official Video)",
+    "year": 2011,
+    "artist_name": "Mayday Parade",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=WiVTOBHaQ0w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523335978343,
+    "song_title": "Little Bit Of Red (Official Video)",
+    "year": 2011,
+    "artist_name": "Serena Ryder",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VedZwEYw7cI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "360p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523355874233,
+    "song_title": "Second Chance (Official Video)",
+    "year": 2011,
+    "artist_name": "Shinedown",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=H25ORRgLxdA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523408938576,
+    "song_title": "Devour (Official Video)",
+    "year": 2011,
+    "artist_name": "Shinedown",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hiEgOljqB1g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524214634836,
+    "song_title": "Better Than (Official Video)",
+    "year": 2011,
+    "artist_name": "John Butler Trio",
+    "artist_genre": "folk",
+    "youtube_link": "https://www.youtube.com/watch?v=WGIpieuW62s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

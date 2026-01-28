@@ -85868,5 +85868,203 @@
     "artist_name": "THE MELVINS",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=_-KjztYK9iY"
+  },
+  {
+    "id": 1769522717952793,
+    "song_title": "Riot (feat. Damian Marley) [Official Video]",
+    "year": 2013,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=QTAVrtmQTlY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522728893750,
+    "song_title": "Chase Forever (Official Video)",
+    "year": 2013,
+    "artist_name": "Jaheim",
+    "artist_genre": "hip hop rnb and dance hall",
+    "youtube_link": "https://www.youtube.com/watch?v=CKGgOpBuVNI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522732035059,
+    "song_title": "40 years of Heaven, Hell N' High Water - Part 4",
+    "year": 2013,
+    "artist_name": "Black Oak Arkansas",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_7uupXnc8Ig",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522737527354,
+    "song_title": "Part 2",
+    "year": 2013,
+    "artist_name": "Black Oak Arkansas: 40 years of Heaven, Hell N' High Water",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=kBSNU3i-RNI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522782878689,
+    "song_title": "Everybody's Got Somebody But Me (feat. Jason Mraz) [YouTube Mash-Up]",
+    "year": 2013,
+    "artist_name": "Hunter Hayes",
+    "artist_genre": "country",
+    "youtube_link": "https://www.youtube.com/watch?v=903A5ijQveE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522794927455,
+    "song_title": "Baby x3 (Official Video)",
+    "year": 2013,
+    "artist_name": "Jaheim",
+    "artist_genre": "hip hop rnb and dance hall",
+    "youtube_link": "https://www.youtube.com/watch?v=NKDxWdQeZ7o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522811879410,
+    "song_title": "Age Ain't A Factor (Official Video)",
+    "year": 2013,
+    "artist_name": "Jaheim",
+    "artist_genre": "hip hop rnb and dance hall",
+    "youtube_link": "https://www.youtube.com/watch?v=fvNVAd4WrYU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522817860483,
+    "song_title": "Other Side of Love (Official Video)",
+    "year": 2013,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=zH1Z03rno4Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522823754203,
+    "song_title": "More Than Friends (feat. Daddy Yankee) [Official Video]",
+    "year": 2013,
+    "artist_name": "Inna",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=J3Q5lZOep2c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522835174372,
+    "song_title": "Mother's Day Appreciation",
+    "year": 2013,
+    "artist_name": "Jaheim",
+    "artist_genre": "hip hop rnb and dance hall",
+    "youtube_link": "https://www.youtube.com/watch?v=OkpPQOQzt0A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522868308127,
+    "song_title": "The Harlem Shake (Atlantic Version)",
+    "year": 2013,
+    "artist_name": "Atlantic Records",
+    "artist_genre": "special purpose artist",
+    "youtube_link": "https://www.youtube.com/watch?v=Cn4XPWkUZl4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

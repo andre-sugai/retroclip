@@ -24757,5 +24757,617 @@
     "artist_name": "Night Goat",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=jzkDVmotWCs"
+  },
+  {
+    "id": 1769523154309647,
+    "song_title": "I Can't Make You Love Me (Official Video)",
+    "year": 2010,
+    "artist_name": "Tank",
+    "artist_genre": "heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=NXnhWthZ_k4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523160064345,
+    "song_title": "Holiday Lip Dub Greeting 2010",
+    "year": 2010,
+    "artist_name": "Atlantic Records",
+    "artist_genre": "special purpose artist",
+    "youtube_link": "https://www.youtube.com/watch?v=IBwtI95i9QE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523173385288,
+    "song_title": "Gypsy Woman (Official Video)",
+    "year": 2010,
+    "artist_name": "Jonathan Tyler & Northern Lights",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nY-ogxciOdw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523176578262,
+    "song_title": "Emergency (Official Video)",
+    "year": 2010,
+    "artist_name": "Tank",
+    "artist_genre": "heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=5xne4rHjL0k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523179463328,
+    "song_title": "Tonight (Official Video)",
+    "year": 2010,
+    "artist_name": "Donnis",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=L01C002HKbE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523188373324,
+    "song_title": "Take Me For A Ride (Official Video)",
+    "year": 2010,
+    "artist_name": "Bad City",
+    "artist_genre": "deutschrock",
+    "youtube_link": "https://www.youtube.com/watch?v=rEYhapqsb3I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523191342100,
+    "song_title": "Love Love Love (feat. Jason Mraz) [Official Video]",
+    "year": 2010,
+    "artist_name": "Hope",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JM6b_8yp9MM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523212131470,
+    "song_title": "Hold My Hand (feat. Zaho) [Remix] (Official Video)",
+    "year": 2010,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=MPJsB8c06AM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "360p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523217731238,
+    "song_title": "Familiar Taste of Poison (Official Video)",
+    "year": 2010,
+    "artist_name": "Halestorm",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=RAP08rk7fLw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523228505519,
+    "song_title": "Sex Music (Official Video)",
+    "year": 2010,
+    "artist_name": "Tank",
+    "artist_genre": "heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=HiAFALbzJQ8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523239628732,
+    "song_title": "Wildlife (Official Video)",
+    "year": 2010,
+    "artist_name": "Bad City",
+    "artist_genre": "deutschrock",
+    "youtube_link": "https://www.youtube.com/watch?v=HrKgeYUqg2Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523248361074,
+    "song_title": "Hero (Official Video)",
+    "year": 2010,
+    "artist_name": "Skillet",
+    "artist_genre": "christian rock",
+    "youtube_link": "https://www.youtube.com/watch?v=uGcsIdGOuZY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523254057635,
+    "song_title": "This Instant (feat. T-Pain) [Official VIdeo]",
+    "year": 2010,
+    "artist_name": "Sophia Fresh",
+    "artist_genre": "drum and bass",
+    "youtube_link": "https://www.youtube.com/watch?v=pFmfSseeRpE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523256704497,
+    "song_title": "Something Beautiful (Official Video)",
+    "year": 2010,
+    "artist_name": "NEEDTOBREATHE",
+    "artist_genre": "christian rock",
+    "youtube_link": "https://www.youtube.com/watch?v=yq1H3l7kyYU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523265285461,
+    "song_title": "Finding My Way Back (Official Video)",
+    "year": 2010,
+    "artist_name": "Jaheim",
+    "artist_genre": "hip hop rnb and dance hall",
+    "youtube_link": "https://www.youtube.com/watch?v=rEpfuzjHvxU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523267778729,
+    "song_title": "Never Gonna Be The Same (Official Video)",
+    "year": 2010,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=-B4Rq8lPeAk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523275634686,
+    "song_title": "Make My Heart (Official Video)",
+    "year": 2010,
+    "artist_name": "Toni Braxton",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=C0yo9XHAsZw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523278238949,
+    "song_title": "Hands Tied (Official Video)",
+    "year": 2010,
+    "artist_name": "Toni Braxton",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=9JpVynh9HWU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523292133127,
+    "song_title": "Cherry Bomb (Official Video)",
+    "year": 2010,
+    "artist_name": "Dakota Fanning & Kristen Stewart",
+    "artist_genre": "feminist",
+    "youtube_link": "https://www.youtube.com/watch?v=aNNp5GyzlKc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523294812850,
+    "song_title": "Freak (feat. Kardinal Offishall) [Official Video]",
+    "year": 2010,
+    "artist_name": "Estelle",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9rN5XmvRuK0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "360p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523306373544,
+    "song_title": "Ain't Leavin Without You (Remix) [feat. Jadakiss] (Official Video)",
+    "year": 2010,
+    "artist_name": "Jaheim",
+    "artist_genre": "hip hop rnb and dance hall",
+    "youtube_link": "https://www.youtube.com/watch?v=XfHOwo6xnl4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "360p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523316978362,
+    "song_title": "Writing It Down (Pop Remix) [Official Video]",
+    "year": 2010,
+    "artist_name": "Uncle Kracker",
+    "artist_genre": "country rock",
+    "youtube_link": "https://www.youtube.com/watch?v=01OAE5kk-dQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523319923601,
+    "song_title": "Love/Hate Heartbreak (Official Video)",
+    "year": 2010,
+    "artist_name": "Halestorm",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=x7n0iizglK0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523322559493,
+    "song_title": "It's Not You (Official Video)",
+    "year": 2010,
+    "artist_name": "Halestorm",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=QVYgoejO3ac",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523330361461,
+    "song_title": "Lay 'Em Down (Official Video)",
+    "year": 2010,
+    "artist_name": "NEEDTOBREATHE",
+    "artist_genre": "christian rock",
+    "youtube_link": "https://www.youtube.com/watch?v=3PN-BMHi5L8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523341977423,
+    "song_title": "Yesterday (Official Video)",
+    "year": 2010,
+    "artist_name": "Toni Braxton",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=1lymwP7atnY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "352p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523352982524,
+    "song_title": "If You Only Knew (Official Video)",
+    "year": 2010,
+    "artist_name": "Shinedown",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=8NCDqYynUQk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523361647763,
+    "song_title": "Yesterday (feat. Trey Songz) [Official Video]",
+    "year": 2010,
+    "artist_name": "Toni Braxton",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=3cETtDC59-I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "352p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523420673843,
+    "song_title": "Hi Hater (Remix) [feat. T.I., Plies, Swizz Beats, Jadakiss, & Fabolous] (Official Video)",
+    "year": 2010,
+    "artist_name": "Maino",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=VA-Qt5rwKCg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523603946415,
+    "song_title": "Black Flag (Official Video)",
+    "year": 2010,
+    "artist_name": "King's X",
+    "artist_genre": "king's x",
+    "youtube_link": "https://www.youtube.com/watch?v=RR0G9XKuHdE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523979064561,
+    "song_title": "Devils and Angels (Official Video)",
+    "year": 2010,
+    "artist_name": "Toby Lightman",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=GSANCAdASuI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524251986940,
+    "song_title": "Let's Just Fall In Love Again (Official Video)",
+    "year": 2010,
+    "artist_name": "Jason Castro",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PzoiTk6oSKw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524254874475,
+    "song_title": "Monster (Official Video)",
+    "year": 2010,
+    "artist_name": "Skillet",
+    "artist_genre": "christian rock",
+    "youtube_link": "https://www.youtube.com/watch?v=1mjlM_RnsVE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "360p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524260739742,
+    "song_title": "I Get Off (Official Video)",
+    "year": 2010,
+    "artist_name": "Halestorm",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=naIT6XfsjAw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

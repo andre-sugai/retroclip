@@ -6075,5 +6075,113 @@
     "artist_name": "The Nixons",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=n6aB2sQgGFk"
+  },
+  {
+    "id": 1769520317107022,
+    "song_title": "I'm Just Ken (Merry Kristmas Barbie) [Official Music Video]",
+    "year": 2023,
+    "artist_name": "Ryan Gosling & Mark Ronson",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=KKO84c6SbfY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "4K",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769520377738227,
+    "song_title": "Aurora (Official Lyric Video)",
+    "year": 2023,
+    "artist_name": "Daisy Jones & The Six",
+    "artist_genre": "folk rock",
+    "youtube_link": "https://www.youtube.com/watch?v=EHx3AY-SnYg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "lyric_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769520411596719,
+    "song_title": "Look At Us Now (Honeycomb) [Official Lyric Video]",
+    "year": 2023,
+    "artist_name": "Daisy Jones & The Six",
+    "artist_genre": "folk rock",
+    "youtube_link": "https://www.youtube.com/watch?v=xdZaOvSlHAA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "lyric_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523776656794,
+    "song_title": "Bright Lights (Official Video)",
+    "year": 2023,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=12P2o91OLo4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523876092340,
+    "song_title": "Long Day (Official Video)",
+    "year": 2023,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Lgoz3XkW1UM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769525225888837,
+    "song_title": "@LuhTylerMusic just dropped the official video for #FirstShow 🎥🔥",
+    "year": 2023,
+    "artist_name": "",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5bxX9pyzoQQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

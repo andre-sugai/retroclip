@@ -8531,5 +8531,203 @@
     "youtube_link": "https://www.youtube.com/watch?v=mhj0Q8wUlqs",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523563648161,
+    "song_title": "In A Little While (Official Video)",
+    "year": 2002,
+    "artist_name": "Uncle Kracker",
+    "artist_genre": "country rock",
+    "youtube_link": "https://www.youtube.com/watch?v=UITLoH41xRw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523592909738,
+    "song_title": "On A High (Official Video)",
+    "year": 2002,
+    "artist_name": "Duncan Sheik",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=5vpLAw-rVlE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523609609966,
+    "song_title": "How Many Licks? (feat. Sisqo) [Official Video]",
+    "year": 2002,
+    "artist_name": "Lil' Kim",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=yhCD9qxlczo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523677134274,
+    "song_title": "Pitiful (Official Video)",
+    "year": 2002,
+    "artist_name": "Blindside",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=t-K2EdbnK6s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523745938546,
+    "song_title": "Punkrocker (feat. Iggy Pop) [Official Video]",
+    "year": 2002,
+    "artist_name": "Teddybears",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8P09rxVaQAM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523751343091,
+    "song_title": "Hey Girl (Official Video)",
+    "year": 2002,
+    "artist_name": "O.A.R.",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=fb17JzKSiVA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523754237268,
+    "song_title": "Hello From The Gutter (Official Video)",
+    "year": 2002,
+    "artist_name": "Overkill",
+    "artist_genre": "thrash metal",
+    "youtube_link": "https://www.youtube.com/watch?v=BwJbu_llZGY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523821999865,
+    "song_title": "Curbside Prophet (Official Video)",
+    "year": 2002,
+    "artist_name": "Jason Mraz",
+    "artist_genre": "pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Mofcq785GwQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524025663339,
+    "song_title": "One More Minute (Official Video)",
+    "year": 2002,
+    "artist_name": "Authority Zero",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=3aqi23-BBLA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524048193527,
+    "song_title": "Headz Up (Official Video)",
+    "year": 2002,
+    "artist_name": "Nappy Roots",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=CwYCg4tkv4M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524220558524,
+    "song_title": "Hey Girl (Official Video)",
+    "year": 2002,
+    "artist_name": "O.A.R.",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=1S3JgYi6wo8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

@@ -9514,5 +9514,347 @@
     "youtube_link": "https://www.youtube.com/watch?v=D0sjCgS7vi8",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523508874182,
+    "song_title": "Turn Me On (feat. Spraga Benz) [Official Video]",
+    "year": 2004,
+    "artist_name": "Kevin Lyttle",
+    "artist_genre": "soca",
+    "youtube_link": "https://www.youtube.com/watch?v=4apHuWytLko",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523584550209,
+    "song_title": "Unwell (Official Video)",
+    "year": 2004,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=-c4Vx3916uE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523649994449,
+    "song_title": "Real Love (Official Video)",
+    "year": 2004,
+    "artist_name": "Toby Lightman",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Ueamr1TEBqA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523652964128,
+    "song_title": "Poem (Official Video)",
+    "year": 2004,
+    "artist_name": "Taproot",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=9YGL3amPmyc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523706294743,
+    "song_title": "Turn Me On (Official Video)",
+    "year": 2004,
+    "artist_name": "Kevin Lyttle",
+    "artist_genre": "soca",
+    "youtube_link": "https://www.youtube.com/watch?v=GP3Exc5tCtc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523736796018,
+    "song_title": "Be Easy (Official Video)",
+    "year": 2004,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=KFTfnzjcmGM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523770773216,
+    "song_title": "True (Official Video)",
+    "year": 2004,
+    "artist_name": "Ryan Cabrera",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ujWfA2gDvSI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523804670211,
+    "song_title": "They Don't Know (feat. Bun B) [Official Video]",
+    "year": 2004,
+    "artist_name": "Paul Wall",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=YP_6X35h5Qw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523810223766,
+    "song_title": "Do The Damn Thang (feat. Young Jeezy) [Official Video]",
+    "year": 2004,
+    "artist_name": "Fabolous",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=5GiIZDFQU8E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523833426584,
+    "song_title": "When I'm Gone (Sadie) [Official Video]",
+    "year": 2004,
+    "artist_name": "No Address",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KFIwCMXZHSk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523878824746,
+    "song_title": "The Truth (Official Video)",
+    "year": 2004,
+    "artist_name": "Nonpoint",
+    "artist_genre": "heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=nWIk3aqGMEM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523881510779,
+    "song_title": "Fall Behind Me (Official Video)",
+    "year": 2004,
+    "artist_name": "The Donnas",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ZfUM7h2SgpA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523953820385,
+    "song_title": "Cobrastyle (feat. Mad Cobra) [Official Video]",
+    "year": 2004,
+    "artist_name": "Teddybears",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=s5SA6L722kI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523959151594,
+    "song_title": "40 Kinds Of Sadness (Official Video)",
+    "year": 2004,
+    "artist_name": "Ryan Cabrera",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ftK6kPGXc2Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524034036570,
+    "song_title": "The World's Gone Mad (Official Video)",
+    "year": 2004,
+    "artist_name": "Handsome Boy Modeling School",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=oQxIhyrRGt8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524108253948,
+    "song_title": "So Sexy Chapter II (Like This) [feat. R. Kelly] (Official Video)",
+    "year": 2004,
+    "artist_name": "Twista",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=jtALFlqEXv0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524119136380,
+    "song_title": "So Sexy (feat. R. Kelly) [Official Video]",
+    "year": 2004,
+    "artist_name": "Twista",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=RUk2fbn2now",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524153375289,
+    "song_title": "You'll Never Guess Who Died (Official Video)",
+    "year": 2004,
+    "artist_name": "The Kinison",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CwH8L200vqY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524225998758,
+    "song_title": "Let's Get Away (Official Video)",
+    "year": 2004,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=fpr8Q2xRJzI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

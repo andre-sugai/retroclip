@@ -17897,5 +17897,77 @@
     "artist_name": "Melvins",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=H0dDHiND0io"
+  },
+  {
+    "id": 1769521725984736,
+    "song_title": "This Is Me (The Reimagined Remix) [feat. the men of Queer Eye]",
+    "year": 2018,
+    "artist_name": "Keala Settle, Kesha & Missy Elliott",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=dH4-KR_ZzEo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521907437786,
+    "song_title": "Manuel Miranda & Ben Platt - Found/Tonight (Official Video)",
+    "year": 2018,
+    "artist_name": "Lin",
+    "artist_genre": "musical",
+    "youtube_link": "https://www.youtube.com/watch?v=2aQykuIaJVI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521915902239,
+    "song_title": "Glorious (Official Video)",
+    "year": 2018,
+    "artist_name": "Rise Cast",
+    "artist_genre": "britpop",
+    "youtube_link": "https://www.youtube.com/watch?v=HPrLeZspsT4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521967125970,
+    "song_title": "Manuel Miranda - Almost Like Praying (feat. Artists for Puerto Rico) [Salsa Remix] [Music Video]",
+    "year": 2018,
+    "artist_name": "Lin",
+    "artist_genre": "musical",
+    "youtube_link": "https://www.youtube.com/watch?v=xCmFLhCQhEw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "4K",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

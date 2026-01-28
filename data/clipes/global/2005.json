@@ -11286,5 +11286,545 @@
     "youtube_link": "https://www.youtube.com/watch?v=-2z3YwCrGMc",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523128899051,
+    "song_title": "Gangsters and Thugs (Music Video)",
+    "year": 2005,
+    "artist_name": "Transplants",
+    "artist_genre": "punk rock",
+    "youtube_link": "https://www.youtube.com/watch?v=UfNBpNWWhak",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523131564710,
+    "song_title": "What I Can't Describe (Official Video)",
+    "year": 2005,
+    "artist_name": "Transplants",
+    "artist_genre": "punk rock",
+    "youtube_link": "https://www.youtube.com/watch?v=LQ08RYhoNYQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "360p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523308938737,
+    "song_title": "We Be Burnin' (Recognize It) [Official Video]",
+    "year": 2005,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=uUGFhVWPOFs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "256p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523394713452,
+    "song_title": "Can't Let You Go (feat. Mike Shorey & Lil' Mo) [Official Video]",
+    "year": 2005,
+    "artist_name": "Fabolous",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=z4gXkpt6jPE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523503314498,
+    "song_title": "Happens All The Time (Official Video)",
+    "year": 2005,
+    "artist_name": "Cold",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Uz5Bf1aK1ig",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523617976244,
+    "song_title": "U Don't Know Me (Official Video)",
+    "year": 2005,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=z9H5_zDoBrU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523637896114,
+    "song_title": "Hit The Floor (feat. Pitbull) [Official Video]",
+    "year": 2005,
+    "artist_name": "Twista",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=yohWU0qntys",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523640707925,
+    "song_title": "45 (Official Video)",
+    "year": 2005,
+    "artist_name": "Shinedown",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=_L9xMkiPJeU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523643855608,
+    "song_title": "Grind With Me (Official Video)",
+    "year": 2005,
+    "artist_name": "Pretty Ricky",
+    "artist_genre": "rap",
+    "youtube_link": "https://www.youtube.com/watch?v=AdJtw7vS1E8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523694624243,
+    "song_title": "God Killed The Queen (Official Video)",
+    "year": 2005,
+    "artist_name": "Louis XIV",
+    "artist_genre": "garage rock revival",
+    "youtube_link": "https://www.youtube.com/watch?v=vwR4sbwtCac",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523712206534,
+    "song_title": "Ever Blazin' (Official Video)",
+    "year": 2005,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=7gNbZv51B2k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523739877172,
+    "song_title": "Wordplay (Official Video)",
+    "year": 2005,
+    "artist_name": "Jason Mraz",
+    "artist_genre": "pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=A5B1kqDfwqE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523748801748,
+    "song_title": "Revolution (Official Video)",
+    "year": 2005,
+    "artist_name": "Authority Zero",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=tonovKKYyxY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523762253589,
+    "song_title": "Lighters Up (Official Video)",
+    "year": 2005,
+    "artist_name": "Lil' Kim",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=X8l_0N8lLWY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523842625835,
+    "song_title": "Here We Go (feat. Kelly Rowland) [Official Video]",
+    "year": 2005,
+    "artist_name": "Trina",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=dke-dT3vLNM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523884586690,
+    "song_title": "Gotta Get Up From Here (Official Video)",
+    "year": 2005,
+    "artist_name": "Ellie Lawson",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=H0567KArFI8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523947992735,
+    "song_title": "I Don't Want To Know (If You Don't Want Me) [Official Video]",
+    "year": 2005,
+    "artist_name": "The Donnas",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=XDW_nCb_AO0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523961976759,
+    "song_title": "Revolution (Official Video)",
+    "year": 2005,
+    "artist_name": "Authority Zero",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Guz4Gz74IxM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523967918557,
+    "song_title": "Don't Trip (Official Video)",
+    "year": 2005,
+    "artist_name": "Trina",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=kTLNSNLLMaI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523973462891,
+    "song_title": "Photo (Official Video)",
+    "year": 2005,
+    "artist_name": "Ryan Cabrera",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hU5xnSG6xhA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524011444261,
+    "song_title": "Just The Girl (Official Video)",
+    "year": 2005,
+    "artist_name": "The Click Five",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uQBu5whSgC4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524028665185,
+    "song_title": "Lovin' It (feat. Joe Scudda) [Official Video]",
+    "year": 2005,
+    "artist_name": "Little Brother",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=vLReIhRgVS8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524036846695,
+    "song_title": "Over Seasons (Official Video)",
+    "year": 2005,
+    "artist_name": "Authority Zero",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=nJyVAh47VAY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524039546991,
+    "song_title": "ASAP (Official Video)",
+    "year": 2005,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=jwNYov2s3dI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524130764296,
+    "song_title": "Lady So Divine (Official Video)",
+    "year": 2005,
+    "artist_name": "Shinedown",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=HaF4GJoDvYE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524150908879,
+    "song_title": "Bring Em Out (Official Video)",
+    "year": 2005,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=UZckXxpGNa8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524158785374,
+    "song_title": "All Of Us (Official Video)",
+    "year": 2005,
+    "artist_name": "Blindside",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=INHzkO9w_KA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524176184836,
+    "song_title": "Girl Tonite (feat. Trey Songz) [Official Video]",
+    "year": 2005,
+    "artist_name": "Twista",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=y6j4BYmSgaE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524179018682,
+    "song_title": "Love and Memories (Official Video)",
+    "year": 2005,
+    "artist_name": "O.A.R.",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=rpea4Nlzs1U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524240631054,
+    "song_title": "God Killed The Queen (Official Video)",
+    "year": 2005,
+    "artist_name": "Louis XIV",
+    "artist_genre": "garage rock revival",
+    "youtube_link": "https://www.youtube.com/watch?v=0UASDM1FcNo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

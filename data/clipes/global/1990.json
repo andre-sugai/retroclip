@@ -1323,5 +1323,59 @@
     "youtube_link": "https://www.youtube.com/watch?v=uph0CERrjPM",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523391818582,
+    "song_title": "Land Of Confusion (From When in Rome 2007 DVD)",
+    "year": 1990,
+    "artist_name": "Genesis",
+    "artist_genre": "progressive rock",
+    "youtube_link": "https://www.youtube.com/watch?v=aIlfXLKnRkM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523606699602,
+    "song_title": "Oneovdabigboiz (Official Video)",
+    "year": 1990,
+    "artist_name": "Kwame And A New Beginning",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=P4EgKlhoTOU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523796265437,
+    "song_title": "Wake Up (Official Video)",
+    "year": 1990,
+    "artist_name": "Brand Nubian",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=TE0J4Ewc1kA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

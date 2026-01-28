@@ -18908,5 +18908,77 @@
     "artist_name": "The Nixons",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=Gd-oX1EO2jM"
+  },
+  {
+    "id": 1769521568653083,
+    "song_title": "Truth Hurts (DaBaby Remix) [Official Audio]",
+    "year": 2019,
+    "artist_name": "Lizzo",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=0BUFvxF2-FI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521590654810,
+    "song_title": "The Great Escape (Official Video)",
+    "year": 2019,
+    "artist_name": "Sam Martin",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=QwC-2MWbSms",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524105510038,
+    "song_title": "Drift Away (Official Video)",
+    "year": 2019,
+    "artist_name": "Uncle Kracker",
+    "artist_genre": "country rock",
+    "youtube_link": "https://www.youtube.com/watch?v=A69BertdSt4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524142427996,
+    "song_title": "Take It Off (Official Video)",
+    "year": 2019,
+    "artist_name": "The Donnas",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=nCvRT2sy5FE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

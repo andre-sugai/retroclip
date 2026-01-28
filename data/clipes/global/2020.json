@@ -28021,5 +28021,203 @@
     "artist_name": "The Nixons Official",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=nGX17XV6WAY"
+  },
+  {
+    "id": 1769521299551680,
+    "song_title": "One Shot feat. Lil Baby [Official Music Video]",
+    "year": 2020,
+    "artist_name": "YoungBoy Never Broke Again",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=MjYnV92EThs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521305260967,
+    "song_title": "Velvet (Remix) (feat. Lucky Daye) [Official Music Video]",
+    "year": 2020,
+    "artist_name": "KIRBY",
+    "artist_genre": "ambient",
+    "youtube_link": "https://www.youtube.com/watch?v=IBOW4nYeWLI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521349331014,
+    "song_title": "Lennon Stella feat. Charlie Puth (from Scoob! The Album) [Official Music Video]",
+    "year": 2020,
+    "artist_name": "Summer Feelings",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ciYqExAGO24",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521404243506,
+    "song_title": "Reaching feat. Alex Isley [Official Music Video]",
+    "year": 2020,
+    "artist_name": "Cautious Clay",
+    "artist_genre": "bedroom pop",
+    "youtube_link": "https://www.youtube.com/watch?v=dAGY6Dkny9o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "4K",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521435914774,
+    "song_title": "Joke's On You (from Birds of Prey: The Album) [Official Music Video]",
+    "year": 2020,
+    "artist_name": "Charlotte Lawrence",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=HkujLO17Ez8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521463669121,
+    "song_title": "Mambo [Official Music Video]",
+    "year": 2020,
+    "artist_name": "Nikki Vianna",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=m_N1UiaHx-E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "4K",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521466533192,
+    "song_title": "Sway With Me (from Birds of Prey: The Album) [Official Music Video]",
+    "year": 2020,
+    "artist_name": "Saweetie & GALXARA",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=19pp2jNapL4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521474780757,
+    "song_title": "Boss B*tch (from Birds of Prey: The Album) [Official Music Video]",
+    "year": 2020,
+    "artist_name": "Doja Cat",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=RsW66teC0BQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521485841329,
+    "song_title": "Soundtrack Trailer [Official Video]",
+    "year": 2020,
+    "artist_name": "Birds of Prey",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8AF0cUb0ABc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521488816506,
+    "song_title": "Diamonds [Official Music Video]",
+    "year": 2020,
+    "artist_name": "Megan Thee Stallion & Normani (Birds of Prey: The Album)",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=r1MxCSRWgI0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523245429881,
+    "song_title": "Woman (Official Video)",
+    "year": 2020,
+    "artist_name": "Toni Braxton",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=xNukNSQHMYU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

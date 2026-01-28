@@ -57501,5 +57501,293 @@
     "artist_name": "Mother Love Bone",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=p9n9gW1wCks"
+  },
+  {
+    "id": 1769522875307171,
+    "song_title": "I Like It (Official Video)",
+    "year": 2012,
+    "artist_name": "Sevyn Streeter",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=eadL2u3Wej0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522880115434,
+    "song_title": "Body (Official Video)",
+    "year": 2012,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=Q_oVei9vGN8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522886978404,
+    "song_title": "Restless Heart (Official Video)",
+    "year": 2012,
+    "artist_name": "Matt Hires",
+    "artist_genre": "pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Zk4dKviGpXw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522915138743,
+    "song_title": "This Is How I Feel (Official Video)",
+    "year": 2012,
+    "artist_name": "Tank",
+    "artist_genre": "heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=HwobN0T3nyk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522924764151,
+    "song_title": "How Deep Is Your Love (feat. Kelly Rowland) [Official Video]",
+    "year": 2012,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=PukKW3gY4uo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522954937460,
+    "song_title": "Touch The Sky (Official Video)",
+    "year": 2012,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=etM7T-JQPrE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522958629411,
+    "song_title": "Compliments (feat. T.I. & Kris Stephens) [Official Video]",
+    "year": 2012,
+    "artist_name": "Tank",
+    "artist_genre": "heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=x-WMuRdqf7I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522966806480,
+    "song_title": "Incondicional (Official Video)",
+    "year": 2012,
+    "artist_name": "Prince Royce",
+    "artist_genre": "bachata",
+    "youtube_link": "https://www.youtube.com/watch?v=h_fXySfFmM8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522970785011,
+    "song_title": "Compliments (feat. T.I. & Kris Stephens) [Behind the Scenes]",
+    "year": 2012,
+    "artist_name": "Tank",
+    "artist_genre": "heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=I_jChkEJufY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522979036424,
+    "song_title": "Next Breath (Official Video)",
+    "year": 2012,
+    "artist_name": "Tank",
+    "artist_genre": "heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=-kJVgvwJC_I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522990664285,
+    "song_title": "Las Cosas Pequeñas (Official Video)",
+    "year": 2012,
+    "artist_name": "Prince Royce",
+    "artist_genre": "bachata",
+    "youtube_link": "https://www.youtube.com/watch?v=cpZZKtRvAj8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523064875663,
+    "song_title": "Got 2 Luv U (feat. Alexis Jordan) [Official Video]",
+    "year": 2012,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=tDq3fNew1rU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523117415235,
+    "song_title": "Anything (feat. Swizz Beatz) [Official Video]",
+    "year": 2012,
+    "artist_name": "Musiq Soulchild",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=jLccOv7QPPA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523234085381,
+    "song_title": "Fall In Love (feat. Nas) [Official Video]",
+    "year": 2012,
+    "artist_name": "Estelle",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XeqKm66Ge8c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523236934044,
+    "song_title": "Fall In Love (feat. John Legend) [Official Video]",
+    "year": 2012,
+    "artist_name": "Estelle",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gGGOHFoAkKs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523417748821,
+    "song_title": "Officially Missing You (Official Video)",
+    "year": 2012,
+    "artist_name": "Tamia",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=HeK1zQFJtXE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

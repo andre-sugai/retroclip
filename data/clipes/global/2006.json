@@ -12673,5 +12673,455 @@
     "youtube_link": "https://www.youtube.com/watch?v=BAFUJ-XbBpg",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523441913016,
+    "song_title": "Save Me (Official Video)",
+    "year": 2006,
+    "artist_name": "Shinedown",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=T8dyxGiBx3g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523480614543,
+    "song_title": "Kick, Push (Official Video)",
+    "year": 2006,
+    "artist_name": "Lupe Fiasco",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=Gl83mI69nX4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523494952522,
+    "song_title": "The Prayer (Official Video)",
+    "year": 2006,
+    "artist_name": "Bloc Party",
+    "artist_genre": "indie rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ogE4qbkwYVI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523512259407,
+    "song_title": "Shoulder Lean (feat. T.I.) [Official Video]",
+    "year": 2006,
+    "artist_name": "Young Dro",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=aqZMoLXoVxs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523529023086,
+    "song_title": "Way I Be Leanin' (feat. Mike Jones, Paul Wall, Skip, & Wacko) [Official Video]",
+    "year": 2006,
+    "artist_name": "Juvenile",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=ZYjgRTzyxqQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523598572311,
+    "song_title": "Donde Quedaran (Official Video)",
+    "year": 2006,
+    "artist_name": "Christian Daniel",
+    "artist_genre": "conductor",
+    "youtube_link": "https://www.youtube.com/watch?v=cxbRQl7Fao0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523623707710,
+    "song_title": "You Are Here (Official Video)",
+    "year": 2006,
+    "artist_name": "NEEDTOBREATHE",
+    "artist_genre": "christian rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ENEKLOlA4s8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523629654782,
+    "song_title": "Rodeo (Official Video)",
+    "year": 2006,
+    "artist_name": "Juvenile",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=S5ATUCocIyc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523685844613,
+    "song_title": "Ghetto Story (feat. Alicia Keys) [Official Video]",
+    "year": 2006,
+    "artist_name": "Baby Cham",
+    "artist_genre": "dance and electronica",
+    "youtube_link": "https://www.youtube.com/watch?v=loPRsrqrDXc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523728393657,
+    "song_title": "Bet That (Official Video)",
+    "year": 2006,
+    "artist_name": "Trick Daddy",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=YjnHLvrYosc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523779432405,
+    "song_title": "Live In The Sky (feat. Jamie Foxx) [Official Video]",
+    "year": 2006,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=OaaTSS5yuuA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523793488645,
+    "song_title": "Pain In My Life (feat. Trey Songz) [Official Video]",
+    "year": 2006,
+    "artist_name": "Saigon",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=VpOE-RQGN1c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523807283512,
+    "song_title": "Whoa (Official Video)",
+    "year": 2006,
+    "artist_name": "Lil' Kim",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=SQpE-4VLolA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523827390616,
+    "song_title": "I Got Life (Official Video)",
+    "year": 2006,
+    "artist_name": "Mercy Fall",
+    "artist_genre": "post-punk",
+    "youtube_link": "https://www.youtube.com/watch?v=Tm9QXSEN5TQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523870509370,
+    "song_title": "Put Your Money Where Your Mouth Is (Official Video)",
+    "year": 2006,
+    "artist_name": "Jet",
+    "artist_genre": "garage rock",
+    "youtube_link": "https://www.youtube.com/watch?v=gX7bUXQsHLY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523898959301,
+    "song_title": "I Gotcha (Official Video)",
+    "year": 2006,
+    "artist_name": "Lupe Fiasco",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=64EwEc96Y24",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523939503875,
+    "song_title": "Shine On (Official Video)",
+    "year": 2006,
+    "artist_name": "Jet",
+    "artist_genre": "garage rock",
+    "youtube_link": "https://www.youtube.com/watch?v=p9SDaQ1seSg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524042424334,
+    "song_title": "Tell Me (Official Video)",
+    "year": 2006,
+    "artist_name": "White Lion",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=atwUCIuNWjc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524082947364,
+    "song_title": "Holding Me Down (Official Video)",
+    "year": 2006,
+    "artist_name": "Toby Lightman",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=WqcTDLNS7JM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524088595414,
+    "song_title": "Rubberband Banks (Official Video)",
+    "year": 2006,
+    "artist_name": "Young Dro",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=Yu6vhnrhKfk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524148207457,
+    "song_title": "Catch Your Wave (Official Video)",
+    "year": 2006,
+    "artist_name": "The Click Five",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=V3kRRMrS3e4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524184560834,
+    "song_title": "All Of The Above (Official Video)",
+    "year": 2006,
+    "artist_name": "Big City Rock",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=BH94-QxhG_A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524187426774,
+    "song_title": "Front Back (feat. UGK) [Official Video]",
+    "year": 2006,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=UNHLgut1Io8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524281868997,
+    "song_title": "Give It Up To Me (feat. Keyshia Cole) [Official Video]",
+    "year": 2006,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=N9djIgkO3v8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524322142764,
+    "song_title": "Ain't Gon Let Up (Official Video)",
+    "year": 2006,
+    "artist_name": "DG Yola",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Nq_fZZpg93Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "320p",
+    "is_low_quality": true,
+    "availability_status": "public"
   }
 ]

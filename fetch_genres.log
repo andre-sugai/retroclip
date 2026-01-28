@@ -1,0 +1,329 @@
+Starting genre fetch process...
+Loaded 449 videos from /Users/andresugai/Desktop/PROJETOS/retroclip/data/clipes/global/atlantic.json
+Loaded 48 cached artists.
+Fetching genre for: Juicy J, Wiz Khalifa, Ty Dolla $ign
+Found: Juicy J, Wiz Khalifa, Ty Dolla $ign -> hip hop
+Fetching genre for: Kirko Bangz
+Found: Kirko Bangz -> rap
+Fetching genre for: Francesco Yates
+Not found: Francesco Yates
+Fetching genre for: Flo Rida
+Found: Flo Rida -> pop rap
+Fetching genre for: Black Oak Arkansas
+Error fetching data for Black Oak Arkansas: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Not found: Black Oak Arkansas
+Fetching genre for: Plug In Stereo
+Not found: Plug In Stereo
+Fetching genre for: Jaheim
+Found: Jaheim -> hip hop rnb and dance hall
+Fetching genre for: Black Oak Arkansas: 40 years of Heaven, Hell N' High Water
+Found: Black Oak Arkansas: 40 years of Heaven, Hell N' High Water -> hard rock
+Fetching genre for: Hunter Hayes
+Found: Hunter Hayes -> country
+Fetching genre for: INNA
+Found: INNA -> pop
+Fetching genre for: Inna
+Found: Inna -> pop
+Fetching genre for: Atlantic Records
+Found: Atlantic Records -> special purpose artist
+Fetching genre for: Sevyn Streeter
+Found: Sevyn Streeter -> contemporary r&b
+Fetching genre for: Matt Hires
+Found: Matt Hires -> pop rock
+Fetching genre for: Tank
+Found: Tank -> heavy metal
+Fetching genre for: Brianna Perry
+Found: Brianna Perry -> easy listening
+Fetching genre for: Alvin & The Chipmunks: Chipwrecked
+Found: Alvin & The Chipmunks: Chipwrecked -> fictitious artist
+Fetching genre for: Musiq Soulchild
+Found: Musiq Soulchild -> contemporary r&b
+Fetching genre for: Hamilton Park
+Found: Hamilton Park -> nu metal
+Fetching genre for: Transplants
+Found: Transplants -> punk rock
+Fetching genre for: Chromeo
+Found: Chromeo -> funktronica
+Fetching genre for: Jonathan Tyler & Northern Lights
+Error fetching data for Jonathan Tyler & Northern Lights: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Not found: Jonathan Tyler & Northern Lights
+Fetching genre for: Donnis
+Not found: Donnis
+Fetching genre for: Bad City
+Found: Bad City -> deutschrock
+Fetching genre for: Hope
+Not found: Hope
+Fetching genre for: Uncle Kracker
+Found: Uncle Kracker -> country rock
+Fetching genre for: Halestorm
+Found: Halestorm -> hard rock
+Fetching genre for: Estelle
+Error fetching data for Estelle: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Not found: Estelle
+Fetching genre for: Donna Lewis
+Found: Donna Lewis -> rockabilly
+Fetching genre for: Toni Braxton
+Found: Toni Braxton -> r&b
+Fetching genre for: Skillet
+Found: Skillet -> christian rock
+Fetching genre for: Laza Morgan
+Not found: Laza Morgan
+Fetching genre for: Sophia Fresh
+Found: Sophia Fresh -> drum and bass
+Fetching genre for: NEEDTOBREATHE
+Found: NEEDTOBREATHE -> christian rock
+Fetching genre for: Mayday Parade
+Found: Mayday Parade -> alternative rock
+Fetching genre for: Lykke Li
+Found: Lykke Li -> indie pop
+Fetching genre for: Dakota Fanning & Kristen Stewart
+Found: Dakota Fanning & Kristen Stewart -> feminist
+Fetching genre for: Robert Francis
+Found: Robert Francis -> classical
+Fetching genre for: Serena Ryder
+Not found: Serena Ryder
+Fetching genre for: Leona Lewis
+Found: Leona Lewis -> pop
+Fetching genre for: Camera Can't Lie
+Not found: Camera Can't Lie
+Fetching genre for: Shinedown
+Found: Shinedown -> hard rock
+Fetching genre for: Genesis
+Found: Genesis -> progressive rock
+Fetching genre for: Young Steff
+Not found: Young Steff
+Fetching genre for: T.I.
+Found: T.I. -> hip hop
+Fetching genre for: Plies
+Error fetching data for Plies: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Not found: Plies
+Fetching genre for: Fabolous
+Found: Fabolous -> hip hop
+Fetching genre for: The Virgins
+Not found: The Virgins
+Fetching genre for: Tamia
+Found: Tamia -> contemporary r&b
+Fetching genre for: Maino
+Found: Maino -> hip hop
+Fetching genre for: Twista
+Found: Twista -> hip hop
+Fetching genre for: Big Kuntry King
+Found: Big Kuntry King -> hip hop
+Fetching genre for: Trick Daddy
+Found: Trick Daddy -> hip hop
+Fetching genre for: Death Cab For Cutie
+Found: Death Cab For Cutie -> indie rock
+Fetching genre for: Juvenile
+Found: Juvenile -> hip hop
+Fetching genre for: King's X
+Found: King's X -> king's x
+Fetching genre for: Matchbox Twenty
+Found: Matchbox Twenty -> alternative rock
+Fetching genre for: Howard Hewett
+Found: Howard Hewett -> soul
+Fetching genre for: Lupe Fiasco
+Found: Lupe Fiasco -> hip hop
+Fetching genre for: Trina
+Found: Trina -> hip hop
+Fetching genre for: Kyuss
+Found: Kyuss -> stoner rock
+Fetching genre for: Bloc Party
+Found: Bloc Party -> indie rock
+Fetching genre for: Lil' Kim
+Found: Lil' Kim -> hip hop
+Fetching genre for: Jason Mraz
+Found: Jason Mraz -> pop rock
+Fetching genre for: Cold
+Found: Cold -> hard rock
+Fetching genre for: Kevin Lyttle
+Found: Kevin Lyttle -> soca
+Fetching genre for: Young Dro
+Found: Young Dro -> hip hop
+Fetching genre for: Funeral for a Friend
+Found: Funeral for a Friend -> alternative rock
+Fetching genre for: Alana Davis
+Found: Alana Davis -> jazz
+Fetching genre for: Cheri Dennis
+Found: Cheri Dennis -> reggae
+Fetching genre for: Poison The Well
+Found: Poison The Well -> metalcore
+Fetching genre for: D4L
+Found: D4L -> hip hop
+Fetching genre for: Audiovent
+Not found: Audiovent
+Fetching genre for: Seven Mary Three
+Found: Seven Mary Three -> hard rock
+Fetching genre for: Hard
+Error fetching data for Hard: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Not found: Hard
+Fetching genre for: The Click Five
+Error fetching data for The Click Five: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Not found: The Click Five
+Fetching genre for: P$C
+Found: P$C -> french
+Fetching genre for: Smile Empty Soul
+Found: Smile Empty Soul -> post-grunge
+Fetching genre for: Hot Action Cop
+Found: Hot Action Cop -> punk
+Fetching genre for: Porcupine Tree
+Found: Porcupine Tree -> progressive rock
+Fetching genre for: Sunshine Anderson
+Found: Sunshine Anderson -> american
+Fetching genre for: Duncan Sheik
+Found: Duncan Sheik -> pop
+Fetching genre for: Christian Daniel
+Found: Christian Daniel -> conductor
+Fetching genre for: Kwame And A New Beginning
+Not found: Kwame And A New Beginning
+Fetching genre for: Kevyn Little
+Found: Kevyn Little -> rock
+Fetching genre for: Fat Joe
+Error fetching data for Fat Joe: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Not found: Fat Joe
+Fetching genre for: Carolina Liar
+Error fetching data for Carolina Liar: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Not found: Carolina Liar
+Fetching genre for: Better Than Ezra
+Found: Better Than Ezra -> post-grunge
+Fetching genre for: Pretty Ricky
+Found: Pretty Ricky -> rap
+Fetching genre for: Operator
+Not found: Operator
+Fetching genre for: Toby Lightman
+Found: Toby Lightman -> rock
+Fetching genre for: Taproot
+Found: Taproot -> rock
+Fetching genre for: Kill Hannah
+Found: Kill Hannah -> alternative rock
+Fetching genre for: Faster Pussycat
+Found: Faster Pussycat -> industrial rock
+Fetching genre for: Ryan Cabrera
+Not found: Ryan Cabrera
+Fetching genre for: Blindside
+Found: Blindside -> alternative rock
+Fetching genre for: Baby Cham
+Found: Baby Cham -> dance and electronica
+Fetching genre for: Louis XIV
+Found: Louis XIV -> garage rock revival
+Fetching genre for: Brand Nubian
+Found: Brand Nubian -> hip hop
+Fetching genre for: Bif Naked
+Found: Bif Naked -> alternative rock
+Fetching genre for: Gratitude
+Not found: Gratitude
+Fetching genre for: The Donnas
+Found: The Donnas -> rock
+Fetching genre for: Kid Rock
+Found: Kid Rock -> rock
+Fetching genre for: Teddybears
+Not found: Teddybears
+Fetching genre for: Authority Zero
+Found: Authority Zero -> alternative rock
+Fetching genre for: O.A.R.
+Found: O.A.R. -> alternative rock
+Fetching genre for: Overkill
+Found: Overkill -> thrash metal
+Fetching genre for: Nappy Roots
+Found: Nappy Roots -> hip hop
+Fetching genre for: Antigone Rising
+Found: Antigone Rising -> rock
+Fetching genre for: Rush
+Found: Rush -> progressive rock
+Fetching genre for: Saigon
+Found: Saigon -> hip hop
+Fetching genre for: Obie Trice
+Found: Obie Trice -> hip hop
+Fetching genre for: Paul Wall
+Found: Paul Wall -> hip hop
+Fetching genre for: Gia Farrell
+Not found: Gia Farrell
+Fetching genre for: Mercy Fall
+Found: Mercy Fall -> post-punk
+Fetching genre for: Funeral For A Friend
+Found: Funeral For A Friend -> alternative rock
+Fetching genre for: No Address
+Not found: No Address
+Fetching genre for: Death From Above 1979
+Found: Death From Above 1979 -> dance-punk
+Fetching genre for: Leaders Of The New School
+Found: Leaders Of The New School -> hip hop
+Fetching genre for: Jet
+Found: Jet -> garage rock
+Fetching genre for: Deemi
+Not found: Deemi
+Fetching genre for: Nonpoint
+Found: Nonpoint -> heavy metal
+Fetching genre for: Ellie Lawson
+Not found: Ellie Lawson
+Fetching genre for: James Blunt
+Found: James Blunt -> pop rock
+Fetching genre for: DJ Drama
+Found: DJ Drama -> hip hop
+Fetching genre for: B5
+Found: B5 -> contemporary r&b
+Fetching genre for: B.G.
+Found: B.G. -> hip hop
+Fetching genre for: Kevin Michael
+Found: Kevin Michael -> pop
+Fetching genre for: Moments In Grace
+Found: Moments In Grace -> alternative rock
+Fetching genre for: Anthony Hamilton
+Found: Anthony Hamilton -> hip hop
+Fetching genre for: Lucy Woodward
+Found: Lucy Woodward -> session
+Fetching genre for: Little Brother
+Found: Little Brother -> hip hop
+Fetching genre for: Cupid
+Not found: Cupid
+Fetching genre for: Handsome Boy Modeling School
+Found: Handsome Boy Modeling School -> hip hop
+Fetching genre for: White Lion
+Found: White Lion -> hard rock
+Fetching genre for: Pendulum
+Found: Pendulum -> drum and bass
+Fetching genre for: Bjork
+Found: Bjork -> experimental
+Fetching genre for: Freedy Johnston
+Found: Freedy Johnston -> rock
+Fetching genre for: Keke Palmer
+Found: Keke Palmer -> queer
+Fetching genre for: Silk
+Not found: Silk
+Fetching genre for: Everything But The Girl
+Found: Everything But The Girl -> electronic
+Fetching genre for: Gucci Mane
+Found: Gucci Mane -> hip hop
+Fetching genre for: The Kinison
+Not found: The Kinison
+Fetching genre for: Missy Elliott
+Found: Missy Elliott -> hip hop
+Fetching genre for: Black Rob
+Found: Black Rob -> audio drama
+Fetching genre for: Big City Rock
+Found: Big City Rock -> rock
+Fetching genre for: Laura Izibor
+Found: Laura Izibor -> soul
+Fetching genre for: Pleasure P
+Found: Pleasure P -> pop
+Fetching genre for: MC Lyte
+Found: MC Lyte -> hip hop
+Fetching genre for: Bayje
+Not found: Bayje
+Fetching genre for: John Butler Trio
+Found: John Butler Trio -> folk
+Fetching genre for: Jesse Lee
+Found: Jesse Lee -> jazz
+Fetching genre for: Jason Castro
+Not found: Jason Castro
+Fetching genre for: Zac Brown Band
+Found: Zac Brown Band -> country rock
+Fetching genre for: DG Yola
+Not found: DG Yola
+
+--- Summary ---
+Videos scanned: 449
+Updated: 335
+Skipped (already had genre): 38
+Failed/Not Found: 73
+Data saved to /Users/andresugai/Desktop/PROJETOS/retroclip/data/clipes/global/atlantic.json
+Cache saved to /Users/andresugai/Desktop/PROJETOS/retroclip/genre_cache.json

@@ -4932,5 +4932,41 @@
     "youtube_link": "https://www.youtube.com/watch?v=m47Is4ipcF8",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769524206363285,
+    "song_title": "When In Love (Official Video)",
+    "year": 1991,
+    "artist_name": "MC Lyte",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=zwbChD2nimU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524217367532,
+    "song_title": "Eyes Are The Soul (Official Video)",
+    "year": 1991,
+    "artist_name": "MC Lyte",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=OlTQsfEE1kQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

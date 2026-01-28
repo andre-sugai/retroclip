@@ -65237,5 +65237,149 @@
     "artist_name": "Morphine",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=5at5LJgHg1Y"
+  },
+  {
+    "id": 1769522517537525,
+    "song_title": "Search Party [Bearcubs Remix] (Official Video)",
+    "year": 2015,
+    "artist_name": "Sam Bruno",
+    "artist_genre": "film composer",
+    "youtube_link": "https://www.youtube.com/watch?v=4fhEAMKkDvs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522548836916,
+    "song_title": "Off-Set (Furious 7 Soundtrack) [Official Video]",
+    "year": 2015,
+    "artist_name": "T.I. & Young Thug",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=rpwJhh6gfEQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": false,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "needs_auth"
+  },
+  {
+    "id": 1769522560151412,
+    "song_title": "Look Outside (Official Video)",
+    "year": 2015,
+    "artist_name": "Nat & Alex Wolff",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9n5NXxfV1pc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522577437243,
+    "song_title": "Waka Flocka Flame – Game On (feat. Good Charlotte) [from Pixels – The Movie] (Official Video)",
+    "year": 2015,
+    "artist_name": "",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EXlDMrLH1Q4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522584388388,
+    "song_title": "Take It Low (Official Video)",
+    "year": 2015,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=aPZCGhM2gN0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522609221052,
+    "song_title": "My Angel (from Furious 7 Soundtrack) [Official Video]",
+    "year": 2015,
+    "artist_name": "Prince Royce",
+    "artist_genre": "bachata",
+    "youtube_link": "https://www.youtube.com/watch?v=SN4DGGzVXEw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522620672555,
+    "song_title": "Ride Out (from Furious 7 Soundtrack) [Official Video]",
+    "year": 2015,
+    "artist_name": "Kid Ink, Tyga, Wale, YG, Rich Homie Quan",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=X7rdg_tKzKQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523517760715,
+    "song_title": "Roses For The Dead (Official Video)",
+    "year": 2015,
+    "artist_name": "Funeral for a Friend",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=qsaamq0E964",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

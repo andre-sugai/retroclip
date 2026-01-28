@@ -186,7 +186,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] md:text-sm text-muted-foreground font-mono">
-              V 1.14.1 // ARIA-COMPLIANT
+              V 1.14.2 // ARIA-COMPLIANT
             </p>
           </div>
 

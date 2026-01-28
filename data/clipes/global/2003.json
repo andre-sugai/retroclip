@@ -9008,5 +9008,311 @@
     "youtube_link": "https://www.youtube.com/watch?v=6an5bVfQ1gY",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523383518053,
+    "song_title": "24's (Official Video)",
+    "year": 2003,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=XvzD7D4VcSc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523534592036,
+    "song_title": "Apathy Is A Cold Body (Official Video)",
+    "year": 2003,
+    "artist_name": "Poison The Well",
+    "artist_genre": "metalcore",
+    "youtube_link": "https://www.youtube.com/watch?v=SX0fNUBmplw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523581602519,
+    "song_title": "Don't Want Her To Stay (Official Video)",
+    "year": 2003,
+    "artist_name": "Hot Action Cop",
+    "artist_genre": "punk",
+    "youtube_link": "https://www.youtube.com/watch?v=OJYGIXQ8bZ8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523665488734,
+    "song_title": "On The Way Down (Official Video)",
+    "year": 2003,
+    "artist_name": "Ryan Cabrera",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RWwdh6FGL4M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523722854514,
+    "song_title": "Too Bad About Your Girl (Official Video)",
+    "year": 2003,
+    "artist_name": "The Donnas",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=vCDlHuLSdlo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523725681338,
+    "song_title": "Nowhere Kids (Official Video)",
+    "year": 2003,
+    "artist_name": "Smile Empty Soul",
+    "artist_genre": "post-grunge",
+    "youtube_link": "https://www.youtube.com/watch?v=ZHtteZ7zC7c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523824770640,
+    "song_title": "Roun' The Globe (Official Video)",
+    "year": 2003,
+    "artist_name": "Nappy Roots",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=3SRCvn1FHXM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523859486106,
+    "song_title": "Who Invited You (Official Video)",
+    "year": 2003,
+    "artist_name": "The Donnas",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=0cO7Cz9J_NU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523904442999,
+    "song_title": "Sobb Story (Official Video)",
+    "year": 2003,
+    "artist_name": "Leaders Of The New School",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=wZdMbdWX0IA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523928042246,
+    "song_title": "Memphis Soul Song (Remix) [Official Video]",
+    "year": 2003,
+    "artist_name": "Uncle Kracker",
+    "artist_genre": "country rock",
+    "youtube_link": "https://www.youtube.com/watch?v=iEW1qRVFDHA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523956488090,
+    "song_title": "Stratus (Official Video)",
+    "year": 2003,
+    "artist_name": "Moments In Grace",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=3VCSWiSyG5s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523984161279,
+    "song_title": "Trouble With Me (Official Video)",
+    "year": 2003,
+    "artist_name": "Lucy Woodward",
+    "artist_genre": "session",
+    "youtube_link": "https://www.youtube.com/watch?v=K1_91hKo_c8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524014320277,
+    "song_title": "Awnaw (Official Video)",
+    "year": 2003,
+    "artist_name": "Nappy Roots",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=cu2XDQohtGI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524094105220,
+    "song_title": "The Remedy (I Won't Worry) [Official Video]",
+    "year": 2003,
+    "artist_name": "Jason Mraz",
+    "artist_genre": "pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=UHki6sF_ypE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524127829943,
+    "song_title": "Mine (Official Video)",
+    "year": 2003,
+    "artist_name": "Taproot",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=KYIKD_t2jpk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524173219213,
+    "song_title": "Unwanted (Official Video)",
+    "year": 2003,
+    "artist_name": "Kill Hannah",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=RqbMxxfVbcE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524190281103,
+    "song_title": "No Panties (Official Video)",
+    "year": 2003,
+    "artist_name": "Trina",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=vKyxTanhnh8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

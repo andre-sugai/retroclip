@@ -13844,5 +13844,617 @@
     "artist_name": "malmal2006",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=TK8lE-a_kAQ"
+  },
+  {
+    "id": 1769523311669649,
+    "song_title": "Watch Dem Roll (Official Video)",
+    "year": 2008,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=5jI-ojIZXJw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523333150853,
+    "song_title": "All For Love (Official Video)",
+    "year": 2008,
+    "artist_name": "Serena Ryder",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_IfBDbi-g9k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523350468742,
+    "song_title": "Hold My Hand (Official Video)",
+    "year": 2008,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=i1o9HMGaWxM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "352p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523374850901,
+    "song_title": "Professional (feat. Maino) (Official Video)",
+    "year": 2008,
+    "artist_name": "Young Steff",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QyWzTql-zeI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523389057816,
+    "song_title": "Somebody (Loves You) [Official Video]",
+    "year": 2008,
+    "artist_name": "Plies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ISgQxFGDfvU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523399986116,
+    "song_title": "Private Affair (Official Video)",
+    "year": 2008,
+    "artist_name": "The Virgins",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wsjHt-c-CyY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523402852167,
+    "song_title": "What Up, What's Haapnin' (Official Video)",
+    "year": 2008,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=c4wefYvqHfc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523411669750,
+    "song_title": "I'm Da Man (feat. Trey Songz) [Official Video]",
+    "year": 2008,
+    "artist_name": "Plies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SjI7MZcCG9Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523414691310,
+    "song_title": "No Matter What (Official Video)",
+    "year": 2008,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=tHGe-Lf9o6Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523426772665,
+    "song_title": "Come Over (feat. Sean Paul) [Official Video]",
+    "year": 2008,
+    "artist_name": "Estelle",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uSRE8aTy5GE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523432697088,
+    "song_title": "Please Excuse My Hands (feat. Jamie Foxx & The-Dream) [Official Video]",
+    "year": 2008,
+    "artist_name": "Plies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ofXK5SzQtAs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523438588314,
+    "song_title": "Hi Hater (Official Video)",
+    "year": 2008,
+    "artist_name": "Maino",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=Y2x1e8zx8k4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523445033133,
+    "song_title": "Who Hotter Than Me (Official Video)",
+    "year": 2008,
+    "artist_name": "Plies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5H6Ybaj-Roo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523447425575,
+    "song_title": "No Substitute Love (Official Video)",
+    "year": 2008,
+    "artist_name": "Estelle",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GOagIAuJM4Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523554973797,
+    "song_title": "Portrait Of Love (feat. Yung Joc & Gorilla Zoe) [Official Video]",
+    "year": 2008,
+    "artist_name": "Cheri Dennis",
+    "artist_genre": "reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=JijaJKXWiVY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523626608833,
+    "song_title": "I'm Not Over (Official Video)",
+    "year": 2008,
+    "artist_name": "Carolina Liar",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rxDCcLVfOvM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523680030478,
+    "song_title": "Can't Help But Wait (Official Video)",
+    "year": 2008,
+    "artist_name": "Trey Songz",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=iF_JBlSh_G8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523893175726,
+    "song_title": "Gimme The Light (Official Video)",
+    "year": 2008,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=8MmW_GOFS8I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523896059345,
+    "song_title": "Same Mistake (Official Video)",
+    "year": 2008,
+    "artist_name": "James Blunt",
+    "artist_genre": "pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=J-jKL3k6wcU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523916808149,
+    "song_title": "Rage! (Official Video)",
+    "year": 2008,
+    "artist_name": "Chromeo",
+    "artist_genre": "funktronica",
+    "youtube_link": "https://www.youtube.com/watch?v=qdxFocPxUiY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523930843752,
+    "song_title": "For A Minute (feat. T.I.) [Official Video]",
+    "year": 2008,
+    "artist_name": "B.G.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=W7wX80SZUeQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523942347334,
+    "song_title": "Wait A Minute (Just A Touch) [Official Video)",
+    "year": 2008,
+    "artist_name": "Estelle",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WlugrsxAPBY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523970708104,
+    "song_title": "Dumb It Down (Official Video)",
+    "year": 2008,
+    "artist_name": "Lupe Fiasco",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=LjQqONuVJbQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524051119925,
+    "song_title": "Little Fighter (Official Video)",
+    "year": 2008,
+    "artist_name": "White Lion",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=n2dORQp78vM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524113739203,
+    "song_title": "That's Right (feat. T.I.) [Official Video]",
+    "year": 2008,
+    "artist_name": "Big Kuntry King",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=Qcpzwsy122s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524122058400,
+    "song_title": "Freaky Gurl (Official Video)",
+    "year": 2008,
+    "artist_name": "Gucci Mane",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=P653nyX1quQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524124801076,
+    "song_title": "Air Traffic Control (Official Video)",
+    "year": 2008,
+    "artist_name": "Louis XIV",
+    "artist_genre": "garage rock revival",
+    "youtube_link": "https://www.youtube.com/watch?v=mTOAAjtrl14",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524212063894,
+    "song_title": "Find A Way (Official Video)",
+    "year": 2008,
+    "artist_name": "Bayje",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ewUAqU9hARE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524223279939,
+    "song_title": "Mercury (Official Video)",
+    "year": 2008,
+    "artist_name": "Bloc Party",
+    "artist_genre": "indie rock",
+    "youtube_link": "https://www.youtube.com/watch?v=UvbJU1rj390",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524237577166,
+    "song_title": "Radio (Official Video)",
+    "year": 2008,
+    "artist_name": "Musiq Soulchild",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=oALIZKBF-f8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524299217763,
+    "song_title": "Find A Way (Official Video)",
+    "year": 2008,
+    "artist_name": "Bayje",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=N2JrYMZvD70",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524301711592,
+    "song_title": "ifuleave (feat. Mary J. Blige) [Official Video]",
+    "year": 2008,
+    "artist_name": "Musiq Soulchild",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=xzpDx5L0Olg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524307430913,
+    "song_title": "Bust It Baby Pt. 2 (feat. Ne-Yo) [Official Video]",
+    "year": 2008,
+    "artist_name": "Plies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=W12L6bTlIIo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524313372793,
+    "song_title": "These Hard Times (Official Video)",
+    "year": 2008,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=H8ovORRagds",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "256p",
+    "is_low_quality": true,
+    "availability_status": "public"
   }
 ]

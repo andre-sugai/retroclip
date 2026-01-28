@@ -4949,5 +4949,23 @@
     "youtube_link": "https://www.youtube.com/watch?v=v73zQ8aAVyc",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523492194122,
+    "song_title": "Demon Cleaner (Official Video)",
+    "year": 1993,
+    "artist_name": "Kyuss",
+    "artist_genre": "stoner rock",
+    "youtube_link": "https://www.youtube.com/watch?v=B7Ske2eKX2g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

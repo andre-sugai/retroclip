@@ -18484,5 +18484,1518 @@
     "artist_name": "Stabbing Westward",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=VNsVpL8TDLA"
+  },
+  {
+    "id": 1769523197262514,
+    "song_title": "Good To Be Me (feat. Kid Rock) [Official Video]",
+    "year": 2009,
+    "artist_name": "Uncle Kracker",
+    "artist_genre": "country rock",
+    "youtube_link": "https://www.youtube.com/watch?v=06WM8oLH87M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523289093217,
+    "song_title": "Possibility (Official Video)",
+    "year": 2009,
+    "artist_name": "Lykke Li",
+    "artist_genre": "indie pop",
+    "youtube_link": "https://www.youtube.com/watch?v=RvMeOllo_Vo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523297637679,
+    "song_title": "Junebug (Official Video)",
+    "year": 2009,
+    "artist_name": "Robert Francis",
+    "artist_genre": "classical",
+    "youtube_link": "https://www.youtube.com/watch?v=FmbnE7n_u3I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523345001081,
+    "song_title": "I See You (Theme from Avatar) [Official Video]",
+    "year": 2009,
+    "artist_name": "Leona Lewis",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=3YDz-ftqr1g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523347676721,
+    "song_title": "Days & Days (Official Video)",
+    "year": 2009,
+    "artist_name": "Camera Can't Lie",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GDyd3-OitwE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523358890173,
+    "song_title": "I Invented Sex / Say Aah (MTV Version Video)",
+    "year": 2009,
+    "artist_name": "Trey Songz",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=jRXH0PjYDy8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523364268419,
+    "song_title": "Time Capsule Box Set",
+    "year": 2009,
+    "artist_name": "Atlantic Records",
+    "artist_genre": "special purpose artist",
+    "youtube_link": "https://www.youtube.com/watch?v=DqTXnhbRc80",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "360p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523366826259,
+    "song_title": "My Girlfriend (Official Video)",
+    "year": 2009,
+    "artist_name": "Uncle Kracker",
+    "artist_genre": "country rock",
+    "youtube_link": "https://www.youtube.com/watch?v=LXOUEqRo7NY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523369439541,
+    "song_title": "Missing You (Official Video)",
+    "year": 2009,
+    "artist_name": "Trey Songz",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=QSd6-4eK35Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523386349343,
+    "song_title": "Turn It On Again (From When in Rome 2007 DVD)",
+    "year": 2009,
+    "artist_name": "Genesis",
+    "artist_genre": "progressive rock",
+    "youtube_link": "https://www.youtube.com/watch?v=wgou-2aOKqU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523405910825,
+    "song_title": "Get Busy/Like Glue (Official Video)",
+    "year": 2009,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=oPQ3o14ksaM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523423862914,
+    "song_title": "Emotions (Official Video)",
+    "year": 2009,
+    "artist_name": "Twista",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=niu88XVbtqo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523429683555,
+    "song_title": "Da Baddest (feat. Trey Songz) [Official Video]",
+    "year": 2009,
+    "artist_name": "Big Kuntry King",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=00kbklewL-Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523435564896,
+    "song_title": "Rich Girls (Official Video)",
+    "year": 2009,
+    "artist_name": "The Virgins",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kVDNcN9Dg_U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523450092915,
+    "song_title": "The Silence (Official Video)",
+    "year": 2009,
+    "artist_name": "Mayday Parade",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=oEXiXaYhw6E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523458414233,
+    "song_title": "I Will Possess Your Heart (Official Video)",
+    "year": 2009,
+    "artist_name": "Death Cab For Cutie",
+    "artist_genre": "indie rock",
+    "youtube_link": "https://www.youtube.com/watch?v=CGTlf7QuIjU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523461477119,
+    "song_title": "Get Ya Hustle On (Official Video)",
+    "year": 2009,
+    "artist_name": "Juvenile",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=moZTSHWP7kQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523469445003,
+    "song_title": "Crutch (Official Video)",
+    "year": 2009,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hFBG9cVb7a8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523475220409,
+    "song_title": "If Only I Could Have That Day Back (Official Video)",
+    "year": 2009,
+    "artist_name": "Howard Hewett",
+    "artist_genre": "soul",
+    "youtube_link": "https://www.youtube.com/watch?v=LSPCTvPvB90",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523483586223,
+    "song_title": "B R Right (feat. Ludacris) [Official Video]",
+    "year": 2009,
+    "artist_name": "Trina",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=vw7ukmZVQHg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523500352994,
+    "song_title": "Sleep All Day (Live) [Official Video]",
+    "year": 2009,
+    "artist_name": "Jason Mraz",
+    "artist_genre": "pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Tvm_fVEAH6k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523506109878,
+    "song_title": "Needy Girl (Official Video)",
+    "year": 2009,
+    "artist_name": "Chromeo",
+    "artist_genre": "funktronica",
+    "youtube_link": "https://www.youtube.com/watch?v=j5JoePzqwg4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523514884068,
+    "song_title": "Think Y'all Know/Make U Mine (feat. Mike Shorey) (Official Video)",
+    "year": 2009,
+    "artist_name": "Fabolous",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=uTmJucTNfeY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523537441025,
+    "song_title": "In Da Wind (Official Video)",
+    "year": 2009,
+    "artist_name": "Trick Daddy",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=uFETyg-nd7M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523540558301,
+    "song_title": "Shut Up (Official Video)",
+    "year": 2009,
+    "artist_name": "Trick Daddy",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=OG0stuDMHO0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523543712689,
+    "song_title": "Real World (Official Video)",
+    "year": 2009,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=NQLrXdAc7Zs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523546670656,
+    "song_title": "Laffy Taffy (Official Video)",
+    "year": 2009,
+    "artist_name": "D4L",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=4eVxoIL_Nq0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523549577381,
+    "song_title": "Rubber Band Man (Official Video)",
+    "year": 2009,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=xjDT3rMSQLQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523560538499,
+    "song_title": "Fi - Suburban Knights (Official Video)",
+    "year": 2009,
+    "artist_name": "Hard",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lMGntwJobNc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523569167925,
+    "song_title": "I'm A King (Remix) [feat. T.I. & LIL' SCRAPPY] (Official Video)",
+    "year": 2009,
+    "artist_name": "P$C",
+    "artist_genre": "french",
+    "youtube_link": "https://www.youtube.com/watch?v=jPUowsCAX78",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523587077927,
+    "song_title": "Strip The Soul (Official Video)",
+    "year": 2009,
+    "artist_name": "Porcupine Tree",
+    "artist_genre": "progressive rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hr_z9j2btNg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523595855051,
+    "song_title": "American Boy (feat. Kanye West) [Official Video]",
+    "year": 2009,
+    "artist_name": "Estelle",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FAD_5NWzM5g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523612646175,
+    "song_title": "Turn Me On (Official Video)",
+    "year": 2009,
+    "artist_name": "Kevyn Little",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=qokYQyv2060",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523620911784,
+    "song_title": "All I Need (feat. Armageddon & Tony Sunshine) [Official Video]",
+    "year": 2009,
+    "artist_name": "Fat Joe",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QE36OI8Za6o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523632523406,
+    "song_title": "Told Y'All (MTV Version) [Official Video]",
+    "year": 2009,
+    "artist_name": "Trina",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=VNFpaj095C4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523635228728,
+    "song_title": "Good (Official Video)",
+    "year": 2009,
+    "artist_name": "Better Than Ezra",
+    "artist_genre": "post-grunge",
+    "youtube_link": "https://www.youtube.com/watch?v=PFaQ_gPOTks",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523656139047,
+    "song_title": "Breathe (Official Video) [HD Remaster]",
+    "year": 2009,
+    "artist_name": "Fabolous",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=t6q9Vc1ZtQI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "HD",
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523659290970,
+    "song_title": "Kennedy (Live at Metro)",
+    "year": 2009,
+    "artist_name": "Kill Hannah",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ncWKerhpx_o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523682940205,
+    "song_title": "Push (Official Video)",
+    "year": 2009,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=goQXKo1EdCY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523691690283,
+    "song_title": "Never (Official Video)",
+    "year": 2009,
+    "artist_name": "Jaheim",
+    "artist_genre": "hip hop rnb and dance hall",
+    "youtube_link": "https://www.youtube.com/watch?v=Vkd3nLEqh5Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523697318297,
+    "song_title": "All For One (Official Video)",
+    "year": 2009,
+    "artist_name": "Brand Nubian",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=8auuY4fvLyY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523700549665,
+    "song_title": "Temperature (Official Video)",
+    "year": 2009,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=dW2MmuA1nI4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523714884337,
+    "song_title": "Drive Away (Official Video)",
+    "year": 2009,
+    "artist_name": "Gratitude",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2m1CL6g95Ec",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523759439642,
+    "song_title": "Po' Folks (w/ Anthony Hamilton) [Official Video]",
+    "year": 2009,
+    "artist_name": "Nappy Roots",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=QbN6VkleO48",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523782347618,
+    "song_title": "Don't Look Back (Official Video)",
+    "year": 2009,
+    "artist_name": "Antigone Rising",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=mXmKz9gfPJo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523787993032,
+    "song_title": "Superstar (feat. Matthew Santos) [Official Video]",
+    "year": 2009,
+    "artist_name": "Lupe Fiasco",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=hVkBlsgthLg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523813043523,
+    "song_title": "I Will Possess Your Heart (Official Video)",
+    "year": 2009,
+    "artist_name": "Death Cab For Cutie",
+    "artist_genre": "indie rock",
+    "youtube_link": "https://www.youtube.com/watch?v=h6v6MyVh6Aw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523815959235,
+    "song_title": "Da Baddest Bitch (Official Video)",
+    "year": 2009,
+    "artist_name": "Trina",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=ABZDZY5aCLY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523836591930,
+    "song_title": "Big Things Poppin' (Do It) [Official Video]",
+    "year": 2009,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=uVMYFfBo3g8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523839443528,
+    "song_title": "Find Out True Love Is Blind (Official Video)",
+    "year": 2009,
+    "artist_name": "Louis XIV",
+    "artist_genre": "garage rock revival",
+    "youtube_link": "https://www.youtube.com/watch?v=nC5W1ePDWl8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523845608622,
+    "song_title": "Give It Up To Me (feat. Keyshia Cole) [Disney Version] (Official Video)",
+    "year": 2009,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=bMoNV9oWs2E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523848497477,
+    "song_title": "I'm Still In Love With You (Official Video)",
+    "year": 2009,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=AQ4TW5Z8eu0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523853689224,
+    "song_title": "Romantic Rights (MTV Version) [Official Video]",
+    "year": 2009,
+    "artist_name": "Death From Above 1979",
+    "artist_genre": "dance-punk",
+    "youtube_link": "https://www.youtube.com/watch?v=6Wnl9PpnTXI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523864970674,
+    "song_title": "Amerika (feat. Society) [Official Video]",
+    "year": 2009,
+    "artist_name": "Trick Daddy",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=8oVHTAmG1ZI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523910788065,
+    "song_title": "In The Blood (Official Video)",
+    "year": 2009,
+    "artist_name": "Better Than Ezra",
+    "artist_genre": "post-grunge",
+    "youtube_link": "https://www.youtube.com/watch?v=maazn1Puoeg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523933498666,
+    "song_title": "Bent (Official Video)",
+    "year": 2009,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=KcSNwUD6rpA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523936311466,
+    "song_title": "Hypnotized (feat. Akon) [Official Video]",
+    "year": 2009,
+    "artist_name": "Plies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7LZgSUNnnrw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523965007487,
+    "song_title": "I'm Yours (Official Video)",
+    "year": 2009,
+    "artist_name": "Jason Mraz",
+    "artist_genre": "pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=7gO-jFLIgdk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523976589319,
+    "song_title": "Struggle No More (feat. Jaheim & Musiq Soulchild) [Official Video]",
+    "year": 2009,
+    "artist_name": "Anthony Hamilton",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=D4MhKkryn6M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524022750349,
+    "song_title": "Like Glue (Official Video)",
+    "year": 2009,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=0zZ2bifb338",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524045241059,
+    "song_title": "Thug Holiday (feat. LaTocha Scott) [Official Video]",
+    "year": 2009,
+    "artist_name": "Trick Daddy",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=O7BD6EdEFvM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524053985153,
+    "song_title": "Granite (Official Video)",
+    "year": 2009,
+    "artist_name": "Pendulum",
+    "artist_genre": "drum and bass",
+    "youtube_link": "https://www.youtube.com/watch?v=j6JhI4fVxPQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524056943662,
+    "song_title": "Earth Intruders (Official Video)",
+    "year": 2009,
+    "artist_name": "Bjork",
+    "artist_genre": "experimental",
+    "youtube_link": "https://www.youtube.com/watch?v=j1Q9ppPPHjU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524077407651,
+    "song_title": "The Jump Off (feat. Mr. Cheeks) [Official Video]",
+    "year": 2009,
+    "artist_name": "Lil' Kim",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=37bRlLzE43E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524080548627,
+    "song_title": "Bad Reputation (Official Video)",
+    "year": 2009,
+    "artist_name": "Freedy Johnston",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=zsQBuFNt65U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524091553603,
+    "song_title": "Fi - Can't Get Along (Without You) [Official Video]",
+    "year": 2009,
+    "artist_name": "Hard",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VVQEUuc9ahs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524155869333,
+    "song_title": "Ching-A-Ling [from Step Up 2 The Streets O.S.T.] (3D Version) [Official Video]",
+    "year": 2009,
+    "artist_name": "Missy Elliott",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=QyoVrAkV3JM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524161494897,
+    "song_title": "Star In The Hood (Official Video)",
+    "year": 2009,
+    "artist_name": "Black Rob",
+    "artist_genre": "audio drama",
+    "youtube_link": "https://www.youtube.com/watch?v=6x7zr_IXu-I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524164475899,
+    "song_title": "Simple Man (Official Video)",
+    "year": 2009,
+    "artist_name": "Shinedown",
+    "artist_genre": "hard rock",
+    "youtube_link": "https://www.youtube.com/watch?v=rgFQ6WmxdMs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524167483101,
+    "song_title": "Last Drop Remix (feat. Spragga Benz) [Official Video]",
+    "year": 2009,
+    "artist_name": "Kevin Lyttle",
+    "artist_genre": "soca",
+    "youtube_link": "https://www.youtube.com/watch?v=37CJCAVndFI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524170373040,
+    "song_title": "Guilt By Association (Official Video)",
+    "year": 2009,
+    "artist_name": "Louis XIV",
+    "artist_genre": "garage rock revival",
+    "youtube_link": "https://www.youtube.com/watch?v=u9seu1Lxttg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524181708824,
+    "song_title": "Blood On Our Hands (Official Video)",
+    "year": 2009,
+    "artist_name": "Death From Above 1979",
+    "artist_genre": "dance-punk",
+    "youtube_link": "https://www.youtube.com/watch?v=pZNQNELfd0g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524203404269,
+    "song_title": "Did You Wrong (Official Video)",
+    "year": 2009,
+    "artist_name": "Pleasure P",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=_YZa9vkxCw4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524234772417,
+    "song_title": "Rubber Band Man (Official Video)",
+    "year": 2009,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=JjDdzWZxDwc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524243442148,
+    "song_title": "Nightfall (Official Video)",
+    "year": 2009,
+    "artist_name": "Robert Francis",
+    "artist_genre": "classical",
+    "youtube_link": "https://www.youtube.com/watch?v=qBBMUODMPKQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "352p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524246407028,
+    "song_title": "Shine (Official Video)",
+    "year": 2009,
+    "artist_name": "Laura Izibor",
+    "artist_genre": "soul",
+    "youtube_link": "https://www.youtube.com/watch?v=equvoqUT1VM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524249119446,
+    "song_title": "It's A Girl Thing (Official Video)",
+    "year": 2009,
+    "artist_name": "Jesse Lee",
+    "artist_genre": "jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=B36NaCTis14",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "352p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524263768220,
+    "song_title": "So Fine (Official Video)",
+    "year": 2009,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=BIYFkG7yP5c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "320p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524266964451,
+    "song_title": "Under (Official Video)",
+    "year": 2009,
+    "artist_name": "Pleasure P",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=cD2X_Vfb0Es",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524270178761,
+    "song_title": "Million Bucks (feat. Swizz Beatz) [Official Video]",
+    "year": 2009,
+    "artist_name": "Maino",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=OPFdIrUO_wM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "272p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524273299881,
+    "song_title": "Toes (Official Video)",
+    "year": 2009,
+    "artist_name": "Zac Brown Band",
+    "artist_genre": "country rock",
+    "youtube_link": "https://www.youtube.com/watch?v=kD-unyd10tM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524276081423,
+    "song_title": "Press It Up (Official Video)",
+    "year": 2009,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=bzz99f_T8Rk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "336p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524284821530,
+    "song_title": "So Fine (Official Video)",
+    "year": 2009,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=8PQgYpnhDIw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "320p",
+    "is_low_quality": true,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524316450908,
+    "song_title": "Guilt By Association (Official Video)",
+    "year": 2009,
+    "artist_name": "Louis XIV",
+    "artist_genre": "garage rock revival",
+    "youtube_link": "https://www.youtube.com/watch?v=K1-XUbGbqUI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

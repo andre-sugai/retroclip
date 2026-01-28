@@ -7035,5 +7035,41 @@
     "artist_name": "The Eat",
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=CutkrPSFNn4"
+  },
+  {
+    "id": 1769523950807248,
+    "song_title": "She Runs Away (Official Video)",
+    "year": 1996,
+    "artist_name": "Duncan Sheik",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=LX3vsw2F_DA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524102760235,
+    "song_title": "Wrong (Official Video)",
+    "year": 1996,
+    "artist_name": "Everything But The Girl",
+    "artist_genre": "electronic",
+    "youtube_link": "https://www.youtube.com/watch?v=Ih7GCa3Hpww",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

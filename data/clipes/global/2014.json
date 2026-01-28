@@ -89896,5 +89896,167 @@
     "artist_name": "Have a Lucky Day",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=oCuFuFz50pk"
+  },
+  {
+    "id": 1769522637774678,
+    "song_title": "Shell Shocked feat Kill The Noise & Madsonik (Official Video)",
+    "year": 2014,
+    "artist_name": "Juicy J, Wiz Khalifa, Ty Dolla $ign",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=BaACrT6Ydik",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522644746725,
+    "song_title": "Rich (feat. August Alsina) [Official Video]",
+    "year": 2014,
+    "artist_name": "Kirko Bangz",
+    "artist_genre": "rap",
+    "youtube_link": "https://www.youtube.com/watch?v=FzH5BiFbEkg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522650698733,
+    "song_title": "Call (Official Video)",
+    "year": 2014,
+    "artist_name": "Francesco Yates",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-e88adfT1KQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522703224365,
+    "song_title": "Freaking Out (feat. StayC Reign) [Official Audio]",
+    "year": 2014,
+    "artist_name": "Flo Rida",
+    "artist_genre": "pop rap",
+    "youtube_link": "https://www.youtube.com/watch?v=tyJN7I8f1b8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522709152593,
+    "song_title": "40 Years of Heaven, Hell N' High Water - Part 6",
+    "year": 2014,
+    "artist_name": "Black Oak Arkansas",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bprcXBNYNmk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522712130649,
+    "song_title": "To Be Wanted (feat. Megan and Liz) [Official Video]",
+    "year": 2014,
+    "artist_name": "Plug In Stereo",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0is2L0fN24A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522714849938,
+    "song_title": "Want Dem All (feat. Konshens) [Official Video]",
+    "year": 2014,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=-4baZ6kJHPo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523734271189,
+    "song_title": "Forever (Official Video)",
+    "year": 2014,
+    "artist_name": "Kid Rock",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=RU0IbgRhjAo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523798753684,
+    "song_title": "Wanna Know (feat. Saigon) [Official Video]",
+    "year": 2014,
+    "artist_name": "Obie Trice",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=OXg_fXZZvAM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

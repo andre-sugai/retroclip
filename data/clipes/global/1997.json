@@ -8100,5 +8100,59 @@
     "youtube_link": "https://www.youtube.com/watch?v=maNtJjbh1sQ",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769523466982124,
+    "song_title": "Over My Head (Official Video)",
+    "year": 1997,
+    "artist_name": "King's X",
+    "artist_genre": "king's x",
+    "youtube_link": "https://www.youtube.com/watch?v=J2SYPzKzD94",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523668117825,
+    "song_title": "Barely Breathing (Official Video)",
+    "year": 1997,
+    "artist_name": "Duncan Sheik",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=A-oh-tP6RvA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523719962907,
+    "song_title": "Get It Wet (Official Video)",
+    "year": 1997,
+    "artist_name": "Twista",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=wMwDXlN-YS8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

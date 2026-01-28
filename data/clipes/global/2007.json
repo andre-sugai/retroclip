@@ -12525,5 +12525,707 @@
     "artist_name": "HIGH ON FIRE",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=89h-X-tZa_w"
+  },
+  {
+    "id": 1769523377586331,
+    "song_title": "Carpet Crawlers (from When in Rome 2007 DVD)",
+    "year": 2007,
+    "artist_name": "Genesis",
+    "artist_genre": "progressive rock",
+    "youtube_link": "https://www.youtube.com/watch?v=e4CTagi3owg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523531963079,
+    "song_title": "I Love You (feat. Jim Jones and Yung Joc) [Official Video]",
+    "year": 2007,
+    "artist_name": "Cheri Dennis",
+    "artist_genre": "reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=TW8XIGTvYek",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523566289294,
+    "song_title": "Jenny (Official Video)",
+    "year": 2007,
+    "artist_name": "The Click Five",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1350czEuKzg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523572053668,
+    "song_title": "Jenny (Beyond The Video)",
+    "year": 2007,
+    "artist_name": "The Click Five",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=c4X29zvJhwI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523578269795,
+    "song_title": "Washed By The Water (Official Video)",
+    "year": 2007,
+    "artist_name": "NEEDTOBREATHE",
+    "artist_genre": "christian rock",
+    "youtube_link": "https://www.youtube.com/watch?v=OOjpkqrCEOU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523601282759,
+    "song_title": "teachme (Official Video)",
+    "year": 2007,
+    "artist_name": "Musiq Soulchild",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=Y91jtjvN3NQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523647236181,
+    "song_title": "Nothing To Lose (Official Video)",
+    "year": 2007,
+    "artist_name": "Operator",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AALwIHXkXFs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523674223712,
+    "song_title": "Disease (Official Video)",
+    "year": 2007,
+    "artist_name": "Matchbox Twenty",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=2VPP8OsvaLY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523688635974,
+    "song_title": "Give It Up (feat. Pharrell Williams) [Official Video]",
+    "year": 2007,
+    "artist_name": "Twista",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=dmDOqDsxUSY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523709109302,
+    "song_title": "Why You Wanna (Official Video)",
+    "year": 2007,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=h61DNOLRugU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523731373497,
+    "song_title": "b.u.d.d.y. (Official Video)",
+    "year": 2007,
+    "artist_name": "Musiq Soulchild",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=hpdurzHfpNY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523742914658,
+    "song_title": "Last Time (Official Video)",
+    "year": 2007,
+    "artist_name": "Trey Songz",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=rnbFoKCq9EE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523767991370,
+    "song_title": "Hurt (feat. Alfamega & Busta Rhymes) [Official Video]",
+    "year": 2007,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=FCaZBh8IXZo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523784927639,
+    "song_title": "Far Cry (Official Video)",
+    "year": 2007,
+    "artist_name": "Rush",
+    "artist_genre": "progressive rock",
+    "youtube_link": "https://www.youtube.com/watch?v=GWPf0pgjgHI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523801535038,
+    "song_title": "Break 'Em Off (feat. Lil KeKe) [Official Video]",
+    "year": 2007,
+    "artist_name": "Paul Wall",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=LXG3AVtpHd8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523819158450,
+    "song_title": "Hit Me Up (Official Video)",
+    "year": 2007,
+    "artist_name": "Gia Farrell",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0rB3Pvx-a4E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523830428741,
+    "song_title": "Into Oblivion (Reunion) [Official Video]",
+    "year": 2007,
+    "artist_name": "Funeral For A Friend",
+    "artist_genre": "alternative rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Td64jjOCqd4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523873242420,
+    "song_title": "Soundtrack Of My Life (Official Video)",
+    "year": 2007,
+    "artist_name": "Deemi",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=fZo7WaQ-eNc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523887351491,
+    "song_title": "I'm Throwed (feat. Jermaine Dupri) [Official Video)",
+    "year": 2007,
+    "artist_name": "Paul Wall",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=wuioS3V4TA4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523890554709,
+    "song_title": "On The Hotline (Official Video)",
+    "year": 2007,
+    "artist_name": "Pretty Ricky",
+    "artist_genre": "rap",
+    "youtube_link": "https://www.youtube.com/watch?v=suje-CpbmZw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523901692902,
+    "song_title": "I Still Remember (Official Video)",
+    "year": 2007,
+    "artist_name": "Bloc Party",
+    "artist_genre": "indie rock",
+    "youtube_link": "https://www.youtube.com/watch?v=5R-9IgWD36A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523907701059,
+    "song_title": "Paris, Tokyo (Official Video)",
+    "year": 2007,
+    "artist_name": "Lupe Fiasco",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=IAHgyLOudXI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523914006416,
+    "song_title": "5000 Ones (feat. Nelly, T.I., Diddy, Yung Joc, Willie the Kid, Young Jeezy & Twista)",
+    "year": 2007,
+    "artist_name": "DJ Drama",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=tH86R2rxwnY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523919471960,
+    "song_title": "Hydrolics (feat. Bow Wow) [Official Video]",
+    "year": 2007,
+    "artist_name": "B5",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=VPrCsC-X5ww",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523922349652,
+    "song_title": "(I Wanna See You) Push It Baby [feat. Sean Paul] (Official Video)",
+    "year": 2007,
+    "artist_name": "Pretty Ricky",
+    "artist_genre": "rap",
+    "youtube_link": "https://www.youtube.com/watch?v=TL0V5I6nk_s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523925312169,
+    "song_title": "Empty (Official Video)",
+    "year": 2007,
+    "artist_name": "The Click Five",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=380_OKfxESk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523945146744,
+    "song_title": "It Don't Make Any Difference To Me (feat. Wyclef Jean) [Official Video]",
+    "year": 2007,
+    "artist_name": "Kevin Michael",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=t7M1GfN_QzI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524019668733,
+    "song_title": "Geek In The Pink (Official Video)",
+    "year": 2007,
+    "artist_name": "Jason Mraz",
+    "artist_genre": "pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=tryndO2SU4o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524031334591,
+    "song_title": "Cupid Shuffle (Official Video)",
+    "year": 2007,
+    "artist_name": "Cupid",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uPna1dIeUHQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524071315580,
+    "song_title": "Shawty (feat. T-Pain) [Official Video]",
+    "year": 2007,
+    "artist_name": "Plies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RW4ms8fZDfU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524085677792,
+    "song_title": "Keep it Movin' (feat. Big Meech) [Official Video]",
+    "year": 2007,
+    "artist_name": "Keke Palmer",
+    "artist_genre": "queer",
+    "youtube_link": "https://www.youtube.com/watch?v=IMJ0jnKOCHs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524110942188,
+    "song_title": "Come On Baby (feat. Jay-Z & Swizz Beatz) [Official Video]",
+    "year": 2007,
+    "artist_name": "Saigon",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=cS982jVKkH4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524116550223,
+    "song_title": "Wonder Woman (Official Video)",
+    "year": 2007,
+    "artist_name": "Trey Songz",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=3ZbRyazEA6I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524133619585,
+    "song_title": "Your Body (Official Video)",
+    "year": 2007,
+    "artist_name": "Pretty Ricky",
+    "artist_genre": "rap",
+    "youtube_link": "https://www.youtube.com/watch?v=-6CdIQER73c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524136687194,
+    "song_title": "You Know What It Is (feat. Wyclef) [Official Video]",
+    "year": 2007,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=48W83rMUF6o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524139341477,
+    "song_title": "The Older I Get (Official Video)",
+    "year": 2007,
+    "artist_name": "Skillet",
+    "artist_genre": "christian rock",
+    "youtube_link": "https://www.youtube.com/watch?v=2Qnck1lFwjs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524200609930,
+    "song_title": "From My Heart To Yours (Official Video)",
+    "year": 2007,
+    "artist_name": "Laura Izibor",
+    "artist_genre": "soul",
+    "youtube_link": "https://www.youtube.com/watch?v=Viu4iw-46y8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524257768369,
+    "song_title": "Don't Stay (Official Video)",
+    "year": 2007,
+    "artist_name": "Laura Izibor",
+    "artist_genre": "soul",
+    "youtube_link": "https://www.youtube.com/watch?v=pMSQsPMtU98",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769524319167287,
+    "song_title": "Buddy (Official Video)",
+    "year": 2007,
+    "artist_name": "Musiq Soulchild",
+    "artist_genre": "contemporary r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=PHPdNXwU8GE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "240p",
+    "is_low_quality": true,
+    "availability_status": "public"
   }
 ]

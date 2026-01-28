@@ -59405,5 +59405,203 @@
     "artist_name": "High On Fire",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=AZlgBRokTCg"
+  },
+  {
+    "id": 1769522324312372,
+    "song_title": "Kill The Lights (Official Video)",
+    "year": 2016,
+    "artist_name": "Alex Newell & DJ Cassidy with Nile Rodgers",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Q1P612HLe9o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522363028663,
+    "song_title": "Real People (from Barbershop: The Next Cut) [Official Video]",
+    "year": 2016,
+    "artist_name": "Ice Cube & Common",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=RmCON58tOLo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522366086740,
+    "song_title": "One Call Away (Hero Montage)",
+    "year": 2016,
+    "artist_name": "Charlie Puth",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PbJBZ0yv0Sc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522384341036,
+    "song_title": "Brandy (VINYL: Music From The HBO® Original Series) [Official Audio]",
+    "year": 2016,
+    "artist_name": "Tunde Adebimpe",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BOpRh6cvmo0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522387523999,
+    "song_title": "Life On Mars? (VINYL: Music From The HBO® Original Series) [Official Audio]",
+    "year": 2016,
+    "artist_name": "Trey Songz",
+    "artist_genre": "r&b",
+    "youtube_link": "https://www.youtube.com/watch?v=pjALixoA4wc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522426254870,
+    "song_title": "Hannibal We Want You Back (VINYL Music From The HBO® Original Series) [Official Audio]",
+    "year": 2016,
+    "artist_name": "Hannibalism",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0p7cy6clfJY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522463342782,
+    "song_title": "Personality Crisis (Official Video)",
+    "year": 2016,
+    "artist_name": "David Johansen",
+    "artist_genre": "rock",
+    "youtube_link": "https://www.youtube.com/watch?v=J-OfxUcCBNI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522996492228,
+    "song_title": "Marilyn Monroe (Official Video)",
+    "year": 2016,
+    "artist_name": "Brianna Perry",
+    "artist_genre": "easy listening",
+    "youtube_link": "https://www.youtube.com/watch?v=4BzOBxQjSLM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523372127081,
+    "song_title": "I Know What I Like (In Your Wardrobe) [From When in Rome 2007 DVD]",
+    "year": 2016,
+    "artist_name": "Genesis",
+    "artist_genre": "progressive rock",
+    "youtube_link": "https://www.youtube.com/watch?v=8SIqikyX3OM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523397383160,
+    "song_title": "Whatever You Like (Official Video)",
+    "year": 2016,
+    "artist_name": "T.I.",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=Kgdr2uytpDI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523575311713,
+    "song_title": "Silhouettes (Official Video)",
+    "year": 2016,
+    "artist_name": "Smile Empty Soul",
+    "artist_genre": "post-grunge",
+    "youtube_link": "https://www.youtube.com/watch?v=Q7KPL-T11SA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]

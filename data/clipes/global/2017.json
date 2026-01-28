@@ -49901,5 +49901,239 @@
     "artist_name": "THE MELVINS",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=4fo6avj9JCs"
+  },
+  {
+    "id": 1769521983692591,
+    "song_title": "This Is Me (from The Greatest Showman Soundtrack) [Official Audio]",
+    "year": 2017,
+    "artist_name": "Kesha",
+    "artist_genre": "dance-pop",
+    "youtube_link": "https://www.youtube.com/watch?v=XwDTzD75fT4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521986113121,
+    "song_title": "J - Hares On The Mountain (from Bright: The Album) [Official Audio]",
+    "year": 2017,
+    "artist_name": "alt",
+    "artist_genre": "indie rock",
+    "youtube_link": "https://www.youtube.com/watch?v=cBZ02xC8y7o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521994116760,
+    "song_title": "Ben Franklin's Song (from Hamildrops) [Official Audio]",
+    "year": 2017,
+    "artist_name": "The Decemberists",
+    "artist_genre": "indie folk",
+    "youtube_link": "https://www.youtube.com/watch?v=rVmVVkbx3jE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769521996980442,
+    "song_title": "Rewrite The Stars (from The Greatest Showman) [Acoustic]",
+    "year": 2017,
+    "artist_name": "Zendaya",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BEhJ0uKOp2w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522026484912,
+    "song_title": "Danger (from Bright: The Album) [Official Video]",
+    "year": 2017,
+    "artist_name": "Migos & Marshmello",
+    "artist_genre": "edm",
+    "youtube_link": "https://www.youtube.com/watch?v=ntLtNTUCuII",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522037845088,
+    "song_title": "Home (from Bright: The Album) [Official Video]",
+    "year": 2017,
+    "artist_name": "Machine Gun Kelly, X Ambassadors & Bebe Rexha",
+    "artist_genre": "pop",
+    "youtube_link": "https://www.youtube.com/watch?v=IumYMCllMsM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522056117282,
+    "song_title": "World Gone Mad (from Bright: The Album) [Official Video]",
+    "year": 2017,
+    "artist_name": "Bastille",
+    "artist_genre": "pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=QOksZ8VogRw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522064468711,
+    "song_title": "Manuel Miranda - Almost Like Praying (feat. Artists for Puerto Rico) [Official Video]",
+    "year": 2017,
+    "artist_name": "Lin",
+    "artist_genre": "musical",
+    "youtube_link": "https://www.youtube.com/watch?v=D1IBXE2G6zw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522117930372,
+    "song_title": "Hey Ma (feat. Camila Cabello) [The Fate of the Furious: Album] (Official Video)",
+    "year": 2017,
+    "artist_name": "J Balvin & Pitbull",
+    "artist_genre": "reggaeton",
+    "youtube_link": "https://www.youtube.com/watch?v=JLY8tFp8RBg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522214335429,
+    "song_title": "Heaven Knows (from the Shack) [Official Video]",
+    "year": 2017,
+    "artist_name": "Hillsong United",
+    "artist_genre": "praise & worship",
+    "youtube_link": "https://www.youtube.com/watch?v=3sB638-DxnM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769522217302048,
+    "song_title": "Keep Your Eyes On Me (from The Shack) [Official Audio]",
+    "year": 2017,
+    "artist_name": "Tim McGraw & Faith Hill",
+    "artist_genre": "country",
+    "youtube_link": "https://www.youtube.com/watch?v=ywyxbF6_4ZQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523022703920,
+    "song_title": "She Doesn't Mind (Official Video)",
+    "year": 2017,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=SbUBMklQSVU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "720p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523025736054,
+    "song_title": "She Doesn't Mind (Official Video)",
+    "year": 2017,
+    "artist_name": "Sean Paul",
+    "artist_genre": "dancehall",
+    "youtube_link": "https://www.youtube.com/watch?v=T34QAGdmrNc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "360p",
+    "is_low_quality": true,
+    "availability_status": "public"
   }
 ]

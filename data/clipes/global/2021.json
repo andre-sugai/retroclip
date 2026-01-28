@@ -32607,5 +32607,95 @@
     "artist_name": "The Nixons Official",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=JI-P1J23usA"
+  },
+  {
+    "id": 1769520704911085,
+    "song_title": "My Own Drum (Remix) [Ynairaly Simo with Missy Elliott] (Official Music Video)",
+    "year": 2021,
+    "artist_name": "Vivo Soundtrack",
+    "artist_genre": "special purpose artist",
+    "youtube_link": "https://www.youtube.com/watch?v=JiDWHx31iq8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "4K",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769520797347414,
+    "song_title": "Fast Lane (Official Music Video) [from F9 - The Fast Saga]",
+    "year": 2021,
+    "artist_name": "Don Toliver, Lil Durk & Latto",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=krwAHNfJAco",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769520881779934,
+    "song_title": "All I Know (Official Music Video)",
+    "year": 2021,
+    "artist_name": "Jayson Cash",
+    "artist_genre": "country",
+    "youtube_link": "https://www.youtube.com/watch?v=aV3oZu-Ma3E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769520890452708,
+    "song_title": "I Won (Official Music Video) [from F9 - The Fast Saga]",
+    "year": 2021,
+    "artist_name": "Ty Dolla $ign, Jack Harlow & 24kGoldn",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=0tQDja1Z944",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "1080p",
+    "is_low_quality": false,
+    "availability_status": "public"
+  },
+  {
+    "id": 1769523862001703,
+    "song_title": "What's Next (Official Video)",
+    "year": 2021,
+    "artist_name": "Leaders Of The New School",
+    "artist_genre": "hip hop",
+    "youtube_link": "https://www.youtube.com/watch?v=WAfA0lUmR-o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "atlantic"
+    ],
+    "is_available": true,
+    "quality": "480p",
+    "is_low_quality": false,
+    "availability_status": "public"
   }
 ]
