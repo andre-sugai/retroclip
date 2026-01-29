@@ -3199,5 +3199,17 @@
     "artist_name": "Melvins",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=pYwnMqXCrWY"
+  },
+  {
+    "id": 1769555287403326,
+    "song_title": "Burn [OFFICIAL VIDEO]",
+    "year": 2025,
+    "artist_name": "Guilt Trip",
+    "artist_genre": "Group",
+    "youtube_link": "https://www.youtube.com/watch?v=ap2MTuWaGbc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

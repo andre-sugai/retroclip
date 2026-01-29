@@ -8856,5 +8856,31 @@
     "quality": "1080p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769555362493814,
+    "song_title": "Pull Harder on the Strings of Your Martyr (Live in New York, NY 12/15/2005)",
+    "year": 2022,
+    "artist_name": "Roadrunner United",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RZ8VJAmb9YM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769555373439587,
+    "song_title": "The End (Live New York, NY, 12/15/2005) [Official HD Video]",
+    "year": 2022,
+    "artist_name": "Roadrunner United",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BRxYTv32kq0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "HD"
+    ]
   }
 ]

@@ -65381,5 +65381,17 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769556527468276,
+    "song_title": "Deadly Sinners [OFFICIAL VIDEO]",
+    "year": 2015,
+    "artist_name": "3 Inches Of Blood",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JO7TZGgBbOw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

@@ -90058,5 +90058,101 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769555428779481,
+    "song_title": "Like I Roll (LIVE)",
+    "year": 2014,
+    "artist_name": "Black Stone Cherry",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hSWKswrqq7k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769555431711737,
+    "song_title": "Blind Man (LIVE)",
+    "year": 2014,
+    "artist_name": "Black Stone Cherry",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=a4UYwL4owEs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769555434844803,
+    "song_title": "Pressure Point [OFFICIAL VIDEO]",
+    "year": 2014,
+    "artist_name": "Heartist",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SL1MiXKjFzo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769555437560583,
+    "song_title": "Youngbloods [OFFICIAL VIDEO]",
+    "year": 2014,
+    "artist_name": "The Amity Affliction",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dzASJnwUq_g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769555453616608,
+    "song_title": "Born In Winter [OFFICIAL VIDEO]",
+    "year": 2014,
+    "artist_name": "Gojira",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=URUL_6R-rkM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769555456043258,
+    "song_title": "Enigma Machine",
+    "year": 2014,
+    "artist_name": "Dream Theater",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8WAeNWyuwDk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769555458635684,
+    "song_title": "San Asesino [OFFICIAL VIDEO]",
+    "year": 2014,
+    "artist_name": "De La Tierra",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nxSkbDF8QSM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769555464563939,
+    "song_title": "The Looking Glass [OFFICIAL VIDEO]",
+    "year": 2014,
+    "artist_name": "Dream Theater",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_1ldefw-nHk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

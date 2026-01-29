@@ -14456,5 +14456,31 @@
     "quality": "256p",
     "is_low_quality": true,
     "availability_status": "public"
+  },
+  {
+    "id": 1769556485598977,
+    "song_title": "Gotta Be Somebody [OFFICIAL HD VIDEO]",
+    "year": 2008,
+    "artist_name": "Nickelback",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Q0VRj2uw9L0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "HD"
+    ]
+  },
+  {
+    "id": 1769556488201500,
+    "song_title": "This Is Absolution [OFFICIAL VIDEO]",
+    "year": 2008,
+    "artist_name": "Killswitch Engage",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Vn3WKmyprEo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

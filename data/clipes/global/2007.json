@@ -13227,5 +13227,91 @@
     "quality": "240p",
     "is_low_quality": true,
     "availability_status": "public"
+  },
+  {
+    "id": 1769556491011919,
+    "song_title": "Rockstar [OFFICIAL VIDEO]",
+    "year": 2007,
+    "artist_name": "Nickelback",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DmeUuoxyt_E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769556493618061,
+    "song_title": "Tonight in Flames [OFFICIAL VIDEO]",
+    "year": 2007,
+    "artist_name": "Cradle of Filth",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_1B-si4knxI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769556496764735,
+    "song_title": "Goatriders Horde [OFFICIAL VIDEO]",
+    "year": 2007,
+    "artist_name": "3 Inches of Blood",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XUd4Cbc49mg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769556499658487,
+    "song_title": "Trial of Champions [with Joey Jordison] (LIVE)",
+    "year": 2007,
+    "artist_name": "3 Inches of Blood",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yon0boIPETs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769556502084405,
+    "song_title": "Deadly Sinners [with Paul Allendar] (LIVE)",
+    "year": 2007,
+    "artist_name": "3 Inches of Blood",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SIXOygP6QQY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769556504759683,
+    "song_title": "Blood Is Thicker Than Water [OFFICIAL VIDEO]",
+    "year": 2007,
+    "artist_name": "Black Label Society",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dmqHw3p2hLU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769556507810425,
+    "song_title": "The End [OFFICIAL VIDEO] [HD]",
+    "year": 2007,
+    "artist_name": "Roadrunner United",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2XqRQmGoaB4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "HD"
+    ]
   }
 ]
