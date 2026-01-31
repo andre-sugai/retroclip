@@ -143,5 +143,15 @@
     "youtube_link": "https://www.youtube.com/watch?v=NldPFVKYmiw",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": "yt_PFWu4RP85z8",
+    "song_title": "No Milk Today (Norwegian TV)",
+    "year": 1967,
+    "artist_name": "Herman's Hermits",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=PFWu4RP85z8",
+    "imvdb_url": null,
+    "source": "YouTube"
   }
 ]

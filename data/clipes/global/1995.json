@@ -6866,5 +6866,89 @@
     "youtube_link": "https://www.youtube.com/watch?v=N4oG4NUuhZk",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769606299217783,
+    "song_title": "Unstable",
+    "year": 1995,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sqecHpGwwY8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joshua Roberts"
+  },
+  {
+    "id": 1769612134854314,
+    "song_title": "We're Only Gonna Die",
+    "year": 1995,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9_tczaH_URw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769615013864428,
+    "song_title": "Same Old Story",
+    "year": 1995,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LGmw84OSU74",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769617935003145,
+    "song_title": "American Jesus",
+    "year": 1995,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=12kcpP-8jfM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769617985786486,
+    "song_title": "Atomic Garden",
+    "year": 1995,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AhzhiQA6-Aw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769618030047351,
+    "song_title": "Story Of My Life",
+    "year": 1995,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jwRmxwh1G7s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
   }
 ]

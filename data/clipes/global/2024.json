@@ -5283,13 +5283,18 @@
     "imvdb_url": "https://imvdb.com/video/fujii-kaze/michi-teyu-ku-overflowing"
   },
   {
-    "id": 133863500173,
+    "id": 1769606236389535,
     "song_title": "Novocaine",
     "year": 2024,
-    "artist_name": "Too Close To Touch",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=nYWEjQqsFL8",
-    "imvdb_url": "https://imvdb.com/video/too-close-to-touch/novocaine"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch & Bad Omens"
   },
   {
     "id": 233287662363,
@@ -6294,5 +6299,1065 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769605913748896,
+    "song_title": "Don't Think",
+    "year": 2024,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=WHeC0Z9d-ak",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Linda Lindas"
+  },
+  {
+    "id": 1769606005604340,
+    "song_title": "White Dress (Caleb Lee Hutchinson Version)",
+    "year": 2024,
+    "artist_genre": "Blues",
+    "youtube_link": "https://www.youtube.com/watch?v=4AtepzUDe1A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive & Caleb Lee Hutchinson"
+  },
+  {
+    "id": 1769606013120872,
+    "song_title": "I Don't Wanna Be Me",
+    "year": 2024,
+    "artist_genre": "Nu Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=uRb2oVDKJjg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Split Chain"
+  },
+  {
+    "id": 1769606035259445,
+    "song_title": "Nothing Would Change",
+    "year": 2024,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=30rcFAFJN9I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Linda Lindas"
+  },
+  {
+    "id": 1769606037620767,
+    "song_title": "Tannhäuser / Derive",
+    "year": 2024,
+    "artist_genre": "sludge",
+    "youtube_link": "https://www.youtube.com/watch?v=U9a8Y4TxecQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Cult of Luna"
+  },
+  {
+    "id": 1769606045273042,
+    "song_title": "(Re)-Extract (feat. Softcult)",
+    "year": 2024,
+    "artist_genre": "Nu Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=thD8et8hAv0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Split Chain"
+  },
+  {
+    "id": 1769606086399010,
+    "song_title": "No Obligation",
+    "year": 2024,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=hlEhXfh14Pc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Linda Lindas"
+  },
+  {
+    "id": 1769606092545054,
+    "song_title": "Prequel",
+    "year": 2024,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=hX0lhueeib8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769606103806599,
+    "song_title": "Yo Me Estreso (feat. \"Weird Al\" Yankovic)",
+    "year": 2024,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=jo0Z-P_87_A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Linda Lindas"
+  },
+  {
+    "id": 1769606106783867,
+    "song_title": "All In My Head",
+    "year": 2024,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=qy7XQPOQOvM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Linda Lindas"
+  },
+  {
+    "id": 1769606117764184,
+    "song_title": "The Last One Killed Me",
+    "year": 2024,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=XWb6gQj7pAk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769606120355412,
+    "song_title": "\"Gone West\" (Official Video)",
+    "year": 2024,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=idX3tvYgBBM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769606133610860,
+    "song_title": "\"Ronald\" (feat. Tech N9ne & Alex Terrible)",
+    "year": 2024,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=wWoQ7PFSYlk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769606135994501,
+    "song_title": "Mother",
+    "year": 2024,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=ee2QXQ85QAo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769606215840076,
+    "song_title": "Father",
+    "year": 2024,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=4jy9Iybu2u8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769606223769585,
+    "song_title": "Supervillain",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZPN35JfZjY8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jakobs Castle"
+  },
+  {
+    "id": 1769606277124305,
+    "song_title": "blame me for everything (acoustic)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KA0R5pEhXy0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "acoustic",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus & Mod Sun"
+  },
+  {
+    "id": 1769606279782853,
+    "song_title": "\"2 Hours Ago\" (Official Video)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jvX4-fVl0ZM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jakobs Castle"
+  },
+  {
+    "id": 1769606282769842,
+    "song_title": "All You'll Ever Catch",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sDVsk2IG86E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769606288659665,
+    "song_title": "Wash It Away",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UNlutrxYsGw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769606291157033,
+    "song_title": "Control",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Rw7rjWBpMHU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769606304714410,
+    "song_title": "\"Catch Me\" (Official Video)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QmtPRUIIvz0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jakobs Castle"
+  },
+  {
+    "id": 1769606307620782,
+    "song_title": "Mercy",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VGh4DCJZVuc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769606310240460,
+    "song_title": "Believe Me (Even If I'm Lying)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=o3vS0ir7PIs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "late night drive home"
+  },
+  {
+    "id": 1769606326092589,
+    "song_title": "New In Town",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ak0RNmsNqvk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769606352378339,
+    "song_title": "blame me for everything",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=cfFOkUG_Seo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus & Mod Sun"
+  },
+  {
+    "id": 1769606355189180,
+    "song_title": "\"Some of It Was True\" (Official Video)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HFSUNhlE7gU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769606360772453,
+    "song_title": "Sometimes",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BLFzPJU1qCM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769606369038231,
+    "song_title": "Death Grip",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hctyxbbALCc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769606374484749,
+    "song_title": "No, There's No Hope For You",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TNFtgh07dc4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769606377512255,
+    "song_title": "Earn It",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=V3F6fY_yt5U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769606388211673,
+    "song_title": "I Don't Know You",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=A4OYERIEpYA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769606417636994,
+    "song_title": "Try",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=O-YlefL9PIM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769606454167312,
+    "song_title": "nosebleeder",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5q05J8a9a6Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769606462119782,
+    "song_title": "Come on Heartache",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KLJhGiaJPt8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769606465373573,
+    "song_title": "Gazer",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HW0-FMIyV3c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Cold Hart"
+  },
+  {
+    "id": 1769606468008383,
+    "song_title": "Hopeless",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=grxeeSo6RiU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch & Telle Smith"
+  },
+  {
+    "id": 1769606476848707,
+    "song_title": "\"Millionaire\" (feat. kennedyxoxo)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6i6e-mFScuI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769606479980678,
+    "song_title": "I Got Heaven",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EvgYIXc4JDA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769606505595587,
+    "song_title": "Hope is a Dangerous Little Thing",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DrrxeRWebqw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769606578649120,
+    "song_title": "There's No Place In This World For Me",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SSsisCVST_s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769606581232810,
+    "song_title": "When Life Gives You Lemons (aldrch remix)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=O9UG2xZJMsg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus & Sophie Powers"
+  },
+  {
+    "id": 1769606584020899,
+    "song_title": "\"Dark Sky\" (feat. S.A. Martinez)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ywOT1dnTbtg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769606586885692,
+    "song_title": "\"Earn It\" (Official Video)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZdpXgO1nPwU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769606600243727,
+    "song_title": "Last Resort (Reimagined)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ESOjt2_yJrU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769606605970042,
+    "song_title": "When Life Gives You Lemons (w/ Sophie Powers)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ihgrSjSh4q8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769606647137668,
+    "song_title": "Too Many Things",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JHyR7LhBPgk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Linda Lindas"
+  },
+  {
+    "id": 1769606655363581,
+    "song_title": "Diorama",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=u2RtirYbUIw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769606682694324,
+    "song_title": "\"Sunshine\" (Official Video)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2Zzuhl-JKvs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769606776687482,
+    "song_title": "Watch The World Burn",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qMXESlny4-I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769606945891387,
+    "song_title": "Self Destruct",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=iV6spJSj95Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "FRED"
+  },
+  {
+    "id": 1769607289880754,
+    "song_title": "Voices In My Head",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=a7_e_NY-f3g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769608709468535,
+    "song_title": "Razor",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SGvd6S8u9yU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769609222561876,
+    "song_title": "Popular Monster",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jakpo7tj7Qw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769610861497146,
+    "song_title": "Eve",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JSMciDRbhiw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769612111715922,
+    "song_title": "Heavy Hearts",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zlEI73mpCrw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769612143343535,
+    "song_title": "Late Lives",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ySraTOY73aU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pianos Become The Teeth"
+  },
+  {
+    "id": 1769612459769753,
+    "song_title": "Ripple Water Shine",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NwlSsnsraKQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pianos Become The Teeth"
+  },
+  {
+    "id": 1769613005320201,
+    "song_title": "895",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_eY__dbBokA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pianos Become The Teeth"
+  },
+  {
+    "id": 1769613707650673,
+    "song_title": "\"Repine\" (Performance)",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FIVRvNfAOFQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pianos Become The Teeth"
+  },
+  {
+    "id": 1769616840170215,
+    "song_title": "Aimless Arrow",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CrcY9I-BbjM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769617649431391,
+    "song_title": "Tarbox",
+    "year": 2024,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TrXoJ7A04MQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thursday"
+  },
+  {
+    "id": 1769825353619178,
+    "song_title": "Black Glove",
+    "year": 2024,
+    "artist_name": "The Fluid",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=u19BCdKx7zs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825372936140,
+    "song_title": "Heaven",
+    "year": 2024,
+    "artist_name": "Alan Sparhawk",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=acBo1YCKk9M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825378400254,
+    "song_title": "Get Still",
+    "year": 2024,
+    "artist_name": "Alan Sparhawk",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=SK_Mzmu_5sM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825380686796,
+    "song_title": "Crazy Town",
+    "year": 2024,
+    "artist_name": "Velocity Girl",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=cvrKUY81lys",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825392162165,
+    "song_title": "Jazz Daredevil: I Want You",
+    "year": 2024,
+    "artist_name": "Jon Benjamin",
+    "artist_genre": "classical",
+    "youtube_link": "https://www.youtube.com/watch?v=ZIprb6OpBKQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825394754436,
+    "song_title": "Someone I Know",
+    "year": 2024,
+    "artist_name": "Empress Of",
+    "artist_genre": "Eletronico",
+    "youtube_link": "https://www.youtube.com/watch?v=rkpVGXWBdBg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825397989787,
+    "song_title": "Can U Hear",
+    "year": 2024,
+    "artist_name": "Alan Sparhawk",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=4jiUmgK1XJ8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825403946149,
+    "song_title": "Audrey’s Eyes",
+    "year": 2024,
+    "artist_name": "Velocity Girl",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=lF2YNnQH8aQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825409676922,
+    "song_title": "Jump Cut",
+    "year": 2024,
+    "artist_name": "Corridor",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=6_TQzYnWpn0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825412103028,
+    "song_title": "The Light is Not Afraid",
+    "year": 2024,
+    "artist_name": "Patrick Shiroishi",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=pddBOrSsYyA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825425449746,
+    "song_title": "North America Endless",
+    "year": 2024,
+    "artist_name": "FACS",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=QjbzwMc4DrU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825428082115,
+    "song_title": "Dead Tourists",
+    "year": 2024,
+    "artist_name": "Boeckner",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=2SdJ2n4St4Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825433866577,
+    "song_title": "Cling to a Poisoned Dream",
+    "year": 2024,
+    "artist_name": "Pissed Jeans",
+    "artist_genre": "noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=cMM5XEZd34o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825445080642,
+    "song_title": "Mindtrap",
+    "year": 2024,
+    "artist_name": "Telehealth",
+    "artist_genre": "vaporwave",
+    "youtube_link": "https://www.youtube.com/watch?v=B2wAEonJcu8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825453191831,
+    "song_title": "Lose",
+    "year": 2024,
+    "artist_name": "Boeckner",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=--Xme1J_jwE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825458258966,
+    "song_title": "Moving On",
+    "year": 2024,
+    "artist_name": "Pissed Jeans",
+    "artist_genre": "noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=_WNJ-S6oQp8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

@@ -3996,13 +3996,18 @@
     "imvdb_url": "https://imvdb.com/video/amason/duvan"
   },
   {
-    "id": 198013072609,
+    "id": 1769613432331964,
     "song_title": "Whole Again",
     "year": 2014,
-    "artist_name": "Sleepwave",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=v_88iMv1snQ",
-    "imvdb_url": "https://imvdb.com/video/sleepwave/whole-again"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleepwave"
   },
   {
     "id": 395942178998,
@@ -21654,13 +21659,18 @@
     "imvdb_url": "https://imvdb.com/video/bad-breeding/age-of-nothing"
   },
   {
-    "id": 244713963129,
+    "id": 1769614659278181,
     "song_title": "Short Fuse",
     "year": 2014,
-    "artist_name": "Obey The Brave",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=79d0g-nHd5o",
-    "imvdb_url": "https://imvdb.com/video/obey-the-brave/short-fuse"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
   },
   {
     "id": 710660114591,
@@ -43128,13 +43138,18 @@
     "imvdb_url": "https://imvdb.com/video/skit-tijani/sweat"
   },
   {
-    "id": 221431520893,
+    "id": 1769615961442994,
     "song_title": "Black Sap Scriptures",
     "year": 2014,
-    "artist_name": "Plague Vendor",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=PeQQHiMQ-bE",
-    "imvdb_url": "https://imvdb.com/video/plague-vendor/black-sap-scriptures"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
   },
   {
     "id": 148065389690,
@@ -59661,13 +59676,18 @@
     "imvdb_url": "https://imvdb.com/video/creative-adult/deep-end"
   },
   {
-    "id": 124857149324,
+    "id": 1769614661796666,
     "song_title": "The Wolf",
     "year": 2014,
-    "artist_name": "Sleepwave",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=dXjDNVBgc1M",
-    "imvdb_url": "https://imvdb.com/video/sleepwave/the-wolf"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleepwave"
   },
   {
     "id": 708104676011,
@@ -60795,13 +60815,18 @@
     "imvdb_url": "https://imvdb.com/video/niko-is/2cents"
   },
   {
-    "id": 193960796612,
+    "id": 1769614789025770,
     "song_title": "Raise Your Voice",
     "year": 2014,
-    "artist_name": "Obey The Brave",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=5LjopkhubzA",
-    "imvdb_url": "https://imvdb.com/video/obey-the-brave/raise-your-voice"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
   },
   {
     "id": 241588220732,
@@ -69228,13 +69253,18 @@
     "imvdb_url": "https://imvdb.com/video/madcon/say-yeah"
   },
   {
-    "id": 295576135459,
-    "song_title": "Through the Looking Glass",
+    "id": 1769615000382981,
+    "song_title": "Through The Looking Glass",
     "year": 2014,
-    "artist_name": "Sleepwave",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=BYT_qBIwcpw",
-    "imvdb_url": "https://imvdb.com/video/sleepwave/through-the-looking-glass"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleepwave"
   },
   {
     "id": 139197877972,
@@ -81288,13 +81318,18 @@
     "imvdb_url": "https://imvdb.com/video/dizzy-wright/reunite-for-the-night"
   },
   {
-    "id": 162873947030,
+    "id": 1769614358084924,
     "song_title": "Breakdance On Broken Glass",
     "year": 2014,
-    "artist_name": "Plague Vendor",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=N8KAAgKcfeA",
-    "imvdb_url": "https://imvdb.com/video/plague-vendor/breakdance-on-broken-glass"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
   },
   {
     "id": 297275367673,
@@ -86400,13 +86435,18 @@
     "imvdb_url": "https://imvdb.com/video/tara-jane-oneil/wordless-in-woods"
   },
   {
-    "id": 192662683363,
+    "id": 1769615915425626,
     "song_title": "I Don't Wanna Be An Asshole Anymore",
     "year": 2014,
-    "artist_name": "The Menzingers",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=TQBG7wAVWAA",
-    "imvdb_url": "https://imvdb.com/video/the-menzingers/i-dont-wanna-be-an-asshole-anymore"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
   },
   {
     "id": 193141905420,
@@ -90150,6 +90190,1180 @@
     "artist_name": "Dream Theater",
     "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=_1ldefw-nHk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769605984173252,
+    "song_title": "Falling In Love Again",
+    "year": 2014,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=2IQ_kt434Es",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769608404317809,
+    "song_title": "Checking Up",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=H9V4NPyNg0U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "behind_scenes",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769609148151992,
+    "song_title": "\"Heart Tattoo\" (Live at The Palladium)",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Ity-U96x3Zg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769609383977108,
+    "song_title": "\"Falling In Love Again\" (Live at The Palladium)",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=w2JgTUSGdmQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769609937742326,
+    "song_title": "\"Just Exist\" (Live)",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=i-N5Z1GaGjA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769613229903427,
+    "song_title": "Where Your Heartache Exists",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dzRGmuL5o4M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769613259106396,
+    "song_title": "Up In Smoke",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XPcpy6hDwzA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769613261780201,
+    "song_title": "Out Of Control",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ye6B5HAjzY8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769613321962019,
+    "song_title": "Everything In Twos",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=e_2rIUlPPQo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Sidekicks"
+  },
+  {
+    "id": 1769613704034927,
+    "song_title": "Meaning Behind Dear Youth",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=t1FELWNglpY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769613710364524,
+    "song_title": "Repine",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qctKVrTE7jM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pianos Become The Teeth"
+  },
+  {
+    "id": 1769613715807505,
+    "song_title": "'Dear Youth' Album Explanation",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CnrccZRvbB0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769613841135073,
+    "song_title": "Calvert Street",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kQmxBg5-6rM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Killed The Prom Queen"
+  },
+  {
+    "id": 1769613868700576,
+    "song_title": "Diabolical",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-J8euQfB9-M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769613908621150,
+    "song_title": "Already Dead",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HEOVKD3djYI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769613911123170,
+    "song_title": "Toeing The Line",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6eyrCqN5avU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Roll The Tanks"
+  },
+  {
+    "id": 1769613919392282,
+    "song_title": "Face Up",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jis-9dIFg5Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769614349216260,
+    "song_title": "\"From Parts Unknown\" In The Studio With Jordan",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1ZlQ7jdh_qM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769614533124962,
+    "song_title": "Avalanche",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=cASpchz2npg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769615003090427,
+    "song_title": "\"Black Sap Scriptures\" (Live)",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_XJD3Y2Y-g8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
+  },
+  {
+    "id": 1769615206884884,
+    "song_title": "The Jerk",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qkP7LEnI3B0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769615254488724,
+    "song_title": "Bright Enough",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=c6MOiJmbrgg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Killed The Prom Queen"
+  },
+  {
+    "id": 1769615332422406,
+    "song_title": "Through The Looking Glass",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4ZRjH6SzTfo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleepwave"
+  },
+  {
+    "id": 1769615780857195,
+    "song_title": "Schley",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=u7Pr41WUGA8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769615783569203,
+    "song_title": "Behind The Scenes Of \"Decayin With The Boys\"",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=id44mjckgQY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "behind_scenes",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769615815557031,
+    "song_title": "Decayin With The Boys",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wVmlf6koQXA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769615821451765,
+    "song_title": "Violence Never Ending",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8eDTym4HQXQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769615874560680,
+    "song_title": "Thirst",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4wAqPzgfR1s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769615877742818,
+    "song_title": "Catalina Fight Song",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jCuhb-RlbGk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769615880142166,
+    "song_title": "Toeing The Line",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RBSZb0L_IKI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Roll The Tanks"
+  },
+  {
+    "id": 1769615945152619,
+    "song_title": "Goodnight Jimmy Lee",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=l-VodXVENpM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Roll The Tanks"
+  },
+  {
+    "id": 1769615947610792,
+    "song_title": "Breakdance On Broken Glass",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=syt7VICRRis",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
+  },
+  {
+    "id": 1769615950014097,
+    "song_title": "I Don't Wanna Be An Asshole Anymore",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=pjO34bpF9-4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769615993030157,
+    "song_title": "In Remission",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=iZscWmIizzw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769616073128306,
+    "song_title": "To The Wolves",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zok3T1ORhiE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Killed The Prom Queen"
+  },
+  {
+    "id": 1769616092797455,
+    "song_title": "Bad Girls Club",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TzLZN1K-PUE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616230490795,
+    "song_title": "\"Can You Feel My Heart\" (Shy Kidx Remix)",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KnXcHDPi4tk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769616592073696,
+    "song_title": "Old Ghost / New Regrets",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=o4rvMrmX0sI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769616921252470,
+    "song_title": "I Suck (Blood)",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Kjr2FGdFLpk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769617013808244,
+    "song_title": "\"A Typical Miracle\" LIVE FOOTAGE",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uHgAa5VTzKY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769617102261349,
+    "song_title": "Underwater Bimbos From Outer Space",
+    "year": 2014,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Y1gi_aOe334",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769829512187649,
+    "song_title": "Chateau Lobby #4 (in C for Two Virgins)",
+    "year": 2014,
+    "artist_name": "Father John Misty",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=A6NuYJ0RzRg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829520336816,
+    "song_title": "Tangled Heart",
+    "year": 2014,
+    "artist_name": "Luluc",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=cFWw75PY4V4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829528637457,
+    "song_title": "Breakfast at Dick’s",
+    "year": 2014,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Qz5zaM8IzV4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829553381016,
+    "song_title": "Fanfare",
+    "year": 2014,
+    "artist_name": "Eric Matthews",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=brhiO6m6lxw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829585936220,
+    "song_title": "All Ready",
+    "year": 2014,
+    "artist_name": "Jale",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=hxN-kauqzYI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829591218459,
+    "song_title": "Lost in the Woods",
+    "year": 2014,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=1xj_jzDRPmk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829594153705,
+    "song_title": "Let's Be Still",
+    "year": 2014,
+    "artist_name": "The Head and the Heart",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=mwaGzIPpbBI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829596810890,
+    "song_title": "Bury Our Friends (feat. Miranda July)",
+    "year": 2014,
+    "artist_name": "Sleater-Kinney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=tRNDB9VqI3Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829599425457,
+    "song_title": "Boring Girls",
+    "year": 2014,
+    "artist_name": "Pissed Jeans",
+    "artist_genre": "noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=df5kId_eqso",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829602190680,
+    "song_title": "Hide from the Sun",
+    "year": 2014,
+    "artist_name": "Goat",
+    "artist_genre": "Hard Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=tnu_O5P8P5I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829604815502,
+    "song_title": "Last Man Alive",
+    "year": 2014,
+    "artist_name": "The Grifters",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7gd2qey2cpk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829607751907,
+    "song_title": "Black Moon Spell",
+    "year": 2014,
+    "artist_name": "King Tuff",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=yy6IPmzGLDY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829613057280,
+    "song_title": "Machines",
+    "year": 2014,
+    "artist_name": "Obits",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=D5iqg3xetVM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829615887126,
+    "song_title": "Spots",
+    "year": 2014,
+    "artist_name": "Pond",
+    "artist_genre": "post-rock",
+    "youtube_link": "https://www.youtube.com/watch?v=KihGQiTAwiI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829620745712,
+    "song_title": "Every Morning",
+    "year": 2014,
+    "artist_name": "J Mascis",
+    "artist_genre": "Noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=9dk-obVk9SE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829623393786,
+    "song_title": "Laura's Aura",
+    "year": 2014,
+    "artist_name": "Combustible Edison",
+    "artist_genre": "lounge",
+    "youtube_link": "https://www.youtube.com/watch?v=UVCJiRixO2U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829628491280,
+    "song_title": "Chain Chain Chain",
+    "year": 2014,
+    "artist_name": "Red Red Meat",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=76zTyhoF-g0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829631355677,
+    "song_title": "Cool Comment",
+    "year": 2014,
+    "artist_name": "Deaf Wish",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=Uzna81jNjEs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829636836665,
+    "song_title": "Gold Top",
+    "year": 2014,
+    "artist_name": "The Supersuckers",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=xo5-D9WFz-o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829658360283,
+    "song_title": "You're No Rock N Roll Fun",
+    "year": 2014,
+    "artist_name": "Sleater-Kinney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=rCy1VIy8Hj0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829660945599,
+    "song_title": "Get Up",
+    "year": 2014,
+    "artist_name": "Sleater-Kinney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=d9MA4rFNf7I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829681388406,
+    "song_title": "Waste of Time",
+    "year": 2014,
+    "artist_name": "Fastbacks",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=NH4wHBG-gN0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829686725892,
+    "song_title": "Monster",
+    "year": 2014,
+    "artist_name": "Chad VanGaalen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=mqzuq7EkzeI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829689455649,
+    "song_title": "I Dig You",
+    "year": 2014,
+    "artist_name": "Zumpano",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=-YFr-Z8Sp70",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829699911221,
+    "song_title": "Ocean",
+    "year": 2014,
+    "artist_name": "Sebadoh",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=HUm-dHAslmY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829702751960,
+    "song_title": "The Dirt",
+    "year": 2014,
+    "artist_name": "Mirel Wagner",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=l9i0hDNBdZM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829710428202,
+    "song_title": "Outta Space Canoe Race",
+    "year": 2014,
+    "artist_name": "5ive Style",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=Mtpuix13z04",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829718157219,
+    "song_title": "I Can't Stop Smiling",
+    "year": 2014,
+    "artist_name": "Velocity Girl",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=lIZ74RnHyb8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829723696470,
+    "song_title": "Cracking Up",
+    "year": 2014,
+    "artist_name": "The Jesus And Mary Chain",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=lHhz9_R2L7E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829729110163,
+    "song_title": "Small Window",
+    "year": 2014,
+    "artist_name": "Luluc",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=wl4WOY15_nA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829731894441,
+    "song_title": "Honeymoon",
+    "year": 2014,
+    "artist_name": "Lyla Foy",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=77lquzoHPk4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829739818957,
+    "song_title": "Matamoros",
+    "year": 2014,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=8C5et72znyw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829742200735,
+    "song_title": "There is a Light",
+    "year": 2014,
+    "artist_name": "Rose Windows",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=WtK00fQ66Ek",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829745595610,
+    "song_title": "Tallahassee",
+    "year": 2014,
+    "artist_name": "Earth",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=xg1GV-pfCWs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829755650513,
+    "song_title": "Ladies of the World",
+    "year": 2014,
+    "artist_name": "Flight of the Conchords",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=8hDJFuR9-8Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829765615942,
+    "song_title": "Too True To Be Good",
+    "year": 2014,
+    "artist_name": "Dum Dum Girls",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=PARA6_ErZI0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829779496602,
+    "song_title": "Weightless",
+    "year": 2014,
+    "artist_name": "Washed Out",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=HEBb3GxubAc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829782332820,
+    "song_title": "The Company Man",
+    "year": 2014,
+    "artist_name": "Lee Bains + The Glory Fires",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=unwBMVXA0UI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829788604272,
+    "song_title": "Oak Tree",
+    "year": 2014,
+    "artist_name": "Mirel Wagner",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=b9cmrU7xH5M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829793610629,
+    "song_title": "Simon Ferocious",
+    "year": 2014,
+    "artist_name": "Mogwai",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=fvhUvgpV2x0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829798826467,
+    "song_title": "Summertime",
+    "year": 2014,
+    "artist_name": "The Head and the Heart",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=epHNCodFxL8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829801621218,
+    "song_title": "Rimbaud Eyes",
+    "year": 2014,
+    "artist_name": "Dum Dum Girls",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=QDYRQX6FPQQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829830501263,
+    "song_title": "Feather Tongue",
+    "year": 2014,
+    "artist_name": "Lyla Foy",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=PEfG15s9xU8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829835893755,
+    "song_title": "I'm Closing In",
+    "year": 2014,
+    "artist_name": "Obits",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=lBqHCOk43y0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829846578091,
+    "song_title": "Mercury Dime",
+    "year": 2014,
+    "artist_name": "Death Vessel",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=vHz2eGHC_yM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829849278024,
+    "song_title": "Another Story",
+    "year": 2014,
+    "artist_name": "The Head and the Heart",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=eyn9kmuIwqA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829851663664,
+    "song_title": "Desert Of Pop",
+    "year": 2014,
+    "artist_name": "The Ruby Suns",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=6SaneO1NRXI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829854863633,
+    "song_title": "Algiers",
+    "year": 2014,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ovhzeqIaggY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829857148433,
+    "song_title": "Kong",
+    "year": 2014,
+    "artist_name": "The Notwist",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=KUpktwg7O4M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829865286926,
+    "song_title": "Unkinder (A Tougher Love)",
+    "year": 2014,
+    "artist_name": "THUMPERS",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=-bPD4Nh2NFk",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",

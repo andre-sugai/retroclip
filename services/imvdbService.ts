@@ -65,6 +65,12 @@ import data2022 from '../data/clipes/global/2022.json';
 import data2023 from '../data/clipes/global/2023.json';
 import data2024 from '../data/clipes/global/2024.json';
 import data2025 from '../data/clipes/global/2025.json';
+import data2026 from '../data/clipes/global/2026.json';
+
+// Record Labels Imports
+import atlanticData from '../data/clipes/global/atlantic.json';
+import roadRunnerData from '../data/clipes/global/road_runner.json';
+import subpopData from '../data/clipes/global/subpop.json';
 
 // BR Data Imports
 import data1929BR from '../data/clipes/brasil/1929.json';
@@ -153,6 +159,22 @@ const PROGRAMS_DATA = [
     ...item,
     is_program: true,
     program_name: 'documentarios',
+  })),
+];
+
+// Record Labels Data
+const LABELS_DATA = [
+  ...atlanticData.map((item) => ({
+    ...item,
+    record_label: 'atlantic',
+  })),
+  ...roadRunnerData.map((item) => ({
+    ...item,
+    record_label: 'road_runner',
+  })),
+  ...subpopData.map((item) => ({
+    ...item,
+    record_label: 'subpop',
   })),
 ];
 
@@ -375,6 +397,9 @@ const INTL_DATA = [
   ...data2023,
   ...data2024,
   ...data2025,
+  ...data2026,
+
+  ...LABELS_DATA,
   ...SHOWS_GLOBAL,
 ];
 const BR_DATA = [
@@ -553,6 +578,7 @@ export const fetchVideosByCriteria = async (
         is_show: i.is_show,
         is_program: i.is_program,
         program_name: i.program_name,
+        record_label: i.record_label,
       } as Video;
     })
     .filter((v) => v.embed_id); // Only return videos with valid IDs
@@ -625,6 +651,7 @@ export const fetchVideoById = async (
     is_show: i.is_show,
     is_program: i.is_program,
     program_name: i.program_name,
+    record_label: i.record_label,
   } as Video;
 };
 

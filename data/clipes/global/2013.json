@@ -8217,13 +8217,18 @@
     "imvdb_url": "https://imvdb.com/video/rhodes/run"
   },
   {
-    "id": 917128600761,
+    "id": 1769616154872991,
     "song_title": "Younger",
     "year": 2013,
-    "artist_name": "letlive.",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=KADLiArokIA",
-    "imvdb_url": "https://imvdb.com/video/letlive/younger"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive."
   },
   {
     "id": 152962091992,
@@ -17829,13 +17834,18 @@
     "imvdb_url": "https://imvdb.com/video/tom-swoon/not-too-late"
   },
   {
-    "id": 426621943290,
+    "id": 1769616315687085,
     "song_title": "Banshee (Ghost Fame)",
     "year": 2013,
-    "artist_name": "letlive.",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=3wnxFJUZtp4",
-    "imvdb_url": "https://imvdb.com/video/letlive/banshee-ghost-fame"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive."
   },
   {
     "id": 134772316942,
@@ -58527,13 +58537,18 @@
     "imvdb_url": "https://imvdb.com/video/ian-carey-doron/baddest-chick"
   },
   {
-    "id": 242822649026,
-    "song_title": "True North",
+    "id": 1769616482047958,
+    "song_title": "\"True North\" (Official Video)",
     "year": 2013,
-    "artist_name": "Bad Religion",
-    "artist_genre": "Desconhecido, Hardcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=X2u6DeXvLDM",
-    "imvdb_url": "https://imvdb.com/video/bad-religion/true-north"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
   },
   {
     "id": 282786521335,
@@ -64899,13 +64914,18 @@
     "imvdb_url": "https://imvdb.com/video/nefas-terra/poison"
   },
   {
-    "id": 256876971320,
+    "id": 1769616363288733,
     "song_title": "Alone",
     "year": 2013,
-    "artist_name": "Falling In Reverse",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=zcbOfVKSMkA",
-    "imvdb_url": "https://imvdb.com/video/falling-in-reverse/alone"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
   },
   {
     "id": 185471478655,
@@ -71937,13 +71957,18 @@
     "imvdb_url": "https://imvdb.com/video/david-yow/opening-suite"
   },
   {
-    "id": 150774550469,
-    "song_title": "I Wanna Be a Warhol",
+    "id": 1769616438538243,
+    "song_title": "I Wanna Be A Warhol",
     "year": 2013,
-    "artist_name": "Alkaline Trio",
-    "artist_genre": "Punk Rock",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=7trRQX0XP9k",
-    "imvdb_url": "https://imvdb.com/video/alkaline-trio/i-wanna-be-a-warhol"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
   },
   {
     "id": 728275964757,
@@ -77319,13 +77344,18 @@
     "imvdb_url": "https://imvdb.com/video/keys-n-krates/treat-me-right"
   },
   {
-    "id": 250212238482,
+    "id": 1769616360461407,
     "song_title": "Don't Make Me Go",
     "year": 2013,
-    "artist_name": "Off With Their Heads",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=nkIeoVqpHKY",
-    "imvdb_url": "https://imvdb.com/video/off-with-their-heads/dont-make-me-go"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
   },
   {
     "id": 191038279645,
@@ -86326,6 +86356,876 @@
     "artist_name": "Kvelertak",
     "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=DbrtS8E0kpY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769606806589326,
+    "song_title": "Stay, Stay, Stay!",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Tv66h-ka5ns",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joshua Roberts"
+  },
+  {
+    "id": 1769609654825610,
+    "song_title": "\"Cold\" (Live at The Observatory)",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZfSTRIROihs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609660069289,
+    "song_title": "\"Submarines\" (Live at The Observatory)",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VfHaIA3x93E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609668122098,
+    "song_title": "\"Crust Bucket\" (Live at The Observatory)",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MiK2g5annG8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769610321415759,
+    "song_title": "The Nature Of Failure",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=U1HfUMBHpd4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Retox"
+  },
+  {
+    "id": 1769612248963634,
+    "song_title": "Live Session",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0OsFoNUH5uE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid To Die"
+  },
+  {
+    "id": 1769613440065635,
+    "song_title": "\"Dreamer's Disease\" feat. Chris Conley",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=B8I7U9s65F8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive. Renditions"
+  },
+  {
+    "id": 1769613450283034,
+    "song_title": "Father Christmas",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZcV3J2Feieg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769615386574255,
+    "song_title": "\"None Of The Above\" (Acoustic)",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=oPK5xtThECQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "acoustic",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Veara"
+  },
+  {
+    "id": 1769615882900876,
+    "song_title": "\"The Dope Beat\" feat. Dan \"Soupy\" Campbell",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=A2HBRzdW4iw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive. Renditions"
+  },
+  {
+    "id": 1769615912066703,
+    "song_title": "Next Stop...Everywhere",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=c4V2QKTiXo8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Veara"
+  },
+  {
+    "id": 1769616050536949,
+    "song_title": "\"27 Club\" feat. Keith Buckley",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7RS_g7Kwp7Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive. Renditions"
+  },
+  {
+    "id": 1769616078706924,
+    "song_title": "None Of The Above",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8nQTSPnn1Wo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Veara"
+  },
+  {
+    "id": 1769616090282540,
+    "song_title": "Full Circle",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zPgy8AMaSeg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616095624025,
+    "song_title": "Inside Out",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MdjRBcADuQs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769616120566114,
+    "song_title": "The Life You've Chosen",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=eB_-IUKiHiI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Survive This!"
+  },
+  {
+    "id": 1769616146425583,
+    "song_title": "O Come, O Come Emmanuel",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PLCxbXfyXCo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769616149251970,
+    "song_title": "The Worst Part Of You",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zVNWmzQsL2Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Veara"
+  },
+  {
+    "id": 1769616190878819,
+    "song_title": "\"Rolling Stone\" (Shy Kidx Remix)",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PWG15kk4sko",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616227680410,
+    "song_title": "\"Go To Hell, For Heaven's Sake\" (Warped Tour Video)",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9xLiI_-N4Hc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769616318445025,
+    "song_title": "Born To Lead",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ItxJFWITRxk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616351101419,
+    "song_title": "Final Warning",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OA_89NVXFT8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Shy Kidx"
+  },
+  {
+    "id": 1769616353867959,
+    "song_title": "Majestic 12",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sBvG5AM0SCo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Shy Kidx"
+  },
+  {
+    "id": 1769616368784456,
+    "song_title": "Orion",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=IVofpqF54zI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Shy Kidx"
+  },
+  {
+    "id": 1769616371319567,
+    "song_title": "Come Around",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TTgKmbQ-6mM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Transplants"
+  },
+  {
+    "id": 1769616374092072,
+    "song_title": "In A Warzone",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Wnv2kIKHOQQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Transplants"
+  },
+  {
+    "id": 1769616396835785,
+    "song_title": "Mature Science",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dJZL29O_aO8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Retox"
+  },
+  {
+    "id": 1769616399741509,
+    "song_title": "Biological Process of Politics",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=h3WpYyjcr_0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Retox"
+  },
+  {
+    "id": 1769616405205624,
+    "song_title": "The Temptation Of St. Anthony",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zCLAxVXaMIc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769616408073423,
+    "song_title": "I'm Only Here To Disappoint",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=anzIMcsHyDw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769616896633449,
+    "song_title": "Age Of Ignorance",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7Qd6ANerri0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Our Last Night"
+  },
+  {
+    "id": 1769617504722378,
+    "song_title": "This Is Why We Can't Have Nice Thing",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=tKGA_EjLZh4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Don't Care"
+  },
+  {
+    "id": 1769617537488144,
+    "song_title": "Making of \"Don't Let Her Pull You Down\"",
+    "year": 2013,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HTLEPDN20ls",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "behind_scenes",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "New Found Glory"
+  },
+  {
+    "id": 1769829883133426,
+    "song_title": "The Lord Is Out Of Control",
+    "year": 2013,
+    "artist_name": "Mogwai",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7TzRex0YZM8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829885965498,
+    "song_title": "Ilsa Drown (feat. Jónsi) [not the video]",
+    "year": 2013,
+    "artist_name": "Death Vessel",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=R7Xidxdlkes",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829890561526,
+    "song_title": "Phantom Rider",
+    "year": 2013,
+    "artist_name": "Daughn Gibson",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ryGSEnC6Oxk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829893439310,
+    "song_title": "Operation Bikini",
+    "year": 2013,
+    "artist_name": "Obits",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=DfVnMzut81E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829895911784,
+    "song_title": "Lost Boys And Girls Club",
+    "year": 2013,
+    "artist_name": "Dum Dum Girls",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=pOF_oo3EgnQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829904281331,
+    "song_title": "All I Know",
+    "year": 2013,
+    "artist_name": "Washed Out",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=eqinQ4NHnKM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829909889401,
+    "song_title": "Nervous Wreck",
+    "year": 2013,
+    "artist_name": "Sera Cahoone",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=-_3bSO3kk5w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829915302774,
+    "song_title": "Shake Filmed at Bear Creek Studios",
+    "year": 2013,
+    "artist_name": "The Head and the Heart",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=H2hkZbVsrPY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829923227443,
+    "song_title": "Heavenly Days",
+    "year": 2013,
+    "artist_name": "Rose Windows",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ZLb68QxivnA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829934889500,
+    "song_title": "The Only Son of the Widow from Nain",
+    "year": 2013,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=CMWyoLjqHw8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829940645611,
+    "song_title": "Idle Hands",
+    "year": 2013,
+    "artist_name": "The Murder City Devils",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=C_YB5dYx3jw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829943808710,
+    "song_title": "I'm Writing a Novel",
+    "year": 2013,
+    "artist_name": "Father John Misty",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ga0ksTIagsg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829945558765,
+    "song_title": "Spun Out",
+    "year": 2013,
+    "artist_name": "Obits",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=W_PqOB9ANRo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829948244066,
+    "song_title": "Fireflies",
+    "year": 2013,
+    "artist_name": "Still Corners",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Ahgsog97v1Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829961058713,
+    "song_title": "An Impression",
+    "year": 2013,
+    "artist_name": "No Age",
+    "artist_genre": "special purpose artist",
+    "youtube_link": "https://www.youtube.com/watch?v=kKnrhcO8MHM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829974735615,
+    "song_title": "Don't Give Up",
+    "year": 2013,
+    "artist_name": "Washed Out",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=9rbRwV0T0AQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829985675070,
+    "song_title": "Kissin on the Blacktop",
+    "year": 2013,
+    "artist_name": "Daughn Gibson",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=JyfeNOkM5t0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829988144311,
+    "song_title": "Romanticize Me",
+    "year": 2013,
+    "artist_name": "Pissed Jeans",
+    "artist_genre": "noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=8tzKE31JQXY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830001009943,
+    "song_title": "Get Off",
+    "year": 2013,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=kAjHuKWh0so",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830003774930,
+    "song_title": "A Tattered Line of String",
+    "year": 2013,
+    "artist_name": "The Postal Service",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=K2xNj630NBU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830009240789,
+    "song_title": "Plastic Cup",
+    "year": 2013,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=QfNLtUUEiGI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830022984401,
+    "song_title": "Funtimes In Babylon",
+    "year": 2013,
+    "artist_name": "Father John Misty",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=2bvCnyMpXUI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830025853257,
+    "song_title": "Dog That Bit You",
+    "year": 2013,
+    "artist_name": "The Baptist Generals",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=ighfi48js2A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830042471252,
+    "song_title": "Radio Eyes",
+    "year": 2013,
+    "artist_name": "Ed Schrader's Music Beat",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=AjVVAi3oTKo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830048686868,
+    "song_title": "Fly Candy Harvest",
+    "year": 2013,
+    "artist_name": "The Baptist Generals",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=qAhDGSRHMR0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830057402710,
+    "song_title": "Just Make It Stop",
+    "year": 2013,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=5rAdzJ1U0RU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830068840551,
+    "song_title": "Berlin Lovers",
+    "year": 2013,
+    "artist_name": "Still Corners",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=hCD9g1pH6BA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830071697667,
+    "song_title": "I Like It Small",
+    "year": 2013,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7511NXJNV8o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830084010717,
+    "song_title": "Wasted",
+    "year": 2013,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=m6qGeNVwwfw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830086411387,
+    "song_title": "I Like It Small",
+    "year": 2013,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=qreEZ6oNB3A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769830089108496,
+    "song_title": "The Only Son Of The Widow From Nain",
+    "year": 2013,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=az2JAhGqWuw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769830091861669,
+    "song_title": "Vanishing Point",
+    "year": 2013,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=akAp4czl1yc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769830096756286,
+    "song_title": "Bathroom Laughter",
+    "year": 2013,
+    "artist_name": "Pissed Jeans",
+    "artist_genre": "noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=0B2Gww3ywDA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830106451888,
+    "song_title": "In Real Life",
+    "year": 2013,
+    "artist_name": "The Ruby Suns",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=IykU1Tmb6Yo",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",

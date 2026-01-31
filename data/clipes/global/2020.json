@@ -1800,13 +1800,18 @@
     "imvdb_url": "https://imvdb.com/video/peaness/kaizen"
   },
   {
-    "id": 454810858672,
+    "id": 1769609092388235,
     "song_title": "highschool",
     "year": 2020,
-    "artist_name": "guccihighwaters",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=W00tTrHoaCo",
-    "imvdb_url": "https://imvdb.com/video/guccihighwaters/highschool"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "guccihighwaters"
   },
   {
     "id": 165838297157,
@@ -1989,13 +1994,18 @@
     "imvdb_url": "https://imvdb.com/video/waxahatchee/lilacs"
   },
   {
-    "id": 319939877179,
+    "id": 1769609131813580,
     "song_title": "Mansplain",
     "year": 2020,
-    "artist_name": "Thick",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=5TSBt2TZjw0",
-    "imvdb_url": "https://imvdb.com/video/thick/mansplain"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
   },
   {
     "id": 119157437914,
@@ -14013,13 +14023,18 @@
     "imvdb_url": "https://imvdb.com/video/banoffee/count-on-you"
   },
   {
-    "id": 719033412993,
+    "id": 1769609203382990,
     "song_title": "5 Years Behind",
     "year": 2020,
-    "artist_name": "Thick",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=SS0QRraq_rc",
-    "imvdb_url": "https://imvdb.com/video/thick/5-years-behind"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
   },
   {
     "id": 318574849831,
@@ -25137,13 +25152,18 @@
     "imvdb_url": "https://imvdb.com/video/ladytron/tower-of-glass"
   },
   {
-    "id": 248707512637,
+    "id": 1769609159225719,
     "song_title": "Bumming Me Out",
     "year": 2020,
-    "artist_name": "Thick",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=4oL_X6OVNc8",
-    "imvdb_url": "https://imvdb.com/video/thick/bumming-me-out"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
   },
   {
     "id": 289859089600,
@@ -27072,13 +27092,18 @@
     "imvdb_url": "https://imvdb.com/video/soko/being-sad-is-not-a-crime"
   },
   {
-    "id": 853797959497,
+    "id": 1769609153674996,
     "song_title": "The Drug In Me Is Reimagined",
     "year": 2020,
-    "artist_name": "Falling In Reverse",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=B2cbhYihBWY",
-    "imvdb_url": "https://imvdb.com/video/falling-in-reverse/the-drug-in-me-is-reimagined"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
   },
   {
     "id": 148939613834,
@@ -28219,5 +28244,1453 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769605632762975,
+    "song_title": "Aftermath",
+    "year": 2020,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=goxIDD-Lcfk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "【日本語字幕】The Ghost Inside"
+  },
+  {
+    "id": 1769606312889550,
+    "song_title": "BLITZ",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=eN1J2m5M2DE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nascar Aloe"
+  },
+  {
+    "id": 1769606721296625,
+    "song_title": "I Wanna Be Your High",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SNTYULDCxu4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Chad Tepper"
+  },
+  {
+    "id": 1769606950830051,
+    "song_title": "all my friends",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=s0pJiaqqbqk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "plxntkid & LiL Lotus"
+  },
+  {
+    "id": 1769607109760776,
+    "song_title": "Happiness",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KAXJDUcKgKI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769607243557842,
+    "song_title": "Loser",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1SN3YROazzo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769607287320908,
+    "song_title": "One Choice",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_6LwiRIQMNY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769607441138070,
+    "song_title": "Feign",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=tBmx-sTfKvs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608153793870,
+    "song_title": "Better Times",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_rF7k1BFZCc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608492760316,
+    "song_title": "Complain",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vmzLMIoqZ2Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769608495215911,
+    "song_title": "Pick Me Up",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JX7ELmu5sgA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769608497809566,
+    "song_title": "(we are all) Criminals",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7Bx8TG56aPA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769608527983752,
+    "song_title": "Lament",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dc0Zf5iJX5s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608533449204,
+    "song_title": "Don't Love Me",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-tIUV5Rsm1w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Smrtdeath"
+  },
+  {
+    "id": 1769608536090076,
+    "song_title": "Fake News",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HmVivRHtY2c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769608601443480,
+    "song_title": "A Struggle",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RgvPdO82ZYs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769608604055724,
+    "song_title": "\"Savoring\" (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qOW2_Ju8GMI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608606575491,
+    "song_title": "\"Feign (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=n0EPHZ0ezqA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608609188649,
+    "song_title": "\"Reminders\" (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=koal1BH72AI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608611591997,
+    "song_title": "\"Lament\" (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_kSzigRA2m4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608614476979,
+    "song_title": "\"Exit Row\" (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_75RBDV2reY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608617448144,
+    "song_title": "\"Come Heroine\" (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZEEdlPj4SCY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608622858794,
+    "song_title": "\"A Broadcast\" (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8yEyBKwRG_c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608625420975,
+    "song_title": "\"A Forecast\" (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6d_bAgPMsPA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608627919439,
+    "song_title": "From Peaks of Blue (Making of LAMENT) Part 1",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3evo1t8XTA4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "behind_scenes",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608638075383,
+    "song_title": "Reminders",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sKHawjBPaxU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608668447344,
+    "song_title": "Ghostwriter",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=T0DiXYrTE4I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Lawrence Arms"
+  },
+  {
+    "id": 1769608676206395,
+    "song_title": "\"Limelight\" (feat. Manchester Orchestra)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WAK4GB7LIkw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608684645277,
+    "song_title": "\"I'll Be Your Host\" (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ShX9lzKUTNE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608693159623,
+    "song_title": "\"Do Better!\" (feat. Sophie Meiers)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HSy5SI7iTH4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769608701069400,
+    "song_title": "Quiet Storm",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2OIspQdAjIc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Lawrence Arms"
+  },
+  {
+    "id": 1769608719938367,
+    "song_title": "\"Pour\" (Redux)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=L42fbS1CmAQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769608730659606,
+    "song_title": "\"Limelight\" (feat. Manchester Orchetra) (Lament Visual Album)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MnQTsq1womA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608732913423,
+    "song_title": "SPF",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=reMtrrRYo5A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
+  },
+  {
+    "id": 1769608765158209,
+    "song_title": "Me",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HD9FQ8sB2m8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769608797802295,
+    "song_title": "Carry On",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AKHSWvmiwP8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769608800563362,
+    "song_title": "Quiet Storm",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gzowex5YDjg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Lawrence Arms"
+  },
+  {
+    "id": 1769608805955339,
+    "song_title": "All For Sale",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dHU3pHbzbnc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Fake Names"
+  },
+  {
+    "id": 1769608827359848,
+    "song_title": "I Throw A Fit",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EHQ3i6NixEE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nascar Aloe"
+  },
+  {
+    "id": 1769608884782704,
+    "song_title": "PTA",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=J6QpgfmOQLA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Lawrence Arms"
+  },
+  {
+    "id": 1769608896008591,
+    "song_title": "Last One",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qIu3gm2voWI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769608919693946,
+    "song_title": "Fake Friends",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DHAq-Abli48",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Ariel View"
+  },
+  {
+    "id": 1769608922248768,
+    "song_title": "Clarity",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jPYg1pexeTU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Early Eyes"
+  },
+  {
+    "id": 1769608985143488,
+    "song_title": "Star Worship",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=buoFvnr4Eyk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769608993511168,
+    "song_title": "Aftermath",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4CdFBfKMAU4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769609001834013,
+    "song_title": "Headed To My Funeral",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=d6MlX4MHO4A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "smrtdeath"
+  },
+  {
+    "id": 1769609004735730,
+    "song_title": "Never Felt Better",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zZhVBHr3H08",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769609032107173,
+    "song_title": "Clench To Stay Awake",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=C3tC3IzxeQA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769609041128234,
+    "song_title": "Brick",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PYTH06w87Ng",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Fake Names"
+  },
+  {
+    "id": 1769609043786360,
+    "song_title": "Reptilia",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3pYHxSPO0mQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Ariel View"
+  },
+  {
+    "id": 1769609046534110,
+    "song_title": "Smokestack",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8wOKcvFwctw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769609049369358,
+    "song_title": "Minds Like Minefields",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aH5NjfaBfi0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769609051773806,
+    "song_title": "Radio Violence",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=X1tui2vJEes",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769609120867483,
+    "song_title": "Kicking Cans",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZdC4NXkJMF0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609123895890,
+    "song_title": "Back With Me",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3D6i7SS_Sng",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "smrtdeath"
+  },
+  {
+    "id": 1769609129095120,
+    "song_title": "\"The Drug In Me Is Reimagined\" (Behind The Scenes)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=S2e8xzVB6rA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "behind_scenes",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769609136773593,
+    "song_title": "I Don't Even Like U",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=L-yfDtH7AvY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769609139384217,
+    "song_title": "\"VIEW FROM OUR BEDROOM WINDOW\" (Studio 4 Live Session)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dtZ8osvmX2Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609142448984,
+    "song_title": "\"RHODONITE AND GRIEF\" (Studio 4 Live Session)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dWmfWTRYPxE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609145503072,
+    "song_title": "\"FOOTSTEPS AT THE POND\" (Studio 4 Live Session)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=olcB4urDlKI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609161805623,
+    "song_title": "I'm Enough",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hRV08seUakI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Early Eyes"
+  },
+  {
+    "id": 1769609186017049,
+    "song_title": "Love Grows Cold",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LHA5gvsyIPU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609188846310,
+    "song_title": "Leave Me Alone",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KF0XbKhruOs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609197649638,
+    "song_title": "IRAQ (IWRECK)",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0fKV-jATtiU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nascar Aloe"
+  },
+  {
+    "id": 1769609209246783,
+    "song_title": "Never Get Away",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XKsv2NsNBbc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769609381111122,
+    "song_title": "No Love",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0Ofv8y9YrDg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769609405654420,
+    "song_title": "Be Good",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UMQmdZDHgsQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769609693969940,
+    "song_title": "Your Mom",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=f3JPklyFrHg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769609713161862,
+    "song_title": "RHODONITE AND GRIEF",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=cy8F5GRbp50",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609782917357,
+    "song_title": "RHODONITE AND GRIEF",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=a3WHGDHDA2M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609835677904,
+    "song_title": "Broken Bubble",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qTpTDN4dqa8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Ten Foot Pole"
+  },
+  {
+    "id": 1769609852954214,
+    "song_title": "FOOTSTEPS AT THE POND",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_V0XSZMY8aM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769616357172526,
+    "song_title": "Wild Eyes",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=YuG4-lewUTs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769616447369306,
+    "song_title": "Start Walking",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mvzKZ1KNbnM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769616484783982,
+    "song_title": "Seek Advice Elsewhere",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2kg-rF9_iVw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769616487388337,
+    "song_title": "Nightlife",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=u3xsfcG0nV8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769616504174811,
+    "song_title": "Nightlife",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=pBqGrTbcu44",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769616913594995,
+    "song_title": "\"Ava House\" Live / Acoustic",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=X648wETTxSw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769617298799343,
+    "song_title": "Clear The Air",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qOum_DlqOrk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769617439912982,
+    "song_title": "\"Drive\" song",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rRIDPyHEO00",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769617875449301,
+    "song_title": "\"Salty Eyes\" Movement/Waltz Diagram",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HLHarzJW560",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Matches"
+  },
+  {
+    "id": 1769617931830821,
+    "song_title": "Kids And Heroes",
+    "year": 2020,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MtvanweoZ8w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bouncing Souls"
+  },
+  {
+    "id": 1769825778878658,
+    "song_title": "\"Domino\"",
+    "year": 2020,
+    "artist_name": "Corridor",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=q4NxOFoBpaQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825789987126,
+    "song_title": "Framed by the Comet's Tail",
+    "year": 2020,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Nerv22gJOy4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825798718517,
+    "song_title": "For No One For Now",
+    "year": 2020,
+    "artist_name": "Lael Neale",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=SivDn7Bzu9M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825807057904,
+    "song_title": "Cooler Returns",
+    "year": 2020,
+    "artist_name": "Kiwi Jr.",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=UR6l6R74vYI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825813037484,
+    "song_title": "Pulse",
+    "year": 2020,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=PRP9SerkGr8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825815959844,
+    "song_title": "Decoration",
+    "year": 2020,
+    "artist_name": "TV Priest",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=MfDKkD592S0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825818788203,
+    "song_title": "Every Star Shivers in the Dark",
+    "year": 2020,
+    "artist_name": "Lael Neale",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ZCTJEofv0xM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825829492049,
+    "song_title": "L'Internationale",
+    "year": 2020,
+    "artist_name": "Downtown Boys",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=VtiRmoQEi6A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825843304883,
+    "song_title": "No Ceiling",
+    "year": 2020,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=bUSVd9vkfI0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825856405946,
+    "song_title": "Undecided Voters",
+    "year": 2020,
+    "artist_name": "Kiwi Jr.",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=Vue2lznRaDg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825858946864,
+    "song_title": "Blind Youth Industrial Park",
+    "year": 2020,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=uaM6pwskDh0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825863879437,
+    "song_title": "Cartography (Nick Zinner RFK remix)",
+    "year": 2020,
+    "artist_name": "Eddie Vedder",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Alx2Civ52sA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825877265200,
+    "song_title": "Not in Time",
+    "year": 2020,
+    "artist_name": "Hot Snakes",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=N0jbF-BQUdc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825888665636,
+    "song_title": "Hail Taxi",
+    "year": 2020,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=QRK05iTxfo4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825902357873,
+    "song_title": "A Boat to Drown In",
+    "year": 2020,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=rTi4fwmgqtY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825923967137,
+    "song_title": "MEGA CHURCH",
+    "year": 2020,
+    "artist_name": "Shabazz Palaces feat. Stas THEE Boss",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=ISmTBuSwlW8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769825956887821,
+    "song_title": "La Ultima Vez",
+    "year": 2020,
+    "artist_name": "Y La Bamba",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mhjzT_2MDYg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825959380797,
+    "song_title": "Keep Your Head Up",
+    "year": 2020,
+    "artist_name": "Preservation Hall Jazz Band feat. Pell",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=_bYk0osIbSg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769825987557512,
+    "song_title": "Future Peg",
+    "year": 2020,
+    "artist_name": "Man Man",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=1iyR2-UzTEo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826007506061,
+    "song_title": "Connect the Dots",
+    "year": 2020,
+    "artist_name": "Moaning",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=c6S3lj3sC1Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826010231130,
+    "song_title": "Grand cheval",
+    "year": 2020,
+    "artist_name": "Corridor",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=xNBbCSPZWl0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826029395594,
+    "song_title": "I Shall Be Free",
+    "year": 2020,
+    "artist_name": "Hot Snakes",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=rSvGBHVfCKA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826032067903,
+    "song_title": "Ego",
+    "year": 2020,
+    "artist_name": "Moaning",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=YR71h_zSUCw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826034836352,
+    "song_title": "Male Bonding",
+    "year": 2020,
+    "artist_name": "The Homesick",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=DzIyM_ZWX-E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826037875558,
+    "song_title": "Almost Mine",
+    "year": 2020,
+    "artist_name": "Perfect Son",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=IecXj2_ILjc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

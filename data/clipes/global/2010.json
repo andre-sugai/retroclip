@@ -720,13 +720,18 @@
     "imvdb_url": "https://imvdb.com/video/inna/10-minutes"
   },
   {
-    "id": 739373579056,
+    "id": 1769617343337020,
     "song_title": "Memories",
     "year": 2010,
-    "artist_name": "Weezer",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=C5Fq3U_FjYc",
-    "imvdb_url": "https://imvdb.com/video/weezer/memories"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Weezer"
   },
   {
     "id": 130768655173,
@@ -2349,13 +2354,18 @@
     "imvdb_url": "https://imvdb.com/video/torche/ufo"
   },
   {
-    "id": 195077095398,
+    "id": 1769617275053552,
     "song_title": "Karma",
     "year": 2010,
-    "artist_name": "Parkway Drive",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=CeetS4vERoo",
-    "imvdb_url": "https://imvdb.com/video/parkway-drive/karma"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
   },
   {
     "id": 135747222215,
@@ -11880,13 +11890,18 @@
     "imvdb_url": "https://imvdb.com/video/david-guetta/gettin-over-you"
   },
   {
-    "id": 702176159084,
+    "id": 1769617486255328,
     "song_title": "This Addiction",
     "year": 2010,
-    "artist_name": "Alkaline Trio",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=GNS4CR7vP4c",
-    "imvdb_url": "https://imvdb.com/video/alkaline-trio/this-addiction"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
   },
   {
     "id": 217177526676,
@@ -14220,13 +14235,18 @@
     "imvdb_url": "https://imvdb.com/video/jeezy/lose-my-mind"
   },
   {
-    "id": 306243584446,
+    "id": 1769617429259625,
     "song_title": "Sugar Sweet",
     "year": 2010,
-    "artist_name": "Sing It Loud",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=XVZ-YxxrLr0",
-    "imvdb_url": "https://imvdb.com/video/sing-it-loud/sugar-sweet"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sing It Loud"
   },
   {
     "id": 239445418935,
@@ -18981,13 +19001,18 @@
     "imvdb_url": "https://imvdb.com/video/dirt-nasty/i-cant-dance"
   },
   {
-    "id": 329618429557,
+    "id": 1769617320616836,
     "song_title": "Anthem",
     "year": 2010,
-    "artist_name": "Bring Me The Horizon",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=2nUlE4_JZUk",
-    "imvdb_url": "https://imvdb.com/video/bring-me-the-horizon/anthem"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
   },
   {
     "id": 697903095162,
@@ -20844,13 +20869,18 @@
     "imvdb_url": "https://imvdb.com/video/massive-attack/splitting-the-atom"
   },
   {
-    "id": 118793388350,
+    "id": 1769617377982704,
     "song_title": "Here With You",
     "year": 2010,
-    "artist_name": "Sing It Loud",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=ms1p_8D_14s",
-    "imvdb_url": "https://imvdb.com/video/sing-it-loud/here-with-you"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sing It Loud"
   },
   {
     "id": 221270258061,
@@ -26583,6 +26613,1134 @@
     "artist_name": "Taking Dawn",
     "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=F4gCf62y_E4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769607158212228,
+    "song_title": "\"zombie\" (feat. Magnolia Park)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=61Q8bVNgt8U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "plxntkid & Joshua Roberts"
+  },
+  {
+    "id": 1769607617699057,
+    "song_title": "\"Adam\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UkOa5TlPHpU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769607620365018,
+    "song_title": "\"Breathing\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zgYXSdOQuSA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769607628647385,
+    "song_title": "\"Berlin\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jBOc7Kz6FVM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769607630931148,
+    "song_title": "\"Frost\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QPs885ze59k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769607635716652,
+    "song_title": "\"Wisconsin\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=igMLkUcaOz0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769607641039613,
+    "song_title": "\"Passenger\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SrFmaABRm-Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769607643580783,
+    "song_title": "\"Sober\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=E2SjQQv7FbI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769607646027768,
+    "song_title": "\"Dancing\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0qnHp3nw6VI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769609126620069,
+    "song_title": "Peephole",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RuiFBVWeqD0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769609754802254,
+    "song_title": "Reverence EU/UK 2019 (Recap #3)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bUk7kA5sClU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769609903573632,
+    "song_title": "\"Adieux\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XYQ_kbWC9VY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609922498577,
+    "song_title": "\"I'll Deserve Just That\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rZUR_qZklaE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609927665369,
+    "song_title": "\"Honest Sleep\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=oRfkQPkPKMg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609934991841,
+    "song_title": "\"Cadence\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kUwIrQ3mh4E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769610023526209,
+    "song_title": "\"I'll Get My Just Deserve\" (Live)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=i8pcI80Il4A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769612145960031,
+    "song_title": "Roots Radical",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1y1hMeovitA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769616081792753,
+    "song_title": "The American Dream Tour",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yTMMBK9x1zc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617135244353,
+    "song_title": "Alligator Blood",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ShYBjIfJX1A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617169179204,
+    "song_title": "Unrest",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MkcabeM6MH8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769617179779170,
+    "song_title": "Visions",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QuQW1vkDA1c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617272061519,
+    "song_title": "Wrong Way Kids",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zz5Y282vXi0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769617308156931,
+    "song_title": "Cyanide",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=B7nyJLynJiI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769617329156277,
+    "song_title": "Memories",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UuYl-_vi_2g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Weezer"
+  },
+  {
+    "id": 1769617337576490,
+    "song_title": "The Devil Inside You",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=w_JZ8PNh9Z0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Our Last Night"
+  },
+  {
+    "id": 1769617351453206,
+    "song_title": "The Song Inside Me",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TYC1Q5am9Sw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Heartsounds"
+  },
+  {
+    "id": 1769617359348152,
+    "song_title": "The Devil In Stitches",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5G_kxQY3Ng8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769617369965411,
+    "song_title": "Warped Tour 2010",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=K2owvED_7t8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleepwalker"
+  },
+  {
+    "id": 1769617375013549,
+    "song_title": "Truck Stop Blues",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TNFyt1mhrAc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "New Found Glory"
+  },
+  {
+    "id": 1769617391418831,
+    "song_title": "My B-Side Life",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ktvxQzpKZnM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Veara"
+  },
+  {
+    "id": 1769617398769297,
+    "song_title": "Sleepwalker",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=15mxiWAYSEw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769617413030148,
+    "song_title": "Their Own Medicine",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=p9eQNb7U8Pg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769617421226470,
+    "song_title": "Drive",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BgrZ1Jg-CTE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769617437080784,
+    "song_title": "Elephants (Video)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=F--oli7xsv8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Our Last Night"
+  },
+  {
+    "id": 1769617450855352,
+    "song_title": "This War Is Ours [The Guillotine II] [OFFICIAL VIDEO]",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5RS9EVwNrtg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Escape The Fate"
+  },
+  {
+    "id": 1769617469546554,
+    "song_title": "Isabel (Video)",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=18ecb_yPseQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Frank Turner"
+  },
+  {
+    "id": 1769617471997476,
+    "song_title": "After One Quarter Of A Revolution",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=C5otNfMIsKo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769617480619354,
+    "song_title": "I'm Alive",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=X-7vHsNTUEA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Story Of The Year"
+  },
+  {
+    "id": 1769617585317170,
+    "song_title": "To Write Love On Her Arms",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FkTiW0YlC7A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sing It Loud"
+  },
+  {
+    "id": 1769617641617125,
+    "song_title": "Tour Teaser pt. 2",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QmINtO8ZL1s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617660420272,
+    "song_title": "The Comedown",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=cDZX58SgFXo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617686487322,
+    "song_title": "The Flood",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BfO0TjJrTEU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Escape The Fate"
+  },
+  {
+    "id": 1769617781516898,
+    "song_title": "New Dark Ages",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RGqA1lNXYhg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769617994853359,
+    "song_title": "10 Years Of Service",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NP4wfAIES9A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dropkick Murphys"
+  },
+  {
+    "id": 1769618072408704,
+    "song_title": "Tessie",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jR4tTQVjHUI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dropkick Murphys"
+  },
+  {
+    "id": 1769618102910727,
+    "song_title": "The Warrior's Code",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PPC0kTWaE7I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dropkick Murphys"
+  },
+  {
+    "id": 1769618294464093,
+    "song_title": "\"Dying Is Your Latest Fashion\" EPK",
+    "year": 2010,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=S4ZEFzvB9Lc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Escape The Fate"
+  },
+  {
+    "id": 1769830633743683,
+    "song_title": "How to Be a Werewolf (in Thirty Century Man)",
+    "year": 2010,
+    "artist_name": "Mogwai",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=GrIRcB0x4iU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830644090639,
+    "song_title": "Gallows",
+    "year": 2010,
+    "artist_name": "CocoRosie",
+    "artist_genre": "Eletronico",
+    "youtube_link": "https://www.youtube.com/watch?v=oiEqWYawpeU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830652236163,
+    "song_title": "The Tree (featuring Alela Diane)",
+    "year": 2010,
+    "artist_name": "Blitzen Trapper",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=SGQCX6xzX44",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830655001824,
+    "song_title": "Pirate Key",
+    "year": 2010,
+    "artist_name": "Male Bonding",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=an5VWUuDmgA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830657513341,
+    "song_title": "Yulia",
+    "year": 2010,
+    "artist_name": "Wolf Parade",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=LLGs2H3gDJw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830665301144,
+    "song_title": "False Jesii Part 2",
+    "year": 2010,
+    "artist_name": "Pissed Jeans",
+    "artist_genre": "noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=BstpFV98mRg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830667951116,
+    "song_title": "2 Trees",
+    "year": 2010,
+    "artist_name": "Foals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=g_rnsAASJpc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830679853867,
+    "song_title": "Weird Feelings",
+    "year": 2010,
+    "artist_name": "Male Bonding",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=QPxNCeB6-RU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830682690755,
+    "song_title": "Sex With An X",
+    "year": 2010,
+    "artist_name": "The Vaselines",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=GHIa3zr_vTQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830696147910,
+    "song_title": "The Stroller",
+    "year": 2010,
+    "artist_name": "Jaill",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=hvwbrf3k5GI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830715194935,
+    "song_title": "Cinco",
+    "year": 2010,
+    "artist_name": "The Ruby Suns",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=oKfHb88-YC8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830723386060,
+    "song_title": "Bhang Bhang, I'm a Burnout",
+    "year": 2010,
+    "artist_name": "Dum Dum Girls",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=mp1UsLG77ic",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830726108402,
+    "song_title": "Spanish Sahara",
+    "year": 2010,
+    "artist_name": "Foals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=YaVE4WVlsDQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830728616887,
+    "song_title": "Miami",
+    "year": 2010,
+    "artist_name": "Foals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=tKZmjxPRjdw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830734259511,
+    "song_title": "Zebra",
+    "year": 2010,
+    "artist_name": "Beach House",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=N-wfb25WmV4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830741996429,
+    "song_title": "Lemonade",
+    "year": 2010,
+    "artist_name": "CocoRosie",
+    "artist_genre": "Eletronico",
+    "youtube_link": "https://www.youtube.com/watch?v=tu3EcAHdHlE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830746498936,
+    "song_title": "Sonic Infusion",
+    "year": 2010,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Giev1fIalCk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830751769922,
+    "song_title": "Judith",
+    "year": 2010,
+    "artist_name": "Heather Duby",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=YrGlwcTz4bY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830754379000,
+    "song_title": "I Got a War",
+    "year": 2010,
+    "artist_name": "Gluecifer",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=JmajbHfB5T4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830767207432,
+    "song_title": "Kissing the Lipless",
+    "year": 2010,
+    "artist_name": "The Shins",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=FMzKgB1cf24",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769830769641734,
+    "song_title": "This Orient",
+    "year": 2010,
+    "artist_name": "Foals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=52NNbxkniLk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830772177826,
+    "song_title": "Your Reverie",
+    "year": 2010,
+    "artist_name": "Kelley Stoltz",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=Vpb0TQe2xps",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830779766246,
+    "song_title": "Balloons",
+    "year": 2010,
+    "artist_name": "Foals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=zHcOFmiswcQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830782398429,
+    "song_title": "Olympic Airways",
+    "year": 2010,
+    "artist_name": "Foals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=SK9iyQJuFGg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830784977883,
+    "song_title": "Red Socks Pugie",
+    "year": 2010,
+    "artist_name": "Foals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=zkz8gRw87Xk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830787400908,
+    "song_title": "Cassius",
+    "year": 2010,
+    "artist_name": "Foals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ARu_XbUg8bo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830792545130,
+    "song_title": "Such Great Heights",
+    "year": 2010,
+    "artist_name": "The Postal Service",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=0wrsZog8qXg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830795356186,
+    "song_title": "We Will Become Silhouettes",
+    "year": 2010,
+    "artist_name": "The Postal Service",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=0rKC7ElkTUQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830797843597,
+    "song_title": "Jail La La",
+    "year": 2010,
+    "artist_name": "Dum Dum Girls",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=EMy4CceeBgA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830800405865,
+    "song_title": "Keechie",
+    "year": 2010,
+    "artist_name": "No Age",
+    "artist_genre": "Noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=7jAM3J39Fak",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830803123578,
+    "song_title": "Pagan Angel and a Borrowed Car",
+    "year": 2010,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=aJIEiekJpGM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769830805772600,
+    "song_title": "Resurrection Fern",
+    "year": 2010,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=90cZMj0Pkm4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769830813433701,
+    "song_title": "Nighttime/Anytime (It's Alright)",
+    "year": 2010,
+    "artist_name": "Constantines",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=izccSXNFLc4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830815795962,
+    "song_title": "If You Were Alien",
+    "year": 2010,
+    "artist_name": "The Brunettes",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=nka_QnfliXk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830821401377,
+    "song_title": "Seven",
+    "year": 2010,
+    "artist_name": "Sunny Day Real Estate",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gAotWVmVRS4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830826666749,
+    "song_title": "Workin' Hard",
+    "year": 2010,
+    "artist_name": "Retribution Gospel Choir",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Ip50V3_pfMY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830829250126,
+    "song_title": "Silver Soul",
+    "year": 2010,
+    "artist_name": "Beach House",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=njbmwfndFH4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830831892736,
+    "song_title": "There Is a Wind",
+    "year": 2010,
+    "artist_name": "The Album Leaf",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=FNLB212BDCo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830834455109,
+    "song_title": "Hide It Away",
+    "year": 2010,
+    "artist_name": "Retribution Gospel Choir",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=sf-r7aRBRHI",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",

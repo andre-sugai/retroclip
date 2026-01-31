@@ -55,6 +55,7 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
   const t = translations[language].sector3;
   const tGenres = translations[language].sector3.genres;
   const [isCollapsed, setIsCollapsed] = useState(false);
+  const [isLabelsCollapsed, setIsLabelsCollapsed] = useState(false);
   const [isShowsCollapsed, setIsShowsCollapsed] = useState(false);
   const [isProgramsCollapsed, setIsProgramsCollapsed] = useState(false);
 
@@ -131,10 +132,94 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
         </div>
       </div>
 
-      {/* SHOWS SECTION */}
+      {/* GRAVADORAS SECTION */}
       {/* Header */}
       <div 
         className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[48px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+        onClick={() => setIsLabelsCollapsed(!isLabelsCollapsed)}
+      >
+        <div className="px-6 py-3 flex items-center justify-between">
+             <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
+                <div className="flex items-center justify-center w-6 h-6 border border-muted-foreground/30 rounded bg-zinc-100 dark:bg-zinc-800">
+                  {isLabelsCollapsed ? <ChevronDown className="w-4 h-4" /> : <ChevronUp className="w-4 h-4" />}
+                </div>
+                {t.recordLabels}
+             </h2>
+        </div>
+      </div>
+
+      {/* Labels Content */}
+      <div 
+        className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isLabelsCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
+      >
+        <div className="overflow-hidden">
+             <div className="p-4 bg-zinc-50/30 dark:bg-black/20">
+                <div className="grid grid-cols-1 gap-3">
+                    {/* Atlantic Button */}
+                    <button
+                        onClick={(e) => {
+                           e.stopPropagation();
+                           if (selectedGenre === 'atlantic') return;
+                           onSelectGenre('atlantic');
+                        }}
+                        className={`
+                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                          ${selectedGenre === 'atlantic'
+                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                          }
+                        `}
+                    >
+                        {t.labels.atlantic}
+                        {selectedGenre === 'atlantic' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                    </button>
+
+                    {/* Road Runner Button */}
+                    <button
+                        onClick={(e) => {
+                           e.stopPropagation();
+                           if (selectedGenre === 'road_runner') return;
+                           onSelectGenre('road_runner');
+                        }}
+                        className={`
+                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                          ${selectedGenre === 'road_runner'
+                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                          }
+                        `}
+                    >
+                        {t.labels.roadRunner}
+                        {selectedGenre === 'road_runner' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                    </button>
+
+                    {/* Sub Pop Button */}
+                    <button
+                        onClick={(e) => {
+                           e.stopPropagation();
+                           if (selectedGenre === 'subpop') return;
+                           onSelectGenre('subpop');
+                        }}
+                        className={`
+                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                          ${selectedGenre === 'subpop'
+                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                          }
+                        `}
+                    >
+                        {t.labels.subpop}
+                        {selectedGenre === 'subpop' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                    </button>
+                </div>
+             </div>
+        </div>
+       </div>
+
+      {/* SHOWS SECTION */}
+      {/* Header */}
+      <div 
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[96px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
         onClick={() => setIsShowsCollapsed(!isShowsCollapsed)}
       >
         <div className="px-6 py-3 flex items-center justify-between">
@@ -201,7 +286,7 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
       {/* PROGRAMS SECTION */}
       {/* Header */}
       <div 
-        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[96px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[144px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
         onClick={() => setIsProgramsCollapsed(!isProgramsCollapsed)}
       >
         <div className="px-6 py-3 flex items-center justify-between">

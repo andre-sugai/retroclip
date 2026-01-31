@@ -26,6 +26,7 @@ export interface Video {
   is_show?: boolean;
   is_program?: boolean;
   program_name?: string;
+  record_label?: string;
 }
 
 export interface SearchParams {

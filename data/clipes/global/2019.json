@@ -18980,5 +18980,1511 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769606115380503,
+    "song_title": "All My Life (feat. Jelly Roll)",
+    "year": 2019,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=GB9jFPUb7HA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769606258212201,
+    "song_title": "Live at Paul's",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gmbfzqNYin8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769606444278760,
+    "song_title": "I Don't Feel Like Myself",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Q9Ol9oQirn8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joshua Roberts"
+  },
+  {
+    "id": 1769606533066973,
+    "song_title": "I Was Feeling Cute, Maybe I'll Delete",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gCnSz4bDnVY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "FRED"
+  },
+  {
+    "id": 1769607042654549,
+    "song_title": "\"January 10th, 2014\" (Live)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WOTe-UEkC-Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769607965368081,
+    "song_title": "Nein",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1EFiScNGX1I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Cold Hart & YAWNS"
+  },
+  {
+    "id": 1769608095548524,
+    "song_title": "Let It All",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OeGMeRDciqs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769608620217371,
+    "song_title": "\"Deflector\" (Lament Visual Album)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RcbyzB6276Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769608671174260,
+    "song_title": "Secrets",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TSrSB8UJZ5Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769608735639582,
+    "song_title": "Night Sweats",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dZc_V14JfXg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
+  },
+  {
+    "id": 1769609010376968,
+    "song_title": "\"ROSE QUARTZ\" (Nnamdi Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=tWNjw8szBpo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609012749827,
+    "song_title": "\"FULTON STREET II\" (Wreck and Reference Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yXsobnq6xC4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609015105228,
+    "song_title": "\"ANXIETY PANORAMA\" (Cremation Lily Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=josyLxzaWow",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609017761844,
+    "song_title": "\"FULTON STREET I\" (Hether Fortune Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Ti5UgJqwUys",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609020378988,
+    "song_title": "\"THERE YOU ARE (HIDING PLACE)\" (Majetic Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EU0AeQlfD-M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609024176014,
+    "song_title": "\"FOOTSTEPS AT THE POND\" (Zeal & Ardor Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DVWvHnJBLAU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609026851990,
+    "song_title": "\"VIEW FROM OUR BEDROOM WINDOW\" (E.M. Hudson Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2E4WV07UDbE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609029466642,
+    "song_title": "\"IN NORTHERN MICHIGAN\" (David Allred Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1bI9kI0nUOc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609167080471,
+    "song_title": "Song For Me",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mhsKh8y35yY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Greer"
+  },
+  {
+    "id": 1769609214544405,
+    "song_title": "\"RHODONITE AND GRIEF\" (Kitty Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6GpPw8Rup6s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609217231015,
+    "song_title": "\"YOU ASCENDANT\" (Peter Broderick Remix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=khjEYAphAcM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609219720335,
+    "song_title": "\"Shakin'\" (Erik Paulson Mix)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AlZgyhkwOQE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769609248529500,
+    "song_title": "Venomous",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UgB18IninUk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Raised Fist"
+  },
+  {
+    "id": 1769609254386110,
+    "song_title": "Chasing Highs",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Txcul-W9yuk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769609260079017,
+    "song_title": "Mary",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9ExEhbDHVu0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769609285111912,
+    "song_title": "Calm E",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Dc87tLcG-NM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Culture Abuse"
+  },
+  {
+    "id": 1769609287879309,
+    "song_title": "Into This World",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yMGL3M5bbnw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Raised Fist"
+  },
+  {
+    "id": 1769609293596840,
+    "song_title": "\"Disappear\" (Director's Cut)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lCAHnX99h1I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769609321305142,
+    "song_title": "Separate Beds (We've Got A Good Thing)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yEguZ6G_Xkc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769609323974765,
+    "song_title": "Romeo",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1DiNlZMBPY0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769609326706415,
+    "song_title": "Summertime",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wiv7h9mfAew",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Ariel View"
+  },
+  {
+    "id": 1769609332275549,
+    "song_title": "Strangers Forever",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4sV46Eo5J10",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769609343302678,
+    "song_title": "Deflector",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=d14ZN3ZS7B4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609345919688,
+    "song_title": "Until My Lungs Are Cleared",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=O6G8_SwFmJY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Ariel View"
+  },
+  {
+    "id": 1769609348305688,
+    "song_title": "Nearly Perfect",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MU1W7PSA8Js",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769609351017333,
+    "song_title": "Bummer",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=31S9EXTnYb8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769609354005226,
+    "song_title": "Feed II",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QCUfsTlXYiQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Sidekicks"
+  },
+  {
+    "id": 1769609357127532,
+    "song_title": "America (You're Freaking Me Out)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=n5Y5wPiY0L4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769609408378484,
+    "song_title": "Anna",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GtHE4AoNRV4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769609416482938,
+    "song_title": "Ode To Jerry",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=F4Gy3Ads56A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Sidekicks"
+  },
+  {
+    "id": 1769609419274850,
+    "song_title": "F.I.N.E.",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kEU0Vi7EqLE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769609421894364,
+    "song_title": "ANXIETY PANORAMA",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RU8NtSHKfPc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609451236788,
+    "song_title": "Cream",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RIH3SiX1afU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769609467000397,
+    "song_title": "Cemetery's Garden",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kQGCBwmdil8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769609477928729,
+    "song_title": "No Penance",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CGI4VfJfDK4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769609499926896,
+    "song_title": "\"Mothers' Sons\" (Live at Outbreak Fest)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PwxK-eJLlP0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Defeater"
+  },
+  {
+    "id": 1769609545415624,
+    "song_title": "\"People's Court\" (Live From The Rainbow Couch)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vcPoEvY_KXM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Sidekicks"
+  },
+  {
+    "id": 1769609629480447,
+    "song_title": "Goo",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=i6zm0qp8TQU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Culture Abuse"
+  },
+  {
+    "id": 1769609632234889,
+    "song_title": "Drunk II",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=IZ0Xjl5KusI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769609635358297,
+    "song_title": "Lula, I'm Not Mad",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Yd5hcCHwQA0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769609643754802,
+    "song_title": "Sour Days",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=p2KSNDi0tVQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769609649340527,
+    "song_title": "\"Afraid Of The Dark\" (Live at The Observatory)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=eILSzU4pR_M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609652086474,
+    "song_title": "\"Makeout Point\" (Live at The Observatory)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_jdfKK0BPDk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609657598727,
+    "song_title": "\"Tungs\" (Live at The Observatory)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XL2wD5fGV5o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609662728571,
+    "song_title": "\"All I Need\" (Live at The Observatory)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NerQl0jWODI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609665445511,
+    "song_title": "\"Kids\" (Live at The Observatory)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ND7xZAnYAyU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609670711298,
+    "song_title": "\"You Are Going To Hate This\" (Live at The Observatory)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-TwnY0f2F2E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609683460331,
+    "song_title": "Drugs",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sRAG2NG5bkQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769609691099629,
+    "song_title": "Do The Paranoid Style",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GEbd76i1S6Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769609726858074,
+    "song_title": "\"Hold Me Down\" (Live at The Observatory)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FhU_sIFO0uc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609729510587,
+    "song_title": "New Comedown",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Rti4NxhEj9w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
+  },
+  {
+    "id": 1769609744141283,
+    "song_title": "\"Over It\" (Live at The Observatory)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=a2ZrSIsY6CA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609747018265,
+    "song_title": "Mothers' Sons",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9087Iy2R-bM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Defeater"
+  },
+  {
+    "id": 1769609785676847,
+    "song_title": "Sour Days",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Ko7eh02cIew",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769609788496749,
+    "song_title": "\"Whatever\" (Live at The Observatory)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qnRKIcn_plc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609855708411,
+    "song_title": "Hold Up A Light",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=IAa-VrFGGY8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769609858250561,
+    "song_title": "Nothing",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2Ss5YOf5KJU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769609860931703,
+    "song_title": "SOS",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=n64VxxFfCgo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769609863613684,
+    "song_title": "ROSE QUARTZ / FULTON STREET I",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ExaL3xH0IiI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609866187379,
+    "song_title": "SOS",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LzIMTmN0LLg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769609874167364,
+    "song_title": "My Sanity",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qbikab-cJD0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769609876773991,
+    "song_title": "Death Is Not Defeat",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=h82045Ld6ak",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769609911805090,
+    "song_title": "\"And Now It's Happening In Mine\" (Live)",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LMorxpp4eQM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609984992490,
+    "song_title": "Locomotive",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wn9qI-PatAw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
+  },
+  {
+    "id": 1769610153867205,
+    "song_title": "I Only Speak In Friction",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ksmFgAmgDVE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
+  },
+  {
+    "id": 1769610237628969,
+    "song_title": "Losing My Life",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SEbxwmjScr8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769610253231633,
+    "song_title": "Me and We and I",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mFQEE_N1azA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769610419929803,
+    "song_title": "Green",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3LHcaKf7mcc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769617545159879,
+    "song_title": "Live at Reading 2009",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lDSrXaqXnPI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Photosynthesis"
+  },
+  {
+    "id": 1769617923783017,
+    "song_title": "Ruby Soho",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0P9QMkm9Eew",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769618008587015,
+    "song_title": "God's Away On Business",
+    "year": 2019,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=oxLAT2U1bCc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Tom Waits"
+  },
+  {
+    "id": 1769826045660875,
+    "song_title": "Kaïn",
+    "year": 2019,
+    "artist_name": "The Homesick",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=sXwlSPDsGdw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826048270508,
+    "song_title": "Checkmate",
+    "year": 2019,
+    "artist_name": "Hot Snakes",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=XLusfdv5_iU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826063054827,
+    "song_title": "Drag Race Legend",
+    "year": 2019,
+    "artist_name": "Knife Knights",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=nQbUiijaI4k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826076688656,
+    "song_title": "Courtesy Call",
+    "year": 2019,
+    "artist_name": "Omni",
+    "artist_genre": "Eletronico",
+    "youtube_link": "https://www.youtube.com/watch?v=5XC3AQEchY0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826082170719,
+    "song_title": "Skeleton Key",
+    "year": 2019,
+    "artist_name": "Omni",
+    "artist_genre": "Eletronico",
+    "youtube_link": "https://www.youtube.com/watch?v=CfqCWOIRzGk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826084895926,
+    "song_title": "41st",
+    "year": 2019,
+    "artist_name": "Frankie Cosmos",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=nOXsQGlmB2o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826098302013,
+    "song_title": "Topographe",
+    "year": 2019,
+    "artist_name": "Corridor",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=ARlYyefSZgo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826104097141,
+    "song_title": "Sincerely Yours",
+    "year": 2019,
+    "artist_name": "Omni",
+    "artist_genre": "Eletronico",
+    "youtube_link": "https://www.youtube.com/watch?v=-00D9CTBqQg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826106651110,
+    "song_title": "Wannago",
+    "year": 2019,
+    "artist_name": "Frankie Cosmos",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=wT-HBEyYsiE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826155942471,
+    "song_title": "One Bad Actor",
+    "year": 2019,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=P9YFlGASbVU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826164303086,
+    "song_title": "Death Up Close",
+    "year": 2019,
+    "artist_name": "Shannon Lay",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=MDZvyvRF22Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826169290302,
+    "song_title": "Keep Your Head Up",
+    "year": 2019,
+    "artist_name": "Preservation Hall Jazz Band",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=PdUHN_Z6bas",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826171651316,
+    "song_title": "Father Mountain [LIVE]",
+    "year": 2019,
+    "artist_name": "Calexico and Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=isv50Akr0ao",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769826179776891,
+    "song_title": "Deathwish Blue",
+    "year": 2019,
+    "artist_name": "​Kyle Craft & Showboat Honey",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=W6kmc2q8_PI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826182610334,
+    "song_title": "Windows",
+    "year": 2019,
+    "artist_name": "Frankie Cosmos",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=0CxmXgOgjbQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826185492252,
+    "song_title": "Dry Up",
+    "year": 2019,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=23D631c7SAE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826190848447,
+    "song_title": "Nowhere",
+    "year": 2019,
+    "artist_name": "Shannon Lay",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=b98fEgy_WR8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826193508530,
+    "song_title": "Broken Mirror Pose",
+    "year": 2019,
+    "artist_name": "Kyle Craft",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=0ZibVktjE8g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826196064442,
+    "song_title": "Pure Auto",
+    "year": 2019,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=sMLjl_TXg-U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826201050753,
+    "song_title": "Museum District",
+    "year": 2019,
+    "artist_name": "Minor Poet",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=JAbw_yzdmRM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826203618689,
+    "song_title": "2:15",
+    "year": 2019,
+    "artist_name": "The Gotobeds",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=x72Iv9B2Wlo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826206233944,
+    "song_title": "Midnight Sun",
+    "year": 2019,
+    "artist_name": "Calexico and Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=iy1qTo71chg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826208829128,
+    "song_title": "2 Ugly 4 NY",
+    "year": 2019,
+    "artist_name": "Kyle Craft & Showboat Honey",
+    "artist_genre": "Jazz",
+    "youtube_link": "https://www.youtube.com/watch?v=oA9bZaNvJQU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826217335240,
+    "song_title": "Twin Cities",
+    "year": 2019,
+    "artist_name": "The Gotobeds",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=tKDW1YRpBXQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826219899236,
+    "song_title": "How I Love You",
+    "year": 2019,
+    "artist_name": "Mass Gothic",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=8-hFefnJawQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826228128862,
+    "song_title": "Half Silences",
+    "year": 2019,
+    "artist_name": "Loma",
+    "artist_genre": "swing",
+    "youtube_link": "https://www.youtube.com/watch?v=_UwsP3ioiks",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826236563336,
+    "song_title": "Father Mountain",
+    "year": 2019,
+    "artist_name": "Calexico and Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ypj9iN73ONY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826241819446,
+    "song_title": "Turn To Hate",
+    "year": 2019,
+    "artist_name": "Orville Peck",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=vR-4l5M_MQ8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826259286852,
+    "song_title": "Promises",
+    "year": 2019,
+    "artist_name": "Perfect Son",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=y1WAvTVZgYY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826270438915,
+    "song_title": "Sculptor",
+    "year": 2019,
+    "artist_name": "Luluc",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=7vlmrygjdNU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826279327515,
+    "song_title": "Dead of Night",
+    "year": 2019,
+    "artist_name": "Orville Peck",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=q3esGD6lcMM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

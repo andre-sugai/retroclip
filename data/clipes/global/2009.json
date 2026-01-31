@@ -4113,13 +4113,18 @@
     "imvdb_url": "https://imvdb.com/video/metallica/broken-beat-scarred"
   },
   {
-    "id": 246321066377,
-    "song_title": "Save Our Selves",
+    "id": 1769617577205580,
+    "song_title": "Save Our Selves [The Warning]",
     "year": 2009,
-    "artist_name": "The Blackout",
-    "artist_genre": "Post-Hardcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=n1z2pVwY9oU",
-    "imvdb_url": "https://imvdb.com/video/the-blackout/save-our-selves"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Blackout"
   },
   {
     "id": 154156772303,
@@ -11223,13 +11228,18 @@
     "imvdb_url": "https://imvdb.com/video/ghoultown/mistress-of-the-dark"
   },
   {
-    "id": 199841433296,
+    "id": 1769617593837329,
     "song_title": "It's Only Natural",
     "year": 2009,
-    "artist_name": "The Higher",
-    "artist_genre": "Pop Rock",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=tShF8sf9VnU",
-    "imvdb_url": "https://imvdb.com/video/the-higher/its-only-natural"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Higher"
   },
   {
     "id": 182686539055,
@@ -11556,13 +11566,18 @@
     "imvdb_url": "https://imvdb.com/video/athlete/the-getaway"
   },
   {
-    "id": 286151862038,
+    "id": 1769617639206524,
     "song_title": "Something",
     "year": 2009,
-    "artist_name": "Escape The Fate",
-    "artist_genre": "Post-Hardcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=eH2OkPf4rMI",
-    "imvdb_url": "https://imvdb.com/video/escape-the-fate/something"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Escape The Fate"
   },
   {
     "id": 132595912467,
@@ -12861,13 +12876,18 @@
     "imvdb_url": "https://imvdb.com/video/nina-sky/on-some-bullshit"
   },
   {
-    "id": 312552797498,
-    "song_title": "Chelsea Smile",
+    "id": 1769617636441305,
+    "song_title": "Chelsea Smile (video)",
     "year": 2009,
-    "artist_name": "Bring Me The Horizon",
-    "artist_genre": "Metalcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=tcoPW53yO3E",
-    "imvdb_url": "https://imvdb.com/video/bring-me-the-horizon/chelsea-smile"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
   },
   {
     "id": 258882529855,
@@ -13617,13 +13637,18 @@
     "imvdb_url": "https://imvdb.com/video/lamb-of-god/set-to-fail"
   },
   {
-    "id": 297107180688,
+    "id": 1769617553385526,
     "song_title": "Wanderlust",
     "year": 2009,
-    "artist_name": "Every Time I Die",
-    "artist_genre": "Metalcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=1aKIpMl3Xh8",
-    "imvdb_url": "https://imvdb.com/video/every-time-i-die/wanderlust"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
   },
   {
     "id": 237208369315,
@@ -14238,13 +14263,18 @@
     "imvdb_url": "https://imvdb.com/video/kenny-loggins/there-is-a-mountain"
   },
   {
-    "id": 150007549220,
+    "id": 1769617612573058,
     "song_title": "Diamonds Aren't Forever",
     "year": 2009,
-    "artist_name": "Bring Me The Horizon",
-    "artist_genre": "Metalcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=UwXSHnb7XnA",
-    "imvdb_url": "https://imvdb.com/video/bring-me-the-horizon/diamonds-arent-forever"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
   },
   {
     "id": 225409071250,
@@ -15273,13 +15303,18 @@
     "imvdb_url": "https://imvdb.com/video/maxïmo-park/the-kids-are-sick-again"
   },
   {
-    "id": 285089193627,
-    "song_title": "The Sadness Will Never End",
+    "id": 1769617507236265,
+    "song_title": "The Sadness Will Never End (Video)",
     "year": 2009,
-    "artist_name": "Bring Me The Horizon",
-    "artist_genre": "Metalcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=vYaxCSpOP3Q",
-    "imvdb_url": "https://imvdb.com/video/bring-me-the-horizon/the-sadness-will-never-end"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
   },
   {
     "id": 625010314707,
@@ -18108,13 +18143,18 @@
     "imvdb_url": "https://imvdb.com/video/papa-roach/i-almost-told-you-that-i-loved-you"
   },
   {
-    "id": 237276203162,
+    "id": 1769617523040064,
     "song_title": "Don't Let Her Pull You Down",
     "year": 2009,
-    "artist_name": "New Found Glory",
-    "artist_genre": "Pop Punk",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=W1uWuwQGzlU",
-    "imvdb_url": "https://imvdb.com/video/new-found-glory/dont-let-her-pull-you-down"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "New Found Glory"
   },
   {
     "id": 177840428091,
@@ -21453,6 +21493,578 @@
     "artist_name": "Dragonforce",
     "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=ySdLh_B3HjA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769605803618416,
+    "song_title": "catalina",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WPI_tpTo5x4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769605925796258,
+    "song_title": "\"Set Fire to the Face on Fire\" (Live in Seattle, WA @ The Showbox 11/14/24)",
+    "year": 2009,
+    "artist_genre": "screamo",
+    "youtube_link": "https://www.youtube.com/watch?v=LSiYyAVrddI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Blood Brothers"
+  },
+  {
+    "id": 1769605950677066,
+    "song_title": "\"Trash Flavored Trash\" (Live in Seattle, WA @ The Black Lodge 10/29/24)",
+    "year": 2009,
+    "artist_genre": "screamo",
+    "youtube_link": "https://www.youtube.com/watch?v=AgQmXarN-UI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Blood Brothers"
+  },
+  {
+    "id": 1769609551273661,
+    "song_title": "Around the Sun",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-bgBeeDIEdc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769613835801978,
+    "song_title": "The Rise Of Brotality Tour Recap",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=odY5sRBkkfQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Killed The Prom Queen & The Ghost Inside"
+  },
+  {
+    "id": 1769617381048993,
+    "song_title": "Gaia Bleeds",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ntetOp3tL1w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Set Your Goals"
+  },
+  {
+    "id": 1769617483296728,
+    "song_title": "Devoid (That's What I Think About It)",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HLndMQx95L0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Farewell"
+  },
+  {
+    "id": 1769617491427367,
+    "song_title": "Summer Jam",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zcvHZBTiG5k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Set Your Goals"
+  },
+  {
+    "id": 1769617494003356,
+    "song_title": "Learn To Play \"Wanderlust\"",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6ZyulUDvTT0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769617502341450,
+    "song_title": "Official Video",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RS79ShMiLG8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Poetry of the Deed"
+  },
+  {
+    "id": 1769617509828018,
+    "song_title": "Circuits of Fever",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=G0zohzANO-s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thursday"
+  },
+  {
+    "id": 1769617528869351,
+    "song_title": "Kiss And Tell",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WOI0sr6okhc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "You Me At Six"
+  },
+  {
+    "id": 1769617531893213,
+    "song_title": "Finders Keepers",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jJtAfGipGrY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "You Me At Six"
+  },
+  {
+    "id": 1769617539986480,
+    "song_title": "'Common Existence' Tour",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0w6L70h1bNA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thursday"
+  },
+  {
+    "id": 1769617558809891,
+    "song_title": "This Will Be The Death Of Us",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AJpXcCaW4po",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Set Your Goals"
+  },
+  {
+    "id": 1769617561599930,
+    "song_title": "Things That Rhyme With Orange",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vaQ_Csbrt8M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Set My Friends On Fire"
+  },
+  {
+    "id": 1769617569412580,
+    "song_title": "\"Resuscitation of a Dead Man\" Live",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3VDS-u3H7Bo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thursday"
+  },
+  {
+    "id": 1769617571968347,
+    "song_title": "Murder",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kZxpb0MAroM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Settle"
+  },
+  {
+    "id": 1769617590903765,
+    "song_title": "10 Miles Wide",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=02Me9nPk5ro",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Escape The Fate"
+  },
+  {
+    "id": 1769617604405990,
+    "song_title": "Last One To Die",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uYW3mVUyUtI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769617615160837,
+    "song_title": "Safe To Say",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Kthb6L3G21M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Vanna"
+  },
+  {
+    "id": 1769617620354996,
+    "song_title": "Jealous Minds Think Alike",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xuiY6jsOPEY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "You Me At Six"
+  },
+  {
+    "id": 1769617623102520,
+    "song_title": "\"Come Around\" live",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=iRo-ggMFcx8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sing It Loud"
+  },
+  {
+    "id": 1769617625903563,
+    "song_title": "Resuscitation Of A Dead Man",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GwwOEo2IFtk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thursday"
+  },
+  {
+    "id": 1769617628477348,
+    "song_title": "Bodysnatchers 4 Ever",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=fzlrKbCn1PA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LeATHERMOUTH"
+  },
+  {
+    "id": 1769617647026090,
+    "song_title": "The Antidote",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rup9sgjB_cY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Story Of The Year"
+  },
+  {
+    "id": 1769617652114431,
+    "song_title": "Tour Teaser",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=R6p420rJgmc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617694910402,
+    "song_title": "Escape (video)",
+    "year": 2009,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=eDzj5qjaL1s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Our Last Night"
+  },
+  {
+    "id": 1769830837118533,
+    "song_title": "Losing Feeling",
+    "year": 2009,
+    "artist_name": "No Age",
+    "artist_genre": "Noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Qx_Cfo9nT34",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830839393327,
+    "song_title": "Eraser",
+    "year": 2009,
+    "artist_name": "No Age",
+    "artist_genre": "Noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hm82vG2P4x0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830842619224,
+    "song_title": "Touch Me I'm Sick",
+    "year": 2009,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=_nGsT_qFMBs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830845205324,
+    "song_title": "Oslo Novelist",
+    "year": 2009,
+    "artist_name": "Grand Archives",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=zRu_5MOU_6k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830847617562,
+    "song_title": "The Ruminant Band",
+    "year": 2009,
+    "artist_name": "Fruit Bats",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=rXh-Wt2O82I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830850422397,
+    "song_title": "In Circles",
+    "year": 2009,
+    "artist_name": "Sunny Day Real Estate",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=41YqzHoCgk4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830855349338,
+    "song_title": "Pine On",
+    "year": 2009,
+    "artist_name": "Obits",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=gnq2Dm-BBW4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830858244342,
+    "song_title": "Black River Killer",
+    "year": 2009,
+    "artist_name": "Blitzen Trapper",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=n7zyfArxibk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830862966837,
+    "song_title": "Circa",
+    "year": 2009,
+    "artist_name": "Death Vessel",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=Y5_BrjK0RYg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830865571733,
+    "song_title": "Baker Lake",
+    "year": 2009,
+    "artist_name": "Sera Cahoone",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=OZK6qBayM1c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830868594153,
+    "song_title": "I'm Confused",
+    "year": 2009,
+    "artist_name": "Handsome Furs",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=MS5mbeXHOmo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830871309749,
+    "song_title": "Everyday",
+    "year": 2009,
+    "artist_name": "Vetiver",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=r1ucjICXSYQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830874091773,
+    "song_title": "Mykonos",
+    "year": 2009,
+    "artist_name": "Fleet Foxes",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=DT-dxG4WWf4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830876977520,
+    "song_title": "Young Love Delivers",
+    "year": 2009,
+    "artist_name": "Oxford Collapse",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=16XlqgMdQgs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830879589362,
+    "song_title": "Furr",
+    "year": 2009,
+    "artist_name": "Blitzen Trapper",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=CmBgxP56R1I",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",

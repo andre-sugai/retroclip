@@ -3865,7 +3865,7 @@
     "song_title": "Make It Last",
     "year": 2002,
     "artist_name": "Embrace",
-    "artist_genre": "Desconhecido, Hardcore",
+    "artist_genre": "Alternative Rock",
     "youtube_link": "https://www.youtube.com/watch?v=0g63Cf89sAQ",
     "imvdb_url": "https://imvdb.com/video/embrace/make-it-last"
   },
@@ -8729,5 +8729,201 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769605953380873,
+    "song_title": "The Deadly Rhythm",
+    "year": 2002,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=bJJlo_6YMIc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Refused"
+  },
+  {
+    "id": 1769608524946985,
+    "song_title": "Simulation",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PfpaodbwZNM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "KidsNextDoor"
+  },
+  {
+    "id": 1769612243778074,
+    "song_title": "Summer",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=IoQvYat9Zlo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Beatsteaks"
+  },
+  {
+    "id": 1769614471648803,
+    "song_title": "The Gauntlet",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mYalsVzbCXw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dropkick Murphys"
+  },
+  {
+    "id": 1769614480375333,
+    "song_title": "The Wild Rover",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gaPGMUP4P50",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dropkick Murphys"
+  },
+  {
+    "id": 1769616411137827,
+    "song_title": "Self Esteem",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Abrn8aVQ76Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Offspring"
+  },
+  {
+    "id": 1769617204485439,
+    "song_title": "Clavicle",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ksy13DPbVkY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769617247390361,
+    "song_title": "Clavicle",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5gYA6_oHtpQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769617906080925,
+    "song_title": "Sorrow",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=r7Hb4bxF12E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769617915021819,
+    "song_title": "Wasted Words",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=S-Kk6_tNRnY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death By Stereo"
+  },
+  {
+    "id": 1769617918129523,
+    "song_title": "Capitalism Stole My Virg",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mUU1Qb0nZbU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The International Noise Conspiracy"
+  },
+  {
+    "id": 1769617949130138,
+    "song_title": "Black City",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sbn88bZ-cXQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Division Of Laura Lee"
+  },
+  {
+    "id": 1769618002907540,
+    "song_title": "Smash It Up (video)",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FyjmCg_VMU0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The (International) Noise Conspiracy"
+  },
+  {
+    "id": 1769618016331857,
+    "song_title": "The Spicy McHaggis Jig",
+    "year": 2002,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_ZN3weW1udE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dropkick Murphys"
   }
 ]

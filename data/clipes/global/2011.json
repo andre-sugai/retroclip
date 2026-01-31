@@ -4356,13 +4356,18 @@
     "imvdb_url": "https://imvdb.com/video/pearl-fiction/run"
   },
   {
-    "id": 284718373478,
+    "id": 1769617191510886,
     "song_title": "Replica",
     "year": 2011,
-    "artist_name": "Big Talk",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=L8IMO1lKpGk",
-    "imvdb_url": "https://imvdb.com/video/big-talk/replica"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Big Talk"
   },
   {
     "id": 117475774410,
@@ -5571,13 +5576,18 @@
     "imvdb_url": "https://imvdb.com/video/humans/avec-mes-mecs"
   },
   {
-    "id": 207421684303,
+    "id": 1769617149073141,
     "song_title": "Big Eye",
     "year": 2011,
-    "artist_name": "Big Talk",
-    "artist_genre": "Rock Alternativo",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=6AA9yYmX2VQ",
-    "imvdb_url": "https://imvdb.com/video/big-talk/big-eye"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Big Talk"
   },
   {
     "id": 182228155575,
@@ -6624,13 +6634,18 @@
     "imvdb_url": "https://imvdb.com/video/tyga/snapbacks-back"
   },
   {
-    "id": 214893593606,
+    "id": 1769617163091267,
     "song_title": "Radiosurgery",
     "year": 2011,
-    "artist_name": "New Found Glory",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=BNYgeSKu8gQ",
-    "imvdb_url": "https://imvdb.com/video/new-found-glory/radiosurgery"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "New Found Glory"
   },
   {
     "id": 925443653962,
@@ -24246,13 +24261,18 @@
     "imvdb_url": "https://imvdb.com/video/within-temptation/fire-and-ice"
   },
   {
-    "id": 964573379658,
+    "id": 1769617269229579,
     "song_title": "Machine Gun Blues",
     "year": 2011,
-    "artist_name": "Social Distortion",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=otZ1SfwbE64",
-    "imvdb_url": "https://imvdb.com/video/social-distortion/machine-gun-blues"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Social Distortion"
   },
   {
     "id": 183635744753,
@@ -28476,13 +28496,18 @@
     "imvdb_url": "https://imvdb.com/video/the-decemberists/this-is-why-we-fight"
   },
   {
-    "id": 296114474318,
-    "song_title": "I'm Not a Vampire",
+    "id": 1769617143717779,
+    "song_title": "I'm Not A Vampire",
     "year": 2011,
-    "artist_name": "Falling In Reverse",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=ODhMdujZeEY",
-    "imvdb_url": "https://imvdb.com/video/falling-in-reverse/im-not-a-vampire"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
   },
   {
     "id": 137665508277,
@@ -34299,13 +34324,18 @@
     "imvdb_url": "https://imvdb.com/video/sleeping-with-sirens/if-you-cant-hang"
   },
   {
-    "id": 853531519810,
-    "song_title": "The Drug in Me Is You",
+    "id": 1769617207464901,
+    "song_title": "The Drug In Me Is You",
     "year": 2011,
-    "artist_name": "Falling In Reverse",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=rgWr2nln83s",
-    "imvdb_url": "https://imvdb.com/video/falling-in-reverse/the-drug-in-me-is-you"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
   },
   {
     "id": 188508890541,
@@ -35886,6 +35916,1087 @@
     "artist_name": "Stone Sour",
     "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=sWiQeQ5pwng",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769608479541374,
+    "song_title": "Rachel",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vKIXM9EQwv4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "KidsNextDoor"
+  },
+  {
+    "id": 1769609156584650,
+    "song_title": "Sink",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RKTJ3jDXDT8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769609830774043,
+    "song_title": "Gone",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9uC4A6g2KVo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Bouncing Souls"
+  },
+  {
+    "id": 1769616184931797,
+    "song_title": "Where I Belong",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sp4rHufPtjs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Survive This!"
+  },
+  {
+    "id": 1769616642160288,
+    "song_title": "Sink Or Swim",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wu1ZkgN60m0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616644927249,
+    "song_title": "Don't Mess With Ouija Boards",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aqDbgnboSjY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616647877163,
+    "song_title": "Tragic Magic",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MtoA81CaNbQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616651136715,
+    "song_title": "Pick Up The Phone",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LUVQAs8l1VU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616653877277,
+    "song_title": "Caught Like A Fly",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=X2QO-ZZOf0s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616656739012,
+    "song_title": "Goodbye Graceful",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=N3I8XofJMEs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616659591796,
+    "song_title": "The Westerner",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7A-lmO4xDWo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769616890302331,
+    "song_title": "Gimme The Sweet And Lowdown",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9VUABOYWA1Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Social Distortion"
+  },
+  {
+    "id": 1769617059064195,
+    "song_title": "Raised By Wolves",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=un82tyFzG7I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769617078379900,
+    "song_title": "\"Unconditional\" (HD)",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=eNM33LL31N4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "HD",
+      "epitaph"
+    ],
+    "artist": "Heartsounds"
+  },
+  {
+    "id": 1769617096952109,
+    "song_title": "Unconditional",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3TvSTcAJceo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Heartsounds"
+  },
+  {
+    "id": 1769617115896603,
+    "song_title": "\"Big Muff\" Garage Jams",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jiBmCeORl6A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dangerous!"
+  },
+  {
+    "id": 1769617123927755,
+    "song_title": "Anthem For The Unwanted",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8IfudseJL1U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "New Found Glory"
+  },
+  {
+    "id": 1769617132311179,
+    "song_title": "Renegade 86",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SXURelyq2fo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive."
+  },
+  {
+    "id": 1769617140705811,
+    "song_title": "Wessex Boy",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kT0676muGrs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Frank Turner"
+  },
+  {
+    "id": 1769617157653531,
+    "song_title": "Circle VII: Sins Of The Lion",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=fp-LMRs1fb0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alesana"
+  },
+  {
+    "id": 1769617171792373,
+    "song_title": "Movers N Shakers",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uHuSYeDINqc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dangerous!"
+  },
+  {
+    "id": 1769617174560538,
+    "song_title": "Creates 'Radiosurgery'",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sE_r6u4T8Hk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "New Found Glory"
+  },
+  {
+    "id": 1769617177116238,
+    "song_title": "A Gilded Masquerade",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=30c9rlyiBKs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alesana"
+  },
+  {
+    "id": 1769617194480837,
+    "song_title": "Not One Of You",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VICtW-Gah4M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dangerous!"
+  },
+  {
+    "id": 1769617197077705,
+    "song_title": "\"It Comes Naturally\" Directed by Nabil!",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1jQjXMKB24o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Set My Friends On Fire"
+  },
+  {
+    "id": 1769617218031523,
+    "song_title": "Certain",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PPXnSX-7cDc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Set Your Goals"
+  },
+  {
+    "id": 1769617220702211,
+    "song_title": "Drifter",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=iJC895invQo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Heartsounds"
+  },
+  {
+    "id": 1769617234096159,
+    "song_title": "Spare Time",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=28ErQ82F3No",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Off With Their Heads"
+  },
+  {
+    "id": 1769617236718936,
+    "song_title": "Life Hertz",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1Hq07tHo2tw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Set My Friends On Fire"
+  },
+  {
+    "id": 1769617239468452,
+    "song_title": "Drifter",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5XivRfo_WeU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Heartsounds"
+  },
+  {
+    "id": 1769617242064207,
+    "song_title": "Certain",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=F9J7ai7cCXM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Set Your Goals"
+  },
+  {
+    "id": 1769617244704093,
+    "song_title": "Not One Of You",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZQ6MhENu5BI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dangerous!"
+  },
+  {
+    "id": 1769617250366550,
+    "song_title": "Magnets Caught In A Metal Heart",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=p4l6MFI6Xc0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thursday"
+  },
+  {
+    "id": 1769617253055767,
+    "song_title": "\"Getaways\" Lyrics Video",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=l2LODN2mzd0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "lyric_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Big Talk"
+  },
+  {
+    "id": 1769617255496709,
+    "song_title": "Peggy Sang The Blues",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=84Ns6ouwO1g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Frank Turner"
+  },
+  {
+    "id": 1769617258482035,
+    "song_title": "Getaways",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=w1rRND5B1eE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Big Talk"
+  },
+  {
+    "id": 1769617261268843,
+    "song_title": "Exit Summer",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=X0BzSGdfr6U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Set Your Goals"
+  },
+  {
+    "id": 1769617266467886,
+    "song_title": "Peggy Sang The Blues",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=fMwb7OwM6t4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Frank Turner"
+  },
+  {
+    "id": 1769617280753103,
+    "song_title": "Renegade 86",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=u3BzJgedyxg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive."
+  },
+  {
+    "id": 1769617283657424,
+    "song_title": "No Answers",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OBT57taFKzs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thursday"
+  },
+  {
+    "id": 1769617286324492,
+    "song_title": "It Comes Naturally",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Xg7crlH4a48",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Set My Friends On Fire"
+  },
+  {
+    "id": 1769617295764716,
+    "song_title": "Past And Future Ruins",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NfrBLZGP7dY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thursday"
+  },
+  {
+    "id": 1769617301627258,
+    "song_title": "The Sick, Sick, 6.8 Billion",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xRQEz7J82ZA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive."
+  },
+  {
+    "id": 1769617304665284,
+    "song_title": "Magnets Caught In A Metal Heart",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GF0pG9U6mzQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thursday"
+  },
+  {
+    "id": 1769617314820141,
+    "song_title": "\"Machine Gun Blues\" On Jimmy Kimmel Live",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Khkf4VzGDEU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Social Distortion"
+  },
+  {
+    "id": 1769617326323350,
+    "song_title": "Machine Gun Blues",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Uf3FOEL3KjE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Social Distortion"
+  },
+  {
+    "id": 1769617445302655,
+    "song_title": "Live at Shepherd's Bush",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dnGRI8jbgzw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sons of Liberty"
+  },
+  {
+    "id": 1769618038430244,
+    "song_title": "Remedy",
+    "year": 2011,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xZUbuVokKc8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Hot Water Music"
+  },
+  {
+    "id": 1769830340715234,
+    "song_title": "Serve the People",
+    "year": 2011,
+    "artist_name": "Handsome Furs",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=JIKeQTjeo0M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830343466704,
+    "song_title": "Into the Trees",
+    "year": 2011,
+    "artist_name": "Still Corners",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=y3OJMRi66A0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830345956001,
+    "song_title": "Killer",
+    "year": 2011,
+    "artist_name": "Obits",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=VVCzUpEOL_Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830351198003,
+    "song_title": "The Shrine / An Argument",
+    "year": 2011,
+    "artist_name": "Fleet Foxes",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=9yAxIdkF2Qo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830356333647,
+    "song_title": "Bronx Sniper",
+    "year": 2011,
+    "artist_name": "Mister Heavenly",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=RWdlPXZUj6w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830358963584,
+    "song_title": "Eyes Be Closed",
+    "year": 2011,
+    "artist_name": "Washed Out",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=xtmEvlrELis",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830377756023,
+    "song_title": "Bedroom Eyes",
+    "year": 2011,
+    "artist_name": "Dum Dum Girls",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=YBSs3-RfLKk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830380402056,
+    "song_title": "Amor Fati",
+    "year": 2011,
+    "artist_name": "Washed Out",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=7fYnfE5Cycg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830385490928,
+    "song_title": "Tame The Sun",
+    "year": 2011,
+    "artist_name": "Male Bonding",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=sP6-hx7FvLU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830411262924,
+    "song_title": "Cats and Dogs",
+    "year": 2011,
+    "artist_name": "The Head and the Heart",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=NLLvocsmnNU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830416669547,
+    "song_title": "Cuckoo",
+    "year": 2011,
+    "artist_name": "Still Corners",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=uL8ATo1Qpuk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830419568549,
+    "song_title": "Especially Me",
+    "year": 2011,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gBtJpVY7NkE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830427442459,
+    "song_title": "Love The Way You Walk Away",
+    "year": 2011,
+    "artist_name": "Blitzen Trapper",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=9UK2nIsflQA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830443470629,
+    "song_title": "Do You Really Wanna Know",
+    "year": 2011,
+    "artist_name": "Papercuts",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=75fCZVqbSLY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830454035429,
+    "song_title": "You're Too Weird",
+    "year": 2011,
+    "artist_name": "Fruit Bats",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=K3fF9g2R7Bw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830482692225,
+    "song_title": "Skull",
+    "year": 2011,
+    "artist_name": "Sebadoh",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=SFniGEsV3Qs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830496291163,
+    "song_title": "Wonder Why",
+    "year": 2011,
+    "artist_name": "Vetiver",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=MmpAXq7sq8s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830509492271,
+    "song_title": "Peace On The Rise",
+    "year": 2011,
+    "artist_name": "Chad VanGaalen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=hKHD6INztfA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830519489189,
+    "song_title": "Is It Done",
+    "year": 2011,
+    "artist_name": "J Mascis",
+    "artist_genre": "Noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=3N9yhRlNaUw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830527304844,
+    "song_title": "Rebound",
+    "year": 2011,
+    "artist_name": "Sebadoh",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=OG_YsBHWVag",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830532695903,
+    "song_title": "Try to Sleep",
+    "year": 2011,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=wXgc0I0zsYs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830535023234,
+    "song_title": "He Gets Me High",
+    "year": 2011,
+    "artist_name": "Dum Dum Girls",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=hOZgb0T7AM4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830540445701,
+    "song_title": "Grown Ocean",
+    "year": 2011,
+    "artist_name": "Fleet Foxes",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Pgv6dKV03dA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830543082916,
+    "song_title": "Not Enough",
+    "year": 2011,
+    "artist_name": "J Mascis",
+    "artist_genre": "Noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=aqqH16oePQg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830550760708,
+    "song_title": "San Pedro",
+    "year": 2011,
+    "artist_name": "Mogwai",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gVNYm9Qncyc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830560746443,
+    "song_title": "Lost in My Mind",
+    "year": 2011,
+    "artist_name": "The Head and the Heart",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=xjoA4nYBD5U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830563083694,
+    "song_title": "Do What You Will",
+    "year": 2011,
+    "artist_name": "Papercuts",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=k1TGoOZADfY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830578588971,
+    "song_title": "On The Corner",
+    "year": 2011,
+    "artist_name": "The Twilight Singers",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=IWoe6S0LMLQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830581248205,
+    "song_title": "Mexican Grand Prix",
+    "year": 2011,
+    "artist_name": "Mogwai",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=8Jv64uhCIrU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830593973924,
+    "song_title": "It Is Well With My Soul",
+    "year": 2011,
+    "artist_name": "Daniel Martin Moore",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=KhKH6Y9yTHg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830596625569,
+    "song_title": "Up Above My Head",
+    "year": 2011,
+    "artist_name": "Daniel Martin Moore",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=TIMMGytBlEM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830602124687,
+    "song_title": "Fever Dreaming",
+    "year": 2011,
+    "artist_name": "No Age",
+    "artist_genre": "Noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Jn84clPVbG4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830615594669,
+    "song_title": "In the Cool of the Day",
+    "year": 2011,
+    "artist_name": "Daniel Martin Moore",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=mfVRXCXeShw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830620750710,
+    "song_title": "Your Bird",
+    "year": 2011,
+    "artist_name": "Retribution Gospel Choir",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=YGZ1weMiq5A",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",

@@ -17969,5 +17969,2135 @@
     "quality": "4K",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769606201791722,
+    "song_title": "Disturb The Peace",
+    "year": 2018,
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=qOs-l9q9cjs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death Lens"
+  },
+  {
+    "id": 1769606699044350,
+    "song_title": "Sonny",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=amsD0PhRVQg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769607202938403,
+    "song_title": "Tell Myself",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=d078wsoMTRA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769607313923004,
+    "song_title": "Soul",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7NJYZOxuLJw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769607503942482,
+    "song_title": "Hampton",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=djIkqNdHSMM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769608289022440,
+    "song_title": "Goodnight Hiroyuki",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KWDRnDSAT34",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769608294413453,
+    "song_title": "Ready Player One",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BgFniZe_cgQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769608447955915,
+    "song_title": "Drifting",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DBY8eBs7vmg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769608530747634,
+    "song_title": "Story's End",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mzgpiy9pl-c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769609007484762,
+    "song_title": "corona lovin",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-ziEQ1fzwNo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "smrtdeath"
+  },
+  {
+    "id": 1769609548393239,
+    "song_title": "Sooner",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vFkOCJs98kc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769609646536933,
+    "song_title": "\"Alone\" (Live at The Observatory)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mUXIxywTZ4E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609676079521,
+    "song_title": "Big Lie",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Spr2jer8JP8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769609688665088,
+    "song_title": "\"Me and We and I\" (Live at The Observatory)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kt5n3rPMyg8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609696480545,
+    "song_title": "Green Eyes",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=N2_CVfvvpac",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769609732515842,
+    "song_title": "\"Royal Beggars\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-O5fkP3fSX0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769609738541509,
+    "song_title": "Moonbeam",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=waQLeQfh9jY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769609741315428,
+    "song_title": "Happiness Hours",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HtJNDaXf8eQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Sidekicks"
+  },
+  {
+    "id": 1769609827965903,
+    "song_title": "I'm A Liar",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=apTNNFF1gkM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769609838978847,
+    "song_title": "Shadow Boxing",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dq8l-wadpog",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769609868811143,
+    "song_title": "Only Us",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hKi6yzy6ue0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769609871407412,
+    "song_title": "Anchor",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GLFnGLnem3c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769609900729434,
+    "song_title": "\"The Great Repetition\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uOZgJAIaYsk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609908979983,
+    "song_title": "\"Circa 95\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Nz7tCcScV2E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609914676851,
+    "song_title": "\"Low Beams\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BK6qp2qWXgU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609917292697,
+    "song_title": "\"Banter 2\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5Wcqg2sCqYQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609953685309,
+    "song_title": "\"Uppers / Downers\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=St5srgmi10s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609961939509,
+    "song_title": "\"Displacement\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EM_0gJOE3Zs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609970303397,
+    "song_title": "\"Banter 1\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=64m18EUTbDE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609972928441,
+    "song_title": "\"Home Away From Here\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=32_esyTPask",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609975536084,
+    "song_title": "\"Negotiating The Charade\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0yLd06USdoE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609978164166,
+    "song_title": "\"Art Official\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=07iufoBzAAY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609982208972,
+    "song_title": "Over It",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nLtt2jK87Fk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609993634153,
+    "song_title": "The Freaks",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zwYaEEKWh_E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769609996657762,
+    "song_title": "The Profane Rights Of Man",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-jAvFsJH4NA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769610026324265,
+    "song_title": "Undone",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Owd_1w_wlak",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769610054268613,
+    "song_title": "Shoulder The Weight",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=s1DKGsMyBUI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769610056818383,
+    "song_title": "Silly Games",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gBgzA74TLEg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769610075738105,
+    "song_title": "\"Flowers and You\" (Live)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UpiCO1mxjnk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769610078598793,
+    "song_title": "Hereafter",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WqRYBWyvbRo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769610084534539,
+    "song_title": "The Dark",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0y-W3kpwmOM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769610115137574,
+    "song_title": "Demon and Division",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_8WSncYS0U0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769610137074444,
+    "song_title": "I Don't Know Why She Ran Away",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WBabbK5GnaY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769610139858664,
+    "song_title": "Over It",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8wsoUDAiURs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769610142619341,
+    "song_title": "Think I'm Still In Love With You",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=iMns-abKjWw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769610148155120,
+    "song_title": "Is This Thing Cursed?",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=s3KSXeqWYVU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769610150983183,
+    "song_title": "In The Drink",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=tFufhtF4ydM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769610156455747,
+    "song_title": "Blackbird",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1yJzptD4oVA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769610159230509,
+    "song_title": "Million Dollars To Kill Me",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EN746lwiX_M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769610162282069,
+    "song_title": "No Place Like (Not Being) Home",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_RKqDpdnbao",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769610165238353,
+    "song_title": "Yours",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=N7AyI2yC7UY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610167711602,
+    "song_title": "Merci",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Gbg9UOWhV2Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610170413576,
+    "song_title": "Blues",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=As0RQN_XvSM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610173119381,
+    "song_title": "Pour",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=v-BXHpRXaYs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610175991380,
+    "song_title": "Jonesin'",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sr7xjD32w3I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610178586667,
+    "song_title": "Rien",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=iLV4FBr_Luo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610181053534,
+    "song_title": "Mercy",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KmVuDEEUuNU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610183658021,
+    "song_title": "Weak",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BeSr--Hg52I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610186084348,
+    "song_title": "Plans",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8Du20_8v5d4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610188432118,
+    "song_title": "Love",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6pMc4Kb-Udo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610191313999,
+    "song_title": "Reds",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-2iFmA7rY4M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610195332135,
+    "song_title": "\"Doomsday\" (Piano Reprise)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RgWIeWQoyuI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769610199065024,
+    "song_title": "The Grey",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CCowWugcmHQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769610213357472,
+    "song_title": "Rebel Red",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6KdNFT7K2sM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769610248069412,
+    "song_title": "The Kids Are Alt-Right",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hES9IBTPbcw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769610255695731,
+    "song_title": "Nothin'",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TYSHzfQ5G6c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610289142256,
+    "song_title": "Dip",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bVTiKdTTOjE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Culture Abuse"
+  },
+  {
+    "id": 1769610291811327,
+    "song_title": "CRUTCH",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jWNzo3AD9fI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769610294536852,
+    "song_title": "The Grey",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ITe3Jh-cBhM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769610302832105,
+    "song_title": "Toy Soldier",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dmTt9ynL2OU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769610348486963,
+    "song_title": "Bee Kind To The Bugs",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3A-7uV3m5-o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Culture Abuse"
+  },
+  {
+    "id": 1769610354879280,
+    "song_title": "Heartache",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xP5DTcNbX1g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610357644023,
+    "song_title": "Weed Tent",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=325NwgCMdMg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Sidekicks"
+  },
+  {
+    "id": 1769610360574419,
+    "song_title": "CRUTCH",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=cBrZtZZLRV8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769610388252031,
+    "song_title": "Prey",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WL_8ZY89dP4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769610423127490,
+    "song_title": "Don't Feel Like Dancing",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=G7Az4pasoVI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Sidekicks"
+  },
+  {
+    "id": 1769610431041062,
+    "song_title": "Stoned, Alone",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bkO5szkjJj4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769610433588148,
+    "song_title": "Bad",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=61I6dNc1zdY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769610470433110,
+    "song_title": "Call The Dogs Out",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=a5Qz9XBwvYc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769610479001571,
+    "song_title": "Blue Ribbon",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DH5mQGSJQzE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769610516206814,
+    "song_title": "Stallion",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=tTxu4BgSDeY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769610518998485,
+    "song_title": "Wishing Wells",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5uwyvvxNvqQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769610552766607,
+    "song_title": "Big Cloud",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DQochH200a0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Wavves & Culture Abuse"
+  },
+  {
+    "id": 1769610555874153,
+    "song_title": "Losing My Mind",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uCA-Ll2CJFQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769610577603334,
+    "song_title": "Love On Repeat",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=US7-iz1qm08",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pianos Become The Teeth"
+  },
+  {
+    "id": 1769610583076291,
+    "song_title": "Valentine's Sux",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_lAV2vy2lk4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769610585752389,
+    "song_title": "Burn",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OUWy8VTu_6A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769610588632627,
+    "song_title": "No Destination",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NNNxha7Mk-E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769610594432537,
+    "song_title": "Bitter Red",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=W9Fni8o_Opo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pianos Become The Teeth"
+  },
+  {
+    "id": 1769610597304613,
+    "song_title": "\"Swallow\" (Studio Edit)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zADezuZle-k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769610684544240,
+    "song_title": "Swallow",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BYfqYTez6yI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769610710999104,
+    "song_title": "Charisma",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VHJMklnYugQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pianos Become The Teeth"
+  },
+  {
+    "id": 1769610743581938,
+    "song_title": "Up and Down",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Di8Yk-HH3Vw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Wavves & Culture Abuse"
+  },
+  {
+    "id": 1769616070692714,
+    "song_title": "Seventeener (17th and 37th)",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mRDtqR0sYaI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Lawrence Arms"
+  },
+  {
+    "id": 1769616084467677,
+    "song_title": "You Are Here",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=p0ojXWhbYps",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Lawrence Arms"
+  },
+  {
+    "id": 1769616441446286,
+    "song_title": "I, Pessimist",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ga0-r07hkiA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769617367036160,
+    "song_title": "Warped Tour 2010",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DDXiXBAGw9o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Gaia Bleeds"
+  },
+  {
+    "id": 1769617749122776,
+    "song_title": "The Making of \"Wake The Sun\"",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qChnXRe0EwU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "behind_scenes",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Matches"
+  },
+  {
+    "id": 1769617759831830,
+    "song_title": "Wake The Sun",
+    "year": 2018,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nbsaHCR1nXI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Matches"
+  },
+  {
+    "id": 1769826295668480,
+    "song_title": "Big Sky",
+    "year": 2018,
+    "artist_name": "Orville Peck",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=wd_uz5rVO2I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826309203479,
+    "song_title": "Elastic Days Featuring Dina Martina",
+    "year": 2018,
+    "artist_name": "J Mascis",
+    "artist_genre": "Noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=ANh8LySyJUg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826311708742,
+    "song_title": "Always Trying To Work It Out",
+    "year": 2018,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=1m31A4ZGss0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826317258478,
+    "song_title": "Poor Sucker",
+    "year": 2018,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ob0CILJ93bA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826323565896,
+    "song_title": "Kill Yourself Live",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=UNwo0dWvWt4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826326465845,
+    "song_title": "Sister's Jeans",
+    "year": 2018,
+    "artist_name": "Rolling Blackouts Coastal Fever",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=MdFztcoXl0I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826331703147,
+    "song_title": "Low Key (feat. Shabazz Palaces)",
+    "year": 2018,
+    "artist_name": "Knife Knights",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=bbTLXJBB5jI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826334234751,
+    "song_title": "Rome (Always In The Dark)",
+    "year": 2018,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=9rNMKnHZAZc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826339076973,
+    "song_title": "Keep On Dying",
+    "year": 2018,
+    "artist_name": "Mass Gothic",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=WoFcGSovxl8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826347362087,
+    "song_title": "No Regrets (Acoustic)",
+    "year": 2018,
+    "artist_name": "The Helio Sequence",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=n7W7H293LXI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "acoustic",
+    "video_tags": []
+  },
+  {
+    "id": 1769826349961827,
+    "song_title": "An Air Conditioned Man [LIVE SESSION]",
+    "year": 2018,
+    "artist_name": "Rolling Blackouts Coastal Fever",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=pbKTPuSl2bQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769826352944651,
+    "song_title": "Kids",
+    "year": 2018,
+    "artist_name": "Luluc",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=yxhJ12OTqG4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826363867433,
+    "song_title": "Kill Yourself Live",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Wcul9k3SRsY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769826367157523,
+    "song_title": "Waves of Galveston",
+    "year": 2018,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=11Ugs7P3avM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826372690529,
+    "song_title": "Fall In Love",
+    "year": 2018,
+    "artist_name": "Yuno",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=ePyRXO4-Fh8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826375375758,
+    "song_title": "Host Body",
+    "year": 2018,
+    "artist_name": "Chad VanGaalen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=Kw1s9ehHe_Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826377839583,
+    "song_title": "Metal Carnage",
+    "year": 2018,
+    "artist_name": "Deaf Wish",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=Y2LPEHqaQGQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826383113466,
+    "song_title": "What Hurts Worse",
+    "year": 2018,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=01hnnMYv1hQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826391415952,
+    "song_title": "Duet",
+    "year": 2018,
+    "artist_name": "Frankie Cosmos",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=hnMVus3hrWw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826394274264,
+    "song_title": "Time In Common",
+    "year": 2018,
+    "artist_name": "Rolling Blackouts Coastal Fever",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=cGKEOqJeSzE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826397082492,
+    "song_title": "Guess There",
+    "year": 2018,
+    "artist_name": "Bully",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=F6QDf6KghH8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826402979080,
+    "song_title": "Paranoid Core",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=AtnzoY2RVoA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826421624556,
+    "song_title": "The Rat Is Back",
+    "year": 2018,
+    "artist_name": "Deaf Wish",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=fV-__oyL8Q8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826424413303,
+    "song_title": "Taste",
+    "year": 2018,
+    "artist_name": "Forth Wanderers",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=br6He6dfH38",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826427099233,
+    "song_title": "J.Z.O.K.",
+    "year": 2018,
+    "artist_name": "Mass Gothic",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=yEUCiS-skEc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826437847251,
+    "song_title": "Quorum",
+    "year": 2018,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=1z1ETYnTB7Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826440870207,
+    "song_title": "Dancing and Blood",
+    "year": 2018,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=TzMo-EpWcPA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826443819820,
+    "song_title": "Fly",
+    "year": 2018,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Q5Enxzh-O9Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826452166049,
+    "song_title": "Happiness Reigns",
+    "year": 2018,
+    "artist_name": "Cullen Omori",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=Jzda9D1fbSQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826457684721,
+    "song_title": "FFS",
+    "year": 2018,
+    "artist_name": "Deaf Wish",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=7G0y44QRH4E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826460471668,
+    "song_title": "Misheard",
+    "year": 2018,
+    "artist_name": "Moaning",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=vLSLoj44-Qs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826469212456,
+    "song_title": "White Glass",
+    "year": 2018,
+    "artist_name": "Loma",
+    "artist_genre": "swing",
+    "youtube_link": "https://www.youtube.com/watch?v=CWxgH84TX3c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826484268762,
+    "song_title": "Not For Me",
+    "year": 2018,
+    "artist_name": "Forth Wanderers",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=X53IkGOQs0A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826486955253,
+    "song_title": "Last Night",
+    "year": 2018,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7fwCYP8gd2I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826492886608,
+    "song_title": "Apathy",
+    "year": 2018,
+    "artist_name": "Frankie Cosmos",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=Vc3JanvAgz8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826523857093,
+    "song_title": "Why For",
+    "year": 2018,
+    "artist_name": "Yuno",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=blUImbQcY_0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826528125367,
+    "song_title": "Glass",
+    "year": 2018,
+    "artist_name": "Jo Passed",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=Y6q2WmBo9lU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826532521122,
+    "song_title": "Mr Plague",
+    "year": 2018,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=-FOLPcZ6oWQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826553822629,
+    "song_title": "Talking Straight",
+    "year": 2018,
+    "artist_name": "Rolling Blackouts Coastal Fever",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Zj5tH-6vNKY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826603988287,
+    "song_title": "Dark Oscillations",
+    "year": 2018,
+    "artist_name": "Loma",
+    "artist_genre": "swing",
+    "youtube_link": "https://www.youtube.com/watch?v=dg3XJVdcmq4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826606569184,
+    "song_title": "Millennial Trash Blues",
+    "year": 2018,
+    "artist_name": "Jo Passed",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=5RdE41OvTk4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826609081436,
+    "song_title": "Jesse",
+    "year": 2018,
+    "artist_name": "Frankie Cosmos",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=wJg5IbGWtsA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826668149814,
+    "song_title": "MDM",
+    "year": 2018,
+    "artist_name": "Jo Passed",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=03HZ0d0VBnk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826675718344,
+    "song_title": "No Going Back",
+    "year": 2018,
+    "artist_name": "Yuno",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=B6berpWICtA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826678402476,
+    "song_title": "Bitter Truth",
+    "year": 2018,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=lJru4eW6R3g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826705451904,
+    "song_title": "Tired",
+    "year": 2018,
+    "artist_name": "Moaning",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=8j21VGhWmv0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826707970065,
+    "song_title": "Being Alive",
+    "year": 2018,
+    "artist_name": "Frankie Cosmos",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=LA0roJEwza0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826710359936,
+    "song_title": "Focused",
+    "year": 2018,
+    "artist_name": "Bully",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=fYQahQlPHaQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826713679942,
+    "song_title": "Psycho Star",
+    "year": 2018,
+    "artist_name": "King Tuff",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=uiVnT1gSXZg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826737943858,
+    "song_title": "The Other",
+    "year": 2018,
+    "artist_name": "King Tuff",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=AVHMYQJBUs0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826747879155,
+    "song_title": "I Like It Small",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=sAyXx_LfE2k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826750684082,
+    "song_title": "Suck You Dry",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=nW7q-XWUPF8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826753364283,
+    "song_title": "Broken Hands",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gcmYpexhq6I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826755820862,
+    "song_title": "Editions of You",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gW_BXIxpnoM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826758309965,
+    "song_title": "I'm Now",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ffsEP2HwAyo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826763120554,
+    "song_title": "Get Into Yours",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=MIB-Kay0e_M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826765442113,
+    "song_title": "What to Do With the Neutral",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=GWCsU4Bs4Wk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826767899052,
+    "song_title": "Fuzz Gun '91",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=F4MFTRuXmI8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826770406787,
+    "song_title": "The Final Course",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=AG6uaqmWQSo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826773274816,
+    "song_title": "Poisoned Water",
+    "year": 2018,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=9IdoXlj3rPY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769826814190537,
+    "song_title": "Artificial",
+    "year": 2018,
+    "artist_name": "Moaning",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=tEJpm0q5NUs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826853713086,
+    "song_title": "Relay Runner",
+    "year": 2018,
+    "artist_name": "Loma",
+    "artist_genre": "swing",
+    "youtube_link": "https://www.youtube.com/watch?v=GAIeORh7TLs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

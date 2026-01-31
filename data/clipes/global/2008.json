@@ -12870,13 +12870,18 @@
     "imvdb_url": "https://imvdb.com/video/jon-lajoie/everyday-normal-guy-2"
   },
   {
-    "id": 246308579234,
+    "id": 1769617705794283,
     "song_title": "No One Can Touch Us",
     "year": 2008,
-    "artist_name": "Sing It Loud",
-    "artist_genre": "Pop Punk",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=pv0Z1RMpmv4",
-    "imvdb_url": "https://imvdb.com/video/sing-it-loud/no-one-can-touch-us"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sing It Loud"
   },
   {
     "id": 229903585378,
@@ -14478,6 +14483,832 @@
     "artist_name": "Killswitch Engage",
     "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=Vn3WKmyprEo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769606357818228,
+    "song_title": "Darkness",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wdGHfmA6Khs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joshua Roberts"
+  },
+  {
+    "id": 1769608687543919,
+    "song_title": "\"Is Anybody Out There?\" (feat. ppgcasper)",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2rkuFeOy4aE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769609735446989,
+    "song_title": "Pilgrimage Trailer",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xp95M-fLuGc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "lyric_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "La Dispute"
+  },
+  {
+    "id": 1769609833156289,
+    "song_title": "The Getaway",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=G7DQluPgUFc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Ten Foot Pole"
+  },
+  {
+    "id": 1769609898091394,
+    "song_title": "\"~\" (Live)",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mDvb6nrZqPA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609925117960,
+    "song_title": "\"Rapture\" (Live)",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=okG8DplElmU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609948390628,
+    "song_title": "\"Intro\" (Live)",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UUMIU8hllPs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609959173648,
+    "song_title": "\"Steps\" (Live)",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GHqPso2wAgs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769612238261416,
+    "song_title": "Let Me In",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3uMa-IpEZMU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Beatsteaks"
+  },
+  {
+    "id": 1769616444659689,
+    "song_title": "Congratulations, You Are Good Enough",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ymnZ7xV0chs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Retox"
+  },
+  {
+    "id": 1769617534709225,
+    "song_title": "Sun In An Empty Room",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8se66vS90Z8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Weakerthans"
+  },
+  {
+    "id": 1769617542723729,
+    "song_title": "\"Carrion\" Live",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DhbyS1SuR7c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769617582791032,
+    "song_title": "Terrified",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AoKzuHQ_wJc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Story Of The Year"
+  },
+  {
+    "id": 1769617607206363,
+    "song_title": "Don't Save Me",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AUnKwPhEVeo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sing It Loud"
+  },
+  {
+    "id": 1769617617765026,
+    "song_title": "In the studio update",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VaihZ-CsZtg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Set Your Goals"
+  },
+  {
+    "id": 1769617630838658,
+    "song_title": "Saddest Story Never Told",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KppfkVl0Uy4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Am Ghost"
+  },
+  {
+    "id": 1769617633721689,
+    "song_title": "Making of the \"Saddest Story Never Told\"",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0xLojN9Q6M0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "behind_scenes",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Am Ghost"
+  },
+  {
+    "id": 1769617678538075,
+    "song_title": "More News From Nowhere [OFFICIAL VIDEO]",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bFjrmATIUYU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nick Cave & The Bad Seeds"
+  },
+  {
+    "id": 1769617757034312,
+    "song_title": "Wake Up",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TpsDsS3KFN8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Story Of The Year"
+  },
+  {
+    "id": 1769617765249737,
+    "song_title": "Detox",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KWfefCE40SA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769617794836307,
+    "song_title": "Civil Twilight",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=H9Ev1KzZby0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Weakerthans"
+  },
+  {
+    "id": 1769617803128238,
+    "song_title": "This Is For Real",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LAO8jKMm8Wc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769617903249657,
+    "song_title": "Dying To Know",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ArOgywV8DWo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769617912266259,
+    "song_title": "Hyena",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=md3XneSCvfE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769617968465163,
+    "song_title": "Sing A Long Forever",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SvY_gP5Zvgo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Bouncing Souls"
+  },
+  {
+    "id": 1769618063530903,
+    "song_title": "Ride The Fence",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TVIz5jyrQAU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Coup"
+  },
+  {
+    "id": 1769618308176556,
+    "song_title": "New Noise (Official Video)",
+    "year": 2008,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NkAe30aEG5c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Refused"
+  },
+  {
+    "id": 1769830882258886,
+    "song_title": "Santa's Coming Over",
+    "year": 2008,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=xZIDci7FW6E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830884916720,
+    "song_title": "Move",
+    "year": 2008,
+    "artist_name": "CSS",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=E7eq4RFf0Sc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830887228266,
+    "song_title": "He Doesn't Know Why",
+    "year": 2008,
+    "artist_name": "Fleet Foxes",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=brZTvGIzeGg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830889794752,
+    "song_title": "Molten Light",
+    "year": 2008,
+    "artist_name": "Chad VanGaalen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=DLw5b70OJH8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830899821777,
+    "song_title": "The Birthday Wars",
+    "year": 2008,
+    "artist_name": "Oxford Collapse",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=a9AsVL8fZUo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830904925177,
+    "song_title": "Miniature Birds",
+    "year": 2008,
+    "artist_name": "Grand Archives",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=_iEnN9ip1Qk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830908190517,
+    "song_title": "Rat is Dead (Rage)",
+    "year": 2008,
+    "artist_name": "CSS",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7yUZmE8RSB8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830911247148,
+    "song_title": "White Winter Hymnal",
+    "year": 2008,
+    "artist_name": "Fleet Foxes",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=DrQRS40OKNE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830914311171,
+    "song_title": "No One's Gonna Love You",
+    "year": 2008,
+    "artist_name": "Band Of Horses",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=cuZo7pLnL7c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830916872520,
+    "song_title": "This Gift",
+    "year": 2008,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=-SRxWz3CDvg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830919844861,
+    "song_title": "Good Enough",
+    "year": 2008,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=MnB7zNrnRqk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769830922461233,
+    "song_title": "Let It Slide",
+    "year": 2008,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=z9iswny-8Vw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830924803127,
+    "song_title": "Rhode Island Freakout",
+    "year": 2008,
+    "artist_name": "Kinski",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=yG8ZGikXXjo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830927585567,
+    "song_title": "B-A-B-Y",
+    "year": 2008,
+    "artist_name": "The Brunettes",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=3ipL7twa6xo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830930185566,
+    "song_title": "The District Sleeps Alone Tonight",
+    "year": 2008,
+    "artist_name": "The Postal Service",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=xUIBnmdJJ50",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830932660743,
+    "song_title": "Know Your Onion!",
+    "year": 2008,
+    "artist_name": "The Shins",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=U4Y5Ma8DrUI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830935308822,
+    "song_title": "Bandages",
+    "year": 2008,
+    "artist_name": "Hot Hot Heat",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=i_K36y-iLUk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769830937814770,
+    "song_title": "Wild Mountain Nation",
+    "year": 2008,
+    "artist_name": "Blitzen Trapper",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=bmIgLf4YAyI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830940265635,
+    "song_title": "You My Flower",
+    "year": 2008,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=pWT7j4xXueg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830952797376,
+    "song_title": "Smokey Mountain Double Dip",
+    "year": 2008,
+    "artist_name": "Red Red Meat",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=_Gz43DcsihM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830957873068,
+    "song_title": "Stained & Lit",
+    "year": 2008,
+    "artist_name": "Red Red Meat",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=sbUi9nohmBU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830960437192,
+    "song_title": "Summer",
+    "year": 2008,
+    "artist_name": "Les Thugs",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=s39qXYIlmB4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830962717854,
+    "song_title": "Kid Candy",
+    "year": 2008,
+    "artist_name": "Seaweed",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=xRH6I8baK7o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830965319906,
+    "song_title": "Idle Hands",
+    "year": 2008,
+    "artist_name": "The Gutter Twins",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=yEUmdjgW-r0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830967944091,
+    "song_title": "Small Town Crew",
+    "year": 2008,
+    "artist_name": "The Brunettes",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Ri3kn696gd4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830970912673,
+    "song_title": "New Slang",
+    "year": 2008,
+    "artist_name": "The Shins",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=zYwCmcB0XMw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830973825651,
+    "song_title": "Shine a Light",
+    "year": 2008,
+    "artist_name": "Wolf Parade",
+    "artist_genre": "hörspiel",
+    "youtube_link": "https://www.youtube.com/watch?v=Kh8-r6O43Rw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830976386036,
+    "song_title": "It Is Us",
+    "year": 2008,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=3YPJgpavPaw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830979324118,
+    "song_title": "Rock My Boat",
+    "year": 2008,
+    "artist_name": "Dntel",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=ixP2mFnwqEw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830982082351,
+    "song_title": "All Misery/Flowers",
+    "year": 2008,
+    "artist_name": "The Gutter Twins",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=4vB03XT5xEo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830984737549,
+    "song_title": "Keep Your Eyes Ahead",
+    "year": 2008,
+    "artist_name": "The Helio Sequence",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=QIicqULYhGw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830987046535,
+    "song_title": "Tane Mahuta",
+    "year": 2008,
+    "artist_name": "The Ruby Suns",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=TMUd6xMLOgA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830989616134,
+    "song_title": "Punching Goodbye Out Front",
+    "year": 2008,
+    "artist_name": "Kinski",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=sMv1-KLjoKk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830992192207,
+    "song_title": "Flightless Bird, American Mouth",
+    "year": 2008,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=OYUFcxBq1y4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769830995091535,
+    "song_title": "Boy with a Coin",
+    "year": 2008,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=dhmH_itX59A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769830997640255,
+    "song_title": "Brunettes Against Bubblegum Youth",
+    "year": 2008,
+    "artist_name": "The Brunettes",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=DrhEHcRymTQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831000379926,
+    "song_title": "Boy with a Coin",
+    "year": 2008,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=KHw7gdJ14uQ",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",

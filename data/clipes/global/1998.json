@@ -7686,5 +7686,19 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769611042762031,
+    "song_title": "Trapped",
+    "year": 1998,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kSFBjG_eKi8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Undeclinable Ambuscade"
   }
 ]

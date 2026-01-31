@@ -1377,5 +1377,19 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769606625034861,
+    "song_title": "Seeing Red (feat. Downfvll)",
+    "year": 1990,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hKzNLcEFYZ0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "FRED"
   }
 ]

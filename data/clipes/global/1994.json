@@ -4592,12 +4592,18 @@
     "imvdb_url": "https://imvdb.com/video/janet-jackson/because-of-love"
   },
   {
-    "artist": "The Offspring",
+    "id": 1769618033037117,
     "song_title": "Come Out And Play",
     "year": 1994,
-    "artist_genre": "Punk",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=1jOk8dk-qaU",
-    "imvdb_url": "https://imvdb.com/video/the-offspring/come-out-and-play"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Offspring"
   },
   {
     "artist": "Blackstreet",
@@ -5755,5 +5761,33 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769609282590309,
+    "song_title": "William Tell",
+    "year": 1994,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EWMfuwBtaNU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Claw Hammer"
+  },
+  {
+    "id": 1769616938158426,
+    "song_title": "Get Real",
+    "year": 1994,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8I2nX6WzV7k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
   }
 ]

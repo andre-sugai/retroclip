@@ -10359,13 +10359,18 @@
     "imvdb_url": "https://imvdb.com/video/fatboy-slim/that-old-pair-of-jeans"
   },
   {
-    "id": 554859302512,
+    "id": 1769618324966830,
     "song_title": "Hold Me Down",
     "year": 2006,
-    "artist_name": "Motion City Soundtrack",
-    "artist_genre": "Pop Punk",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=NRxGGA9L48U",
-    "imvdb_url": "https://imvdb.com/video/motion-city-soundtrack/hold-me-down"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
   },
   {
     "id": 306296373634,
@@ -13299,6 +13304,906 @@
     "artist_name": "New York Dolls",
     "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=8_XEiV-l97o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769606315677124,
+    "song_title": "Father",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SfcVam98WRI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joshua Roberts"
+  },
+  {
+    "id": 1769606616831739,
+    "song_title": "Seeing Red (Red Version) [feat. Downfvll]",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=L-Zx2gSkRzQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "FRED"
+  },
+  {
+    "id": 1769608679137266,
+    "song_title": "Megan",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=scBY-G61nU8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "KidsNextDoor"
+  },
+  {
+    "id": 1769609749437487,
+    "song_title": "Reverence EU/UK 2019 (Recap #4)",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uPl9-fnwBF4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769614245201458,
+    "song_title": "The Future Freaks Me Out",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=i_nT6ojWzxo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769615448032825,
+    "song_title": "The Future Freaks Me Out",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wO6odXL7gkI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769615616269571,
+    "song_title": "Attractive Today",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nrbbmiHM7wc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769617362155759,
+    "song_title": "Warped Tour 2010",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3KwSrbvzm58",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dine Dine My Darling"
+  },
+  {
+    "id": 1769617364526032,
+    "song_title": "Warped Tour 2010",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=i8di-rkxIuY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Chelsea Smile"
+  },
+  {
+    "id": 1769617448007261,
+    "song_title": "The Shape of Punk to Come Deluxe Treatment",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=m_giQfcJwW0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Refused"
+  },
+  {
+    "id": 1769617805999830,
+    "song_title": "Situations",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=USriZAMR2nA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Escape The Fate"
+  },
+  {
+    "id": 1769617965720875,
+    "song_title": "Chain Me Free",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rf4uN1h7mow",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Matches"
+  },
+  {
+    "id": 1769618075473950,
+    "song_title": "Los Angeles Is Burning",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BxoD9zWY9Rg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769618080992731,
+    "song_title": "Shadowland",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=olDhxXe0nAk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Youth Group"
+  },
+  {
+    "id": 1769618086584102,
+    "song_title": "You Don't Have To Shout",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FGIwyhA_m6o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Robocop Kraus"
+  },
+  {
+    "id": 1769618095012811,
+    "song_title": "Warm Milk",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=tYUhPPuC31M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Some Girls"
+  },
+  {
+    "id": 1769618097751804,
+    "song_title": "Heaven's Pregnant Teens EPK",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QlH95btfHX8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Some Girls"
+  },
+  {
+    "id": 1769618183216677,
+    "song_title": "A Dead Language For A Dying Lady",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=eas77LTXCt4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Vanna"
+  },
+  {
+    "id": 1769618207504758,
+    "song_title": "Lean On Sheena",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bDoqw51G3Do",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Bouncing Souls"
+  },
+  {
+    "id": 1769618261208141,
+    "song_title": "Not Good Enough For Truth In Cliche",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=p4I7Ak1N2z8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Escape The Fate"
+  },
+  {
+    "id": 1769618268791808,
+    "song_title": "No Heroes",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CR0Vft1eON4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769618271687100,
+    "song_title": "Patent Pending",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4PBQz43RyGo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Heavens"
+  },
+  {
+    "id": 1769618274378242,
+    "song_title": "Shame Shame",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TPSb7yJeQHs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "From First To Last"
+  },
+  {
+    "id": 1769618280368250,
+    "song_title": "\"There's No Sympathy For The Dead\" EPK",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=q9R_BnLnC-4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Escape The Fate"
+  },
+  {
+    "id": 1769618283607230,
+    "song_title": "Smoke 'Em If You Got 'Em",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=D57zcFdF0jU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769618288830472,
+    "song_title": "Hold On",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UU8sDtage0U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Tim Armstrong"
+  },
+  {
+    "id": 1769618291772477,
+    "song_title": "My Favorite Accident",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=YDodJuuSrr4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769618299887851,
+    "song_title": "The Pizza Song",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VoE7dUoL_9U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Bouncing Souls"
+  },
+  {
+    "id": 1769618305195916,
+    "song_title": "Everything Is Alright",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SY-c-_sZ8LI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769618310837041,
+    "song_title": "Promise",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rSvNjx_G50U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Matchbook Romance"
+  },
+  {
+    "id": 1769618316364606,
+    "song_title": "Monsters",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yFdLSM8zVVI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Matchbook Romance"
+  },
+  {
+    "id": 1769618327614169,
+    "song_title": "There's No Sympathy For The Dead",
+    "year": 2006,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7rkhpFvfF0g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Escape The Fate"
+  },
+  {
+    "id": 1769831054415682,
+    "song_title": "Phantom Limb",
+    "year": 2006,
+    "artist_name": "The Shins",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=OkITsv3Nk6M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831057184569,
+    "song_title": "Red Hot Drops",
+    "year": 2006,
+    "artist_name": "Chad VanGaalen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=O5CwHXPp4rU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831059680302,
+    "song_title": "Pink Bullets",
+    "year": 2006,
+    "artist_name": "The Shins",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=3XBabozrPGA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769831062019152,
+    "song_title": "Saint Simon",
+    "year": 2006,
+    "artist_name": "The Shins",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=jqYMRcnLU0o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769831064891738,
+    "song_title": "Alala",
+    "year": 2006,
+    "artist_name": "CSS",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=2cnOvMFnRvs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831067417633,
+    "song_title": "Please Visit Your National Parks",
+    "year": 2006,
+    "artist_name": "Oxford Collapse",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=5IVUNZkN_vc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831070131648,
+    "song_title": "Always for You",
+    "year": 2006,
+    "artist_name": "The Album Leaf",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=1jYr2fDgn64",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831073043028,
+    "song_title": "The Great Salt Lake",
+    "year": 2006,
+    "artist_name": "Band of Horses",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=IUTkWIx6xu0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831075456828,
+    "song_title": "A Pillar of Salt",
+    "year": 2006,
+    "artist_name": "The Thermals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=HwgNMrs-i80",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831078414774,
+    "song_title": "I'll Believe In Anything",
+    "year": 2006,
+    "artist_name": "Wolf Parade",
+    "artist_genre": "hörspiel",
+    "youtube_link": "https://www.youtube.com/watch?v=7G1eLTV89dM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831081126260,
+    "song_title": "Flower Gardens",
+    "year": 2006,
+    "artist_name": "Chad VanGaalen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=iKYeCWfXSro",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831095094492,
+    "song_title": "Working Full-Time",
+    "year": 2006,
+    "artist_name": "Constantines",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=30yEWwQEYIk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831097856623,
+    "song_title": "Ever Thought of Coming Back",
+    "year": 2006,
+    "artist_name": "Kelley Stoltz",
+    "artist_genre": "rock and indie",
+    "youtube_link": "https://www.youtube.com/watch?v=m1Cgqxq2zrs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831103509360,
+    "song_title": "Let's Make Love and Listen to Death From Above",
+    "year": 2006,
+    "artist_name": "CSS",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7agPOt1XZz8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831106399150,
+    "song_title": "Things I Don't Remember",
+    "year": 2006,
+    "artist_name": "Ugly Casanova",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=F_aDAKlaEOw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831126433273,
+    "song_title": "Modern World",
+    "year": 2006,
+    "artist_name": "Wolf Parade",
+    "artist_genre": "hörspiel",
+    "youtube_link": "https://www.youtube.com/watch?v=6tTgqxkocf8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831132215130,
+    "song_title": "So Says I",
+    "year": 2006,
+    "artist_name": "The Shins",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=K-P15e6NvtU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769831134857845,
+    "song_title": "No Culture Icons",
+    "year": 2006,
+    "artist_name": "The Thermals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Cf5wlXR9q3c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831137685047,
+    "song_title": "Talk To Me, Dance With Me",
+    "year": 2006,
+    "artist_name": "Hot Hot Heat",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=S-Rmz-nOJn4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769831140339675,
+    "song_title": "How We Know",
+    "year": 2006,
+    "artist_name": "The Thermals",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=H5SKUt5C89g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831142782134,
+    "song_title": "Naked as We Came",
+    "year": 2006,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Nd-A-iiPoLg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831145041321,
+    "song_title": "Curious",
+    "year": 2006,
+    "artist_name": "Holopaw",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=5-vDGo3HTDE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831147834083,
+    "song_title": "Entertain",
+    "year": 2006,
+    "artist_name": "Sleater-Kinney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=MbxRu7fwR24",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831150183483,
+    "song_title": "Jumpers",
+    "year": 2006,
+    "artist_name": "Sleater-Kinney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=vZA_7FtttRY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831153137921,
+    "song_title": "Publish My Love",
+    "year": 2006,
+    "artist_name": "Rogue Wave",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=tcwCteAThNY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831155690888,
+    "song_title": "Pretty Dress",
+    "year": 2006,
+    "artist_name": "Rosie Thomas",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=-XMxwyBBywc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831158273609,
+    "song_title": "The Funeral",
+    "year": 2006,
+    "artist_name": "Band of Horses",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=cMFWFhTFohk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831161194623,
+    "song_title": "Not Going Home",
+    "year": 2006,
+    "artist_name": "The Elected",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=2TSLlvMD62w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831163697553,
+    "song_title": "On Your Way",
+    "year": 2006,
+    "artist_name": "The Album Leaf",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=nkPGx2wnMbM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831166210950,
+    "song_title": "Red Rover",
+    "year": 2006,
+    "artist_name": "Rosie Thomas",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=_Pqmhezo5EM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831168710807,
+    "song_title": "Southern Anthem",
+    "year": 2006,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=KdebhHO_sSw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831171010619,
+    "song_title": "Lion's Mane",
+    "year": 2006,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=n9SmwC_ZX0I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831173483844,
+    "song_title": "Lives of Crime",
+    "year": 2006,
+    "artist_name": "Fruit Bats",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=UMKtXyaxXN0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831176078246,
+    "song_title": "The Wives of Artie Shaw",
+    "year": 2006,
+    "artist_name": "Kinski",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=tk7n_e9DacM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831178806249,
+    "song_title": "I Do Dream You",
+    "year": 2006,
+    "artist_name": "Jennifer Gentle",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=lZ9v-lsZUHw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831181528618,
+    "song_title": "Dirty Lives",
+    "year": 2006,
+    "artist_name": "Love as Laughter",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Z4prkIlCwOM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769831184118732,
+    "song_title": "Clinically Dead",
+    "year": 2006,
+    "artist_name": "Chad VanGaalen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=58rP44NSNNs",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",

@@ -990,13 +990,18 @@
     "imvdb_url": "https://imvdb.com/video/juanna/overdose"
   },
   {
-    "id": 185628756740,
+    "id": 1769612954531432,
     "song_title": "Elektra",
     "year": 2015,
-    "artist_name": "Refused",
-    "artist_genre": "Punk, Hardcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=wRMXTvsCBwQ",
-    "imvdb_url": "https://imvdb.com/video/refused/elektra"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Refused"
   },
   {
     "id": 210589998710,
@@ -2457,13 +2462,18 @@
     "imvdb_url": "https://imvdb.com/video/yanis/crave"
   },
   {
-    "id": 119688278967,
+    "id": 1769612178575928,
     "song_title": "Chaos",
     "year": 2015,
-    "artist_name": "Raised Fist",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=g8EqmwBERNg",
-    "imvdb_url": "https://imvdb.com/video/raised-fist/chaos"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Raised Fist"
   },
   {
     "id": 101973812417,
@@ -48510,13 +48520,18 @@
     "imvdb_url": "https://imvdb.com/video/morten-abel/froken-vilikke"
   },
   {
-    "id": 294686093174,
-    "song_title": "Lose",
+    "id": 1769612453903023,
+    "song_title": "Lose Control",
     "year": 2015,
-    "artist_name": "Motion City Soundtrack",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=GQAxnDu4ZRc",
-    "imvdb_url": "https://imvdb.com/video/motion-city-soundtrack/lose"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
   },
   {
     "id": 108655729939,
@@ -65389,6 +65404,1222 @@
     "artist_name": "3 Inches Of Blood",
     "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=JO7TZGgBbOw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769607216723800,
+    "song_title": "\"Gravedigger\" (feat. Chad Tepper)",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GrhdRn-2SjQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607256870542,
+    "song_title": "\"Gravedigger\" (feat. Chad Tepper)",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mP5rB3J-Hek",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607459886132,
+    "song_title": "Summer Nights",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ypX9v2HwV5s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769610476246669,
+    "song_title": "The Void",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=cAY2bCmm8e0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769611510614745,
+    "song_title": "I Can Be Afraid of Anything",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=i3D0tMQxLo4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid To Die"
+  },
+  {
+    "id": 1769611513404039,
+    "song_title": "I Guess We'll Never Know",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0elnIZhfGTg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769612114507055,
+    "song_title": "Gold",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=c6YCGPsuaTA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleeping With Sirens"
+  },
+  {
+    "id": 1769612132306864,
+    "song_title": "Chemical Prisoner",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DTHFyvGY_FU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769612140513440,
+    "song_title": "Golden Parachutes",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=e-pniJRv35w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Desaparecidos"
+  },
+  {
+    "id": 1769612157083290,
+    "song_title": "Nerve Endings",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8No28NDPEJc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769612192543809,
+    "song_title": "\"Elektra\" (Remix)",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6vbDtlVq92I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "SBCR vs. Refused"
+  },
+  {
+    "id": 1769612226906256,
+    "song_title": "Egg",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=37l2J2IMfd4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769612232549654,
+    "song_title": "Vexation",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Z5xkwShik68",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769612286396708,
+    "song_title": "Divination",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0HlU7ZHbUas",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Defeater"
+  },
+  {
+    "id": 1769612408223960,
+    "song_title": "Gift",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2bxiQgrneL0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769612411117440,
+    "song_title": "Better Off Dead",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bIH25CP2wc4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleeping With Sirens"
+  },
+  {
+    "id": 1769612420195057,
+    "song_title": "It's A Pleasure To Meet You",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=pFMosc1YRlg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769612451165542,
+    "song_title": "Faith Alone",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=O20pMjNj-TE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "acoustic",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Greg Graffin"
+  },
+  {
+    "id": 1769612462885882,
+    "song_title": "Unanswered",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0_GGI_qopvA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Defeater"
+  },
+  {
+    "id": 1769612475298173,
+    "song_title": "Spared In Hell",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kM6S73caPPM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Defeater"
+  },
+  {
+    "id": 1769612478093820,
+    "song_title": "Meaning Behind \"The Strays\"",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZyLwug6Jrrk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleeping With Sirens"
+  },
+  {
+    "id": 1769612536572397,
+    "song_title": "TKO",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jjPb-WO020Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769612912103280,
+    "song_title": "Capture & Release",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ptbVWkUcCOU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Beautiful Bodies"
+  },
+  {
+    "id": 1769612949018440,
+    "song_title": "The Strays",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Wp6sbMRktes",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleeping With Sirens"
+  },
+  {
+    "id": 1769612951491166,
+    "song_title": "Bring Me Home",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AE5yTEYwSX0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769612991932708,
+    "song_title": "Just Like You",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aaR1Jm7hjmE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769612994685392,
+    "song_title": "Until I Collapse",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mq7wVHuEvxU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613000097252,
+    "song_title": "City On The Hill",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ruJPXy_D3UE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Desaparecidos"
+  },
+  {
+    "id": 1769613002687117,
+    "song_title": "Your Number Is Up",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=k131lav5IYI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Now And On Earth"
+  },
+  {
+    "id": 1769613013248836,
+    "song_title": "City On The Hill",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FDSaq-Vwb50",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Desaparecidos"
+  },
+  {
+    "id": 1769613041990301,
+    "song_title": "Blacked Out",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0lfGEkvsdjE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Now And On Earth"
+  },
+  {
+    "id": 1769613051427256,
+    "song_title": "The Deep End",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rqNyGqpUKBI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613054332201,
+    "song_title": "Sinking So Long",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=n5HFbei-_0E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613057214595,
+    "song_title": "Someday",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SLscGEAAj2w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613059722538,
+    "song_title": "The Chase (feat. Kellin Quinn)",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=IlUCyWt_YNE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613062062311,
+    "song_title": "The Air In Me",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8ATSxkZmzWs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613064808666,
+    "song_title": "Until I Collapse",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7QGhU5lp-zM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613067517502,
+    "song_title": "Restless",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WEELeXw5wKA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613069890903,
+    "song_title": "Die In Your Own Cathedral",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ElPRkXNsUjk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Retox"
+  },
+  {
+    "id": 1769613089010523,
+    "song_title": "Intoxicated",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=noB-J6MN_eQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Now And On Earth"
+  },
+  {
+    "id": 1769613164595226,
+    "song_title": "Intoxicated",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xO0scDfrcR0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Now And On Earth"
+  },
+  {
+    "id": 1769613170264603,
+    "song_title": "\"Hell To Pay\" (feat. Telle Smith)",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=neU2eD9rfSU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613172805436,
+    "song_title": "\"Just Like You\" (Extended Version)",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LJQch1teoSA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769613197113684,
+    "song_title": "Sense & Sensibility",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0InNoCjry7k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769613226744243,
+    "song_title": "Perfect World",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NH3fmw1aSAk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613245960315,
+    "song_title": "Without Money, We'd All Be Rich",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=swsozM8cadA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Retox"
+  },
+  {
+    "id": 1769613264362989,
+    "song_title": "Flow",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NSidoMfr7oM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Raised Fist"
+  },
+  {
+    "id": 1769613414053621,
+    "song_title": "Let's Not Keep In Touch",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aOgh1J-nIF8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Retox"
+  },
+  {
+    "id": 1769613718797823,
+    "song_title": "Kick Me",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EnAdy_wvxMo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleeping With Sirens"
+  },
+  {
+    "id": 1769613838320283,
+    "song_title": "Flow",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VKomW-7TAas",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Raised Fist"
+  },
+  {
+    "id": 1769613916611205,
+    "song_title": "The Deep End",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=egavdbb9NN0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769615818596690,
+    "song_title": "Gravedigger",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=S0Q0fcAT36s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769616056672407,
+    "song_title": "Thirty One & Sevens",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=E6G9aS-NEVk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Killed The Prom Queen"
+  },
+  {
+    "id": 1769616059393079,
+    "song_title": "Naysayer",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0MHTy_dcSKE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769616187838309,
+    "song_title": "Go To Hell, For Heaven's Sake",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=C7cczTyQ4iY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769616193731231,
+    "song_title": "Can You Feel My Heart",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6AVRCQBc59w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769616490013854,
+    "song_title": "The Great Unknown",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Gc_nr8U10Lc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769616545352741,
+    "song_title": "Shadow Moses",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ubXx6t4aU54",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617289057139,
+    "song_title": "Blessed With A Curse",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=okCcL8daFAg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617442538148,
+    "song_title": "\"Chelsea Smile\" Live",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vPzbMLmLr4g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617946591955,
+    "song_title": "Time Bomb",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DhKHAopx7D0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769618319087792,
+    "song_title": "The Latest Plague",
+    "year": 2015,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6l6dU3DCWQg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "From First To Last"
+  },
+  {
+    "id": 1769828815074867,
+    "song_title": "Spit You Out",
+    "year": 2015,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=qIFrzdOdwz0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828902011935,
+    "song_title": "Disdain",
+    "year": 2015,
+    "artist_name": "Strange Wilds",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=7kBZDPmlJEo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828939830133,
+    "song_title": "Lies",
+    "year": 2015,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=1kU6vFiXSAI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828985531975,
+    "song_title": "House a Home",
+    "year": 2015,
+    "artist_name": "Mark Lanegan",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=EzERKuE9VGc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828988406600,
+    "song_title": "Ugly Sunday",
+    "year": 2015,
+    "artist_name": "Mark Lanegan",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Tdz6NcqHwAI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828996727428,
+    "song_title": "The Night Josh Tillman Came To Our Apartment",
+    "year": 2015,
+    "artist_name": "Father John Misty",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=iY37fixfN_A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829076487303,
+    "song_title": "On",
+    "year": 2015,
+    "artist_name": "Deaf Wish",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=mDyDFcjqIYg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829101832963,
+    "song_title": "Pronoia",
+    "year": 2015,
+    "artist_name": "Strange Wilds",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=feEkz0qoNn4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829107411513,
+    "song_title": "EarthEE",
+    "year": 2015,
+    "artist_name": "THEESatisfaction",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=Sr1MamRzrbA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829110357922,
+    "song_title": "Battle Lines",
+    "year": 2015,
+    "artist_name": "The Helio Sequence",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Hj7huS_oHAc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829168069477,
+    "song_title": "I Love You Honeybear",
+    "year": 2015,
+    "artist_name": "Father John Misty",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=khk77JHALmU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829191941818,
+    "song_title": "Daddy I Cut My Hair",
+    "year": 2015,
+    "artist_name": "Daughn Gibson",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=k-WSwkx9Sh0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829262524943,
+    "song_title": "The Swimmer",
+    "year": 2015,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=fqbbPzmvuoE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829273824175,
+    "song_title": "Upward Mobility",
+    "year": 2015,
+    "artist_name": "The Helio Sequence",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=tAMNzmoMTIU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829289206072,
+    "song_title": "Loops",
+    "year": 2015,
+    "artist_name": "Doldrums",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=_2R8TtvXgjM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829311790199,
+    "song_title": "Madness",
+    "year": 2015,
+    "artist_name": "King Tuff",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=WTXzhbaE8qw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829333403183,
+    "song_title": "Jezebel",
+    "year": 2015,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=dHf4XnjosiQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829336200799,
+    "song_title": "Someday the Waves",
+    "year": 2015,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=_H_iD9kISoA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829339105213,
+    "song_title": "The Sea and The Rhythm",
+    "year": 2015,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=T0xmMCuRrdw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829342052342,
+    "song_title": "Upward Over the Mountain",
+    "year": 2015,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Cg4CCy2kbuA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829345032587,
+    "song_title": "Faded from the Winter",
+    "year": 2015,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=RJrsMxCG4jM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829348048215,
+    "song_title": "Bird Stealing Bread",
+    "year": 2015,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=FkvRwOfx4JI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769829418392881,
+    "song_title": "A New Wave",
+    "year": 2015,
+    "artist_name": "Sleater-Kinney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Kc1htX3q-F0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829454558445,
+    "song_title": "Conjure Me",
+    "year": 2015,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=DUQf1UxnR2g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829457071286,
+    "song_title": "Turn On The Water",
+    "year": 2015,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=a6_aeSejmtA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829487742978,
+    "song_title": "Dayglo",
+    "year": 2015,
+    "artist_name": "Hazel",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=zlgaRgcDeFI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829500862738,
+    "song_title": "Forerunner Foray",
+    "year": 2015,
+    "artist_name": "Shabazz Palaces",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=zNXxd3yYDaM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829503418257,
+    "song_title": "Recognition",
+    "year": 2015,
+    "artist_name": "THEESatisfaction",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=JBHjr-CdxYM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769829506627817,
+    "song_title": "The Lottery",
+    "year": 2015,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Ih_roddu1xI",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",

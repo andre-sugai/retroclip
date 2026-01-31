@@ -4968,5 +4968,19 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769608189047840,
+    "song_title": "\"here we go again\" (feat. Smrtdeath)",
+    "year": 1991,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aV99Xx-hjNw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "plxntkid"
   }
 ]

@@ -622,5 +622,31 @@
     "artist_name": "Canal Brasil",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=LJv_S9BxWr4"
+  },
+  {
+    "id": 1769611482802099,
+    "song_title": "letlive. 'If I'm The Devil...' Documentary",
+    "year": null,
+    "artist_name": "",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Gg-m83YDJ3E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769612417060079,
+    "song_title": "Tour Documentary",
+    "year": 2016,
+    "artist_name": "The Ghost Inside ",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aQQIi4LmRx8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ]
   }
 ]

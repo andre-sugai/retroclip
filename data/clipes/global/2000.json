@@ -405,12 +405,17 @@
     "artist": "OutKast"
   },
   {
-    "id": 267118126412,
+    "id": 1769617920943407,
     "song_title": "Fox",
     "year": 2000,
-    "artist_genre": "Punk",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=qIEF9E46bI0",
-    "imvdb_url": "https://imvdb.com/video/millencolin/fox",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
     "artist": "Millencolin"
   },
   {
@@ -8053,5 +8058,75 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769605827748870,
+    "song_title": "sidewaze",
+    "year": 2000,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=30I6-bPU_yM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769617900799559,
+    "song_title": "Nihilism",
+    "year": 2000,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2WOx4U3sCuQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769617940421661,
+    "song_title": "Salvation",
+    "year": 2000,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Rvuae0Y-Spg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769618154042072,
+    "song_title": "Journey Live at Hellcat Nights",
+    "year": 2000,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1upmRe3FvC0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769618286021052,
+    "song_title": "\"Hold On\" (ANTI-)",
+    "year": 2000,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WPnOEiehONQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Tom Waits"
   }
 ]

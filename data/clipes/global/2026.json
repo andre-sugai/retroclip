@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1769605583401100,
+    "song_title": "I Used To Go To This Bar",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=vc-PsAzH21w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769605586022650,
+    "song_title": "Monolith",
+    "year": 2026,
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=xpNiC4ywP30",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death Lens"
+  },
+  {
+    "id": 1769605591659880,
+    "song_title": "\"We Were Never The Same\" (Official Visualizer)",
+    "year": 2026,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=yNfRyuSMiBc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769605594266815,
+    "song_title": "I Know Where Mark Chen Lives",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gfgQZJQ-zUo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769605596999881,
+    "song_title": "Power",
+    "year": 2026,
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=APC4zAsYvcs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death Lens"
+  },
+  {
+    "id": 1769605602264531,
+    "song_title": "Love Is Not Enough",
+    "year": 2026,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=qxelfxGa2oo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769605626925721,
+    "song_title": "Well, Whatever It Was",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=VSPEr7_gYlw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769605694895888,
+    "song_title": "All My Friends Are So Depressed",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=NDmJDdFl_jI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  }
+]

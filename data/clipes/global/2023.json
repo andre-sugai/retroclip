@@ -6461,5 +6461,949 @@
     "duration_seconds": 0,
     "video_type": "live",
     "video_tags": []
+  },
+  {
+    "id": 1769605725904742,
+    "song_title": "title track",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=L1d22pRGeEg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769606175266940,
+    "song_title": "THE GOOD GOOD TOUR",
+    "year": 2023,
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=gCQcULZejDQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "DRAIN"
+  },
+  {
+    "id": 1769606366065727,
+    "song_title": "Living Proof",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=32M7MCfTXlQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "DRAIN"
+  },
+  {
+    "id": 1769606371702871,
+    "song_title": "\"Time Traveler\" (Official Video)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GuONqi0u3K4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jakobs Castle"
+  },
+  {
+    "id": 1769606385615375,
+    "song_title": "I Saw Water",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jSHkZHlkzgA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769606414792070,
+    "song_title": "“kick ur teeth in” (Live at KXLU)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=M3RwoziveRk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769606446895527,
+    "song_title": "\"ring in ur ear\" (feat. Justin Courtney Pierre)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AlHEZVA_UEA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769606456627161,
+    "song_title": "Lights Out",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4pomahHgXsA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jakobs Castle"
+  },
+  {
+    "id": 1769606482745391,
+    "song_title": "89cc",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VIJ_wIdDSCs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769606485871993,
+    "song_title": "MSK1300",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Jk3KoqimnQk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nascar Aloe"
+  },
+  {
+    "id": 1769606502537937,
+    "song_title": "Blud Luv",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=P3gWqM4yDug",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park & Decode"
+  },
+  {
+    "id": 1769606562455886,
+    "song_title": "GAMEBOY",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WbcxGDv9dbQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nascar Aloe"
+  },
+  {
+    "id": 1769606573222703,
+    "song_title": "\"Breathing\" (with nothing,nowhere.)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wDE_xvp0zcU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769606592048595,
+    "song_title": "big star",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jYZ1bJbJ6Co",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769606594809388,
+    "song_title": "Time Traveler",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Mc7Kdq4EFXY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jakobs Castle"
+  },
+  {
+    "id": 1769606597439236,
+    "song_title": "COME WITH ME",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=U2PoqUQa9Cs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Babebee"
+  },
+  {
+    "id": 1769606603119254,
+    "song_title": "Light My Fire",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VuBw3r4Ig-8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Chad Tepper"
+  },
+  {
+    "id": 1769606608757542,
+    "song_title": "OGRE",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9gs92DPPVyU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nascar Aloe"
+  },
+  {
+    "id": 1769606611266436,
+    "song_title": "Doomer",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Nr_b-am2etE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769606619691522,
+    "song_title": "Womanthem",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QmppWQUmks0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "We Are Radio Noi$e"
+  },
+  {
+    "id": 1769606622349025,
+    "song_title": "Still Love (feat. Softcult)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ejWR45XPVlw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769606630343513,
+    "song_title": "Manic",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7lk2FRpccRM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park & 408"
+  },
+  {
+    "id": 1769606632994231,
+    "song_title": "HEY ASSHOLE",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wO3b-5ZKdI4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nascar Aloe"
+  },
+  {
+    "id": 1769606650016302,
+    "song_title": "Live at the Black Cat in DC",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8dF9-M08M2I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Fake Names"
+  },
+  {
+    "id": 1769606677361891,
+    "song_title": "Homicide",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UPT1WxNsewE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769606685322939,
+    "song_title": "action → reaction",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kJcpoJgKcv0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769606688112771,
+    "song_title": "DONT 4GET DA NAME",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZYgLW6oHeug",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nascar Aloe"
+  },
+  {
+    "id": 1769606707206311,
+    "song_title": "Good Good Things",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ERrV9srm980",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "DRAIN"
+  },
+  {
+    "id": 1769606710396873,
+    "song_title": "Do Or Die (Slowed Down)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JR3dEI4UjaA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park & Ethan Ross"
+  },
+  {
+    "id": 1769606713104485,
+    "song_title": "Do Or Die (Sped Up)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-8FNMC8tdVI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park & Ethan Ross"
+  },
+  {
+    "id": 1769606716169386,
+    "song_title": "Do Or Die (VYPER 깨물다 PHONK REMIX)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Vtq5Fva1TQw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park & Ethan Ross"
+  },
+  {
+    "id": 1769606718837524,
+    "song_title": "Moonlit",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=q_b2abLBNi4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Chad Tepper"
+  },
+  {
+    "id": 1769606724143234,
+    "song_title": "Facedown",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=T5675eemk2I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769606727134799,
+    "song_title": "FTS (KYS)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HLFHDNv7zJA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "DRAIN"
+  },
+  {
+    "id": 1769606729881679,
+    "song_title": "Bad Actors",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=N1XBswrzOV8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769606754290520,
+    "song_title": "Rockstar Dreams Like Tommy Lee",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wFu9P-jtnJk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Chad Tepper"
+  },
+  {
+    "id": 1769606759764483,
+    "song_title": "Can't Take It",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XgLSMZ3tZDg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Fake Names"
+  },
+  {
+    "id": 1769606771086217,
+    "song_title": "Do Or Die",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gfF-0ldctS8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park & Ethan Ross"
+  },
+  {
+    "id": 1769606773759207,
+    "song_title": "Evil Finds Light",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HQPdtWmRbkE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "DRAIN"
+  },
+  {
+    "id": 1769606779173375,
+    "song_title": "Expendables",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DPDvCs9OvZY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Fake Names"
+  },
+  {
+    "id": 1769606782001059,
+    "song_title": "Buy Us A House",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9z_M_PGlacI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Chad Tepper & Matisyahu"
+  },
+  {
+    "id": 1769606840845105,
+    "song_title": "Delete Myself",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=q31Fh-nZMQM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Fake Names"
+  },
+  {
+    "id": 1769606924350989,
+    "song_title": "Radio Reject",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kCXnmarT6A4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607007634903,
+    "song_title": "\"Misfits\" (feat. Taylor Acorn)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HGwaKQ1DxlA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607010420812,
+    "song_title": "U Want Me Dead",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Ygrno6nEfI4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "FRED"
+  },
+  {
+    "id": 1769607020818405,
+    "song_title": "Addison Rae",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OgeWDY4tAGw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607106922701,
+    "song_title": "\"I should've listened to my friends\" [SEIZURE WARNING]",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TDE6LDaP5z8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607112647034,
+    "song_title": "Don't Be Racist",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=j93GdxP0Uck",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607222141674,
+    "song_title": "Don't Be Racist",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Tw6WTcXDcPQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607229981786,
+    "song_title": "Party Favors",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=l_xtuO5kLgg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dolo Tonight"
+  },
+  {
+    "id": 1769607295233868,
+    "song_title": "Hotels",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TkIPa-3ap6Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dolo Tonight"
+  },
+  {
+    "id": 1769607300527783,
+    "song_title": "\"Feel Something\" (feat. Derek Sanders)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Om458AUy_OQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607350275105,
+    "song_title": "\"Tokyo\" (feat. Christo Bowman)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rejdfxutez0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769608286239583,
+    "song_title": "rose quartz",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mci9D8jJsP4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "plxntkid"
+  },
+  {
+    "id": 1769609919866807,
+    "song_title": "\"Harbor\" (Live)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sG-DvOGcwfw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609940234021,
+    "song_title": "\"Condolences\" (Live)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dT-uPPGpgyQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609945756517,
+    "song_title": "\"Is Survived By\" (Live)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VkjRmLB7XdM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609967315162,
+    "song_title": "\"Pathfinder\" (Live)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8b1upXB_bOs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769610226259347,
+    "song_title": "Melancholia",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=pVcps1MQgrg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769610286329737,
+    "song_title": "\"Doomsday\" (Live at Alexandra Palace)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=99YWbbrbGYw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769610681380272,
+    "song_title": "Fuck You And All Your Friends",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0rVwuowU6Fs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769614664594653,
+    "song_title": "\"Schley\" (Live)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=J-Cg_E_9Ecs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769616495737663,
+    "song_title": "Fate",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=127w6YqHOfs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Our Last Night"
+  },
+  {
+    "id": 1769617348606399,
+    "song_title": "\"New Noise\" (Live)",
+    "year": 2023,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=V0OtWHIDuGE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Refused"
+  },
+  {
+    "id": 1769825491332963,
+    "song_title": "She's the One",
+    "year": 2023,
+    "artist_name": "Weird Nightmare",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=RU1nQTG6Rzw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825493948052,
+    "song_title": "Famously 35",
+    "year": 2023,
+    "artist_name": "Sub Pop",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=sLDF6_cjHkw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825499271007,
+    "song_title": "Jaboukie",
+    "year": 2023,
+    "artist_name": "Brontez Purnell",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=J59aAqU0xX4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825505678130,
+    "song_title": "Lines",
+    "year": 2023,
+    "artist_name": "Naima Bock",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=JUJl8bJOyVQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

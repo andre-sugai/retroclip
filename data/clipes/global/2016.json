@@ -27837,13 +27837,18 @@
     "imvdb_url": "https://imvdb.com/video/the-dead-south/banjo-odyssey"
   },
   {
-    "id": 699686710716,
+    "id": 1769611329161380,
     "song_title": "Fake I.D.",
     "year": 2016,
-    "artist_name": "Joyce Manor",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=01dmtGIwSs8",
-    "imvdb_url": "https://imvdb.com/video/joyce-manor/fake-id"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
   },
   {
     "id": 242545477234,
@@ -40293,13 +40298,18 @@
     "imvdb_url": "https://imvdb.com/video/ella-mai/she-dont"
   },
   {
-    "id": 304936807795,
+    "id": 1769611161672025,
     "song_title": "Cages",
     "year": 2016,
-    "artist_name": "Cover Your Tracks",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=xCh4Bq8BJLw",
-    "imvdb_url": "https://imvdb.com/video/cover-your-tracks/cages"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "cover",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Cover Your Tracks"
   },
   {
     "id": 536398853678,
@@ -49572,13 +49582,18 @@
     "imvdb_url": "https://imvdb.com/video/sunflower-bean/come-on"
   },
   {
-    "id": 281837626086,
+    "id": 1769611403704494,
     "song_title": "Devil's Calling",
     "year": 2016,
-    "artist_name": "Parkway Drive",
-    "artist_genre": "Metal",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=rc0F87ssVw4",
-    "imvdb_url": "https://imvdb.com/video/parkway-drive/devils-calling"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
   },
   {
     "id": 306706719262,
@@ -54900,13 +54915,18 @@
     "imvdb_url": "https://imvdb.com/video/kill-for-eden/love-you-so"
   },
   {
-    "id": 664811380455,
-    "song_title": "Last You Heard of Me",
+    "id": 1769611187613655,
+    "song_title": "Last You Heard Of Me",
     "year": 2016,
-    "artist_name": "Joyce Manor",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=Ny0BJfwXEcc",
-    "imvdb_url": "https://imvdb.com/video/joyce-manor/last-you-heard-of-me"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
   },
   {
     "id": 131650612099,
@@ -59603,5 +59623,1119 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769606977542046,
+    "song_title": "NeverEnding Nightmare",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kYtonOuGZmE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Chad Tepper & The Unlikely Candidates"
+  },
+  {
+    "id": 1769607013101033,
+    "song_title": "NeverEnding Nightmare",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PXaH2eQZRXU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Chad Tepper & The Unlikely Candidates"
+  },
+  {
+    "id": 1769609503170197,
+    "song_title": "War Time Dub",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1DUVe-Xwvpc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Culture City"
+  },
+  {
+    "id": 1769609942848826,
+    "song_title": "\"Palm Dreams\" (Live)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aBaiEUab5Rw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769609987662878,
+    "song_title": "\"New Halloween\" (Live)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=C5jxaeRXcig",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769610855207045,
+    "song_title": "The Art of Eye Contact",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OUMkR-lcX18",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769610871674981,
+    "song_title": "Without Love",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NlA3HrmnNGM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769610964847381,
+    "song_title": "Miss Your Face",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1zzW4QzTEAY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769610981674772,
+    "song_title": "Map Change",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_Gau6SL-Xt0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769610984371828,
+    "song_title": "Striking Matches",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kZ5tMfxSNow",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "cover",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Cover Your Tracks"
+  },
+  {
+    "id": 1769611045230289,
+    "song_title": "Gravity",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GktXlCEJ-HU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769611053383907,
+    "song_title": "I Didn't Want To Join Your Stupid Cult Anyway",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=oPywoSmkR9c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769611055928635,
+    "song_title": "No Fat Burger",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QIPsGTFEW3Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769611105162536,
+    "song_title": "Lookers",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wWEoQTvzoGM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769611108732417,
+    "song_title": "Eighteen",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Bn-SQiIw3Uw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769611111811550,
+    "song_title": "Full Circle",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-lJ40tg5sUw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769611114734962,
+    "song_title": "On Paper",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lrDROIv1_gI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769611155772960,
+    "song_title": "California Here We Go",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Bln9DQb1iCk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769611158650959,
+    "song_title": "Feel This",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=tkahgCMi7WE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769611190231343,
+    "song_title": "California Here We Go",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9CnOJu4TZj4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769611196164986,
+    "song_title": "Shameless Halo",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Fa8RmCf9CjI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769611248884358,
+    "song_title": "\"It Remembers\" (feat. Brendon Urie)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FrogoSmiAqU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769611255623944,
+    "song_title": "Bottom Feeder",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QmtRMoMWUKE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769611320186426,
+    "song_title": "Testosterone",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nua_PecICQM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769611326381830,
+    "song_title": "\"Skyscraper\" (feat. Julien Baker)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-LkMrraYCWg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769611332345500,
+    "song_title": "Crooked Smile",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jT5Jprtm1dQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769611338484727,
+    "song_title": "\"Skyscraper\" (feat. Julien Baker)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zkm_U9HD1wY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769611341456529,
+    "song_title": "Lookers",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JF8F_NTSwdc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769611346699409,
+    "song_title": "Servants Of Death",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=I4lZu4cXIoY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Refused"
+  },
+  {
+    "id": 1769611395018715,
+    "song_title": "What I Wish I Could Forget",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=u8w9zJmoRng",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769611412039836,
+    "song_title": "The Coin Has A Say",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kqQo2RQMWEM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769611417806145,
+    "song_title": "Victim Of Me",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ietY8t_YyX0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769611477216889,
+    "song_title": "Sing Me To Sleep",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=m3tlLpgzvAc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Avion Roe"
+  },
+  {
+    "id": 1769611479943580,
+    "song_title": "\"Play Your Cards Right\" (feat. Crazy 8)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OYmYSWCLgT4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769611538654475,
+    "song_title": "I Am The Cosmos",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gJW7GnlGnY0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Sidekicks"
+  },
+  {
+    "id": 1769611564722458,
+    "song_title": "Downfall",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=T3kCQpX0H8E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769611581003342,
+    "song_title": "Carving Flowers",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=u3koDaQDaUw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Avion Roe"
+  },
+  {
+    "id": 1769611583743903,
+    "song_title": "Spin The Bottle",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=S2MZ_qITZhg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "cover",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Cover Your Tracks"
+  },
+  {
+    "id": 1769611586759658,
+    "song_title": "Control and the Urge to Pray",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=D2uKr40-2Hk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Saosin"
+  },
+  {
+    "id": 1769611623143565,
+    "song_title": "Racing Toward A Red Light",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NX3YmSJSNyc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Saosin"
+  },
+  {
+    "id": 1769611626026518,
+    "song_title": "Good Mourning, America",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LKl_QZ2-Ulg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive."
+  },
+  {
+    "id": 1769611712383607,
+    "song_title": "The Silver String",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hc449MVJep0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Saosin"
+  },
+  {
+    "id": 1769612073389990,
+    "song_title": "I'm The One",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yOfvPNaNEMA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769612100765793,
+    "song_title": "True Brew",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EE1PPzauVKg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769612103424943,
+    "song_title": "Inte Vara Ägd",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uXflJXBK4bk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769612129417688,
+    "song_title": "War Inside Your Heart",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QIZBPZI2vzI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Beautiful Bodies"
+  },
+  {
+    "id": 1769612137890239,
+    "song_title": "Jezebel",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aEmJFOq-t2A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
+  },
+  {
+    "id": 1769612283125360,
+    "song_title": "\"Into the Rest\" (feat. Kellin Quinn)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Cp_xxSCRNTE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Avion Roe"
+  },
+  {
+    "id": 1769612294387750,
+    "song_title": "Darling",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FggLX6M1POI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "SayWeCanFly"
+  },
+  {
+    "id": 1769612426460765,
+    "song_title": "Crushed",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9m4685liWb0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769612469516508,
+    "song_title": "\"War On The Palaces\" (Live At Vacation Vinyl)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SK2Ayw3y3_o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Refused"
+  },
+  {
+    "id": 1769612533876501,
+    "song_title": "Dawkins Christ",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4sqx7jGPyTY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Refused"
+  },
+  {
+    "id": 1769612584113303,
+    "song_title": "Vice Grip",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5ItHNdrPEh0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769612915200420,
+    "song_title": "Françafrique",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HlppElW_DFY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Refused"
+  },
+  {
+    "id": 1769613048227946,
+    "song_title": "Pretty Little Thing",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=x20a3n__zuk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769613267389298,
+    "song_title": "Go Go Go",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=pgkvD9Eq3Ok",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sleeping With Sirens"
+  },
+  {
+    "id": 1769615918127077,
+    "song_title": "Precipice / All We Love We Leave Behind",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=akG2cFldO6I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616594871322,
+    "song_title": "Tender Abuse",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=S-L-xO21czs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616620322329,
+    "song_title": "On My Shield",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wg13Y5feplg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769617311677538,
+    "song_title": "Tucson, AZ)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=D9AjYIgcphg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "\"I Still Believe\" (Live at Rialto Theatre"
+  },
+  {
+    "id": 1769617689735644,
+    "song_title": "Yankee In A Chip Shop",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BLKPN0bpP9Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Matches"
+  },
+  {
+    "id": 1769617819606897,
+    "song_title": "In The Belly Of A Shark (video)",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hVNOd9hy9YA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Gallows"
+  },
+  {
+    "id": 1769617878381818,
+    "song_title": "\"Salty Eyes\" Music Video Making of...",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=js60nA4AwDg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "behind_scenes",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Matches"
+  },
+  {
+    "id": 1769617889299575,
+    "song_title": "Salty Eyes",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7_7xWNUqxxI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Matches"
+  },
+  {
+    "id": 1769618321950585,
+    "song_title": "Papercut Skin",
+    "year": 2016,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ERv4XZpfWE0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Matches"
+  },
+  {
+    "id": 1769828117804058,
+    "song_title": "The Lost Sky",
+    "year": 2016,
+    "artist_name": "Jesca Hoop",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Vyrwh0qRGEI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828161103255,
+    "song_title": "Union of Mind and Soul",
+    "year": 2016,
+    "artist_name": "Goat",
+    "artist_genre": "Hard Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=oLeu7YfJGC8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828184169647,
+    "song_title": "The Closing Door",
+    "year": 2016,
+    "artist_name": "LVL UP",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=IyutSPKKLg0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828187674494,
+    "song_title": "Stumblin' Man",
+    "year": 2016,
+    "artist_name": "TAD",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=RDHA3JiXUuU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828190695898,
+    "song_title": "Wood Goblins",
+    "year": 2016,
+    "artist_name": "TAD",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=eObop0waGII",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828198768033,
+    "song_title": "Some Sunsick Day",
+    "year": 2016,
+    "artist_name": "Morgan Delt",
+    "artist_genre": "psychedelic rock",
+    "youtube_link": "https://www.youtube.com/watch?v=A95QBLePeFw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828325290122,
+    "song_title": "Nice Night",
+    "year": 2016,
+    "artist_name": "Mass Gothic",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=DRrS5XftkRY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828440421290,
+    "song_title": "Eye of a Hurricane",
+    "year": 2016,
+    "artist_name": "Kyle Craft",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=lLE-VTq5PZ8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828442953786,
+    "song_title": "Volume Peaks",
+    "year": 2016,
+    "artist_name": "Arbor Labor Union",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=TNNNI4bC3do",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828525978095,
+    "song_title": "Every Songbird Says",
+    "year": 2016,
+    "artist_name": "Sam Beam and Jesca Hoop",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=eE-bo7Nr5XU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828597638216,
+    "song_title": "Valley Clouds",
+    "year": 2016,
+    "artist_name": "Sam Beam and Jesca Hoop",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=peegNkK9DoQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828600269154,
+    "song_title": "Feed Me",
+    "year": 2016,
+    "artist_name": "So Pitted",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=zzE3azTKybk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828708197488,
+    "song_title": "Into You",
+    "year": 2016,
+    "artist_name": "Low",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=wgp6ZnNsw5g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828736519684,
+    "song_title": "Quiet Americans",
+    "year": 2016,
+    "artist_name": "Shearwater",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=h2QQAvRjHh0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828780166919,
+    "song_title": "Every Night You've Got To Save Me",
+    "year": 2016,
+    "artist_name": "Mass Gothic",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=3_8qX3hJjM8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828785291383,
+    "song_title": "Cinnamon",
+    "year": 2016,
+    "artist_name": "Cullen Omori",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=e0VhpguxyFE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828788200500,
+    "song_title": "Eraser",
+    "year": 2016,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=lQmvGnTgmfE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

@@ -9856,5 +9856,145 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769617520429350,
+    "song_title": "Live at the Avalon",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ieJ2UUbe7_o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Poker Face"
+  },
+  {
+    "id": 1769617926384215,
+    "song_title": "Psalm For The Elks Lodge Last Call",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rw9GBDEb8w8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Weakerthans"
+  },
+  {
+    "id": 1769617960338451,
+    "song_title": "Diamonds & Guns",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TuWuoOX0yis",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Transplants"
+  },
+  {
+    "id": 1769618013520007,
+    "song_title": "The Reproduction Of Deat",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zTp524etVVc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The International Noise Conspiracy"
+  },
+  {
+    "id": 1769618035824281,
+    "song_title": "Dirty Love",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RgWRidzKXFg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Division Of Laura Lee"
+  },
+  {
+    "id": 1769618060656555,
+    "song_title": "I Don't Care As Long As You Sing (Video)",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DGpPhqnnOyg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Beatsteaks"
+  },
+  {
+    "id": 1769618066433370,
+    "song_title": "Hand In Hand (Video)",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mrOtqtQN84k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Beatsteaks"
+  },
+  {
+    "id": 1769618078100812,
+    "song_title": "Does Compute",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bixL45PiGp4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Division Of Laura Lee"
+  },
+  {
+    "id": 1769618297128728,
+    "song_title": "Note To Self",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1a4C_SxvITk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "From First To Last"
+  },
+  {
+    "id": 1769618313299658,
+    "song_title": "Ride The Wings Of Pestilence",
+    "year": 2004,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5yG6iw7AeWE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "From First To Last"
   }
 ]

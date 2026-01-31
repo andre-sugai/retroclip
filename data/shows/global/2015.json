@@ -38,5 +38,29 @@
     "artist_name": "Thanasis Katsadas",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=ZR8KGPMwU3w"
+  },
+    {
+    "id": 1769613843603557,
+    "song_title": "...Honor Is All We Know - Drive Along Album Stream",
+    "year": 2015,
+    "artist_name": "Rancid",
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=-MC4jx1SDEI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769613986656829,
+    "song_title": "Collision Course, Honor Is All We Know & Evil's My Friend",
+    "year": 2015,
+    "artist_name": "Rancid",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9SCF1zbsBfU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

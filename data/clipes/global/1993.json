@@ -4967,5 +4967,47 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769608118888368,
+    "song_title": "\"here we go again\" (feat. Kapteinen)",
+    "year": 1993,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MdIqruG3_HE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "plxntkid"
+  },
+  {
+    "id": 1769617982925413,
+    "song_title": "Struck A Nerve",
+    "year": 1993,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ysMC-vhuYPM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769618223564804,
+    "song_title": "Live",
+    "year": 1993,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qeWLYKFZZjU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Things He Carried"
   }
 ]

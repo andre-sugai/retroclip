@@ -477,7 +477,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                       <input
                         type="number"
                         min={selectedRegion === 'br' ? '1920' : '1950'}
-                        max="2025"
+                        max="2026"
                         step={mode === 'decade' ? 10 : 1}
                         value={value}
                         onChange={(e) => setValue(e.target.value)}

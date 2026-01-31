@@ -5436,13 +5436,18 @@
     "imvdb_url": "https://imvdb.com/video/fickle-friends/irl"
   },
   {
-    "id": 305768480638,
+    "id": 1769608460971354,
     "song_title": "Sober",
     "year": 2021,
-    "artist_name": "Adult Mom",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=m3q_CGXj2n0",
-    "imvdb_url": "https://imvdb.com/video/adult-mom/sober"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "behind_scenes",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
   },
   {
     "id": 239796555330,
@@ -6579,13 +6584,18 @@
     "imvdb_url": "https://imvdb.com/video/coldplay/higher-power"
   },
   {
-    "id": 228763885822,
-    "song_title": "Sorry",
+    "id": 1769608474038304,
+    "song_title": "\"Sorry\" (Official Video)",
     "year": 2021,
-    "artist_name": "Danny Elfman",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=9sSLLRGC6tM",
-    "imvdb_url": "https://imvdb.com/video/danny-elfman/sorry"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
   },
   {
     "id": 175669767816,
@@ -7551,13 +7561,18 @@
     "imvdb_url": "https://imvdb.com/video/quelle-rox/waves"
   },
   {
-    "id": 101799083379,
-    "song_title": "True",
+    "id": 1769608302413569,
+    "song_title": "\"True\" (Official Video)",
     "year": 2021,
-    "artist_name": "Danny Elfman",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=X2NARGrx3uM",
-    "imvdb_url": "https://imvdb.com/video/danny-elfman/true"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
   },
   {
     "id": 155582898580,
@@ -11214,13 +11229,18 @@
     "imvdb_url": "https://imvdb.com/video/haiku-hands/conclusions"
   },
   {
-    "id": 325310240208,
+    "id": 1769608471504568,
     "song_title": "Yellowbelly",
     "year": 2021,
-    "artist_name": "Teenage Wrist",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=6-yAUmx3JNc",
-    "imvdb_url": "https://imvdb.com/video/teenage-wrist/yellowbelly"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
   },
   {
     "id": 161370921997,
@@ -25173,13 +25193,18 @@
     "imvdb_url": "https://imvdb.com/video/jacquees/freaky-as-me"
   },
   {
-    "id": 162012868037,
-    "song_title": "Kick Me",
+    "id": 1769608334467181,
+    "song_title": "\"Kick Me\" (Official Video)",
     "year": 2021,
-    "artist_name": "Danny Elfman",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=PAtU3pjdWfA",
-    "imvdb_url": "https://imvdb.com/video/danny-elfman/kick-me"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
   },
   {
     "id": 311127523525,
@@ -25812,13 +25837,18 @@
     "imvdb_url": "https://imvdb.com/video/aniqo/deep-sea-fish"
   },
   {
-    "id": 167409222703,
+    "id": 1769607938157938,
     "song_title": "Post-Boredom",
     "year": 2021,
-    "artist_name": "Every Time I Die",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=_1O1CuUuRWw",
-    "imvdb_url": "https://imvdb.com/video/every-time-i-die/post-boredom"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
   },
   {
     "id": 315650867889,
@@ -31518,13 +31548,18 @@
     "imvdb_url": "https://imvdb.com/video/spencer-2/lonely-as-i-ever-was"
   },
   {
-    "id": 127782893217,
-    "song_title": "Love In The Time Of Covid",
+    "id": 1769608436519584,
+    "song_title": "\"Love In The Time Of Covid\" (Official Video)",
     "year": 2021,
-    "artist_name": "Danny Elfman",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=AWXyT_ijM3E",
-    "imvdb_url": "https://imvdb.com/video/danny-elfman/love-in-the-time-of-covid"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
   },
   {
     "id": 178769424091,
@@ -32697,5 +32732,2001 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769606420484407,
+    "song_title": "Firehawk",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aOlKSj74CSw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769606511310775,
+    "song_title": "Run The World",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=YKKPPDvn3lc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Chad Tepper & Bryce Vine"
+  },
+  {
+    "id": 1769606980164757,
+    "song_title": "Steady As She Goes",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WFEyURoqZI4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769607023762879,
+    "song_title": "\"Bury Me (Tonight!)\" (Live at the Barber Shop Studios)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ANh7e51pEEw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769607029191199,
+    "song_title": "\"Face Down\" (Live at Cherry Soda Studios)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Kb26pTeOO5k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769607031864606,
+    "song_title": "\"Sharpen Your Teeth\" (Live at the Barber Shop Studios)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RC5hPQ8P_yA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769607048351485,
+    "song_title": "\"Another Kill For The Highlight Reel\" (Live at the Barber Shop Studios)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rITA7FsS6Jg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769607117814900,
+    "song_title": "\"In Time\" (feat. Blixa Bargeld) (Official Video)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ReDNI93ojcQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769607166004470,
+    "song_title": "Don't Lay Me Down",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UZobkNFjvVE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jim Lindberg"
+  },
+  {
+    "id": 1769607254189455,
+    "song_title": "Serious",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vBGpoxbApGA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607279069494,
+    "song_title": "A.M. Gothic",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GgCf9gxu4Jc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769607281822266,
+    "song_title": "High Again",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vo8vkHpVmeU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769607368586828,
+    "song_title": "\"Girl Next Door\" (feat. lil aaron)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=pTQ0lMstvWM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769607435929607,
+    "song_title": "\"Deja Vu\" (feat. Action/Adventure)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FyHXCMxtRZ8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607446481986,
+    "song_title": "Good Enough",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xHo2WQXurA4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jim Lindberg"
+  },
+  {
+    "id": 1769607480052118,
+    "song_title": "\"Storm Clouds\" (feat. Guardin)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0xwLILQtAqA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607509574126,
+    "song_title": "\"In Time\" (Official Video)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nQ022pvlKOk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769607527825067,
+    "song_title": "Kids Like Us",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bviINETYMH4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607539390616,
+    "song_title": "\"Missile Command\" (Live at Vinegar Hill Studios)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=w6eWeb6DLVc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769607544783527,
+    "song_title": "2009",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=141YoeLrMws",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607555704690,
+    "song_title": "You're Not Alone",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=pIVONe1veIQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jim Lindberg"
+  },
+  {
+    "id": 1769607606938197,
+    "song_title": "10 For 10",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dKKfVPfOwZ4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607615286988,
+    "song_title": "\"Regret It\" (Live)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Ner_Lb7FDEg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769607623119641,
+    "song_title": "\"Checking Up\" (Live)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=w093BnPAF9M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Adult Mom"
+  },
+  {
+    "id": 1769607648346360,
+    "song_title": "\"Lightning Field\" (Live at Vinegar Hill Studios)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8w_OQJ2RlXc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769607653859471,
+    "song_title": "Coil",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=591_kaZf1oM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769607656479541,
+    "song_title": "Liar",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4reeZOt3GJA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607694508254,
+    "song_title": "\"Robot Soft Exorcism\" (Amulets Remix)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dwx_gcnzy80",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769607711512531,
+    "song_title": "Thing With Feathers",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=06mgL0GK--Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769607738587452,
+    "song_title": "Reaper",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=f09sh7zZ9_0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607741740228,
+    "song_title": "Sentry",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CKpjP-awk78",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607744332192,
+    "song_title": "2009",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=x_F1BfJueOE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607747123167,
+    "song_title": "You're Not Alone",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qto-m0YlhS0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Jim Lindberg"
+  },
+  {
+    "id": 1769607749932842,
+    "song_title": "“Sharpen Your Teeth” [Theatrical Version]",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=t4SLLX_yNXY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769607783389569,
+    "song_title": "Trouble",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MVtThQWD3ZY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769607786126706,
+    "song_title": "\"Inversion\" (Live at Vinegar Hill Studios)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qzE62-RHsL0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769607791412404,
+    "song_title": "Back Home",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sVFa3stpdeU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Magnolia Park"
+  },
+  {
+    "id": 1769607796559392,
+    "song_title": "Blood Moon",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=a-7uiDx45JM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769607847823852,
+    "song_title": "\"Brushed\" (Live at Vinegar Hill Studios)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=68Go-cmC52c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769607853652736,
+    "song_title": "Planet Shit",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7IvWESzWBtE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769607888848632,
+    "song_title": "Bury Me (Tonight!)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xxNO30d7i1E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769607894499359,
+    "song_title": "Summer Set Fire to the Rain",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ubR5BgsMqPw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769607907782626,
+    "song_title": "Watch You Burn",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZRtNh9TmmPc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "DRAIN"
+  },
+  {
+    "id": 1769607910297382,
+    "song_title": "Get Out Of The Woods",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bVeRwBcSEho",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769607932724941,
+    "song_title": "GLITTER",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jAEPcRD0R2Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Save Face"
+  },
+  {
+    "id": 1769607935274675,
+    "song_title": "Unity",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lD_koara0Yo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Muslims"
+  },
+  {
+    "id": 1769607940831195,
+    "song_title": "\"Colossus\" (Live at Vinegar Hill Studios)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gOSWyHYmc44",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769607968192310,
+    "song_title": "Robot Soft Exorcism",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SsRjJ0BrbVI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769607973902132,
+    "song_title": "Sea Level",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0dlR-9cbhe8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dan Andriano & The Bygones"
+  },
+  {
+    "id": 1769608038943698,
+    "song_title": "Rooftop",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=z5w6r7-_lTY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769608052512372,
+    "song_title": "Scavengers",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=27BQY-h9MdU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769608101066122,
+    "song_title": "Brushed",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3LxQbURUGDY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769608103842870,
+    "song_title": "Scavengers",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=j6dHBYMkkfA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Thrice"
+  },
+  {
+    "id": 1769608111305434,
+    "song_title": "The Hunter",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0f0TtPNPbNk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769608113734758,
+    "song_title": "Fuck These Fuckin Fascists",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Q-7-DDgUh_E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Muslims"
+  },
+  {
+    "id": 1769608116321437,
+    "song_title": "Think Of Me Tonight",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_BVSiGEyUfY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769608121756861,
+    "song_title": "Like The Way I Know",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uFt_RX3M4wM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769608124394075,
+    "song_title": "Missile Command",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=p8yGlK8cZek",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769608127062530,
+    "song_title": "NIGGA DONT UPLIFT ME",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=baezUGut2lc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Soul Glo"
+  },
+  {
+    "id": 1769608129716608,
+    "song_title": "YERRRNIN",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=53qNaom_RYM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Soul Glo"
+  },
+  {
+    "id": 1769608132354761,
+    "song_title": "B.O.M.B.S.",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yxFchFyVzwI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Soul Glo"
+  },
+  {
+    "id": 1769608137742693,
+    "song_title": "Ambrosia",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AAIt3s5SexE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rosie Tucker"
+  },
+  {
+    "id": 1769608142766754,
+    "song_title": "Serious Ground",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=skjkbSM_3n0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608145506669,
+    "song_title": "Everybody Loves You",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=r5DGTcsv-uU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608148166655,
+    "song_title": "Get Over It",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lC5yS5_s8YA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608150949828,
+    "song_title": "In Time",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dl7mc6GaE2g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608156534301,
+    "song_title": "We Belong",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=K0aJR2q_8zE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608159343345,
+    "song_title": "Native Intelligence",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HjdKaUvUSd8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608162184153,
+    "song_title": "Devil Take Away",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FdafPAw7YAg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608165242828,
+    "song_title": "Dance With The Lemurs",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7xtrGNlJu18",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608168182934,
+    "song_title": "Cruel Compensation",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4r1dSZZ_JEI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608170859379,
+    "song_title": "Choose Your Side",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3MxzWLHMkj4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608173370516,
+    "song_title": "Just A Human",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=eIHwHbIV6uE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608176097318,
+    "song_title": "Daydreams / Heartbreaks",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NLVx_zkqp3k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769608196322960,
+    "song_title": "\"Insects\" (Official Video)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PMMs2AvEIIA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608202061118,
+    "song_title": "\"Racist, Sexist Boy\" (Live at LA Public Library)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=J5AhU5Q7vH0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Linda Lindas"
+  },
+  {
+    "id": 1769608204824417,
+    "song_title": "To Lose You",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6u1d3Y8SvOM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769608207324047,
+    "song_title": "Darling",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=FT2eaBsNn84",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769608209830489,
+    "song_title": "Pigs Is Pigs",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DE2rLAbqzyc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769608215002946,
+    "song_title": "\"Wear U Down\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1gaV1DoxQIM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608217660341,
+    "song_title": "\"New Emotion\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zD-HPizNcvs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608220025090,
+    "song_title": "\"Mary\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lN7VSuXKRIQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608222838259,
+    "song_title": "\"Earth Is A Black Hole\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lVMYExQfPQQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608225456029,
+    "song_title": "\"Yellowbelly\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ijAvdPRORPc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608228315509,
+    "song_title": "\"Stoned, Alone\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gX1yUCcdEu4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608230893966,
+    "song_title": "\"Waitress\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Z4O-sT4YZ6c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608233701611,
+    "song_title": "\"Silverspoon\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QM9i2BkYCqg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608236450116,
+    "song_title": "\"Taste Of Gasoline\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=My8ELHE4eUA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608239351350,
+    "song_title": "\"Dweeb\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=46fvIP1wsmc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608241920158,
+    "song_title": "\"Sparkle / Fade\" (Live At Kingsize Soundlabs)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-UuQ9MuQfLE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608247670642,
+    "song_title": "I Hate Myself",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=W4K3Z1XgNFU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769608283674382,
+    "song_title": "Perfect",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_qnvvya2Qhk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769608299517197,
+    "song_title": "Inversion",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5EGaRsbJcIs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769608304843199,
+    "song_title": "\"Complain\" (COFRESI Remix) (Official Video)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DwnMD26GP14",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769608312845097,
+    "song_title": "\"Complain\" (COFRESI Remix) (Visualizer)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lrsDFCyTefA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "remix",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769608315346073,
+    "song_title": "Habanero",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JtFxO85oaSM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rosie Tucker"
+  },
+  {
+    "id": 1769608318011956,
+    "song_title": "Control",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9C_tFlCkWVM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Mannequin Pussy"
+  },
+  {
+    "id": 1769608320800879,
+    "song_title": "Sports With Strangers",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5l6IY67-x_w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769608339768839,
+    "song_title": "\"Selfish\" (feat. SadBoyProlific)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vFvUQv7iviE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769608366710034,
+    "song_title": "ROLLING LOUD, HEAR MY CRY",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ji2ByB8BxTU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Soul Glo"
+  },
+  {
+    "id": 1769608369429335,
+    "song_title": "FL STYLE PERMZ",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dQDav_sZZnA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Soul Glo"
+  },
+  {
+    "id": 1769608372076809,
+    "song_title": "\"SCREAMO DEL BARRIO\" (FT. JUANCHIZETA)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QHS2yY_UvHE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Soul Glo"
+  },
+  {
+    "id": 1769608406837724,
+    "song_title": "Meteor",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lm7ejB08cbQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769608414757740,
+    "song_title": "\"Girl Next Door\" (feat. lil aaron)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Qh0AEzNwswc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "LiL Lotus"
+  },
+  {
+    "id": 1769608417626928,
+    "song_title": "I'm Not A Vampire (Revamped)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2nWmBJxW9q0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769608442537643,
+    "song_title": "Meteor",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=npD3ID4_F00",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769608453308640,
+    "song_title": "Dying To Know",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=K8dRfRyX2XA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Justin Courtney Pierre"
+  },
+  {
+    "id": 1769608482168496,
+    "song_title": "\"Misconception\" (feat. SadBoyProlific)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=d1BaelIMZ8o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769608484687126,
+    "song_title": "A Colossal Wreck",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=p6QrXMwoLKg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769608487254938,
+    "song_title": "Desperate Pleasures",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=aVFXpYTqcPk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769608500570239,
+    "song_title": "Taste Of Gasoline",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NgC6_B4jfco",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608503384000,
+    "song_title": "Black Lungs",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=W69ow97hqbI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Architects"
+  },
+  {
+    "id": 1769608577315188,
+    "song_title": "\"Happy\" (Official Video)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=y3xKyWemAr0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Danny Elfman"
+  },
+  {
+    "id": 1769608579955640,
+    "song_title": "Earth Is A Black Hole",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Czrv46nFT7I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769608703804246,
+    "song_title": "Silverspoon",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ra2RZ_gBYdU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769617977131326,
+    "song_title": "When I Get Old",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Zxr4V7TnWmk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769618335746086,
+    "song_title": "Earth Is A Black Hole (Live at Kingsize)",
+    "year": 2021,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BXaC1Jid97M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Teenage Wrist"
+  },
+  {
+    "id": 1769825619560331,
+    "song_title": "Fruits Of My Labour",
+    "year": 2021,
+    "artist_name": "Bria Salmena",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=JQAXb-6rYWs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825630209827,
+    "song_title": "Never Be Another You",
+    "year": 2021,
+    "artist_name": "Shaina Shepherd",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=6yEncyKbB3A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825635329814,
+    "song_title": "Fade",
+    "year": 2021,
+    "artist_name": "Aeon Station",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=0DKl7aAKis8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825657033221,
+    "song_title": "The Sun Ain't Gonna Shine Anymore",
+    "year": 2021,
+    "artist_name": "Bria Salmena",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=DL4uHs-L_bs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825662272102,
+    "song_title": "Light the Torch",
+    "year": 2021,
+    "artist_name": "Ya Tseen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=uhIsqHSUPfg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825686886242,
+    "song_title": "Green Rocky Road",
+    "year": 2021,
+    "artist_name": "Bria Salmena",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=YPzVvVa4US4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825690047099,
+    "song_title": "Into the Drink",
+    "year": 2021,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=9KtlBeCRL8M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769825692482531,
+    "song_title": "Fuzzgun '91",
+    "year": 2021,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=HZEJ146GJnc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769825697986663,
+    "song_title": "Who You Drivin' Now?",
+    "year": 2021,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=IDig1HgTDLE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769825708979017,
+    "song_title": "Back in That Time (feat. Qacung)",
+    "year": 2021,
+    "artist_name": "Ya Tseen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=3-FrL1eFIb0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769825714437594,
+    "song_title": "Generation Genocide",
+    "year": 2021,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=fuKHWeu79EY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769825717221197,
+    "song_title": "Ounce of Deception",
+    "year": 2021,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=hKCe9NtSPxo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769825719957461,
+    "song_title": "Rare to Wake",
+    "year": 2021,
+    "artist_name": "Shannon Lay",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=fQ18ZZznLZE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825722535379,
+    "song_title": "This Solemn Day",
+    "year": 2021,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=0l-kuftKVSI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769825725256649,
+    "song_title": "Synthetic Gods (feat. Shabazz Palaces & Stas THEE Boss)",
+    "year": 2021,
+    "artist_name": "Ya Tseen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=i8WcQSvK6s8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825727968710,
+    "song_title": "Sundown",
+    "year": 2021,
+    "artist_name": "Hannah Jadagu",
+    "artist_genre": "bedroom pop",
+    "youtube_link": "https://www.youtube.com/watch?v=IyrwJ5rN0HE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825733188514,
+    "song_title": "A Feeling Undefined",
+    "year": 2021,
+    "artist_name": "Ya Tseen feat. Nick Hakim & Iska Dhaaf",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=8M95sOLPya8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769825738477559,
+    "song_title": "Calm on the Valley",
+    "year": 2021,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=EWMzTPmXDGE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769825740969932,
+    "song_title": "My Life",
+    "year": 2021,
+    "artist_name": "Sheltered Workshop Singers feat. Bill Frisell",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=lXxF-Jpg8ZY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769825743504185,
+    "song_title": "What is Going On?",
+    "year": 2021,
+    "artist_name": "Hannah Jadagu",
+    "artist_genre": "bedroom pop",
+    "youtube_link": "https://www.youtube.com/watch?v=8o-ALEKKKl0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825749077649,
+    "song_title": "Knives",
+    "year": 2021,
+    "artist_name": "Ya Tseen ft. Portugal. The Man",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=wrtedcgHdGI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825751635469,
+    "song_title": "Acquainted with Night",
+    "year": 2021,
+    "artist_name": "Lael Neale",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=J1bsJrdMwiE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825754231653,
+    "song_title": "Sugar Pill",
+    "year": 2021,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=fn2sGoilOWg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825756895534,
+    "song_title": "Think Too Much",
+    "year": 2021,
+    "artist_name": "Hannah Jadagu",
+    "artist_genre": "bedroom pop",
+    "youtube_link": "https://www.youtube.com/watch?v=WG-Vq4FYN3Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825759580416,
+    "song_title": "Close the Distance",
+    "year": 2021,
+    "artist_name": "Ya Tseen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=WzCIn2dtJMY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825765288085,
+    "song_title": "Maid Marian's Toast",
+    "year": 2021,
+    "artist_name": "Kiwi Jr.",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=ckKEtPdzjkM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825770561539,
+    "song_title": "Blue Vein",
+    "year": 2021,
+    "artist_name": "Lael Neale",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=XQ4KobnpZcY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825773338225,
+    "song_title": "Waiting in Line",
+    "year": 2021,
+    "artist_name": "Kiwi Jr.",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=jpQX2DhtE-0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769825776049505,
+    "song_title": "Press Gang",
+    "year": 2021,
+    "artist_name": "TV Priest",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=XMT9f_apQU4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

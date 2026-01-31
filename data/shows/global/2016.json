@@ -134,5 +134,17 @@
     "artist_name": "The Strombo Show /  House of Strombo",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=ue5q5cpo8E4"
+  },
+  {
+    "id": 1769618338493243,
+    "song_title": "LIVE at Open'er Festival!",
+    "year": 2016,
+    "artist_name": "Refused",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BKzLrAi0r8M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
   }
 ]

@@ -8029,5 +8029,145 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769606296832564,
+    "song_title": "Cold World",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=us4ZxBcgvqA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death Lens"
+  },
+  {
+    "id": 1769607347490089,
+    "song_title": "Dancing With Your Silhouette",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=IoGSqMc1-z0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769608803159818,
+    "song_title": "Just Be Around",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ivdzi6aRCO0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "smrtdeath"
+  },
+  {
+    "id": 1769609246173595,
+    "song_title": "\"Saturday Night\" (feat. Bleached)",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bwLJ548MwTQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "HUNNY"
+  },
+  {
+    "id": 1769609879473950,
+    "song_title": "15,000 Steps Through London",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nYZEKExyeH8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769612241092450,
+    "song_title": "Panic",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QQb6PJZp2k0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Beatsteaks"
+  },
+  {
+    "id": 1769612291822644,
+    "song_title": "Live @ DTH Studios in Moscow",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-v70GAP09Co",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Retox"
+  },
+  {
+    "id": 1769617951969919,
+    "song_title": "Straight Ahead",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5keteY4_P-o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769617997820361,
+    "song_title": "Gotta Get Away",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=C6jz1hewTzA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Offspring"
+  },
+  {
+    "id": 1769618005722063,
+    "song_title": "The Process Of Belief EPK",
+    "year": 1999,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wAq-84Qy0hM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
   }
 ]

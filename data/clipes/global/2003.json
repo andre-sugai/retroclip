@@ -9314,5 +9314,187 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769606680331703,
+    "song_title": "Our Retired Explorer (Dines With Michel Foucault In Paris, 1961)",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=myCbQOPPNcA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Weakerthans"
+  },
+  {
+    "id": 1769606809219323,
+    "song_title": "Bloated",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zK9pgKSlMEw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "FRED"
+  },
+  {
+    "id": 1769611589304874,
+    "song_title": "\"Crushed\" (Live)",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sEKsTOipfJk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769612246526176,
+    "song_title": "Building The IRE Artwork",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RihemzwcwUY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769615547059367,
+    "song_title": "Tiger Lily",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bB54GBcUoxk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Matchbook Romance"
+  },
+  {
+    "id": 1769617215571813,
+    "song_title": "This Could Be Love",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DS58AC3NqU8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alkaline Trio"
+  },
+  {
+    "id": 1769617909143832,
+    "song_title": "DJ DJ",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NWhHZ3iaxxI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Transplants"
+  },
+  {
+    "id": 1769617991346629,
+    "song_title": "Stories And Alibis EPK",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9kx2CbeEsW8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Matchbook Romance"
+  },
+  {
+    "id": 1769618011188221,
+    "song_title": "Live From The Russian Compound",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RpLmTAFk9LQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Locust"
+  },
+  {
+    "id": 1769618040955149,
+    "song_title": "Walk Away",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lPT6NY31qzs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dropkick Murphys"
+  },
+  {
+    "id": 1769618092212794,
+    "song_title": "Voices EPK",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ns20k05go1E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Matchbook Romance"
+  },
+  {
+    "id": 1769618108312029,
+    "song_title": "Stories And Alibis TV Commercial",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=x4Ty0nST8DI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Matchbook Romance"
+  },
+  {
+    "id": 1769618330450312,
+    "song_title": "The Future Freaks Me Out (Live)",
+    "year": 2003,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ytZk01vcGFE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
   }
 ]

@@ -36090,13 +36090,18 @@
     "imvdb_url": "https://imvdb.com/video/jason-mraz/93-million-miles"
   },
   {
-    "id": 165803425315,
+    "id": 1769616940892004,
     "song_title": "Engine 45",
     "year": 2012,
-    "artist_name": "The Ghost Inside",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=wzS5-AjJ71E",
-    "imvdb_url": "https://imvdb.com/video/the-ghost-inside/engine-45"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
   },
   {
     "id": 969400009308,
@@ -38322,13 +38327,18 @@
     "imvdb_url": "https://imvdb.com/video/lil-poopy/pop-that-remix"
   },
   {
-    "id": 150165867148,
+    "id": 1769617011310234,
     "song_title": "DJ",
     "year": 2012,
-    "artist_name": "Skip The Foreplay",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=wyGfoeFPpjk",
-    "imvdb_url": "https://imvdb.com/video/skip-the-foreplay/dj"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
   },
   {
     "id": 112838781395,
@@ -46062,13 +46072,18 @@
     "imvdb_url": "https://imvdb.com/video/il-teatro-degli-orrori/non-vedo-lora"
   },
   {
-    "id": 225072123869,
-    "song_title": "Good Girls, Bad Guys",
+    "id": 1769616924035451,
+    "song_title": "Good Girls Bad Guys",
     "year": 2012,
-    "artist_name": "Falling In Reverse",
-    "artist_genre": "Desconhecido",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=Ga2r8bpzo5k",
-    "imvdb_url": "https://imvdb.com/video/falling-in-reverse/good-girls-bad-guys"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
   },
   {
     "id": 127822542902,
@@ -57989,6 +58004,1374 @@
     "artist_name": "Soulfly",
     "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=T_EPTbMPtdc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769606589506446,
+    "song_title": "SOS",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qH4Ipius1s8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "FRED"
+  },
+  {
+    "id": 1769609673595415,
+    "song_title": "Live At The Observatory",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BembJ7YkC48",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Frights"
+  },
+  {
+    "id": 1769609932749503,
+    "song_title": "\"Amends\" (Live)",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=l5DT60JfTuQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769616584008991,
+    "song_title": "Revolution",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jne4GOH0cDA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769616586765713,
+    "song_title": "Invincible",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rU0KzNy53uo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Our Last Night"
+  },
+  {
+    "id": 1769616597689206,
+    "song_title": "Trespasses",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Qrq4d7UkwdY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616600535961,
+    "song_title": "Sadness Comes Home",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ncyUDtp_rJk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616603569023,
+    "song_title": "Empty On The Inside",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=e_otN_P20WU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616606209712,
+    "song_title": "Sparrow's Fall",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RBLrxPZ7FM4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616609181050,
+    "song_title": "Glacial Pace",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4eji87lXFmc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616611734199,
+    "song_title": "Veins And Veils",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SAAmfyfKe5k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616614666400,
+    "song_title": "Vicious Muse",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HAIVTO88_iM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616617226450,
+    "song_title": "No Light Escapes",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4zLiIYhImqo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616622787421,
+    "song_title": "Coral Blue",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=e6JcHaJBLyY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616625378919,
+    "song_title": "Shame In The Way",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TK53MlKvtD0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616627971767,
+    "song_title": "Precipice",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MyJp6DXHdQE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616630790802,
+    "song_title": "All We Love We Leave Behind",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=fyJz_V9jnlM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616633727416,
+    "song_title": "Runaway",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bjxuznjEwyA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616636229690,
+    "song_title": "Predatory Glow",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=57AxornaiRQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769616662394841,
+    "song_title": "ST4P",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NNTQkYt_Nkw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616665321949,
+    "song_title": "DTK",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=s2E8OBglkEc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616667966176,
+    "song_title": "Hawaiian Killer",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NCWqQpyiOKA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616670790151,
+    "song_title": "Dom Perignon",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xX7SPg_eN24",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616673476938,
+    "song_title": "Dinner With Snooki",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0rwfMORocE8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616676174420,
+    "song_title": "Shots",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EF8O18VIfl4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616678998757,
+    "song_title": "Date Rape Predator",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6XiNtpcXPAA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616681686744,
+    "song_title": "Destination Nowhere",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=W1_BUvwasUk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616684339092,
+    "song_title": "Hangover",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=YYO2xFw96Hg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616695575242,
+    "song_title": "Note To Self",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_bEK0s69pcM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616698451700,
+    "song_title": "Failed States",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CVCk10dvYU4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616701141332,
+    "song_title": "Devil's Creek",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5S1LS0FI4A0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616703843316,
+    "song_title": "Rattan Cane",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GAaP_ol9yc8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616706575999,
+    "song_title": "Hadron Collision",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=M6Cp-Ky0QV4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616709394934,
+    "song_title": "Status Update",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WRrtTt5k3q4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616712131680,
+    "song_title": "Cognitive Suicide",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sd1x4QWUkzA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616715065580,
+    "song_title": "Things I Like",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=L6r9_sDC0fI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616717736050,
+    "song_title": "Unscripted Moment",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dRALVAFiKw0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616720448651,
+    "song_title": "Dark Matters",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=T62Yys6v6ZM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616722967834,
+    "song_title": "Lotus Gait",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wLmz9-frOIU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769616728867915,
+    "song_title": "This Is What I Know About Sacrifice",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=coM4EozF8nc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769616751045672,
+    "song_title": "Dark Days",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_7lpftvYDMA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Parkway Drive"
+  },
+  {
+    "id": 1769616753834789,
+    "song_title": "Lifestyle",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0sUtgOJa134",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616756541930,
+    "song_title": "Self Made",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1zUmKco7aTo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616759196849,
+    "song_title": "Garde La Tete Froide",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XVXzTpmXbmg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616761780352,
+    "song_title": "Grim",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9-jz2An1v2Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616764541582,
+    "song_title": "Time For A Change",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3rpd6Ucg-4g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616767103839,
+    "song_title": "Unstoppable",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1ryZnTe1DY4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616770195772,
+    "song_title": "Early Graves",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JDZZ78AYkI4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616772831299,
+    "song_title": "Burning Bridges",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=z95Fz3GTcvM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616842963704,
+    "song_title": "It Starts Today",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xyfkTG5QqtY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616853942215,
+    "song_title": "Mash It Up",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=g8vz95wYX_g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769616856865390,
+    "song_title": "\"Dark Horse\" Song Meaning Webisode",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uvk_w8DCPfI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769616878768045,
+    "song_title": "Live And Learn",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mLuBW9toVow",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769616883829500,
+    "song_title": "Invincible",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bACZG8FaZEo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Our Last Night"
+  },
+  {
+    "id": 1769616918747162,
+    "song_title": "Liberate Me",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=h-NKWlb7oi4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Our Last Night"
+  },
+  {
+    "id": 1769616929664011,
+    "song_title": "Summer Fling, Don't Mean A Thing",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=98lJRvJoMUA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "New Found Glory"
+  },
+  {
+    "id": 1769616932403594,
+    "song_title": "True Romance",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=gwd9a75g_js",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Motion City Soundtrack"
+  },
+  {
+    "id": 1769617008464969,
+    "song_title": "Nice Things",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=taVKO8BeDIw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769617033741128,
+    "song_title": "Let Us Hear Your Voice",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ig7eSGtYelg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769617045237300,
+    "song_title": "All Or Nothing",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7vWEkf-Os-c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769617061893594,
+    "song_title": "Revival Mode",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AEp-Owhqbr0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Every Time I Die"
+  },
+  {
+    "id": 1769617064875699,
+    "song_title": "This City (We're Taking Over)",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9nOxS1Tivzs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Skip The Foreplay"
+  },
+  {
+    "id": 1769617067629382,
+    "song_title": "Muther",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wOrfpzPfVXA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "letlive."
+  },
+  {
+    "id": 1769617089161920,
+    "song_title": "Longitudinal Centre",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hhzguOsr7WI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "John K. Samson"
+  },
+  {
+    "id": 1769617094247752,
+    "song_title": "Gates",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=RcAgBQ4o6k4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769617099829556,
+    "song_title": "Letter In Icelandic From The Ninette San",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=a_AcqpqXGGE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "John K. Samson"
+  },
+  {
+    "id": 1769617110505379,
+    "song_title": "When I Write My Master's Thesis",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_S5UpGx6470",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "John K. Samson"
+  },
+  {
+    "id": 1769617118624049,
+    "song_title": "Lullaby Of The Crucified",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_Pm2Xfwy5ZA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Alesana"
+  },
+  {
+    "id": 1769617127034286,
+    "song_title": "The Obituaries",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SI7H4gfrzPo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769617354271091,
+    "song_title": "It Never Ends",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=E_Vez_aKIyI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "id": 1769617477680591,
+    "song_title": "The Road",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=YfT0b2INxO4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Frank Turner"
+  },
+  {
+    "id": 1769618258333132,
+    "song_title": "I'm Shipping Up To Boston [OFFICIAL VIDEO]",
+    "year": 2012,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9BMv4kecwEQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dropkick Murphys"
+  },
+  {
+    "id": 1769830114284575,
+    "song_title": "Kingfisher Call Me",
+    "year": 2012,
+    "artist_name": "The Ruby Suns",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=kykALxtgKDs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830124759863,
+    "song_title": "Stuck Together",
+    "year": 2012,
+    "artist_name": "Spoek Mathambo",
+    "artist_genre": "House",
+    "youtube_link": "https://www.youtube.com/watch?v=49e_AeMotDs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830127485343,
+    "song_title": "Tidal Wave",
+    "year": 2012,
+    "artist_name": "Husky",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=FpJuUNGsnMU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830130214916,
+    "song_title": "Holiday",
+    "year": 2012,
+    "artist_name": "Poor Moon",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=6QoXyp11xeM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830132604790,
+    "song_title": "Wet Blanket",
+    "year": 2012,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=krGDNbT4CSE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830143337468,
+    "song_title": "Naked",
+    "year": 2012,
+    "artist_name": "Sera Cahoone",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=-YWR7ZM7xQE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830146056982,
+    "song_title": "Lord Knows",
+    "year": 2012,
+    "artist_name": "Dum Dum Girls",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=q3f9ZiH6Euw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830153532990,
+    "song_title": "Hall of Mirrors",
+    "year": 2012,
+    "artist_name": "The Helio Sequence",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=9VvPB5yAgyw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830171205978,
+    "song_title": "Alone & Stoned",
+    "year": 2012,
+    "artist_name": "King Tuff",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=g3hnMDx0PIo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830189388105,
+    "song_title": "A Dedication",
+    "year": 2012,
+    "artist_name": "Washed Out",
+    "artist_genre": "Dance",
+    "youtube_link": "https://www.youtube.com/watch?v=noS61QN9nag",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830195202799,
+    "song_title": "Forget The Song",
+    "year": 2012,
+    "artist_name": "Beachwood Sparks",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=mZNklrdSonc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830206188573,
+    "song_title": "Girl In A Coat",
+    "year": 2012,
+    "artist_name": "Blitzen Trapper",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=_yGegwEI9hc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830219581971,
+    "song_title": "Perfect Ten",
+    "year": 2012,
+    "artist_name": "Jaill",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=oEbcTmvnngI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830234983228,
+    "song_title": "Bad Thing",
+    "year": 2012,
+    "artist_name": "King Tuff",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=Eghg8092l_E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830237576366,
+    "song_title": "House With Haunting",
+    "year": 2012,
+    "artist_name": "Jaill",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=t3ayt4GXFWw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830240329371,
+    "song_title": "Maharisha",
+    "year": 2012,
+    "artist_name": "Retribution Gospel Choir",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=zaDzVveJpXw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830269387054,
+    "song_title": "Stranger In A Strange Land",
+    "year": 2012,
+    "artist_name": "Blitzen Trapper",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=RkD9VUt11Fo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830271929474,
+    "song_title": "QueenS",
+    "year": 2012,
+    "artist_name": "THEESatisfaction",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=qGWFBt_IPOg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830277232354,
+    "song_title": "You as You Were",
+    "year": 2012,
+    "artist_name": "Shearwater",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=mBLB-_b3_Jk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830280510933,
+    "song_title": "Coming Down",
+    "year": 2012,
+    "artist_name": "Dum Dum Girls",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=sZdbNMDH8hc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830283296517,
+    "song_title": "The Stone (Revolution!)",
+    "year": 2012,
+    "artist_name": "Retribution Gospel Choir",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=QONK_4z11Qk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830286595927,
+    "song_title": "Let Them Talk",
+    "year": 2012,
+    "artist_name": "Spoek Mathambo",
+    "artist_genre": "Eletronica",
+    "youtube_link": "https://www.youtube.com/watch?v=oRBgUoy390k",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830294832831,
+    "song_title": "Nancy From Now On",
+    "year": 2012,
+    "artist_name": "Father John Misty",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=iS84BMFszW0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830303414604,
+    "song_title": "The Kids Were Wrong",
+    "year": 2012,
+    "artist_name": "Memoryhouse",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=zs3xVfCG0Hg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830305829199,
+    "song_title": "The Woods",
+    "year": 2012,
+    "artist_name": "Husky",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=aaVe7eu3gdI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830311248954,
+    "song_title": "Endless Summer",
+    "year": 2012,
+    "artist_name": "Still Corners",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Wvgb-HkxGaw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830314065841,
+    "song_title": "The Fox",
+    "year": 2012,
+    "artist_name": "Niki & The Dove",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=l2f6UbMnlq4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830316621920,
+    "song_title": "Down in the Valley",
+    "year": 2012,
+    "artist_name": "The Head and the Heart",
+    "artist_genre": "Folk",
+    "youtube_link": "https://www.youtube.com/watch?v=2iSQGWpy0qY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830324781371,
+    "song_title": "Hollywood Forever Cemetery Sings",
+    "year": 2012,
+    "artist_name": "Father John Misty",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=KtOToiIDNRA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769830327460284,
+    "song_title": "Taking It Easy Too Long",
+    "year": 2012,
+    "artist_name": "Blitzen Trapper",
+    "artist_genre": "Country",
+    "youtube_link": "https://www.youtube.com/watch?v=JsxWoL_Z-e8",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",

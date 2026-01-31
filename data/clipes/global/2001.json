@@ -8252,5 +8252,103 @@
     "quality": "1080p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769606948207188,
+    "song_title": "Monday",
+    "year": 2001,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4DAYRt49Pmw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "FRED"
+  },
+  {
+    "id": 1769614584206248,
+    "song_title": "Fuck Authority",
+    "year": 2001,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=j5arZGgyGSc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769617897922254,
+    "song_title": "Desperation Train",
+    "year": 2001,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=m-tAwLHASS0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death By Stereo"
+  },
+  {
+    "id": 1769617929096069,
+    "song_title": "Bloodclot",
+    "year": 2001,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qFNfMwdHez0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rancid"
+  },
+  {
+    "id": 1769617943263600,
+    "song_title": "Penguins And Polar Bears",
+    "year": 2001,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=A4Ee8OWpmqA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769618021824037,
+    "song_title": "Barroom Hero",
+    "year": 2001,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7p3zEBkW30g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Dropkick Murphys"
+  },
+  {
+    "id": 1769618027190381,
+    "song_title": "Paper Thin",
+    "year": 2001,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZAP46FCkNLc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Hot Water Music"
   }
 ]

@@ -270,6 +270,11 @@ const App: React.FC = () => {
         }
       }
 
+      // Check for record labels
+      if (video.record_label) {
+        genres.add(video.record_label); // Will add 'atlantic', 'road_runner', or 'subpop'
+      }
+
       // Check for acoustic
       if (
         video.artist_genre === 'acousticShow' ||
@@ -518,6 +523,21 @@ const App: React.FC = () => {
           (video) =>
             (video as any).is_program &&
             (video as any).program_name === 'documentarios'
+        );
+      } else if (genreId === 'atlantic') {
+        // Filter videos for Atlantic Records
+        filteredQueue = sourceVideos.filter(
+          (video) => video.record_label === 'atlantic'
+        );
+      } else if (genreId === 'road_runner') {
+        // Filter videos for Road Runner Records
+        filteredQueue = sourceVideos.filter(
+          (video) => video.record_label === 'road_runner'
+        );
+      } else if (genreId === 'subpop') {
+        // Filter videos for Sub Pop Records
+        filteredQueue = sourceVideos.filter(
+          (video) => video.record_label === 'subpop'
         );
       } else if (genreId === 'acoustic') {
         filteredQueue = sourceVideos.filter(
@@ -859,7 +879,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.14.3 // ARIA-COMPLIANT
+              V 1.15.0 // ARIA-COMPLIANT
             </p>
           </div>
 

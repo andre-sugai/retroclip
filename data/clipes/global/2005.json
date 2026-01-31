@@ -1404,12 +1404,17 @@
     "artist": "Amerie"
   },
   {
-    "id": 171104266579,
+    "id": 1769618055388410,
     "song_title": "Ray",
     "year": 2005,
-    "artist_genre": "Punk",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=EKAqgJbBQOw",
-    "imvdb_url": "https://imvdb.com/video/millencolin/ray",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
     "artist": "Millencolin"
   },
   {
@@ -5229,12 +5234,17 @@
     "artist": "Subsonica"
   },
   {
-    "id": 200512072152,
+    "id": 1769618089446997,
     "song_title": "Eagles Become Vultures",
     "year": 2005,
-    "artist_genre": "Desconhecido, Hardcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=rjZMySPcQfI",
-    "imvdb_url": "https://imvdb.com/video/converge/eagles-become-vultures",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
     "artist": "Converge"
   },
   {
@@ -10143,12 +10153,17 @@
     "artist": "Robin Thicke"
   },
   {
-    "id": 413628754609,
+    "id": 1769618049732983,
     "song_title": "Entombed We Collide",
     "year": 2005,
-    "artist_genre": "Punk",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=R3cQb0QBmKc",
-    "imvdb_url": "https://imvdb.com/video/death-by-stereo/entombed-we-collide",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
     "artist": "Death By Stereo"
   },
   {
@@ -11826,5 +11841,257 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769609699349191,
+    "song_title": "So Sick",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=h9HzDp5J2XA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "THICK"
+  },
+  {
+    "id": 1769617954896695,
+    "song_title": "Bro Hymn (Tribute)",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=62cFaucr0b8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769617988598594,
+    "song_title": "Anchors Aweigh",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Sv7U5mGDpsc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Bouncing Souls"
+  },
+  {
+    "id": 1769618000494543,
+    "song_title": "This Curse Of Days (Live @ the 2005 X-Games",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4f75u1vxSpg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death By Stereo"
+  },
+  {
+    "id": 1769618019004739,
+    "song_title": "Grateful",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CerbImsPsqw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pete Philly & Perquisite"
+  },
+  {
+    "id": 1769618024379093,
+    "song_title": "Shut You Out",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lMku2BK0XGY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Millencolin"
+  },
+  {
+    "id": 1769618044149350,
+    "song_title": "In Fact You're Just Fiction",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PmikXOJt7PY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Robocop Kraus"
+  },
+  {
+    "id": 1769618046991484,
+    "song_title": "The Reasons",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lhBdyL2Py-s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Weakerthans"
+  },
+  {
+    "id": 1769618052895707,
+    "song_title": "Caesura",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VEkosnCJU9Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Scatter The Ashes"
+  },
+  {
+    "id": 1769618058085707,
+    "song_title": "Escape Artist",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=U-9uhUBKah8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Sage Francis"
+  },
+  {
+    "id": 1769618069222687,
+    "song_title": "Golden Times",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1zqEAP0M6Fg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Lost Patrol"
+  },
+  {
+    "id": 1769618083803531,
+    "song_title": "Skeleton Jar",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ah_d_ZzW4m4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Youth Group"
+  },
+  {
+    "id": 1769618100313243,
+    "song_title": "All The Good Men",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mBebTcoX7PQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Robocop Kraus"
+  },
+  {
+    "id": 1769618111259208,
+    "song_title": "Paranoid",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=l89HXW9dFxY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pete Philly & Perquisite"
+  },
+  {
+    "id": 1769618116883414,
+    "song_title": "Insomnia",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PCBu0jYsZJg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pete Philly & Perquisite"
+  },
+  {
+    "id": 1769618124566559,
+    "song_title": "Middle Fingers",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=F0rkkJOxSQM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death By Stereo"
+  },
+  {
+    "id": 1769618140535781,
+    "song_title": "Knocked Down",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LaMAZ3862d4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
+  },
+  {
+    "id": 1769618302584983,
+    "song_title": "My Eyes Burn",
+    "year": 2005,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_d-TWBj46tA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Matchbook Romance"
   }
 ]

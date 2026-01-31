@@ -4557,5 +4557,19 @@
     "youtube_link": "https://www.youtube.com/watch?v=URflja3pE3Q",
     "imvdb_url": null,
     "source": "YouTube"
+  },
+  {
+    "id": 1769609164318503,
+    "song_title": "Dumpster",
+    "year": 1988,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3QXAT9ep5RE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
   }
 ]

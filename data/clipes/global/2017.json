@@ -9900,13 +9900,18 @@
     "imvdb_url": "https://imvdb.com/video/frankie-animal/nightlights"
   },
   {
-    "id": 204299976643,
+    "id": 1769611093164785,
     "song_title": "Benediction",
     "year": 2017,
-    "artist_name": "Touché Amoré",
-    "artist_genre": "Desconhecido, Hardcore",
+    "artist_genre": "",
     "youtube_link": "https://www.youtube.com/watch?v=z5PDs2VlnSc",
-    "imvdb_url": "https://imvdb.com/video/touché-amoré/benediction"
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
   },
   {
     "id": 206522524250,
@@ -50146,6 +50151,1810 @@
     "duration": null,
     "duration_seconds": 0,
     "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769606301936048,
+    "song_title": "\"F*CK! AH!\" (feat. N8NOFACE)",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Cx0VtgyyExU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Nascar Aloe"
+  },
+  {
+    "id": 1769606762302434,
+    "song_title": "NBTSA",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PIUIKxmw-Qg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor"
+  },
+  {
+    "id": 1769607168620624,
+    "song_title": "Bikes Out!",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nPcFoDzXRhw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Beach Rats"
+  },
+  {
+    "id": 1769607284732464,
+    "song_title": "You're My Future",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=99yNsMJ3rr0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rosie Thorne"
+  },
+  {
+    "id": 1769608890277871,
+    "song_title": "Ode to Joy 2",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=O8YI9vKYUEM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Remo Drive"
+  },
+  {
+    "id": 1769609956548915,
+    "song_title": "\"Benediction\" (Live)",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=MMWkTul_Rw8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769610031577401,
+    "song_title": "\"Gram\" (Live)",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SJJYUt0NuyU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769610228795649,
+    "song_title": "Pavlov's Cat",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bIutRVMkGIk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769610232202184,
+    "song_title": "Opt In",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=PQzwbIkECMM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769610299908553,
+    "song_title": "\"I'll Make Everything\" (Live)",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=60rOgqhXhCw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769610385380197,
+    "song_title": "\"Marine Tigers\"/\"Fuzz Minor\" (Live)",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=u4do5pzaloc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769610513445826,
+    "song_title": "\"Infinite Steve\" (Live)",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dXNykzuKByw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769610580145996,
+    "song_title": "\"Faker\" (Live)",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nFHfaBs--SA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769610678495711,
+    "song_title": "Before I Cave In",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UiIXyS4JHvQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769610713996589,
+    "song_title": "Interiors",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=R15piIvLP5I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769610740946435,
+    "song_title": "A Single Tear",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DKqOp2YHfhI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769610746297232,
+    "song_title": "Mad Season",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DLcHUKPPK-s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769610748829612,
+    "song_title": "Cosmonauts",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=e3gTFO5PnKw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769610782992224,
+    "song_title": "The Future",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vUEqNr6-Vdo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769610786395010,
+    "song_title": "I'll Make Everything",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=cU0VWNv9cIQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World Is A Beautiful Place & I Am No Longer Afraid To Die"
+  },
+  {
+    "id": 1769610789398085,
+    "song_title": "Faker",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=UfDQ8iAaYYU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769610795708043,
+    "song_title": "Hilltopper",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0BKHINZUVzo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World is a Beautiful Place & I am No Longer Afraid to Die"
+  },
+  {
+    "id": 1769610813782575,
+    "song_title": "Leave You Lonely",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_utUbpq7Miw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769610836488880,
+    "song_title": "Marine Tigers",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1VgfM-MVjkw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The World Is A Beautiful Place & I Am No Longer Afraid To Die"
+  },
+  {
+    "id": 1769610840298659,
+    "song_title": "Failed Imagineer",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=CqWsreZl_dw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769610846340209,
+    "song_title": "Illuminant",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xgIJatX2uug",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Quicksand"
+  },
+  {
+    "id": 1769610852280620,
+    "song_title": "52 Minds",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=v0knreTK11Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Color Film"
+  },
+  {
+    "id": 1769610864892496,
+    "song_title": "I Can Tell You About Pain",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=dm3zkZX_FxI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769610868418172,
+    "song_title": "Victory Lap",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wTANmHJhbF8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Propagandhi"
+  },
+  {
+    "id": 1769610875049823,
+    "song_title": "So Busted",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KuAtN_LInNs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Culture Abuse"
+  },
+  {
+    "id": 1769610878259615,
+    "song_title": "Superhero",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Wdz5quqdwjI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769610881914592,
+    "song_title": "So Busted",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mtTbmnQxXJ4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Culture Abuse"
+  },
+  {
+    "id": 1769610915743613,
+    "song_title": "Small Town",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lsbsDJ1uULM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Color Film"
+  },
+  {
+    "id": 1769610919028607,
+    "song_title": "Day After Day",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rzDtgKt5z_0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Color Film"
+  },
+  {
+    "id": 1769610955603382,
+    "song_title": "We'd Kill Each Other",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kBYWHS6E0lk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Color Film"
+  },
+  {
+    "id": 1769610973740385,
+    "song_title": "I Need A Parasite",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9boOmHkNX1g",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Color Film"
+  },
+  {
+    "id": 1769610976412035,
+    "song_title": "Drama",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=olBp21Lt6gw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769610979031256,
+    "song_title": "Crawling In Circles",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yaR0cZvJ6eI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Color Film"
+  },
+  {
+    "id": 1769610986910030,
+    "song_title": "Who We Are",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2gC0CjMog_Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Descendents"
+  },
+  {
+    "id": 1769611016563790,
+    "song_title": "Coming Home",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=L3QB4VnUOUA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Falling In Reverse"
+  },
+  {
+    "id": 1769611019451836,
+    "song_title": "On Our Own",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bKsmmSntEzw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Obey The Brave"
+  },
+  {
+    "id": 1769611022386838,
+    "song_title": "After The Party",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ghTYSXQnqbg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769611028360659,
+    "song_title": "Clay",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VlDKDX1oOnY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769611085063609,
+    "song_title": "All Access",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=c7rsPaDXtng",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Garden"
+  },
+  {
+    "id": 1769611117324609,
+    "song_title": "Bad Catholics",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XffZRb2Dh0E",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Menzingers"
+  },
+  {
+    "id": 1769611121011132,
+    "song_title": "ISUA",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yDoWtGecbjo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Plague Vendor"
+  },
+  {
+    "id": 1769611252343402,
+    "song_title": "Sympathy",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qHbjoN3hUmk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Too Close To Touch"
+  },
+  {
+    "id": 1769611275163298,
+    "song_title": "Rapture",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xxqw2k8BbMU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769611349384569,
+    "song_title": "Palm Dreams",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3hYQ9yMss1c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769611391850846,
+    "song_title": "Displacement",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=B9dVDKYsmu0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769611414796053,
+    "song_title": "Palm Dreams",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yEFOMq075kA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Touché Amoré"
+  },
+  {
+    "id": 1769612229873166,
+    "song_title": "Move Me",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=fBu1Iw5yWLo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "The Ghost Inside"
+  },
+  {
+    "id": 1769612754907161,
+    "song_title": "A Flight and a Crash",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=P7hw_X8hLOM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Hot Water Music"
+  },
+  {
+    "id": 1769617223257748,
+    "song_title": "Astral Rejection",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yNBvxrfzXEs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "I Set My Friends On Fire"
+  },
+  {
+    "id": 1769617525791956,
+    "song_title": "Axe To Fall",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=7jjBinzryFY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge"
+  },
+  {
+    "id": 1769617963006704,
+    "song_title": "Broken",
+    "year": 2017,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=u2yF8PmfpVA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Bad Religion"
+  },
+  {
+    "id": 1769826890751741,
+    "song_title": "Running",
+    "year": 2017,
+    "artist_name": "Bully",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=0HdYkTGPTe8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826895919621,
+    "song_title": "The Rager",
+    "year": 2017,
+    "artist_name": "Kyle Craft",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=rjdivIOgnU0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826898335107,
+    "song_title": "Don't Go",
+    "year": 2017,
+    "artist_name": "Moaning",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=qdNWCgnqeMY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826903567602,
+    "song_title": "Judgement, Rage, Retribution and Thyme (Live in Europe)",
+    "year": 2017,
+    "artist_name": "Mudhoney",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=0_E1FL86KpI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769826924119089,
+    "song_title": "Black Willow",
+    "year": 2017,
+    "artist_name": "Loma",
+    "artist_genre": "swing",
+    "youtube_link": "https://www.youtube.com/watch?v=u4yA8zM0ifY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769826934449331,
+    "song_title": "Pegasi",
+    "year": 2017,
+    "artist_name": "Jesca Hoop",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=c3GelY-QrAA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827006316964,
+    "song_title": "Feel The Same",
+    "year": 2017,
+    "artist_name": "Bully",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=EtqaZsPdwDo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827012084826,
+    "song_title": "Drained Lake",
+    "year": 2017,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=0lBQdzSQSaI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827045161536,
+    "song_title": "Cry III (King of Piss and Paper/Artificial Life)",
+    "year": 2017,
+    "artist_name": "Wolf Parade",
+    "artist_genre": "hörspiel",
+    "youtube_link": "https://www.youtube.com/watch?v=wyxSLRw0KWA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827123687886,
+    "song_title": "Cellophane",
+    "year": 2017,
+    "artist_name": "METZ",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=qPG2aQXeZoM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827134957124,
+    "song_title": "Somos Chulas (No Somos Pendejas)",
+    "year": 2017,
+    "artist_name": "Downtown Boys",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=NBO_RUnTqaE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827199516421,
+    "song_title": "About a Bruise",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=w9aN4ks6GVU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827202273846,
+    "song_title": "Bitter Truth",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=khHMwXOtQBQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827204814365,
+    "song_title": "Claim Your Ghost",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=6K1YTJek2Ik",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827207133762,
+    "song_title": "Last Night",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=4hCN5jDv6CM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827209991189,
+    "song_title": "Right for Sky",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=pEAWmQiyDRk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827212755885,
+    "song_title": "Our Light Miles",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=76ryYuFT5xE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827215397666,
+    "song_title": "Song in Stone",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=CI5Jd5O_Wi0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827218015104,
+    "song_title": "The Truest Stars We Know",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=yh4-i5v-PrU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827221069356,
+    "song_title": "Summer Clouds",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=WPYuZdiE6jE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827267133687,
+    "song_title": "Things It Would Have Been Helpful To Know Before The Revolution",
+    "year": 2017,
+    "artist_name": "Father John Misty",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=cIsT3dJ60Uk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827273253846,
+    "song_title": "You Want Love",
+    "year": 2017,
+    "artist_name": "The Afghan Whigs feat. James Hall",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=cvaKKy3g9Tg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827276007025,
+    "song_title": "Thomas County Law",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=GifLPveCWx8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827284167428,
+    "song_title": "Pine and Clover",
+    "year": 2017,
+    "artist_name": "Chad VanGaalen",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=WQqTFJdNpZI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827289593413,
+    "song_title": "Eel Dreams",
+    "year": 2017,
+    "artist_name": "Shabazz Palaces feat. Loud Eyes Lou",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=B6O0gf5ubeE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827298006439,
+    "song_title": "Moon Whip Quäz",
+    "year": 2017,
+    "artist_name": "Shabazz Palaces feat. Darrius",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=FB-Zzlb0Wa4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827300317649,
+    "song_title": "Parallax",
+    "year": 2017,
+    "artist_name": "Shabazz Palaces feat. The Palaceer Lazaro",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=bCeLDPvwv8c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827317047288,
+    "song_title": "Love in the time of Kanye",
+    "year": 2017,
+    "artist_name": "Shabazz Palaces feat. Purple Tape Nate",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=O4O6NpwRkoo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827379460049,
+    "song_title": "Effeminence",
+    "year": 2017,
+    "artist_name": "Shabazz Palaces feat. Fly Guy Dai of Chimurenga Renaissance",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=FTEhq6NRy5Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827389881699,
+    "song_title": "Flightless Bird, American Mouth",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=RGVmhrfQqzg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827393129097,
+    "song_title": "Innocent Bones",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=xeIMFD4RWhk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827395862015,
+    "song_title": "Carousel",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=0MZQsNj-AbU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827399006467,
+    "song_title": "House by the Sea",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=kRZV7EfpVwk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827401874136,
+    "song_title": "Lovesong of the Buzzard",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=j9xZY57tzDs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827404495500,
+    "song_title": "Pagan Angel and a Borrowed Car",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ggvvAliAr64",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827407234581,
+    "song_title": "Peace Beneath the City",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=EErE8etz1MY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827410020467,
+    "song_title": "The Devil Never Sleeps",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=iNj2K11lasg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827412636030,
+    "song_title": "Resurrection Fern",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=7TX5ofXR2T8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827417365506,
+    "song_title": "White Tooth Man",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=vAZO-dqP68Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827419875567,
+    "song_title": "Wolves (Song of the Shepherd's Dog)",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=sOrJ3IqXY9A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827423065838,
+    "song_title": "Call It Dreaming",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=BXC80ZXQhvQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827428434645,
+    "song_title": "Julian's Dream (ode to a bad)",
+    "year": 2017,
+    "artist_name": "Shabazz Palaces feat. The Shogun Shot",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=6mk0vlNtJ7U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827571864485,
+    "song_title": "Sick Bug",
+    "year": 2017,
+    "artist_name": "Rolling Blackouts Coastal Fever",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=lyjE0vZEQh4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827574591819,
+    "song_title": "Oriole",
+    "year": 2017,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Q9U8jseaqxU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827618497275,
+    "song_title": "Russian Roulette",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. Stas Thee Boss",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=FB4DrNa70Zg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827648503920,
+    "song_title": "Woman King",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=PEj4F55doKM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827651435445,
+    "song_title": "My Lady's House",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=SMLev64NbcQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827654067693,
+    "song_title": "Gray Stables",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gN7wR7s_ZMs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827656947918,
+    "song_title": "Evening on the Ground (Lilith's Song)",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=sP3V7PxjdQo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827659622311,
+    "song_title": "Teeth in the Grass",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=2IsW8_m0lm0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827662320297,
+    "song_title": "Sunset Soon Forgotten",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=IWySRJKOx-Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827664727397,
+    "song_title": "Sodom, South Georgia",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=YpFa8xrLAcA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827667706928,
+    "song_title": "Radio War",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=uja-N8vfX44",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827670693946,
+    "song_title": "On Your Wings",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=CTZO6EJDFg4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827673357772,
+    "song_title": "Free Until They Cut Me Down",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=zOUs4PE9NXM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827676090362,
+    "song_title": "Fever Dream",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=5PLeyG7EX_I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827678828681,
+    "song_title": "Cinder and Smoke",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=phjxhBx8MEE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827687123952,
+    "song_title": "The Night Descending",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=9-wiyBgJ3Sk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827689808741,
+    "song_title": "Jesus the Mexican Boy",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=dDxfpiy1ogk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827692868198,
+    "song_title": "Beneath the Balcony",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=o24DD14Sjnc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827726495581,
+    "song_title": "An Angry Blade",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=r227R5gAMoE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827735555437,
+    "song_title": "Muddy Hymnal",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=yjzVOxFtHoM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827739124720,
+    "song_title": "Promise What You Will",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=t9IDGq2AegA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827742002106,
+    "song_title": "Promising Light",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=ZGZUowGrtvk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827744852624,
+    "song_title": "The Rooster Moans",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=AkgjgQd0uMY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827747770571,
+    "song_title": "Weary Memory",
+    "year": 2017,
+    "artist_name": "Iron & Wine",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=-YnzIehvH1o",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827752884026,
+    "song_title": "Blur",
+    "year": 2017,
+    "artist_name": "LVL UP",
+    "artist_genre": "Indie",
+    "youtube_link": "https://www.youtube.com/watch?v=Q17NYOZScbE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827783050774,
+    "song_title": "Miles Iz Ded",
+    "year": 2017,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gG1qCDsuZGI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827812697976,
+    "song_title": "Flower",
+    "year": 2017,
+    "artist_name": "Soundgarden",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=brOPaxbz1CU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827867293244,
+    "song_title": "Beautiful",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. Aslan T. Rife",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=vP5SBocN-w8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827872916237,
+    "song_title": "Bulletproof Windows",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. Nate Jack and Thad",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=SlXH-dtfiuA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827878130287,
+    "song_title": "Everybody [Interlude]",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. Fly Guy Dai and Shabazz Palaces",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=vGjWKdoe0YI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827880788741,
+    "song_title": "My Mother's Words",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. Debra Sullivan",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=bR0dCoZ6uEI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827885969487,
+    "song_title": "Sacred Geometry",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. Cashtro, The Palaceer of Shabazz Palaces",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=T3EJ4aKgr2Q",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827888646561,
+    "song_title": "The Mirror Between Us",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. JD and JusMoni",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=SLN0v8ZRiZs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827891089013,
+    "song_title": "Waves",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. Aslan T. Rife",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=em5UJnuKUwY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769827909200567,
+    "song_title": "Past Life",
+    "year": 2017,
+    "artist_name": "Porter Ray",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=Qg0y8hRXyfg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827911694745,
+    "song_title": "Demon In Profile",
+    "year": 2017,
+    "artist_name": "The Afghan Whigs",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=Kp7ooQ_7TPg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827914464627,
+    "song_title": "Julie's Place",
+    "year": 2017,
+    "artist_name": "Rolling Blackouts Coastal Fever",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=p8kJXG8SzmM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769827970504435,
+    "song_title": "French Press",
+    "year": 2017,
+    "artist_name": "Rolling Blackouts Coastal Fever",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=bvjsAIpNy6I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828004019554,
+    "song_title": "The Bar Is Low",
+    "year": 2017,
+    "artist_name": "Pissed Jeans",
+    "artist_genre": "noise rock",
+    "youtube_link": "https://www.youtube.com/watch?v=9i7aBnoaYPQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828006880903,
+    "song_title": "Lightro [Looking for the Light]",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. Alana Belle, Stas Thee Boss of THEESatisfaction",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=kqJ0rF2Qo74",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769828034260347,
+    "song_title": "Memories Are Now",
+    "year": 2017,
+    "artist_name": "Jesca Hoop",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=s79pNrycneQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769828037511854,
+    "song_title": "Arithmetic",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. Infinite and Stas Thee Boss of THEESatisfaction",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=gClBrFdVegs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769828089452271,
+    "song_title": "Sacred Geometry [Constellation Mix]",
+    "year": 2017,
+    "artist_name": "Porter Ray feat. The Palaceer of Shabazz Palaces and Cashtro",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=QmGBGL7nnVc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
     "video_tags": []
   }
 ]

@@ -2143,10 +2143,10 @@
   },
   {
     "id": "yt_A1cMbolFc-A",
-    "song_title": "Spliff",
+    "song_title": "Carbonara",
     "year": 1982,
-    "artist_name": "Carbonara",
-    "artist_genre": "Punk",
+    "artist_name": "Spliff",
+    "artist_genre": ["Rock","New Wave"],
     "youtube_link": "https://www.youtube.com/watch?v=A1cMbolFc-A",
     "imvdb_url": null,
     "source": "YouTube"
@@ -2158,16 +2158,6 @@
     "artist_name": "Shakin' Stevens",
     "artist_genre": "Pop Rock",
     "youtube_link": "https://www.youtube.com/watch?v=jKnCi3H2mPc",
-    "imvdb_url": null,
-    "source": "YouTube"
-  },
-  {
-    "id": "yt_s3MUYC4KXOg",
-    "song_title": "Spliff",
-    "year": 1982,
-    "artist_name": "Carbona",
-    "artist_genre": "Punk",
-    "youtube_link": "https://www.youtube.com/watch?v=s3MUYC4KXOg",
     "imvdb_url": null,
     "source": "YouTube"
   }

@@ -8154,5 +8154,75 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public"
+  },
+  {
+    "id": 1769605733942919,
+    "song_title": "Leona Street",
+    "year": 1997,
+    "artist_genre": "fictitious-artist",
+    "youtube_link": "https://www.youtube.com/watch?v=6bdmXl3dQbs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pool Kids"
+  },
+  {
+    "id": 1769607703101146,
+    "song_title": "Six Foot Under",
+    "year": 1997,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wHgkIU6IoYM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Rosie Tucker"
+  },
+  {
+    "id": 1769608278173128,
+    "song_title": "Cherry Blossom",
+    "year": 1997,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=r12ek4rmGmA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Indii G."
+  },
+  {
+    "id": 1769608439075522,
+    "song_title": "crucifix",
+    "year": 1997,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hNo00CO2FJU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "plxntkid"
+  },
+  {
+    "id": 1769617231379953,
+    "song_title": "No Whiskey",
+    "year": 1997,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8PSuZlIHtD8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Big Talk"
   }
 ]

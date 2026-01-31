@@ -73,13 +73,19 @@ export const translations = {
       signalSource: 'Músicas',
     },
     sector3: {
-      selectGenre: 'Canais',
+      selectGenre: 'Estilos',
+      recordLabels: 'Gravadoras',
       shows: 'Shows',
       fullShow: 'Show completo',
       acoustic: 'Acústico',
       autoPlay: 'Automático',
       loading: 'Carregando...',
       emptyState: 'Selecione um gênero para carregar.',
+      labels: {
+        atlantic: 'Atlantic',
+        roadRunner: 'Road Runner',
+        subpop: 'Sub Pop',
+      },
       genres: {
         all: 'Tudo',
         rockAlt: 'Rock Alt.',
@@ -184,13 +190,19 @@ export const translations = {
       signalSource: 'Music Source',
     },
     sector3: {
-      selectGenre: 'Canais',
+      selectGenre: 'Estilos',
+      recordLabels: 'Record Labels',
       shows: 'Shows',
       fullShow: 'Full Show',
       acoustic: 'Acoustic',
       autoPlay: 'Auto-Play',
       loading: 'Loading...',
       emptyState: 'Select a genre to load clips.',
+      labels: {
+        atlantic: 'Atlantic',
+        roadRunner: 'Road Runner',
+        subpop: 'Sub Pop',
+      },
       genres: {
         all: 'All',
         rockAlt: 'Alt Rock',
