@@ -174,6 +174,25 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                         {selectedGenre === 'atlantic' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
                     </button>
 
+                    {/* Epitaph Button */}
+                    <button
+                        onClick={(e) => {
+                           e.stopPropagation();
+                           if (selectedGenre === 'epitaph') return;
+                           onSelectGenre('epitaph');
+                        }}
+                        className={`
+                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                          ${selectedGenre === 'epitaph'
+                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                          }
+                        `}
+                    >
+                        {t.labels.epitaph}
+                        {selectedGenre === 'epitaph' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                    </button>
+
                     {/* Road Runner Button */}
                     <button
                         onClick={(e) => {
@@ -211,6 +230,8 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                         {t.labels.subpop}
                         {selectedGenre === 'subpop' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
                     </button>
+
+
                 </div>
              </div>
         </div>

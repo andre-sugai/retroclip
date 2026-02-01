@@ -71,6 +71,7 @@ import data2026 from '../data/clipes/global/2026.json';
 import atlanticData from '../data/clipes/global/atlantic.json';
 import roadRunnerData from '../data/clipes/global/road_runner.json';
 import subpopData from '../data/clipes/global/subpop.json';
+import epitaphData from '../data/clipes/global/epitaph.json';
 
 // BR Data Imports
 import data1929BR from '../data/clipes/brasil/1929.json';
@@ -175,6 +176,10 @@ const LABELS_DATA = [
   ...subpopData.map((item) => ({
     ...item,
     record_label: 'subpop',
+  })),
+  ...epitaphData.map((item) => ({
+    ...item,
+    record_label: 'epitaph',
   })),
 ];
 

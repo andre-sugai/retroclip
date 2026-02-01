@@ -571,6 +571,11 @@ const App: React.FC = () => {
         filteredQueue = sourceVideos.filter(
           (video) => video.record_label === 'subpop'
         );
+      } else if (genreId === 'epitaph') {
+        // Filter videos for Epitaph Records
+        filteredQueue = sourceVideos.filter(
+          (video) => video.record_label === 'epitaph'
+        );
       } else if (genreId === 'acoustic') {
         filteredQueue = sourceVideos.filter(
           (video) =>
@@ -915,7 +920,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.15.2 // ARIA-COMPLIANT
+              V 1.16.0 // ARIA-COMPLIANT
             </p>
           </div>
 

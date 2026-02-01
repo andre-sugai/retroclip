@@ -85,6 +85,7 @@ export const translations = {
         atlantic: 'Atlantic',
         roadRunner: 'Road Runner',
         subpop: 'Sub Pop',
+        epitaph: 'Epitaph',
       },
       genres: {
         all: 'Tudo',
@@ -202,6 +203,7 @@ export const translations = {
         atlantic: 'Atlantic',
         roadRunner: 'Road Runner',
         subpop: 'Sub Pop',
+        epitaph: 'Epitaph',
       },
       genres: {
         all: 'All',
