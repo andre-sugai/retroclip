@@ -73,6 +73,38 @@ const App: React.FC = () => {
     error: null,
   });
 
+  // Session History State (to avoid repetition)
+  const [playedVideoIds, setPlayedVideoIds] = useState<Set<string>>(new Set());
+
+  // Track Played Videos
+  useEffect(() => {
+    if (state.currentVideo) {
+      setPlayedVideoIds((prev) => {
+        const newSet = new Set(prev);
+        newSet.add(state.currentVideo!.id);
+        return newSet;
+      });
+    }
+  }, [state.currentVideo]);
+
+  // Helper: Filter unplayed videos
+  const getUnplayedVideos = (videos: Video[]) => {
+    // If we have no history, return all
+    if (playedVideoIds.size === 0) return videos;
+
+    const unplayed = videos.filter((v) => !playedVideoIds.has(v.id));
+
+    // If we have unplayed videos, return them
+    if (unplayed.length > 0) {
+      console.log(`[Grooovio] Found ${unplayed.length} unplayed videos out of ${videos.length} candidates.`);
+      return unplayed;
+    }
+
+    // If all videos in this set have been played, reset for this context (return all)
+    console.log('[Grooovio] All videos in this category have been played. Resetting pool.');
+    return videos;
+  };
+
   // Handle Theme Toggle
   useEffect(() => {
     const root = window.document.documentElement;
@@ -364,7 +396,7 @@ const App: React.FC = () => {
         setSelectedGenre(null); // Reset filter on new search
 
         // Initial List is now already filtered by region from service
-        let initialList = videos;
+        let initialList = getUnplayedVideos(videos);
 
         // Keep static visible for a moment before starting video
         setTimeout(() => {
@@ -598,7 +630,8 @@ const App: React.FC = () => {
       return newArr;
     };
 
-    const shuffledFiltered = shuffle(filteredQueue);
+    const unplayedQueue = getUnplayedVideos(filteredQueue);
+    const shuffledFiltered = shuffle(unplayedQueue);
 
     // Update State with delay to allow tuning effect
     setTimeout(() => {
@@ -806,6 +839,9 @@ const App: React.FC = () => {
             }
           }
 
+          // Apply Repetition Logic Check
+          startQueue = getUnplayedVideos(startQueue);
+
           // Shuffle
           const shuffle = (array: Video[]) => {
             const newArr = [...array];
@@ -879,7 +915,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.15.0 // ARIA-COMPLIANT
+              V 1.15.2 // ARIA-COMPLIANT
             </p>
           </div>
 

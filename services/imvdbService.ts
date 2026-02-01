@@ -332,7 +332,22 @@ const SHOWS_BRASIL = [
   ...show2025BR,
 ].map((item) => ({ ...item, is_show: true }));
 
-const INTL_DATA = [
+const deduplicateData = (items: any[]) => {
+  const map = new Map();
+  items.forEach((item) => {
+    const id = item.id;
+    if (!id) return;
+    if (map.has(id)) {
+      // Merge: existing properties + new properties
+      map.set(id, { ...map.get(id), ...item });
+    } else {
+      map.set(id, item);
+    }
+  });
+  return Array.from(map.values());
+};
+
+const RAW_INTL_DATA = [
   ...data1960,
   ...data1963,
   ...data1964,
@@ -402,7 +417,10 @@ const INTL_DATA = [
   ...LABELS_DATA,
   ...SHOWS_GLOBAL,
 ];
-const BR_DATA = [
+
+const INTL_DATA = deduplicateData(RAW_INTL_DATA);
+
+const RAW_BR_DATA = [
   ...data1929BR,
   ...data1936BR,
   ...data1949BR,
@@ -472,11 +490,14 @@ const BR_DATA = [
   ...PROGRAMS_DATA,
 ].map((item) => ({ ...item, nationality: 'BR' }));
 
+const BR_DATA = deduplicateData(RAW_BR_DATA);
+
 // Helper to get dataset by region
 const getDataset = (region: 'br' | 'intl' | 'all') => {
   if (region === 'br') return BR_DATA;
   if (region === 'intl') return INTL_DATA;
-  return [...INTL_DATA, ...BR_DATA];
+  // Deduplicate when combining both (though IDs shouldn't clash between regions ideally, better safe)
+  return deduplicateData([...INTL_DATA, ...BR_DATA]);
 };
 
 const allItems = [...INTL_DATA, ...BR_DATA];
