@@ -25,3 +25,6 @@ dist-ssr
 # Utility Scripts and Data processing
 *.py
 *.txt
+
+# Agent
+.agent/skills
