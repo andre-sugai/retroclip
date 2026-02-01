@@ -8,7 +8,6 @@ import {
   Trophy,
   Star,
   History,
-  Calendar,
   Heart,
 } from 'lucide-react';
 import { Button } from './ui/Button';
@@ -35,6 +34,15 @@ export const InfoModal: React.FC<InfoModalProps> = ({
 }) => {
   const [activeTab, setActiveTab] = useState<'about' | 'status'>('about');
 
+  // Reset tab when closing to ensure optimal performance on next open
+  React.useEffect(() => {
+    if (!isOpen) {
+      // Small timeout to allow transition to finish
+      const timer = setTimeout(() => setActiveTab('about'), 300);
+      return () => clearTimeout(timer);
+    }
+  }, [isOpen]);
+
   if (!isOpen) return null;
 
   const content = {
@@ -53,7 +61,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         'Escolha entre clipes internacionais, brasileiros ou misturados',
         'Compartilhe seus clipes favoritos',
       ],
-      version: 'Versão 1.16.0',
+      version: 'Versão 1.16.1',
       close: 'Fechar',
       tabs: {
         about: 'Sobre',
@@ -89,7 +97,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         'Choose between international, Brazilian or mixed clips',
         'Share your favorite clips',
       ],
-      version: 'Version 1.16.0',
+      version: 'Version 1.16.1',
       close: 'Close',
       tabs: {
         about: 'About',
@@ -113,48 +121,6 @@ export const InfoModal: React.FC<InfoModalProps> = ({
   };
 
   const t = content[language];
-
-  // Calculate accurate percentages
-  const intlPercentage = Math.round(
-    (INTL_VIDEOS_COUNT / TOTAL_VIDEOS_COUNT) * 100
-  );
-  const brPercentage = Math.round((BR_VIDEOS_COUNT / TOTAL_VIDEOS_COUNT) * 100);
-
-  // Get genre statistics
-  const genreCounts = getGenreStatistics();
-  const genreStats = Object.entries(genreCounts)
-    .map(([genre, count]) => ({ genre, count }))
-    .sort((a, b) => b.count - a.count); // Sort by count descending
-
-  // Get Top Artists & Highlights
-  const topArtists = getTopArtists(5);
-  const highlights = getCollectionHighlights();
-
-  // Statistics data (approximate based on the data structure)
-  const decadeStats = [
-    { decade: '1960s', count: 850, percentage: 1 },
-    { decade: '1970s', count: 3200, percentage: 4 },
-    { decade: '1980s', count: 8500, percentage: 11 },
-    { decade: '1990s', count: 18000, percentage: 22 },
-    { decade: '2000s', count: 24000, percentage: 30 },
-    { decade: '2010s', count: 20000, percentage: 25 },
-    { decade: '2020s', count: 5450, percentage: 7 },
-  ];
-
-  const regionStats = [
-    {
-      region: t.international,
-      count: INTL_VIDEOS_COUNT,
-      percentage: intlPercentage,
-      color: 'bg-blue-500',
-    },
-    {
-      region: t.brazilian,
-      count: BR_VIDEOS_COUNT,
-      percentage: brPercentage,
-      color: 'bg-green-500',
-    },
-  ];
 
   return (
     <div
@@ -205,7 +171,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         </div>
 
         {/* Content */}
-        <div className="p-6 space-y-4 max-h-[60vh] overflow-y-auto">
+        <div className="p-6 space-y-4 max-h-[60vh] overflow-y-auto custom-scrollbar">
           {activeTab === 'about' ? (
             <>
               <div>
@@ -310,171 +276,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
               </div>
             </>
           ) : (
-            <>
-              <div>
-                <h3 className="text-lg font-bold mb-4">{t.statusTitle}</h3>
-
-                {/* Total Count */}
-                <div className="bg-primary/10 border border-primary/20 rounded-lg p-4 mb-6 text-center">
-                  <p className="text-xs text-muted-foreground mb-1">
-                    {t.total}
-                  </p>
-                  <p className="text-3xl font-black text-primary">
-                    {TOTAL_VIDEOS_COUNT.toLocaleString()}
-                  </p>
-                  <p className="text-xs text-muted-foreground mt-1">
-                    clipes catalogados
-                  </p>
-                </div>
-
-                {/* By Region */}
-                <div className="mb-6">
-                  <h4 className="text-sm font-bold mb-3">{t.byRegion}</h4>
-                  <div className="space-y-3">
-                    {regionStats.map((stat, index) => (
-                      <div key={index}>
-                        <div className="flex justify-between text-sm mb-1">
-                          <span className="font-medium">{stat.region}</span>
-                          <span className="text-muted-foreground">
-                            {stat.count.toLocaleString()} ({stat.percentage}%)
-                          </span>
-                        </div>
-                        <div className="w-full bg-muted rounded-full h-2 overflow-hidden">
-                          <div
-                            className={`h-full ${stat.color} transition-all duration-500`}
-                            style={{ width: `${stat.percentage}%` }}
-                          />
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-
-                {/* By Decade */}
-                <div>
-                  <h4 className="text-sm font-bold mb-3">{t.byDecade}</h4>
-                  <div className="space-y-2">
-                    {decadeStats.map((stat, index) => (
-                      <div key={index} className="flex items-center gap-3">
-                        <span className="text-xs font-mono w-12 text-muted-foreground">
-                          {stat.decade}
-                        </span>
-                        <div className="flex-1 bg-muted rounded-full h-6 overflow-hidden relative">
-                          <div
-                            className="h-full bg-gradient-to-r from-primary to-primary/70 transition-all duration-500"
-                            style={{ width: `${stat.percentage}%` }}
-                          />
-                          <span className="absolute inset-0 flex items-center justify-end pr-2 text-xs font-bold text-foreground">
-                            {stat.count.toLocaleString()}
-                          </span>
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-
-                {/* By Genre */}
-                <div className="mt-6">
-                  <h4 className="text-sm font-bold mb-3">{t.byGenre}</h4>
-                  <div className="grid grid-cols-2 gap-3">
-                    {genreStats.map((stat, index) => (
-                      <div
-                        key={index}
-                        className="bg-muted/50 rounded-md p-2 flex justify-between items-center border border-border/50"
-                      >
-                        <span className="text-xs font-medium truncate mr-2">
-                          {stat.genre}
-                        </span>
-                        <span className="text-xs font-mono font-bold text-primary bg-primary/10 px-1.5 py-0.5 rounded">
-                          {stat.count.toLocaleString()}
-                        </span>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-
-                {/* Top Artists */}
-                <div className="mt-6">
-                  <h4 className="text-sm font-bold mb-3 flex items-center gap-2">
-                    <Star className="w-4 h-4 text-yellow-500" /> {t.topArtists}
-                  </h4>
-                  <div className="space-y-2">
-                    {topArtists.map((artist, index) => (
-                      <div
-                        key={index}
-                        className="flex items-center justify-between p-2 rounded-md bg-zinc-50 dark:bg-zinc-800/50 border border-zinc-100 dark:border-zinc-800"
-                      >
-                        <div className="flex items-center gap-3">
-                          <span
-                            className={`
-                            w-6 h-6 flex items-center justify-center rounded-full text-xs font-bold
-                            ${
-                              index === 0
-                                ? 'bg-yellow-100 text-yellow-700 dark:bg-yellow-500/20 dark:text-yellow-500'
-                                : index === 1
-                                ? 'bg-zinc-100 text-zinc-700 dark:bg-zinc-500/20 dark:text-zinc-400'
-                                : index === 2
-                                ? 'bg-amber-100 text-amber-800 dark:bg-amber-500/20 dark:text-amber-500'
-                                : 'bg-zinc-50 text-zinc-500 dark:bg-zinc-800 dark:text-zinc-600'
-                            }
-                          `}
-                          >
-                            {index + 1}
-                          </span>
-                          <span className="text-sm font-medium">
-                            {artist.name}
-                          </span>
-                        </div>
-                        <span className="text-xs font-mono font-bold text-muted-foreground">
-                          {artist.count} clips
-                        </span>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-
-                {/* Highlights */}
-                {highlights.oldest && highlights.goldenYear && (
-                  <div className="mt-6 grid grid-cols-2 gap-4">
-                    <div className="bg-primary/5 border border-primary/10 rounded-lg p-3">
-                      <div className="flex items-center gap-2 mb-2 text-primary">
-                        <History className="w-4 h-4" />
-                        <span className="text-xs font-bold uppercase tracking-wider">
-                          {t.oldestClip}
-                        </span>
-                      </div>
-                      <p
-                        className="text-sm font-bold truncate"
-                        title={highlights.oldest.title}
-                      >
-                        {highlights.oldest.title}
-                      </p>
-                      <p className="text-xs text-muted-foreground truncate">
-                        {highlights.oldest.artist}
-                      </p>
-                      <p className="text-xs font-mono mt-1 px-1.5 py-0.5 bg-background rounded inline-block border">
-                        {highlights.oldest.year}
-                      </p>
-                    </div>
-
-                    <div className="bg-yellow-500/5 border border-yellow-500/10 rounded-lg p-3">
-                      <div className="flex items-center gap-2 mb-2 text-yellow-600 dark:text-yellow-500">
-                        <Trophy className="w-4 h-4" />
-                        <span className="text-xs font-bold uppercase tracking-wider">
-                          {t.goldenYear}
-                        </span>
-                      </div>
-                      <p className="text-3xl font-black text-yellow-600 dark:text-yellow-500">
-                        {highlights.goldenYear.year}
-                      </p>
-                      <p className="text-xs text-yellow-600/70 dark:text-yellow-500/70 mt-1">
-                        {highlights.goldenYear.count} {t.releasesFound}
-                      </p>
-                    </div>
-                  </div>
-                )}
-              </div>
-            </>
+            <StatusContent content={content} language={language} />
           )}
         </div>
 
@@ -486,5 +288,272 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         </div>
       </div>
     </div>
+  );
+};
+
+// Extracted Status Content to defer lazy loading of calculations
+const StatusContent: React.FC<{ content: any; language: Language }> = ({
+  content,
+  language,
+}) => {
+  const {
+    total,
+    byRegion,
+    byDecade,
+    byGenre,
+    topArtists: tTopArtists,
+    statusTitle,
+    oldestClip,
+    goldenYear,
+    releasesFound,
+  } = content[language];
+
+  // State to hold calculated stats
+  const [stats, setStats] = React.useState<any>(null);
+  const [isLoading, setIsLoading] = React.useState(true);
+
+  // Defer heavy calculations to allow UI to paint loading state first
+  React.useEffect(() => {
+    // Short timeout to let the render cycle complete and show loader
+    const timer = setTimeout(() => {
+      // Calculate accurate percentages
+      const intlPct = Math.round(
+        (INTL_VIDEOS_COUNT / TOTAL_VIDEOS_COUNT) * 100
+      );
+      const brPct = Math.round((BR_VIDEOS_COUNT / TOTAL_VIDEOS_COUNT) * 100);
+
+      // Get genre statistics
+      const genreCounts = getGenreStatistics();
+      const gStats = Object.entries(genreCounts)
+        .map(([genre, count]) => ({ genre, count }))
+        .sort((a, b) => b.count - a.count); // Sort by count descending
+
+      // Get Top Artists & Highlights
+      const tArtists = getTopArtists(5);
+      const hLights = getCollectionHighlights();
+
+      // Statistics data (approximate based on the data structure)
+      const dStats = [
+        { decade: '1960s', count: 850, percentage: 1 },
+        { decade: '1970s', count: 3200, percentage: 4 },
+        { decade: '1980s', count: 8500, percentage: 11 },
+        { decade: '1990s', count: 18000, percentage: 22 },
+        { decade: '2000s', count: 24000, percentage: 30 },
+        { decade: '2010s', count: 20000, percentage: 25 },
+        { decade: '2020s', count: 5450, percentage: 7 },
+      ];
+
+      const rStats = [
+        {
+          region: content[language].international,
+          count: INTL_VIDEOS_COUNT,
+          percentage: intlPct,
+          color: 'bg-blue-500',
+        },
+        {
+          region: content[language].brazilian,
+          count: BR_VIDEOS_COUNT,
+          percentage: brPct,
+          color: 'bg-green-500',
+        },
+      ];
+
+      setStats({
+        intlPercentage: intlPct,
+        brPercentage: brPct,
+        decadeStats: dStats,
+        regionStats: rStats,
+        genreStats: gStats,
+        topArtists: tArtists,
+        highlights: hLights,
+      });
+
+      setIsLoading(false);
+    }, 100); // 100ms delay is enough to show loader and feel responsive
+
+    return () => clearTimeout(timer);
+  }, [content, language]);
+
+  if (isLoading || !stats) {
+    return (
+      <div className="flex flex-col items-center justify-center py-20 animate-in fade-in duration-300">
+        <div className="w-8 h-8 border-4 border-primary/30 border-t-primary rounded-full animate-spin mb-4"></div>
+        <p className="text-sm text-muted-foreground animate-pulse">
+          Carregando estatísticas...
+        </p>
+      </div>
+    );
+  }
+
+  const {
+    decadeStats,
+    regionStats,
+    genreStats,
+    topArtists,
+    highlights,
+  } = stats;
+
+  return (
+    <>
+      <div>
+        <h3 className="text-lg font-bold mb-4">{statusTitle}</h3>
+
+        {/* Total Count */}
+        <div className="bg-primary/10 border border-primary/20 rounded-lg p-4 mb-6 text-center">
+          <p className="text-xs text-muted-foreground mb-1">{total}</p>
+          <p className="text-3xl font-black text-primary">
+            {TOTAL_VIDEOS_COUNT.toLocaleString()}
+          </p>
+          <p className="text-xs text-muted-foreground mt-1">
+            clipes catalogados
+          </p>
+        </div>
+
+        {/* By Region */}
+        <div className="mb-6">
+          <h4 className="text-sm font-bold mb-3">{byRegion}</h4>
+          <div className="space-y-3">
+            {regionStats.map((stat, index) => (
+              <div key={index}>
+                <div className="flex justify-between text-sm mb-1">
+                  <span className="font-medium">{stat.region}</span>
+                  <span className="text-muted-foreground">
+                    {stat.count.toLocaleString()} ({stat.percentage}%)
+                  </span>
+                </div>
+                <div className="w-full bg-muted rounded-full h-2 overflow-hidden">
+                  <div
+                    className={`h-full ${stat.color} transition-all duration-500`}
+                    style={{ width: `${stat.percentage}%` }}
+                  />
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* By Decade */}
+        <div>
+          <h4 className="text-sm font-bold mb-3">{byDecade}</h4>
+          <div className="space-y-2">
+            {decadeStats.map((stat, index) => (
+              <div key={index} className="flex items-center gap-3">
+                <span className="text-xs font-mono w-12 text-muted-foreground">
+                  {stat.decade}
+                </span>
+                <div className="flex-1 bg-muted rounded-full h-6 overflow-hidden relative">
+                  <div
+                    className="h-full bg-gradient-to-r from-primary to-primary/70 transition-all duration-500"
+                    style={{ width: `${stat.percentage}%` }}
+                  />
+                  <span className="absolute inset-0 flex items-center justify-end pr-2 text-xs font-bold text-foreground">
+                    {stat.count.toLocaleString()}
+                  </span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* By Genre */}
+        <div className="mt-6">
+          <h4 className="text-sm font-bold mb-3">{byGenre}</h4>
+          <div className="grid grid-cols-2 gap-3">
+            {genreStats.map((stat, index) => (
+              <div
+                key={index}
+                className="bg-muted/50 rounded-md p-2 flex justify-between items-center border border-border/50"
+              >
+                <span className="text-xs font-medium truncate mr-2">
+                  {stat.genre}
+                </span>
+                <span className="text-xs font-mono font-bold text-primary bg-primary/10 px-1.5 py-0.5 rounded">
+                  {stat.count.toLocaleString()}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Top Artists */}
+        <div className="mt-6">
+          <h4 className="text-sm font-bold mb-3 flex items-center gap-2">
+            <Star className="w-4 h-4 text-yellow-500" /> {tTopArtists}
+          </h4>
+          <div className="space-y-2">
+            {topArtists.map((artist, index) => (
+              <div
+                key={index}
+                className="flex items-center justify-between p-2 rounded-md bg-zinc-50 dark:bg-zinc-800/50 border border-zinc-100 dark:border-zinc-800"
+              >
+                <div className="flex items-center gap-3">
+                  <span
+                    className={`
+                            w-6 h-6 flex items-center justify-center rounded-full text-xs font-bold
+                            ${
+                              index === 0
+                                ? 'bg-yellow-100 text-yellow-700 dark:bg-yellow-500/20 dark:text-yellow-500'
+                                : index === 1
+                                ? 'bg-zinc-100 text-zinc-700 dark:bg-zinc-500/20 dark:text-zinc-400'
+                                : index === 2
+                                ? 'bg-amber-100 text-amber-800 dark:bg-amber-500/20 dark:text-amber-500'
+                                : 'bg-zinc-50 text-zinc-500 dark:bg-zinc-800 dark:text-zinc-600'
+                            }
+                          `}
+                  >
+                    {index + 1}
+                  </span>
+                  <span className="text-sm font-medium">{artist.name}</span>
+                </div>
+                <span className="text-xs font-mono font-bold text-muted-foreground">
+                  {artist.count} clips
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Highlights */}
+        {highlights.oldest && highlights.goldenYear && (
+          <div className="mt-6 grid grid-cols-2 gap-4">
+            <div className="bg-primary/5 border border-primary/10 rounded-lg p-3">
+              <div className="flex items-center gap-2 mb-2 text-primary">
+                <History className="w-4 h-4" />
+                <span className="text-xs font-bold uppercase tracking-wider">
+                  {oldestClip}
+                </span>
+              </div>
+              <p
+                className="text-sm font-bold truncate"
+                title={highlights.oldest.title}
+              >
+                {highlights.oldest.title}
+              </p>
+              <p className="text-xs text-muted-foreground truncate">
+                {highlights.oldest.artist}
+              </p>
+              <p className="text-xs font-mono mt-1 px-1.5 py-0.5 bg-background rounded inline-block border">
+                {highlights.oldest.year}
+              </p>
+            </div>
+
+            <div className="bg-yellow-500/5 border border-yellow-500/10 rounded-lg p-3">
+              <div className="flex items-center gap-2 mb-2 text-yellow-600 dark:text-yellow-500">
+                <Trophy className="w-4 h-4" />
+                <span className="text-xs font-bold uppercase tracking-wider">
+                  {goldenYear}
+                </span>
+              </div>
+              <p className="text-3xl font-black text-yellow-600 dark:text-yellow-500">
+                {highlights.goldenYear.year}
+              </p>
+              <p className="text-xs text-yellow-600/70 dark:text-yellow-500/70 mt-1">
+                {highlights.goldenYear.count} {releasesFound}
+              </p>
+            </div>
+          </div>
+        )}
+      </div>
+    </>
   );
 };

@@ -5009,5 +5009,19 @@
       "epitaph"
     ],
     "artist": "The Things He Carried"
+  },
+  {
+    "id": 1769617903249657,
+    "song_title": "Dying To Know",
+    "year": 1993,
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ArOgywV8DWo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Pennywise"
   }
 ]
