@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1769956052599338,
+    "song_title": "Jazz Fest NOLA",
+    "year": 1990,
+    "artist_name": "Stevie Ray Vaughan",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=tqVFNAKYbqQ",
+    "duration": "41:34",
+    "duration_seconds": 2494,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956489766687,
+    "song_title": "Live In Paris",
+    "year": 1990,
+    "artist_name": "TOTO",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=xy2b5w6YiWg",
+    "duration": "52:20",
+    "duration_seconds": 3140,
+    "video_type": "live",
+    "video_tags": []
+  }
+]

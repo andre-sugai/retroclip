@@ -8,5 +8,65 @@
     "channel": "RE-MASTERPIECES",
     "views": "3.4M",
     "artist_name": "Simon and Garfunkel"
+  },
+  {
+    "id": 1769955358223850,
+    "song_title": "Live, Rockpalast",
+    "year": 1981,
+    "artist_name": "The Outlaws",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=diff1-w4ps0",
+    "duration": "55:10",
+    "duration_seconds": 3310,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955478601241,
+    "song_title": "Greatest Hits",
+    "year": 1981,
+    "artist_name": "Nazareth",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=YJjhqeJvRz4",
+    "duration": "126:01",
+    "duration_seconds": 7561,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955944592961,
+    "song_title": "Live At Montreux",
+    "year": 1981,
+    "artist_name": "Stray Cats",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=phbZWp0-5dA",
+    "duration": "79:42",
+    "duration_seconds": 4782,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956383208472,
+    "song_title": "Live at the Checkerboard Lounge",
+    "year": 1981,
+    "artist_name": "Muddy Waters & The Rolling Stones",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=P3qfTk730Cw",
+    "duration": "44:24",
+    "duration_seconds": 2664,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956534428044,
+    "song_title": "The Glory Years",
+    "year": 1981,
+    "artist_name": "Gillan",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4bYSGPk2BSA",
+    "duration": "61:17",
+    "duration_seconds": 3677,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

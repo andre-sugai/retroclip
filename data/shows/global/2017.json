@@ -198,5 +198,65 @@
     "artist_name": "The Strombo Show /  House of Strombo",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=7Tsiet4QrX4"
+  },
+  {
+    "id": 1769955212062853,
+    "song_title": "LIVE Full Concert",
+    "year": 2017,
+    "artist_name": "Jeff Beck",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rXJQb7aIxfk",
+    "duration": "71:46",
+    "duration_seconds": 4306,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955214856589,
+    "song_title": "Live in Loud Park Tokyo",
+    "year": 2017,
+    "artist_name": "Michael Shenker",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KNQR7RSaugc",
+    "duration": "42:37",
+    "duration_seconds": 2557,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955624002770,
+    "song_title": "Live Show House of Blues",
+    "year": 2017,
+    "artist_name": "Ann Wilson of Heart",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=YK5YgPc6zB4",
+    "duration": "119:04",
+    "duration_seconds": 7144,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956155956539,
+    "song_title": "Full Set Performance - Bloodstock",
+    "year": 2017,
+    "artist_name": "MEGADETH",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5Vv_30CfU88",
+    "duration": "86:31",
+    "duration_seconds": 5191,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956504047265,
+    "song_title": "Pinkpop",
+    "year": 2017,
+    "artist_name": "System Of A Down",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=YD0XLsNnU4Q",
+    "duration": "62:29",
+    "duration_seconds": 3749,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

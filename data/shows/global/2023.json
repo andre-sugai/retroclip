@@ -64,5 +64,19 @@
     "channel": "Onlythebest",
     "views": "2.9K",
     "artist_name": "EAGLES"
+  },
+  {
+    "id": 1769956752096523,
+    "song_title": "Live at Valand Gothenburg Sweden",
+    "year": 2023,
+    "artist_name": "Glenn Hughes",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=w7G6OD0gC8I",
+    "duration": "99:05",
+    "duration_seconds": 5945,
+    "video_type": "live",
+    "video_tags": [
+      "4K"
+    ]
   }
 ]

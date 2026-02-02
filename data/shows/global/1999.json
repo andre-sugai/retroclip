@@ -14,5 +14,41 @@
     "artist_name": "R.E.M.",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=DurDZkK58VE"
+  },
+  {
+    "id": 1769955450726131,
+    "song_title": "Tokyo Full Concert",
+    "year": 1999,
+    "artist_name": "Jeff Beck",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=R4emJASIuYA",
+    "duration": "87:23",
+    "duration_seconds": 5243,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956605121986,
+    "song_title": "Live at the Roseland Ballroom",
+    "year": 1999,
+    "artist_name": "The Black Crowes and Jimmy Page",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=m7rAj8F44F0",
+    "duration": "114:08",
+    "duration_seconds": 6848,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956738816746,
+    "song_title": "Total Abandon ( Australia )",
+    "year": 1999,
+    "artist_name": "Deep Purple",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mVNMKOcbNuw",
+    "duration": "107:17",
+    "duration_seconds": 6437,
+    "video_type": "live",
+    "video_tags": []
   }
 ]

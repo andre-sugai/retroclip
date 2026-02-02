@@ -39,7 +39,7 @@
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=ZR8KGPMwU3w"
   },
-    {
+  {
     "id": 1769613843603557,
     "song_title": "...Honor Is All We Know - Drive Along Album Stream",
     "year": 2015,
@@ -61,6 +61,90 @@
     "duration": null,
     "duration_seconds": 0,
     "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955229410111,
+    "song_title": "Rock Hard Festival",
+    "year": 2015,
+    "artist_name": "Michael Schenker",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3ErWMttpnQ0",
+    "duration": "41:48",
+    "duration_seconds": 2508,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955590763646,
+    "song_title": "Live at Wacken Open Air",
+    "year": 2015,
+    "artist_name": "Uli Jon Roth",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Rw4QqMF6fcU",
+    "duration": "64:04",
+    "duration_seconds": 3844,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955596971518,
+    "song_title": "Live at Hyde Park",
+    "year": 2015,
+    "artist_name": "Rod Stewart",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=n-JgWMuXo6I",
+    "duration": "82:57",
+    "duration_seconds": 4977,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955745775595,
+    "song_title": "Stagecoach LIVE",
+    "year": 2015,
+    "artist_name": "ZZ Top",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=k6iw_dAeNt0",
+    "duration": "75:39",
+    "duration_seconds": 4539,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955898059663,
+    "song_title": "New York",
+    "year": 2015,
+    "artist_name": "Mark Knopfler",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zJ_hANh-mA8",
+    "duration": "99:06",
+    "duration_seconds": 5946,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956135697964,
+    "song_title": "Seattle Wa",
+    "year": 2015,
+    "artist_name": "Temple Of The Dog",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4Gv_0FNGifM",
+    "duration": "62:20",
+    "duration_seconds": 3740,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956269608073,
+    "song_title": "Live on TV",
+    "year": 2015,
+    "artist_name": "Van Halen",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jw8kzmDtK3s",
+    "duration": "42:22",
+    "duration_seconds": 2542,
+    "video_type": "live",
     "video_tags": []
   }
 ]

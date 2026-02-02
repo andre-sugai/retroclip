@@ -14,5 +14,53 @@
     "artist_name": "Nirvana",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=Z53nb74H7Vc"
+  },
+  {
+    "id": 1769955354221943,
+    "song_title": "Live at the Docks Hamburg",
+    "year": 1991,
+    "artist_name": "Tin Machine",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QI5hrwnaTkk",
+    "duration": "87:54",
+    "duration_seconds": 5274,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955496274513,
+    "song_title": "Everything Löuder Than Everything Else",
+    "year": 1991,
+    "artist_name": "Motörhead",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=peDdSqNJETs",
+    "duration": "63:51",
+    "duration_seconds": 3831,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956115049595,
+    "song_title": "The Moon, New Haven",
+    "year": 1991,
+    "artist_name": "Nirvana",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=a-0sr5k6jPw",
+    "duration": "71:54",
+    "duration_seconds": 4314,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956215553455,
+    "song_title": "Golden Gate Park",
+    "year": 1991,
+    "artist_name": "Crosby, Stills, Nash & Young",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OPe-bqSXPaM",
+    "duration": "44:42",
+    "duration_seconds": 2682,
+    "video_type": "official_video",
+    "video_tags": []
   }
 ]

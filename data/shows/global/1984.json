@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1769955341600846,
+    "song_title": "Complete Show",
+    "year": 1984,
+    "artist_name": "The Band",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=TDJSLuwghUU",
+    "duration": "64:46",
+    "duration_seconds": 3886,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955489093753,
+    "song_title": "In Concert",
+    "year": 1984,
+    "artist_name": "David Gilmour",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yOawZNEa3RY",
+    "duration": "62:53",
+    "duration_seconds": 3773,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955653033528,
+    "song_title": "Live",
+    "year": 1984,
+    "artist_name": "Foreigner",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=kF_copPwqkA",
+    "duration": "57:13",
+    "duration_seconds": 3433,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955753998013,
+    "song_title": "Capitol Theatre",
+    "year": 1984,
+    "artist_name": "Lou Reed",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yOoXjYppyMM",
+    "duration": "137:06",
+    "duration_seconds": 8226,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769955878162396,
+    "song_title": "LIVE In Houston, Texas",
+    "year": 1984,
+    "artist_name": "The Cars",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NksIQdzK6d4",
+    "duration": "66:53",
+    "duration_seconds": 4013,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956042993778,
+    "song_title": "Live in Japan",
+    "year": 1984,
+    "artist_name": "King Crimson",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Bde9rKGEsk8",
+    "duration": "87:55",
+    "duration_seconds": 5275,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956523975856,
+    "song_title": "Live in Japan",
+    "year": 1984,
+    "artist_name": "Vandenberg",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DLGpttKbd5A",
+    "duration": "91:23",
+    "duration_seconds": 5483,
+    "video_type": "live",
+    "video_tags": []
+  }
+]

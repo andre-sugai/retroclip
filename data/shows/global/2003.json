@@ -14,5 +14,29 @@
     "artist_name": "Audioslave",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=8UvzCbSrTuw"
+  },
+  {
+    "id": 1769955606570090,
+    "song_title": "Guitar Wars",
+    "year": 2003,
+    "artist_name": "Paul Gilbert, Nuno Bettencourt, Steve Hackett, John Paul Jones",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=KUH_8W06mwU",
+    "duration": "89:53",
+    "duration_seconds": 5393,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956089534942,
+    "song_title": "Boozed, Broozed, and Broken Boned",
+    "year": 2003,
+    "artist_name": "Black Label Society",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NhEXli0peeY",
+    "duration": "72:59",
+    "duration_seconds": 4379,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

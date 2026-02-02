@@ -24,5 +24,55 @@
     "channel": "Esau Leemon",
     "views": "31.2M",
     "artist_name": "Bee Gees"
+  },
+  {
+    "id": 1769955365277463,
+    "song_title": "Premonition",
+    "year": 1997,
+    "artist_name": "John Fogerty",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=c6rQthKld-g",
+    "duration": "89:10",
+    "duration_seconds": 5350,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955416544310,
+    "song_title": "Return To Paradise",
+    "year": 1997,
+    "artist_name": "Styx",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Sg6ccWZJo4I",
+    "duration": "108:15",
+    "duration_seconds": 6495,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956250573722,
+    "song_title": "One Night Only",
+    "year": 1997,
+    "artist_name": "Bee Gees",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OuTWePEkXj4",
+    "duration": "108:55",
+    "duration_seconds": 6535,
+    "video_type": "live",
+    "video_tags": [
+      "HD"
+    ]
+  },
+  {
+    "id": 1769956401928028,
+    "song_title": "50th Birthday Concert Madison Square Garden",
+    "year": 1997,
+    "artist_name": "David Bowie",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=oXHzek1CJ3E",
+    "duration": "120:51",
+    "duration_seconds": 7251,
+    "video_type": "live",
+    "video_tags": []
   }
 ]

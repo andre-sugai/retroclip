@@ -46,5 +46,117 @@
     "artist_name": "Mike Patton / Mondo Cane",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=iDOl5q7UXfg"
+  },
+  {
+    "id": 1769955296458126,
+    "song_title": "Live, London",
+    "year": 2011,
+    "artist_name": "Roger Waters -The Wall",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ZRCRlp0uyAs",
+    "duration": "115:22",
+    "duration_seconds": 6922,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955311654404,
+    "song_title": "Chaos and Creation At Abbey Road",
+    "year": 2011,
+    "artist_name": "Paul McCartney",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9elQeVfrLOo",
+    "duration": "59:30",
+    "duration_seconds": 3570,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955406246109,
+    "song_title": "Live at Java Jazz Festival",
+    "year": 2011,
+    "artist_name": "Santana",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EfXU-qyGUpg",
+    "duration": "123:34",
+    "duration_seconds": 7414,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955554633302,
+    "song_title": "Live at Montreux",
+    "year": 2011,
+    "artist_name": "Deep Purple",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=XWR0oVi7SmA",
+    "duration": "112:09",
+    "duration_seconds": 6729,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955619111530,
+    "song_title": "Live Saarbrücken",
+    "year": 2011,
+    "artist_name": "Scorpions",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wtx5jiDEvJc",
+    "duration": "114:00",
+    "duration_seconds": 6840,
+    "video_type": "live",
+    "video_tags": [
+      "HD"
+    ]
+  },
+  {
+    "id": 1769956279445736,
+    "song_title": "live",
+    "year": 2011,
+    "artist_name": "Brian Auger Trinity",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v= Rockpalast ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956367125456,
+    "song_title": "One More Night in New York City",
+    "year": 2011,
+    "artist_name": "Mike Portnoy Beatles Tribute",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GgaYS-9Ihdw",
+    "duration": "134:28",
+    "duration_seconds": 8068,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956500511468,
+    "song_title": "live (full show)",
+    "year": 2011,
+    "artist_name": "Motörhead",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v= Rockpalast ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956519046990,
+    "song_title": "Live in Santiago",
+    "year": 2011,
+    "artist_name": "Motorhead",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jIk91s-DmIk",
+    "duration": "80:07",
+    "duration_seconds": 4807,
+    "video_type": "live",
+    "video_tags": [
+      "HD"
+    ]
   }
 ]

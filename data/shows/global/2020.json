@@ -90,5 +90,17 @@
     "artist_name": "THE MELVINS",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=8NUPV_LdJFM"
+  },
+  {
+    "id": 1769956420212001,
+    "song_title": "London, Hammersmith",
+    "year": 2020,
+    "artist_name": "Eric Clapton",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VcZILUFycrA",
+    "duration": "103:35",
+    "duration_seconds": 6215,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

@@ -14,5 +14,113 @@
     "artist_name": "Tears for Fears",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=oaPXoPpULOo"
+  },
+  {
+    "id": 1769955413827790,
+    "song_title": "Full Performance (Live on KEXP)",
+    "year": 2013,
+    "artist_name": "The Zombies",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=mWr1YovPECw",
+    "duration": "31:48",
+    "duration_seconds": 1908,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955422006186,
+    "song_title": "Live at Bonnaroo",
+    "year": 2013,
+    "artist_name": "ZZ Top",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-uZinAmZtJg",
+    "duration": "67:44",
+    "duration_seconds": 4064,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955658318906,
+    "song_title": "Baloise Session, Basel, Switzerland",
+    "year": 2013,
+    "artist_name": "Eric Clapton",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ePo6fiU8LSA",
+    "duration": "81:01",
+    "duration_seconds": 4861,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955716337500,
+    "song_title": "Acoustic - São Paulo/Brazil",
+    "year": 2013,
+    "artist_name": "Glenn Hughes",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=sZUY1A6xhAs",
+    "duration": "82:20",
+    "duration_seconds": 4940,
+    "video_type": "acoustic",
+    "video_tags": []
+  },
+  {
+    "id": 1769955902222066,
+    "song_title": "Baloise Session - Basel Switzerland",
+    "year": 2013,
+    "artist_name": "Eric Clapton",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Zkktyon361E",
+    "duration": "98:48",
+    "duration_seconds": 5928,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956006679010,
+    "song_title": "Rock Candy Funk Party   Takes New York",
+    "year": 2013,
+    "artist_name": "Full Concert",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yk_U3VTi3HE",
+    "duration": "109:06",
+    "duration_seconds": 6546,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956177376021,
+    "song_title": "Festival Jazz Lugano",
+    "year": 2013,
+    "artist_name": "Steve Winwood",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=W8fs5MPCyOs",
+    "duration": "96:11",
+    "duration_seconds": 5771,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956352229713,
+    "song_title": "Over The World Documetal Completo Edicion",
+    "year": 2013,
+    "artist_name": "Paul McCartney Wings",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=W8FOyZaAl0w",
+    "duration": "73:37",
+    "duration_seconds": 4417,
+    "video_type": "remix",
+    "video_tags": []
+  },
+  {
+    "id": 1769956356717108,
+    "song_title": "Live From Daryl's House",
+    "year": 2013,
+    "artist_name": "Cheap Trick",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=wsa3DUnWPPk",
+    "duration": "50:03",
+    "duration_seconds": 3003,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

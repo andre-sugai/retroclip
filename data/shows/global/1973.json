@@ -8,5 +8,31 @@
     "channel": "Raseraa",
     "views": "1.9M",
     "artist_name": "Elvis Presley"
+  },
+  {
+    "id": 1769955583604304,
+    "song_title": "Live At Montreux",
+    "year": 1973,
+    "artist_name": "Canned Heat & Clarence “Gatemouth” Brown",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VERDSfV-wPQ",
+    "duration": "73:05",
+    "duration_seconds": 4385,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955637233333,
+    "song_title": "The Midnight Special",
+    "year": 1973,
+    "artist_name": "David Bowie",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nxw2nq2Zh9k",
+    "duration": "31:03",
+    "duration_seconds": 1863,
+    "video_type": "live",
+    "video_tags": [
+      "HD"
+    ]
   }
 ]

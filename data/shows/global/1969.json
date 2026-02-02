@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1769955178081506,
+    "song_title": "Live on TV BYEN/Danmarks Radio",
+    "year": 1969,
+    "artist_name": "Led Zeppelin",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=k-WSbMW7BPc",
+    "duration": "31:55",
+    "duration_seconds": 1915,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955183630993,
+    "song_title": "Hyde Park,",
+    "year": 1969,
+    "artist_name": "Blind Faith",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=F7ADa0l9k0A",
+    "duration": "47:26",
+    "duration_seconds": 2846,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955397871333,
+    "song_title": "The Last Filmed Performance",
+    "year": 1969,
+    "artist_name": "Thin Lizzy Thunder and Lightning Tour",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=IqQHbBPYeC0",
+    "duration": "54:41",
+    "duration_seconds": 3281,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955517041562,
+    "song_title": "Live in Frankfurt, Germany",
+    "year": 1969,
+    "artist_name": "Janis Joplin",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=5NuZxUxHN0o",
+    "duration": "33:17",
+    "duration_seconds": 1997,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955522233513,
+    "song_title": "Royal Philarmonic Orchestra Full Concert",
+    "year": 1969,
+    "artist_name": "Deep Purple",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Ufm4NHTXVSg",
+    "duration": "80:54",
+    "duration_seconds": 4854,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955776096537,
+    "song_title": "Studio rehearsal in Germany,",
+    "year": 1969,
+    "artist_name": "Ten Years After",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=289AGcGogQI",
+    "duration": "45:03",
+    "duration_seconds": 2703,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956308624567,
+    "song_title": "The Last Great Jam Of The 60's",
+    "year": 1969,
+    "artist_name": "Supershow",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=43f-RGNGgN0",
+    "duration": "70:50",
+    "duration_seconds": 4250,
+    "video_type": "unknown",
+    "video_tags": []
+  }
+]

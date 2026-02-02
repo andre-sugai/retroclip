@@ -6,5 +6,29 @@
     "artist_name": "Nailbomb",
     "artist_genre": "Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=ipFYtuBmlHU"
+  },
+  {
+    "id": 1769955770400564,
+    "song_title": "Balance Tour",
+    "year": 1995,
+    "artist_name": "Van Halen",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Tw2UOHfIrsE",
+    "duration": "116:36",
+    "duration_seconds": 6996,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956698494634,
+    "song_title": "Live at Irvine Meadows",
+    "year": 1995,
+    "artist_name": "Robert Plant & Jimmy Page",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=WZnHNmWVaGo",
+    "duration": "123:29",
+    "duration_seconds": 7409,
+    "video_type": "live",
+    "video_tags": []
   }
 ]

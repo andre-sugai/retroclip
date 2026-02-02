@@ -6,5 +6,53 @@
     "artist_name": "Nirvana",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=Nps0GSBY1ps"
+  },
+  {
+    "id": 1769955660677967,
+    "song_title": "Sam Houston Coliseum, Houston Texas",
+    "year": 1993,
+    "artist_name": "The Black Crowes",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=HcdG9QvaGxg",
+    "duration": "105:22",
+    "duration_seconds": 6322,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955759387339,
+    "song_title": "Live MCMXCIII",
+    "year": 1993,
+    "artist_name": "Velvet Underground Redux",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=C_ExmXKFgMI",
+    "duration": "87:24",
+    "duration_seconds": 5244,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956242944837,
+    "song_title": "Live in Boston,",
+    "year": 1993,
+    "artist_name": "Keith Richards",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=M8D_kIUyrlI",
+    "duration": "46:41",
+    "duration_seconds": 2801,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956260409541,
+    "song_title": "Live At Deer Creek",
+    "year": 1993,
+    "artist_name": "Foreigner",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0CnRbhB38O0",
+    "duration": "72:26",
+    "duration_seconds": 4346,
+    "video_type": "live",
+    "video_tags": []
   }
 ]

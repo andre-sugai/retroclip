@@ -146,5 +146,55 @@
     "duration_seconds": 0,
     "video_type": "live",
     "video_tags": []
+  },
+  {
+    "id": 1769955887881339,
+    "song_title": "Concierto Madrid",
+    "year": 2016,
+    "artist_name": "The Who",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3QSHn7l2lJM",
+    "duration": "111:33",
+    "duration_seconds": 6693,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955958127577,
+    "song_title": "live",
+    "year": 2016,
+    "artist_name": "Chris Robinson Brotherhood",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v= Rockpalast ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956144747062,
+    "song_title": "SAN FRAN, CA",
+    "year": 2016,
+    "artist_name": "TEMPLE OF THE DOG",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=v5KLvctkbQE",
+    "duration": "137:18",
+    "duration_seconds": 8238,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956662444271,
+    "song_title": "Live in Switzerland",
+    "year": 2016,
+    "artist_name": "Carlos Santana with John McLaughlin",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=k0KcWyZ8II0",
+    "duration": "84:04",
+    "duration_seconds": 5044,
+    "video_type": "live",
+    "video_tags": [
+      "HD"
+    ]
   }
 ]

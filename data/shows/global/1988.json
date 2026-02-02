@@ -8,5 +8,117 @@
     "channel": "Slowed Music",
     "views": "3.9M",
     "artist_name": "Pink Floyd"
+  },
+  {
+    "id": 1769955288880746,
+    "song_title": "Live at McNichols Arena in Denver, Colorado",
+    "year": 1988,
+    "artist_name": "Def Leppard",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vAAxPOTQSQo",
+    "duration": "91:02",
+    "duration_seconds": 5462,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955291716964,
+    "song_title": "Barcelona",
+    "year": 1988,
+    "artist_name": "Frank Zappa",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=nBGQ1xVroqk",
+    "duration": "132:21",
+    "duration_seconds": 7941,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955466353041,
+    "song_title": "Live at Hamilton, Ontario",
+    "year": 1988,
+    "artist_name": "Boston",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=zcbNNuEzH2M",
+    "duration": "105:30",
+    "duration_seconds": 6330,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955611350834,
+    "song_title": "Full Concert",
+    "year": 1988,
+    "artist_name": "Queensryche",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=q8NcbLxBnWI",
+    "duration": "97:45",
+    "duration_seconds": 5865,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955906133201,
+    "song_title": "Oakland Coliseum Arena",
+    "year": 1988,
+    "artist_name": "Crosby, Stills, Nash & Young",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=W80XEPxDDQM",
+    "duration": "38:03",
+    "duration_seconds": 2283,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769956362218163,
+    "song_title": "Live In Sydney Australia",
+    "year": 1988,
+    "artist_name": "CHEAP TRICK",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v= Live In Sydney Australia 1988 ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956548942733,
+    "song_title": "Live at the National Exhibition Centre in Birmingham (UK)",
+    "year": 1988,
+    "artist_name": "RUSH",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=fe7jMEpnVmc",
+    "duration": "89:06",
+    "duration_seconds": 5346,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956658763703,
+    "song_title": "Delicate Sound of Thunder (film) + Bonus Tracks Remastered",
+    "year": 1988,
+    "artist_name": "Pink Floyd",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=GHf5IftRKPs",
+    "duration": "124:01",
+    "duration_seconds": 7441,
+    "video_type": "unknown",
+    "video_tags": [
+      "Remastered"
+    ]
+  },
+  {
+    "id": 1769956702343157,
+    "song_title": "Delicate Sound of Thunder",
+    "year": 1988,
+    "artist_name": "Pink Floyd",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=13m5-0EOwIM",
+    "duration": "115:27",
+    "duration_seconds": 6927,
+    "video_type": "live",
+    "video_tags": [
+      "4K"
+    ]
   }
 ]

@@ -98,5 +98,17 @@
     "artist_name": "MELVINS",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=OFado_sy5LI"
+  },
+  {
+    "id": 1769956497172674,
+    "song_title": "Live in Concert Shibuya, Tokyo",
+    "year": 2019,
+    "artist_name": "Red Dragon Cartel",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=w7qOQqqmtjo",
+    "duration": "84:52",
+    "duration_seconds": 5092,
+    "video_type": "live",
+    "video_tags": []
   }
 ]

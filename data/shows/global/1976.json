@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1769955192731445,
+    "song_title": "Rolling Thunder Revue",
+    "year": 1976,
+    "artist_name": "Bob Dylan",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=q0o_0b5abwA",
+    "duration": "52:07",
+    "duration_seconds": 3127,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955258005396,
+    "song_title": "Full Concert",
+    "year": 1976,
+    "artist_name": "Pat Travers Band",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=bvec0ZVGBnk",
+    "duration": "60:27",
+    "duration_seconds": 3627,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955613953515,
+    "song_title": "Capitol Theatre",
+    "year": 1976,
+    "artist_name": "Rush",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=VrBWZscNR18",
+    "duration": "35:57",
+    "duration_seconds": 2157,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769956257192454,
+    "song_title": "Reunion Tour",
+    "year": 1976,
+    "artist_name": "Bread",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3Hbg98fGme4",
+    "duration": "34:10",
+    "duration_seconds": 2050,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956397425500,
+    "song_title": "Live At The Casino Arena",
+    "year": 1976,
+    "artist_name": "The Band",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=8qnCB3fkoXA",
+    "duration": "80:08",
+    "duration_seconds": 4808,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956621147354,
+    "song_title": "live (full show)",
+    "year": 1976,
+    "artist_name": "Rory Gallagher",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v= Rockpalast ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956747968862,
+    "song_title": "Live at KWSU TV Studio",
+    "year": 1976,
+    "artist_name": "Heart",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Pp862e4vaug",
+    "duration": "57:08",
+    "duration_seconds": 3428,
+    "video_type": "live",
+    "video_tags": []
+  }
+]

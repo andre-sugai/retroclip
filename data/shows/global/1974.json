@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1769955426030002,
+    "song_title": "Live",
+    "year": 1974,
+    "artist_name": "Grand Funk",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=9sew6V6tFtI",
+    "duration": "55:15",
+    "duration_seconds": 3315,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955438607073,
+    "song_title": "Kilburn State Theatre",
+    "year": 1974,
+    "artist_name": "Rod Stewart & Faces",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rK_wPCQCVRY",
+    "duration": "63:51",
+    "duration_seconds": 3831,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955461106191,
+    "song_title": "Live - Full Show",
+    "year": 1974,
+    "artist_name": "Bachman Turner",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=YukhsMPHvvo",
+    "duration": "77:09",
+    "duration_seconds": 4629,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955616681911,
+    "song_title": "Laura Secord Secondary School, St Catharines, Ontario",
+    "year": 1974,
+    "artist_name": "Rush",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Drouhbjp_9c",
+    "duration": "39:03",
+    "duration_seconds": 2343,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955668006376,
+    "song_title": "Live at the Agora Ballroom",
+    "year": 1974,
+    "artist_name": "Peter Frampton",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=ECPfZqOx55s",
+    "duration": "100:13",
+    "duration_seconds": 6013,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955732106405,
+    "song_title": "The First Barbarians (Live)",
+    "year": 1974,
+    "artist_name": "Ronnie Wood & Keith Richards",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=0qLi1qI8GC4",
+    "duration": "62:34",
+    "duration_seconds": 3754,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956304429721,
+    "song_title": "Kilburn Theatre, London",
+    "year": 1974,
+    "artist_name": "Ronnie Wood",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_Cs0GVYwzeg",
+    "duration": "62:37",
+    "duration_seconds": 3757,
+    "video_type": "unknown",
+    "video_tags": []
+  }
+]

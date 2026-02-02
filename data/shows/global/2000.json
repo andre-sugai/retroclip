@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1769955363232416,
+    "song_title": "Live Rockpalast",
+    "year": 2000,
+    "artist_name": "Manfred Mann's Earth Band",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=rY5bwq13UY0",
+    "duration": "42:14",
+    "duration_seconds": 2534,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956064279708,
+    "song_title": "Glastonbury",
+    "year": 2000,
+    "artist_name": "David Bowie",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BnBB9rDyAlo",
+    "duration": "59:36",
+    "duration_seconds": 3576,
+    "video_type": "unknown",
+    "video_tags": []
+  }
+]

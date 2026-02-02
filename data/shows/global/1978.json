@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1769955216789799,
+    "song_title": "Madison Square Garden",
+    "year": 1978,
+    "artist_name": "Jethro Tull",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=12GPb6gV4Xk",
+    "duration": "65:20",
+    "duration_seconds": 3920,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955236098685,
+    "song_title": "Sight And Sound",
+    "year": 1978,
+    "artist_name": "Be Bop Deluxe",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=EEa4fNtr6fQ",
+    "duration": "33:02",
+    "duration_seconds": 1982,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955646109832,
+    "song_title": "Live @ Beat Club",
+    "year": 1978,
+    "artist_name": "Blondie",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=4qWvlG6uOIA",
+    "duration": "29:11",
+    "duration_seconds": 1751,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955672746775,
+    "song_title": "Winterland",
+    "year": 1978,
+    "artist_name": "The Sex Pistols",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=QBVDSz5Qd6g",
+    "duration": "57:10",
+    "duration_seconds": 3430,
+    "video_type": "official_video",
+    "video_tags": []
+  },
+  {
+    "id": 1769955705292688,
+    "song_title": "Musikladen, Bremen Germany",
+    "year": 1978,
+    "artist_name": "David Bowie",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Vijnax_DZOM",
+    "duration": "42:06",
+    "duration_seconds": 2526,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956686650538,
+    "song_title": "Live in USA",
+    "year": 1978,
+    "artist_name": "Electric Light Orchestra",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=R9GzrRLXP3Q",
+    "duration": "90:36",
+    "duration_seconds": 5436,
+    "video_type": "live",
+    "video_tags": []
+  }
+]

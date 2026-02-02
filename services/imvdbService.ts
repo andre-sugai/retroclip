@@ -185,13 +185,29 @@ const LABELS_DATA = [
 
 // Global Shows Imports
 import show1964 from '../data/shows/global/1964.json';
+import show1966 from '../data/shows/global/1966.json';
+import show1968 from '../data/shows/global/1968.json';
+import show1969 from '../data/shows/global/1969.json';
+import show1970 from '../data/shows/global/1970.json';
+import show1971 from '../data/shows/global/1971.json';
+import show1972 from '../data/shows/global/1972.json';
 import show1973 from '../data/shows/global/1973.json';
+import show1974 from '../data/shows/global/1974.json';
+import show1975 from '../data/shows/global/1975.json';
+import show1976 from '../data/shows/global/1976.json';
+import show1977 from '../data/shows/global/1977.json';
+import show1978 from '../data/shows/global/1978.json';
 import show1979 from '../data/shows/global/1979.json';
 import show1980 from '../data/shows/global/1980.json';
 import show1981 from '../data/shows/global/1981.json';
 import show1982 from '../data/shows/global/1982.json';
+import show1983 from '../data/shows/global/1983.json';
+import show1984 from '../data/shows/global/1984.json';
 import show1985 from '../data/shows/global/1985.json';
+import show1986 from '../data/shows/global/1986.json';
+import show1987 from '../data/shows/global/1987.json';
 import show1988 from '../data/shows/global/1988.json';
+import show1990 from '../data/shows/global/1990.json';
 import show1991 from '../data/shows/global/1991.json';
 import show1992 from '../data/shows/global/1992.json';
 import show1993 from '../data/shows/global/1993.json';
@@ -199,10 +215,14 @@ import show1994 from '../data/shows/global/1994.json';
 import show1995 from '../data/shows/global/1995.json';
 import show1996 from '../data/shows/global/1996.json';
 import show1997 from '../data/shows/global/1997.json';
+import show1998 from '../data/shows/global/1998.json';
 import show1999 from '../data/shows/global/1999.json';
+import show2000 from '../data/shows/global/2000.json';
 import show2001 from '../data/shows/global/2001.json';
 import show2002 from '../data/shows/global/2002.json';
 import show2003 from '../data/shows/global/2003.json';
+import show2004 from '../data/shows/global/2004.json';
+import show2005 from '../data/shows/global/2005.json';
 import show2006 from '../data/shows/global/2006.json';
 import show2007 from '../data/shows/global/2007.json';
 import show2008 from '../data/shows/global/2008.json';
@@ -227,13 +247,29 @@ import show2026 from '../data/shows/global/2026.json';
 
 const SHOWS_GLOBAL = [
   ...show1964,
+  ...show1966,
+  ...show1968,
+  ...show1969,
+  ...show1970,
+  ...show1971,
+  ...show1972,
   ...show1973,
+  ...show1974,
+  ...show1975,
+  ...show1976,
+  ...show1977,
+  ...show1978,
   ...show1979,
   ...show1980,
   ...show1981,
   ...show1982,
+  ...show1983,
+  ...show1984,
   ...show1985,
+  ...show1986,
+  ...show1987,
   ...show1988,
+  ...show1990,
   ...show1991,
   ...show1992,
   ...show1993,
@@ -241,10 +277,14 @@ const SHOWS_GLOBAL = [
   ...show1995,
   ...show1996,
   ...show1997,
+  ...show1998,
   ...show1999,
+  ...show2000,
   ...show2001,
   ...show2002,
   ...show2003,
+  ...show2004,
+  ...show2005,
   ...show2006,
   ...show2007,
   ...show2008,

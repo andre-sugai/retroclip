@@ -6,5 +6,77 @@
     "artist_name": "Amy Winehouse",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=RbC6BlpFJ1o"
+  },
+  {
+    "id": 1769955326003466,
+    "song_title": "The Albatross Follows On",
+    "year": 2008,
+    "artist_name": "Iron Maiden",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=btnBU3q-KMQ",
+    "duration": "108:51",
+    "duration_seconds": 6531,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955377540204,
+    "song_title": "Hungary",
+    "year": 2008,
+    "artist_name": "Ten Years After",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vOkbhdYaFjw",
+    "duration": "99:25",
+    "duration_seconds": 5965,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955392302111,
+    "song_title": "Graspop Metal Meeting",
+    "year": 2008,
+    "artist_name": "Judas Priest",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=cqcF7FhePfo",
+    "duration": "98:40",
+    "duration_seconds": 5920,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955498305801,
+    "song_title": "Les Vieilles Charrues",
+    "year": 2008,
+    "artist_name": "Motörhead",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v= HQ Audio",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955574778386,
+    "song_title": "AVO Session Basel, Switzerland",
+    "year": 2008,
+    "artist_name": "Jethro Tull",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=3BWSXYBNyWU",
+    "duration": "91:31",
+    "duration_seconds": 5491,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955608699111,
+    "song_title": "Minnesota Comin' atcha live!",
+    "year": 2008,
+    "artist_name": "Tesla",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=OTby1qBMOzo",
+    "duration": "117:27",
+    "duration_seconds": 7047,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

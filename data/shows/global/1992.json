@@ -23,5 +23,32 @@
     "artist_name": "Social Distortion",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=d2fAo-dupxk"
+  },
+  {
+    "id": 1769955382959784,
+    "song_title": "Live in Concert",
+    "year": 1992,
+    "artist_name": "Moody Blues",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=2_y1tpX21xU",
+    "duration": "58:49",
+    "duration_seconds": 3529,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955494279312,
+    "song_title": "Right Here Right Now Concert",
+    "year": 1992,
+    "artist_name": "Van Halen",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=qdBqQ_ZA2Os",
+    "duration": "111:31",
+    "duration_seconds": 6691,
+    "video_type": "live",
+    "video_tags": [
+      "HD",
+      "Remastered"
+    ]
   }
 ]

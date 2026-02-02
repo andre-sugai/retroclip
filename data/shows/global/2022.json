@@ -26,5 +26,31 @@
     "channel": "Post Malone",
     "views": "12.3M",
     "artist_name": "Post Malone"
+  },
+  {
+    "id": 1769956715209941,
+    "song_title": "Live",
+    "year": 2022,
+    "artist_name": "JETHRO TULL'S Martin Barre",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=lfm_nqupiq0",
+    "duration": "100:20",
+    "duration_seconds": 6020,
+    "video_type": "live",
+    "video_tags": [
+      "HD"
+    ]
+  },
+  {
+    "id": 1769956720496218,
+    "song_title": "Teatro Antico di Taormina",
+    "year": 2022,
+    "artist_name": "Jethro Tull",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uSg7Q6EMytA",
+    "duration": "77:14",
+    "duration_seconds": 4634,
+    "video_type": "live",
+    "video_tags": []
   }
 ]

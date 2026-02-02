@@ -34,5 +34,53 @@
     "channel": "Mark Knopfler",
     "views": "2.3M",
     "artist_name": "Mark Knopfler"
+  },
+  {
+    "id": 1769955333239806,
+    "song_title": "Hollywood Rock - Praça da Apoteose - RJ - Brazil",
+    "year": 1996,
+    "artist_name": "Page & Plant",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Fx0Vc4op9Js",
+    "duration": "110:40",
+    "duration_seconds": 6640,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955440605031,
+    "song_title": "live in Bremerhaven",
+    "year": 1996,
+    "artist_name": "Scorpions",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=6Pdyei3PNtA",
+    "duration": "86:31",
+    "duration_seconds": 5191,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955739575425,
+    "song_title": "Live At Vh1 Studios",
+    "year": 1996,
+    "artist_name": "AC/DC",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=SlbnCP30Ayc",
+    "duration": "58:08",
+    "duration_seconds": 3488,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956492953377,
+    "song_title": "Butch Devo And The Sundance Gig",
+    "year": 1996,
+    "artist_name": "Devo",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=yqgD3D_kGgw",
+    "duration": "65:55",
+    "duration_seconds": 3955,
+    "video_type": "live",
+    "video_tags": []
   }
 ]

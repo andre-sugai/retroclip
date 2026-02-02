@@ -6,5 +6,53 @@
     "artist_name": "Daft Punk",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=B38CY-4Rd6s"
+  },
+  {
+    "id": 1769955328017839,
+    "song_title": "Live in Basel (AVO Session)",
+    "year": 2007,
+    "artist_name": "Joe Cocker",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vVE8ZlrL1W8",
+    "duration": "60:00",
+    "duration_seconds": 3600,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955452611904,
+    "song_title": "Ronnie Scott's",
+    "year": 2007,
+    "artist_name": "Jeff Beck",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=_ndyILodYwM",
+    "duration": "100:23",
+    "duration_seconds": 6023,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955491315309,
+    "song_title": "Live From Radio City Music Hall",
+    "year": 2007,
+    "artist_name": "Ronnie James Dio",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=JWSLMS_rt5M",
+    "duration": "116:08",
+    "duration_seconds": 6968,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956756604519,
+    "song_title": "live in Bonn",
+    "year": 2007,
+    "artist_name": "Steely Dan",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Ixn1nqetPBk",
+    "duration": "107:12",
+    "duration_seconds": 6432,
+    "video_type": "live",
+    "video_tags": []
   }
 ]

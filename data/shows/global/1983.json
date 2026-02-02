@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1769955255265994,
+    "song_title": "US Festival",
+    "year": 1983,
+    "artist_name": "Triumph",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Dq4QXjA6C5k",
+    "duration": "46:53",
+    "duration_seconds": 2813,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955374984874,
+    "song_title": "Gas Tank",
+    "year": 1983,
+    "artist_name": "Rick Wakeman, Rick Parfitt, Eric Burdon, Alvin Lee &others",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=pDtFO_TC_4M",
+    "duration": "51:36",
+    "duration_seconds": 3096,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955448327044,
+    "song_title": "Rockpalast Climax Blues Band",
+    "year": 1983,
+    "artist_name": "Full Concert",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=s9KkFjWzYC8",
+    "duration": "79:00",
+    "duration_seconds": 4740,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955463652683,
+    "song_title": "Together Again",
+    "year": 1983,
+    "artist_name": "the GUESS WHO ?",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=AfPXAPOjPdc",
+    "duration": "86:38",
+    "duration_seconds": 5198,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955524815379,
+    "song_title": "History Of Uriah Heep",
+    "year": 1983,
+    "artist_name": "Uriah Heep",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=vOGhu2shkpQ",
+    "duration": "73:27",
+    "duration_seconds": 4407,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955693376489,
+    "song_title": "Live in San Bernardino",
+    "year": 1983,
+    "artist_name": "Judas Priest",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=LyKa_tc3Xr4",
+    "duration": "51:07",
+    "duration_seconds": 3067,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955696903591,
+    "song_title": "Live in Dortmund",
+    "year": 1983,
+    "artist_name": "Judas Priest",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=jRjrzpa38-0",
+    "duration": "37:51",
+    "duration_seconds": 2271,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955727352975,
+    "song_title": "Lynott's Last Stand/Final Tour",
+    "year": 1983,
+    "artist_name": "Thin Lizzy",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=Vzcvffff0Ps",
+    "duration": "54:42",
+    "duration_seconds": 3282,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955884390904,
+    "song_title": "Dio Live in Amsterdam",
+    "year": 1983,
+    "artist_name": "Dio",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=uTJeSBOb5cQ",
+    "duration": "61:47",
+    "duration_seconds": 3707,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955930195507,
+    "song_title": "Full Concert UK",
+    "year": 1983,
+    "artist_name": "Thin Lizzy",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=hq9qy6TDlq8",
+    "duration": "64:54",
+    "duration_seconds": 3894,
+    "video_type": "live",
+    "video_tags": []
+  }
+]

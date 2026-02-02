@@ -80,5 +80,77 @@
     "artist_name": "HORNSS",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=8MRgCcYyKQk"
+  },
+  {
+    "id": 1769955241721519,
+    "song_title": "Whisky A Go Go",
+    "year": 2014,
+    "artist_name": "Aerosmith",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=1t-HIXhvSTw",
+    "duration": "35:46",
+    "duration_seconds": 2146,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955260636410,
+    "song_title": "New Orleans Jazz Festival",
+    "year": 2014,
+    "artist_name": "Robert Plant",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=DkKDs2ywZ7E",
+    "duration": "55:04",
+    "duration_seconds": 3304,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769955621694350,
+    "song_title": "Live In Detroit",
+    "year": 2014,
+    "artist_name": "Aerosmith",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=neFgnugwc14",
+    "duration": "93:44",
+    "duration_seconds": 5624,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769955735923429,
+    "song_title": "Live on SWR TV",
+    "year": 2014,
+    "artist_name": "Alan Parsons Project",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=D8cR2FKWSHM",
+    "duration": "93:32",
+    "duration_seconds": 5612,
+    "video_type": "live",
+    "video_tags": []
+  },
+  {
+    "id": 1769956031882903,
+    "song_title": "Unleashed in Japan",
+    "year": 2014,
+    "artist_name": "The Winery Dogs",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=BdfqZoz2ajE",
+    "duration": "101:26",
+    "duration_seconds": 6086,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1769956638741656,
+    "song_title": "Live at Glastonbury Festival",
+    "year": 2014,
+    "artist_name": "Bryan Ferry",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=P-Du_2nEG6U",
+    "duration": "74:05",
+    "duration_seconds": 4445,
+    "video_type": "live",
+    "video_tags": []
   }
 ]
