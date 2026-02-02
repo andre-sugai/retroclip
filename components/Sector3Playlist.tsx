@@ -57,6 +57,7 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
   const [isCollapsed, setIsCollapsed] = useState(false);
   const [isLabelsCollapsed, setIsLabelsCollapsed] = useState(false);
   const [isShowsCollapsed, setIsShowsCollapsed] = useState(false);
+  const [isFestivalsCollapsed, setIsFestivalsCollapsed] = useState(false);
   const [isProgramsCollapsed, setIsProgramsCollapsed] = useState(false);
 
 
@@ -304,10 +305,55 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
         </div>
        </div>
 
-      {/* PROGRAMS SECTION */}
+      {/* FESTIVAIS SECTION */}
       {/* Header */}
       <div 
         className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[144px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+        onClick={() => setIsFestivalsCollapsed(!isFestivalsCollapsed)}
+      >
+        <div className="px-6 py-3 flex items-center justify-between">
+             <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
+                <div className="flex items-center justify-center w-6 h-6 border border-muted-foreground/30 rounded bg-zinc-100 dark:bg-zinc-800">
+                  {isFestivalsCollapsed ? <ChevronDown className="w-4 h-4" /> : <ChevronUp className="w-4 h-4" />}
+                </div>
+                FESTIVAIS
+             </h2>
+        </div>
+      </div>
+
+      {/* Festivals Content */}
+      <div 
+        className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isFestivalsCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
+      >
+        <div className="overflow-hidden">
+             <div className="p-4 bg-zinc-50/30 dark:bg-black/20">
+                <div className="grid grid-cols-1 gap-3">
+                    {/* Pinkpop Button */}
+                    <button
+                        onClick={() => {
+                           if (selectedGenre === 'pinkpop') return;
+                           onSelectGenre('pinkpop');
+                        }}
+                        className={`
+                          relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
+                          ${selectedGenre === 'pinkpop'
+                            ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
+                            : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
+                          }
+                        `}
+                    >
+                        PINKPOP
+                        {selectedGenre === 'pinkpop' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                    </button>
+                </div>
+             </div>
+        </div>
+       </div>
+
+      {/* PROGRAMS SECTION */}
+      {/* Header */}
+      <div 
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[192px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
         onClick={() => setIsProgramsCollapsed(!isProgramsCollapsed)}
       >
         <div className="px-6 py-3 flex items-center justify-between">

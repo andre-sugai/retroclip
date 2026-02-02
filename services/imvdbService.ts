@@ -308,6 +308,27 @@ const SHOWS_GLOBAL = [
   ...show2026,
 ].map((item) => ({ ...item, is_show: true }));
 
+// Pinkpop Import
+import pinkpopData from '../data/shows/global/pinkpop_concerts.json';
+
+export const PINKPOP_VIDEOS = pinkpopData
+  .map((item) => {
+    const url = (item as any).youtube_link || '';
+    const match = url.match(
+      /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/
+    );
+    const videoId = match && match[2].length === 11 ? match[2] : '';
+
+    return {
+      ...item,
+      url, // Ensure Video interface compatibility
+      is_show: true,
+      artists: [{ name: item.artist_name || 'Pinkpop' }],
+      embed_id: videoId,
+    };
+  })
+  .filter((video) => video.embed_id !== '');
+
 // Brazil Shows Imports
 import show1928BR from '../data/shows/brasil/1928.json';
 import show1969BR from '../data/shows/brasil/1969.json';

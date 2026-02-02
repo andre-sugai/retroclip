@@ -8,6 +8,7 @@ import {
   TOTAL_SHOWS,
   TOTAL_PROGRAMS,
   GENRE_MAP,
+  PINKPOP_VIDEOS,
 } from './services/imvdbService';
 import { Sector1Player } from './components/Sector1Player';
 import { Sector2Search } from './components/Sector2Search';
@@ -307,6 +308,11 @@ const App: React.FC = () => {
         genres.add(video.record_label); // Will add 'atlantic', 'road_runner', or 'subpop'
       }
 
+      // Add Pinkpop if available
+      if (PINKPOP_VIDEOS && PINKPOP_VIDEOS.length > 0) {
+        genres.add('pinkpop');
+      }
+
       // Check for acoustic
       if (
         video.artist_genre === 'acousticShow' ||
@@ -582,6 +588,9 @@ const App: React.FC = () => {
             video.artist_genre === 'acousticShow' ||
             (video.artist_genre && video.artist_genre.includes('acousticShow'))
         );
+      } else if (genreId === 'pinkpop') {
+        // Load Pinkpop videos
+        filteredQueue = [...PINKPOP_VIDEOS];
       } else {
         // Map UI Genre ID to matching sub-genres/keywords in artist_genre
         // Uses exported GENRE_MAP from service
@@ -920,7 +929,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.16.3 // ARIA-COMPLIANT
+              V 1.17.0 // ARIA-COMPLIANT
             </p>
           </div>
 
