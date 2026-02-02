@@ -1,168 +1,252 @@
 [
-  {
-    "id": 877509894762,
-    "song_title": "Live at Pinkpop",
-    "year": 2012,
-    "artist_name": "The Cure",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=UEc2os_rj6c"
-  },
-  {
-    "id": 107165816185,
-    "song_title": "Bjork - Royal Opera House",
-    "year": 2012,
-    "artist_name": "Bjork",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=KWiSZk0z60U"
-  },
-  {
-    "id": 742744568991,
-    "song_title": "Rage Against The Machine - (HD)(Live)(Woodstock 1999)(Full Concert)(PRO-SHOT)",
-    "year": 2012,
-    "artist_name": "Rage Against The Machine",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=dnspDgJ8tbQ"
-  },
-  {
-    "id": 717869453404,
-    "song_title": "No Doubt Live in Hamburg Full Concert (Germany 01.03.2000)",
-    "year": 2012,
-    "artist_name": "Yaroslav Alexandrovski",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=T2L3e44fVTs"
-  },
-  {
-    "id": 467772644399,
-    "song_title": "Incubus - 2012.06.30 - Rock Werchter, Belgium",
-    "year": 2012,
-    "artist_name": "Incubus",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=ubhzpQTGaOY"
-  },
-  {
-    "id": 102136023074,
-    "song_title": "Steve Vai - Where The Wild Things Are [full concert]",
-    "year": 2012,
-    "artist_name": "Steve Vai",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Ik0T9ivZVhk"
-  },
-  {
-    "id": 135769544883,
-    "song_title": "Oasis - Live at Wembley 2008 HDTV Full Concert",
-    "year": 2012,
-    "artist_name": "Oasis",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=lT6kVTqjFDE"
-  },
-  {
-    "id": 440100340372,
-    "song_title": "Jewel - Goodbye Alice in Wonderland Live Meyerson Symphony Center",
-    "year": 2012,
-    "artist_name": "Jewel",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=jOchWYNY5bg"
-  },
-  {
-    "id": 196056424931,
-    "song_title": "Summer Soul Festival",
-    "year": 2012,
-    "artist_name": "Bruno Mars",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=5ISL-TkhCP8"
-  },
-  {
-    "id": 1769287282240791,
-    "song_title": "AVO Session Basel",
-    "url": "https://www.youtube.com/watch?v=rabgw9QwXok",
-    "year": "2012",
-    "duration": "1:28:34",
-    "channel": "Play Music",
-    "views": "2.5M",
-    "artist_name": "Rod Stewart"
-  },
-  {
-    "id": 1769955281494870,
-    "song_title": "Live at The MGM Grand Garden in Las Vegas NV",
-    "year": 2012,
-    "artist_name": "Van Halen",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=X6Mtzt9PTXQ",
-    "duration": "118:03",
-    "duration_seconds": 7083,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769955338978558,
-    "song_title": "Complete",
-    "year": 2012,
-    "artist_name": "BBC: The Who",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=JkkZdcYtlsQ",
-    "duration": "49:08",
-    "duration_seconds": 2948,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769955486435532,
-    "song_title": "Live at iHeartRadio Music Festival",
-    "year": 2012,
-    "artist_name": "Aerosmith",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=rBSZOKZJ-8s",
-    "duration": "34:15",
-    "duration_seconds": 2055,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956098282798,
-    "song_title": "Rockpalast",
-    "year": 2012,
-    "artist_name": "Chickenfoot",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=DaKAguhUJk0",
-    "duration": "111:11",
-    "duration_seconds": 6671,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956123083489,
-    "song_title": "Hyde Park - Hard Rock Calling",
-    "year": 2012,
-    "artist_name": "Soundgarden",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=p8hKsPtw4yY",
-    "duration": "113:38",
-    "duration_seconds": 6818,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956510764549,
-    "song_title": "Live at the Bamboo Room",
-    "year": 2012,
-    "artist_name": "Pat Travers",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v= Blues, Rock, Guitar",
-    "duration": null,
-    "duration_seconds": 0,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769956761231902,
-    "song_title": "Acoustic",
-    "year": 2012,
-    "artist_name": "Jeff Lynne",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=Ni7H34LsSPg",
-    "duration": "28:47",
-    "duration_seconds": 1727,
-    "video_type": "acoustic",
-    "video_tags": []
-  }
+    {
+        "id": 877509894762,
+        "song_title": "Live at Pinkpop",
+        "year": 2012,
+        "artist_name": "The Cure",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=UEc2os_rj6c"
+    },
+    {
+        "id": 107165816185,
+        "song_title": "Bjork - Royal Opera House",
+        "year": 2012,
+        "artist_name": "Bjork",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=KWiSZk0z60U"
+    },
+    {
+        "id": 742744568991,
+        "song_title": "Rage Against The Machine - (HD)(Live)(Woodstock 1999)(Full Concert)(PRO-SHOT)",
+        "year": 2012,
+        "artist_name": "Rage Against The Machine",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=dnspDgJ8tbQ"
+    },
+    {
+        "id": 717869453404,
+        "song_title": "No Doubt Live in Hamburg Full Concert (Germany 01.03.2000)",
+        "year": 2012,
+        "artist_name": "Yaroslav Alexandrovski",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=T2L3e44fVTs"
+    },
+    {
+        "id": 467772644399,
+        "song_title": "Incubus - 2012.06.30 - Rock Werchter, Belgium",
+        "year": 2012,
+        "artist_name": "Incubus",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=ubhzpQTGaOY"
+    },
+    {
+        "id": 102136023074,
+        "song_title": "Steve Vai - Where The Wild Things Are [full concert]",
+        "year": 2012,
+        "artist_name": "Steve Vai",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=Ik0T9ivZVhk"
+    },
+    {
+        "id": 135769544883,
+        "song_title": "Oasis - Live at Wembley 2008 HDTV Full Concert",
+        "year": 2012,
+        "artist_name": "Oasis",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=lT6kVTqjFDE"
+    },
+    {
+        "id": 440100340372,
+        "song_title": "Jewel - Goodbye Alice in Wonderland Live Meyerson Symphony Center",
+        "year": 2012,
+        "artist_name": "Jewel",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=jOchWYNY5bg"
+    },
+    {
+        "id": 196056424931,
+        "song_title": "Summer Soul Festival",
+        "year": 2012,
+        "artist_name": "Bruno Mars",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=5ISL-TkhCP8"
+    },
+    {
+        "id": 1769287282240791,
+        "song_title": "AVO Session Basel",
+        "url": "https://www.youtube.com/watch?v=rabgw9QwXok",
+        "year": "2012",
+        "duration": "1:28:34",
+        "channel": "Play Music",
+        "views": "2.5M",
+        "artist_name": "Rod Stewart"
+    },
+    {
+        "id": 1769955281494870,
+        "song_title": "Live at The MGM Grand Garden in Las Vegas NV",
+        "year": 2012,
+        "artist_name": "Van Halen",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=X6Mtzt9PTXQ",
+        "duration": "118:03",
+        "duration_seconds": 7083,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769955338978558,
+        "song_title": "Complete",
+        "year": 2012,
+        "artist_name": "BBC: The Who",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=JkkZdcYtlsQ",
+        "duration": "49:08",
+        "duration_seconds": 2948,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769955486435532,
+        "song_title": "Live at iHeartRadio Music Festival",
+        "year": 2012,
+        "artist_name": "Aerosmith",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=rBSZOKZJ-8s",
+        "duration": "34:15",
+        "duration_seconds": 2055,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956098282798,
+        "song_title": "Rockpalast",
+        "year": 2012,
+        "artist_name": "Chickenfoot",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=DaKAguhUJk0",
+        "duration": "111:11",
+        "duration_seconds": 6671,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956123083489,
+        "song_title": "Hyde Park - Hard Rock Calling",
+        "year": 2012,
+        "artist_name": "Soundgarden",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=p8hKsPtw4yY",
+        "duration": "113:38",
+        "duration_seconds": 6818,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956510764549,
+        "song_title": "Live at the Bamboo Room",
+        "year": 2012,
+        "artist_name": "Pat Travers",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v= Blues, Rock, Guitar",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769956761231902,
+        "song_title": "Acoustic",
+        "year": 2012,
+        "artist_name": "Jeff Lynne",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=Ni7H34LsSPg",
+        "duration": "28:47",
+        "duration_seconds": 1727,
+        "video_type": "acoustic",
+        "video_tags": []
+    },
+    {
+        "id": 1769998784555514,
+        "song_title": "Live at Pinkpop",
+        "year": 2012,
+        "artist_name": "Linkin Park",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/vXsFpdYAV9c?si=5e1cYlRn3A94x2jQ",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998812480161,
+        "song_title": "Live at Pinkpop",
+        "year": 2012,
+        "artist_name": "Keane",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/74Ym2MCVJcw?si=zEiY8CqunRMhR1pQ",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998838343921,
+        "song_title": "Live at Pinkpop",
+        "year": 2012,
+        "artist_name": "The Cure",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/UEc2os_rj6c?si=fQJU21cTkvqy3pmp",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998849761221,
+        "song_title": "Live at Pinkpop",
+        "year": 2012,
+        "artist_name": "Anouk",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/wyanI080eWU?si=JB_LpdGtcHof01gY",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998855922821,
+        "song_title": "Live at Pinkpop",
+        "year": 2012,
+        "artist_name": "Seasick Steve",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/WnA5OtWgmDM?si=qKcgcO9EoeEx4fcp",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998946416505,
+        "song_title": "Live at Pinkpop",
+        "year": 2012,
+        "artist_name": "Mastodon",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/UZU8I-ccasA?si=Ud2M0w-LJB4zkUmb",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999053631928,
+        "song_title": "Live at Pinkpop",
+        "year": 2012,
+        "artist_name": "Soundgarden",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/14N4V34M5p0?si=k9S8DkXBWf9YOgTX",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    }
 ]

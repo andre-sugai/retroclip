@@ -1,78 +1,202 @@
 [
-  {
-    "id": 197340728510,
-    "song_title": "The Dance",
+    {
+        "id": 197340728510,
+        "song_title": "The Dance",
+        "year": 1997,
+        "artist_name": "Fleetwood Mac",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=9suHkG7QfYw"
+    },
+    {
+        "id": 185385928539,
+        "song_title": "Live in Munich",
+        "year": 1997,
+        "artist_name": "Michael Jackson",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=SDDC-QdOR14"
+    },
+    {
+        "id": 1769287282240753,
+        "song_title": "One Night Only",
+        "url": "https://www.youtube.com/watch?v=OuTWePEkXj4",
+        "year": "1997",
+        "duration": "1:48:54",
+        "channel": "Esau Leemon",
+        "views": "31.2M",
+        "artist_name": "Bee Gees"
+    },
+    {
+        "id": 1769955365277463,
+        "song_title": "Premonition",
+        "year": 1997,
+        "artist_name": "John Fogerty",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=c6rQthKld-g",
+        "duration": "89:10",
+        "duration_seconds": 5350,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769955416544310,
+        "song_title": "Return To Paradise",
+        "year": 1997,
+        "artist_name": "Styx",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=Sg6ccWZJo4I",
+        "duration": "108:15",
+        "duration_seconds": 6495,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956250573722,
+        "song_title": "One Night Only",
+        "year": 1997,
+        "artist_name": "Bee Gees",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=OuTWePEkXj4",
+        "duration": "108:55",
+        "duration_seconds": 6535,
+        "video_type": "live",
+        "video_tags": [
+            "HD"
+        ]
+    },
+    {
+        "id": 1769956401928028,
+        "song_title": "50th Birthday Concert Madison Square Garden",
+        "year": 1997,
+        "artist_name": "David Bowie",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=oXHzek1CJ3E",
+        "duration": "120:51",
+        "duration_seconds": 7251,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769998651280682,
+        "song_title": "Live at Pinkpop",
+        "year": 1997,
+        "artist_name": "Fountains of Wayne",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998774994463,
+        "song_title": "Live at Pinkpop",
+        "year": 1997,
+        "artist_name": "The Gathering",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/OT_IadDvDnE?si=pQ6qOH_whOGe1qBS",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998952261003,
+        "song_title": "Live at Pinkpop",
+        "year": 1997,
+        "artist_name": "Descendents",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/krNBc3NuPHY?si=zLKlNIgPU6itOO6A",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998979712391,
+        "song_title": "Live at Pinkpop",
+        "year": 1997,
+        "artist_name": "Eels",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/29q_9UCpTNg?si=piYpXJMlRzBrI3W_",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999089099570,
+        "song_title": "Live at Pinkpop",
+        "year": 1997,
+        "artist_name": "Tracy Bonham",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/AieGwd17BeI?si=shS1rumOIUkBdH4d",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999107779332,
+        "song_title": "Live at Pinkpop",
+        "year": 1997,
+        "artist_name": "Silverchair",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/MIPg4SdtuYU?si=FZC1-F2RbW7ksNmx",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999131975214,
+        "song_title": "Live at Pinkpop",
+        "year": 1997,
+        "artist_name": "Limp Bizkit",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/o1rkPf9Nd00?si=rnOQRMO6Sxen_C0D",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999145302163,
+        "song_title": "Live at Pinkpop",
+        "year": 1997,
+        "artist_name": "Counting Crows",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/8hkf18Nbk1c?si=ZdBQqF2YH0Yqh97A",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999171852428,
+        "song_title": "Live at Pinkpop",
+        "year": 1997,
+        "artist_name": "Rammstein",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/EsGgoC59GsQ?si=DgQyaBpBh3-sB_Mu",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+    "id": 167719307642,
+    "song_title": "Across From Midnight - Live at Waldbühne Berlin",
     "year": 1997,
-    "artist_name": "Fleetwood Mac",
+    "artist_name": "Joe Cocker",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=9suHkG7QfYw"
+    "youtube_link": "https://www.youtube.com/watch?v=AU08fvWJupE"
   },
   {
-    "id": 185385928539,
-    "song_title": "Live in Munich",
-    "year": 1997,
-    "artist_name": "Michael Jackson",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=SDDC-QdOR14"
-  },
-  {
-    "id": 1769287282240753,
-    "song_title": "One Night Only",
-    "url": "https://www.youtube.com/watch?v=OuTWePEkXj4",
-    "year": "1997",
-    "duration": "1:48:54",
-    "channel": "Esau Leemon",
-    "views": "31.2M",
-    "artist_name": "Bee Gees"
-  },
-  {
-    "id": 1769955365277463,
-    "song_title": "Premonition",
-    "year": 1997,
-    "artist_name": "John Fogerty",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=c6rQthKld-g",
-    "duration": "89:10",
-    "duration_seconds": 5350,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769955416544310,
-    "song_title": "Return To Paradise",
-    "year": 1997,
-    "artist_name": "Styx",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=Sg6ccWZJo4I",
-    "duration": "108:15",
-    "duration_seconds": 6495,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956250573722,
-    "song_title": "One Night Only",
-    "year": 1997,
-    "artist_name": "Bee Gees",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=OuTWePEkXj4",
-    "duration": "108:55",
-    "duration_seconds": 6535,
-    "video_type": "live",
-    "video_tags": [
-      "HD"
-    ]
-  },
-  {
-    "id": 1769956401928028,
-    "song_title": "50th Birthday Concert Madison Square Garden",
-    "year": 1997,
-    "artist_name": "David Bowie",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=oXHzek1CJ3E",
-    "duration": "120:51",
-    "duration_seconds": 7251,
-    "video_type": "live",
-    "video_tags": []
-  }
+        "id": 235437777601,
+        "song_title": "One Night Only",
+        "year": 1997,
+        "artist_name": "Bee Gees",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=e0npW4WoGmc"
+    }
 ]

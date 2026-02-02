@@ -1,71 +1,119 @@
 [
-  {
-    "id": 2339520904994,
-    "song_title": "MTV Unplugged",
-    "year": 2001,
-    "artist_genre": "acousticShow",
-    "youtube_link": "https://www.youtube.com/watch?v=kyc3jSH02W0",
-    "artist": "R.E.M.",
-    "is_show": true
-  },
-  {
-    "id": 1769955273599575,
-    "song_title": "Live in NYC",
-    "year": 2001,
-    "artist_name": "Cheap Trick",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=w36Cgilx4Jc",
-    "duration": "77:59",
-    "duration_seconds": 4679,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769955283904348,
-    "song_title": "Live in Lisbon",
-    "year": 2001,
-    "artist_name": "Scorpions Acoustic",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=1qO78h3T84M",
-    "duration": "110:54",
-    "duration_seconds": 6654,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769955388359909,
-    "song_title": "Live in London",
-    "year": 2001,
-    "artist_name": "Judas Priest",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=BT_tNxr2V7A",
-    "duration": "91:34",
-    "duration_seconds": 5494,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769955655526183,
-    "song_title": "Live at Budokan, Tokyo",
-    "year": 2001,
-    "artist_name": "ERIC CLAPTON",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=3FE70D5mRp0",
-    "duration": "120:01",
-    "duration_seconds": 7201,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956514352257,
-    "song_title": "In Concert Meltdown",
-    "year": 2001,
-    "artist_name": "David Gilmour",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=5hrd5Ek54VA",
-    "duration": "90:45",
-    "duration_seconds": 5445,
-    "video_type": "live",
-    "video_tags": []
-  }
+    {
+        "id": 2339520904994,
+        "song_title": "MTV Unplugged",
+        "year": 2001,
+        "artist_genre": "acousticShow",
+        "youtube_link": "https://www.youtube.com/watch?v=kyc3jSH02W0",
+        "artist": "R.E.M.",
+        "is_show": true
+    },
+    {
+        "id": 1769955273599575,
+        "song_title": "Live in NYC",
+        "year": 2001,
+        "artist_name": "Cheap Trick",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=w36Cgilx4Jc",
+        "duration": "77:59",
+        "duration_seconds": 4679,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769955283904348,
+        "song_title": "Live in Lisbon",
+        "year": 2001,
+        "artist_name": "Scorpions Acoustic",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=1qO78h3T84M",
+        "duration": "110:54",
+        "duration_seconds": 6654,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769955388359909,
+        "song_title": "Live in London",
+        "year": 2001,
+        "artist_name": "Judas Priest",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=BT_tNxr2V7A",
+        "duration": "91:34",
+        "duration_seconds": 5494,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769955655526183,
+        "song_title": "Live at Budokan, Tokyo",
+        "year": 2001,
+        "artist_name": "ERIC CLAPTON",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=3FE70D5mRp0",
+        "duration": "120:01",
+        "duration_seconds": 7201,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956514352257,
+        "song_title": "In Concert Meltdown",
+        "year": 2001,
+        "artist_name": "David Gilmour",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=5hrd5Ek54VA",
+        "duration": "90:45",
+        "duration_seconds": 5445,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769998826479515,
+        "song_title": "Live at Pinkpop",
+        "year": 2001,
+        "artist_name": "Radiohead",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/3qdMSY7q6zA?si=FAe3vEfJ2EJWxW7l",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998923543218,
+        "song_title": "Live at Pinkpop",
+        "year": 2001,
+        "artist_name": "Limp Bizkit",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/cyRIdVoDYG4?si=smrz-jFRJFFy_FCw",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998989255338,
+        "song_title": "Live at Pinkpop",
+        "year": 2001,
+        "artist_name": "Manic Street Preachers",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/V7IgNuqw3Q4?si=swbrHbahff0w3YtN",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999099333469,
+        "song_title": "Live at Pinkpop",
+        "year": 2001,
+        "artist_name": "The Offspring",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/gye0_8VzSgM?si=R_yaj5gIyjnPSA2e",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    }
 ]

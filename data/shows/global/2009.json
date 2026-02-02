@@ -1,80 +1,92 @@
 [
-  {
-    "id": 319299395676,
-    "song_title": "Live At River Plate",
-    "year": 2009,
-    "artist_name": "AC/DC",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=bFqzXDf9AOM"
-  },
-  {
-    "id": 1769287282240709,
-    "song_title": "Live At River Plate 2009",
-    "url": "https://www.youtube.com/watch?v=bFqzXDf9AOM",
-    "year": "2009",
-    "duration": "1:51:29",
-    "channel": "AC⁄DC - Remasters",
-    "views": "1.1M",
-    "artist_name": "AC/DC"
-  },
-  {
-    "id": 1769955278861950,
-    "song_title": "Live @ Sweden Rock",
-    "year": 2009,
-    "artist_name": "Uriah Heep",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=yb-uGlLfCb8",
-    "duration": "47:23",
-    "duration_seconds": 2843,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769955601679533,
-    "song_title": "Back To Budokan",
-    "year": 2009,
-    "artist_name": "Mr.Big",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=0WGJOvwYMbY",
-    "duration": "140:38",
-    "duration_seconds": 8438,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769955707768074,
-    "song_title": "Full Concert",
-    "year": 2009,
-    "artist_name": "Allman Brothers Band with Eric Clapton",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=pb22MYqdugE",
-    "duration": "54:00",
-    "duration_seconds": 3240,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956318828156,
-    "song_title": "Live from NYC",
-    "year": 2009,
-    "artist_name": "Paul McCartney",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=1QGxFpSb6Sc",
-    "duration": "93:08",
-    "duration_seconds": 5588,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956343053451,
-    "song_title": " Live Rockpalast Bonn, Germany",
-    "year": 2009,
-    "artist_name": "HEAVEN & HELL Ronnie James Dio",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=M8dGLhLtUO8",
-    "duration": "90:16",
-    "duration_seconds": 5416,
-    "video_type": "live",
-    "video_tags": []
-  }
+    {
+        "id": 319299395676,
+        "song_title": "Live At River Plate",
+        "year": 2009,
+        "artist_name": "AC/DC",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=bFqzXDf9AOM"
+    },
+    {
+        "id": 1769287282240709,
+        "song_title": "Live At River Plate 2009",
+        "url": "https://www.youtube.com/watch?v=bFqzXDf9AOM",
+        "year": "2009",
+        "duration": "1:51:29",
+        "channel": "AC⁄DC - Remasters",
+        "views": "1.1M",
+        "artist_name": "AC/DC"
+    },
+    {
+        "id": 1769955278861950,
+        "song_title": "Live @ Sweden Rock",
+        "year": 2009,
+        "artist_name": "Uriah Heep",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=yb-uGlLfCb8",
+        "duration": "47:23",
+        "duration_seconds": 2843,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769955601679533,
+        "song_title": "Back To Budokan",
+        "year": 2009,
+        "artist_name": "Mr.Big",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=0WGJOvwYMbY",
+        "duration": "140:38",
+        "duration_seconds": 8438,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769955707768074,
+        "song_title": "Full Concert",
+        "year": 2009,
+        "artist_name": "Allman Brothers Band with Eric Clapton",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=pb22MYqdugE",
+        "duration": "54:00",
+        "duration_seconds": 3240,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956318828156,
+        "song_title": "Live from NYC",
+        "year": 2009,
+        "artist_name": "Paul McCartney",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=1QGxFpSb6Sc",
+        "duration": "93:08",
+        "duration_seconds": 5588,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956343053451,
+        "song_title": " Live Rockpalast Bonn, Germany",
+        "year": 2009,
+        "artist_name": "HEAVEN & HELL Ronnie James Dio",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=M8dGLhLtUO8",
+        "duration": "90:16",
+        "duration_seconds": 5416,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769998830730426,
+        "song_title": "Live at Pinkpop",
+        "year": 2009,
+        "artist_name": "The Killers",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/9ApowXm56KY?si=iHp08HzrwZ3OdHSY",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    }
 ]

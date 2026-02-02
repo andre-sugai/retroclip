@@ -920,7 +920,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.16.2 // ARIA-COMPLIANT
+              V 1.16.3 // ARIA-COMPLIANT
             </p>
           </div>
 

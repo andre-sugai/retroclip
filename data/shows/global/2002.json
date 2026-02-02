@@ -1,84 +1,108 @@
 [
-  {
-    "id": 976205529918,
-    "song_title": "Live in Rio",
-    "year": 2002,
-    "artist_name": "RUSH In Rio",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=74RKHYNdnVY"
-  },
-  {
-    "id": 1769955502639632,
-    "song_title": "Live In Anaheim",
-    "year": 2002,
-    "artist_name": "Bad Company",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=yJzw0rLVTAM",
-    "duration": "88:00",
-    "duration_seconds": 5280,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769955527808210,
-    "song_title": "Evil or Divine",
-    "year": 2002,
-    "artist_name": "Dio",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=Nbw_mTmMfGQ",
-    "duration": "120:04",
-    "duration_seconds": 7204,
-    "video_type": "live",
-    "video_tags": [
-      "HD"
-    ]
-  },
-  {
-    "id": 1769955634475661,
-    "song_title": "Live in Berlin",
-    "year": 2002,
-    "artist_name": "David Bowie",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=KHtLbmDe2SA",
-    "duration": "67:09",
-    "duration_seconds": 4029,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956246590992,
-    "song_title": "The Royal Opera House",
-    "year": 2002,
-    "artist_name": "Elton John",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=vschhZ7TxIM",
-    "duration": "64:22",
-    "duration_seconds": 3862,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769956650001955,
-    "song_title": "Evil Or Divine",
-    "year": 2002,
-    "artist_name": "Dio",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=F4FDoiUcpks",
-    "duration": "98:58",
-    "duration_seconds": 5938,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956665583437,
-    "song_title": "In Concert The Meltdown Concert",
-    "year": 2002,
-    "artist_name": "David Gilmour",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=mMTVXDu5v5U",
-    "duration": "91:08",
-    "duration_seconds": 5468,
-    "video_type": "live",
-    "video_tags": []
-  }
+    {
+        "id": 976205529918,
+        "song_title": "Live in Rio",
+        "year": 2002,
+        "artist_name": "RUSH In Rio",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=74RKHYNdnVY"
+    },
+    {
+        "id": 1769955502639632,
+        "song_title": "Live In Anaheim",
+        "year": 2002,
+        "artist_name": "Bad Company",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=yJzw0rLVTAM",
+        "duration": "88:00",
+        "duration_seconds": 5280,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769955527808210,
+        "song_title": "Evil or Divine",
+        "year": 2002,
+        "artist_name": "Dio",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=Nbw_mTmMfGQ",
+        "duration": "120:04",
+        "duration_seconds": 7204,
+        "video_type": "live",
+        "video_tags": [
+            "HD"
+        ]
+    },
+    {
+        "id": 1769955634475661,
+        "song_title": "Live in Berlin",
+        "year": 2002,
+        "artist_name": "David Bowie",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=KHtLbmDe2SA",
+        "duration": "67:09",
+        "duration_seconds": 4029,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956246590992,
+        "song_title": "The Royal Opera House",
+        "year": 2002,
+        "artist_name": "Elton John",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=vschhZ7TxIM",
+        "duration": "64:22",
+        "duration_seconds": 3862,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769956650001955,
+        "song_title": "Evil Or Divine",
+        "year": 2002,
+        "artist_name": "Dio",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=F4FDoiUcpks",
+        "duration": "98:58",
+        "duration_seconds": 5938,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956665583437,
+        "song_title": "In Concert The Meltdown Concert",
+        "year": 2002,
+        "artist_name": "David Gilmour",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=mMTVXDu5v5U",
+        "duration": "91:08",
+        "duration_seconds": 5468,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769998977859228,
+        "song_title": "Live at Pinkpop",
+        "year": 2002,
+        "artist_name": "System of a Down",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/J23YAu9JvNQ?si=URqtG04IwiSVGjjN",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999045944393,
+        "song_title": "Live at Pinkpop",
+        "year": 2002,
+        "artist_name": "Macy Gray",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/tKEe-t_glok?si=zPiWSPT0Io-KsU2N",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    }
 ]

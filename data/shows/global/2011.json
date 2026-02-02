@@ -1,162 +1,210 @@
 [
-  {
-    "id": 740696220528,
-    "song_title": "Live in LA",
-    "year": 2011,
-    "artist_name": "Body Count",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=mZxPB8xfM6c"
-  },
-  {
-    "id": 899381647500,
-    "song_title": "The Prodigy - Phoenix Festival 1996",
-    "year": 2011,
-    "artist_name": "The Prodigy",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=inu0xeteuxg"
-  },
-  {
-    "id": 939219053635,
-    "song_title": "Massive Attack - Live at Melt Music Festival (July 2010)",
-    "year": 2011,
-    "artist_name": "Massive Attack",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=TqYA7uJUbqE"
-  },
-  {
-    "id": 190181884631,
-    "song_title": "Primus - live at Red Rocks Webcast - August 12th 2010 (Full Show)",
-    "year": 2011,
-    "artist_name": "Primus",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Pk4mlxY2row"
-  },
-  {
-    "id": 547681491561,
-    "song_title": "Garbage @ Exit Festival 2005 (full concert)",
-    "year": 2011,
-    "artist_name": "kosijer",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=pcrEgBx-s1M"
-  },
-  {
-    "id": 794802746947,
-    "song_title": "Mike Patton / Mondo Cane - Teatro Caupolicán, Santiago, Chile, Sep. 21, 2011 (HD) (Full Show)",
-    "year": 2011,
-    "artist_name": "Mike Patton / Mondo Cane",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=iDOl5q7UXfg"
-  },
-  {
-    "id": 1769955296458126,
-    "song_title": "Live, London",
-    "year": 2011,
-    "artist_name": "Roger Waters -The Wall",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=ZRCRlp0uyAs",
-    "duration": "115:22",
-    "duration_seconds": 6922,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769955311654404,
-    "song_title": "Chaos and Creation At Abbey Road",
-    "year": 2011,
-    "artist_name": "Paul McCartney",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=9elQeVfrLOo",
-    "duration": "59:30",
-    "duration_seconds": 3570,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769955406246109,
-    "song_title": "Live at Java Jazz Festival",
-    "year": 2011,
-    "artist_name": "Santana",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=EfXU-qyGUpg",
-    "duration": "123:34",
-    "duration_seconds": 7414,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769955554633302,
-    "song_title": "Live at Montreux",
-    "year": 2011,
-    "artist_name": "Deep Purple",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=XWR0oVi7SmA",
-    "duration": "112:09",
-    "duration_seconds": 6729,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769955619111530,
-    "song_title": "Live Saarbrücken",
-    "year": 2011,
-    "artist_name": "Scorpions",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=wtx5jiDEvJc",
-    "duration": "114:00",
-    "duration_seconds": 6840,
-    "video_type": "live",
-    "video_tags": [
-      "HD"
-    ]
-  },
-  {
-    "id": 1769956279445736,
-    "song_title": "live",
-    "year": 2011,
-    "artist_name": "Brian Auger Trinity",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v= Rockpalast ",
-    "duration": null,
-    "duration_seconds": 0,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769956367125456,
-    "song_title": "One More Night in New York City",
-    "year": 2011,
-    "artist_name": "Mike Portnoy Beatles Tribute",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=GgaYS-9Ihdw",
-    "duration": "134:28",
-    "duration_seconds": 8068,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956500511468,
-    "song_title": "live (full show)",
-    "year": 2011,
-    "artist_name": "Motörhead",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v= Rockpalast ",
-    "duration": null,
-    "duration_seconds": 0,
-    "video_type": "unknown",
-    "video_tags": []
-  },
-  {
-    "id": 1769956519046990,
-    "song_title": "Live in Santiago",
-    "year": 2011,
-    "artist_name": "Motorhead",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=jIk91s-DmIk",
-    "duration": "80:07",
-    "duration_seconds": 4807,
-    "video_type": "live",
-    "video_tags": [
-      "HD"
-    ]
-  }
+    {
+        "id": 740696220528,
+        "song_title": "Live in LA",
+        "year": 2011,
+        "artist_name": "Body Count",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=mZxPB8xfM6c"
+    },
+    {
+        "id": 899381647500,
+        "song_title": "The Prodigy - Phoenix Festival 1996",
+        "year": 2011,
+        "artist_name": "The Prodigy",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=inu0xeteuxg"
+    },
+    {
+        "id": 939219053635,
+        "song_title": "Massive Attack - Live at Melt Music Festival (July 2010)",
+        "year": 2011,
+        "artist_name": "Massive Attack",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=TqYA7uJUbqE"
+    },
+    {
+        "id": 190181884631,
+        "song_title": "Primus - live at Red Rocks Webcast - August 12th 2010 (Full Show)",
+        "year": 2011,
+        "artist_name": "Primus",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=Pk4mlxY2row"
+    },
+    {
+        "id": 547681491561,
+        "song_title": "Garbage @ Exit Festival 2005 (full concert)",
+        "year": 2011,
+        "artist_name": "kosijer",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=pcrEgBx-s1M"
+    },
+    {
+        "id": 794802746947,
+        "song_title": "Mike Patton / Mondo Cane - Teatro Caupolicán, Santiago, Chile, Sep. 21, 2011 (HD) (Full Show)",
+        "year": 2011,
+        "artist_name": "Mike Patton / Mondo Cane",
+        "artist_genre": "Desconhecido",
+        "youtube_link": "https://www.youtube.com/watch?v=iDOl5q7UXfg"
+    },
+    {
+        "id": 1769955296458126,
+        "song_title": "Live, London",
+        "year": 2011,
+        "artist_name": "Roger Waters -The Wall",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=ZRCRlp0uyAs",
+        "duration": "115:22",
+        "duration_seconds": 6922,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769955311654404,
+        "song_title": "Chaos and Creation At Abbey Road",
+        "year": 2011,
+        "artist_name": "Paul McCartney",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=9elQeVfrLOo",
+        "duration": "59:30",
+        "duration_seconds": 3570,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769955406246109,
+        "song_title": "Live at Java Jazz Festival",
+        "year": 2011,
+        "artist_name": "Santana",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=EfXU-qyGUpg",
+        "duration": "123:34",
+        "duration_seconds": 7414,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769955554633302,
+        "song_title": "Live at Montreux",
+        "year": 2011,
+        "artist_name": "Deep Purple",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=XWR0oVi7SmA",
+        "duration": "112:09",
+        "duration_seconds": 6729,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769955619111530,
+        "song_title": "Live Saarbrücken",
+        "year": 2011,
+        "artist_name": "Scorpions",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=wtx5jiDEvJc",
+        "duration": "114:00",
+        "duration_seconds": 6840,
+        "video_type": "live",
+        "video_tags": [
+            "HD"
+        ]
+    },
+    {
+        "id": 1769956279445736,
+        "song_title": "live",
+        "year": 2011,
+        "artist_name": "Brian Auger Trinity",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v= Rockpalast ",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769956367125456,
+        "song_title": "One More Night in New York City",
+        "year": 2011,
+        "artist_name": "Mike Portnoy Beatles Tribute",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=GgaYS-9Ihdw",
+        "duration": "134:28",
+        "duration_seconds": 8068,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956500511468,
+        "song_title": "live (full show)",
+        "year": 2011,
+        "artist_name": "Motörhead",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v= Rockpalast ",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769956519046990,
+        "song_title": "Live in Santiago",
+        "year": 2011,
+        "artist_name": "Motorhead",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=jIk91s-DmIk",
+        "duration": "80:07",
+        "duration_seconds": 4807,
+        "video_type": "live",
+        "video_tags": [
+            "HD"
+        ]
+    },
+    {
+        "id": 1769998909924688,
+        "song_title": "Live at Pinkpop",
+        "year": 2011,
+        "artist_name": "Alter Bridge",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/WYmcW3jookU?si=EDra-PGsWE4eb07w",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998925396108,
+        "song_title": "Live at Pinkpop",
+        "year": 2011,
+        "artist_name": "Kings of Leon",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/CZcCEIN0BUQ?si=L74ctzCVCZqPhkSR",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998950252377,
+        "song_title": "Live at Pinkpop",
+        "year": 2011,
+        "artist_name": "Avenged Sevenfold",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/TqnPuNpjuGY?si=jJE5mJD3FbT2SH47",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999092897863,
+        "song_title": "Live at Pinkpop",
+        "year": 2011,
+        "artist_name": "Coldplay",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/vnuP1AQz8LY?si=kq6M0LKHdOGNJk88",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    }
 ]

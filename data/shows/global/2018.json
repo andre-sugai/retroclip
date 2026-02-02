@@ -294,19 +294,5 @@
     "artist_name": "The Strombo Show /  House of Strombo",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=RAQpZguQoBo"
-  },
-  {
-    "id": 1769955894589425,
-    "song_title": "Live In Moscow",
-    "year": 2018,
-    "artist_name": "Ritchie Blackmore's Rainbow",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=MQni4ZnVEsU",
-    "duration": "118:22",
-    "duration_seconds": 7102,
-    "video_type": "live",
-    "video_tags": [
-      "HD"
-    ]
   }
 ]

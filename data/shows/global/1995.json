@@ -1,34 +1,130 @@
 [
-  {
-    "id": 519252682338,
-    "song_title": "Live At Dynamo",
-    "year": 1995,
-    "artist_name": "Nailbomb",
-    "artist_genre": "Industrial",
-    "youtube_link": "https://www.youtube.com/watch?v=ipFYtuBmlHU"
-  },
-  {
-    "id": 1769955770400564,
-    "song_title": "Balance Tour",
-    "year": 1995,
-    "artist_name": "Van Halen",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=Tw2UOHfIrsE",
-    "duration": "116:36",
-    "duration_seconds": 6996,
-    "video_type": "live",
-    "video_tags": []
-  },
-  {
-    "id": 1769956698494634,
-    "song_title": "Live at Irvine Meadows",
-    "year": 1995,
-    "artist_name": "Robert Plant & Jimmy Page",
-    "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=WZnHNmWVaGo",
-    "duration": "123:29",
-    "duration_seconds": 7409,
-    "video_type": "live",
-    "video_tags": []
-  }
+    {
+        "id": 519252682338,
+        "song_title": "Live At Dynamo",
+        "year": 1995,
+        "artist_name": "Nailbomb",
+        "artist_genre": "Industrial",
+        "youtube_link": "https://www.youtube.com/watch?v=ipFYtuBmlHU"
+    },
+    {
+        "id": 1769955770400564,
+        "song_title": "Balance Tour",
+        "year": 1995,
+        "artist_name": "Van Halen",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=Tw2UOHfIrsE",
+        "duration": "116:36",
+        "duration_seconds": 6996,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769956698494634,
+        "song_title": "Live at Irvine Meadows",
+        "year": 1995,
+        "artist_name": "Robert Plant & Jimmy Page",
+        "artist_genre": "",
+        "youtube_link": "https://www.youtube.com/watch?v=WZnHNmWVaGo",
+        "duration": "123:29",
+        "duration_seconds": 7409,
+        "video_type": "live",
+        "video_tags": []
+    },
+    {
+        "id": 1769998865604083,
+        "song_title": "Live at Pinkpop",
+        "year": 1995,
+        "artist_name": "The Tragically Hip",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/4XPr6uliHXs?si=773BR9noHCpJmb5n",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998896314173,
+        "song_title": "Live at Pinkpop",
+        "year": 1995,
+        "artist_name": "Rollins Band",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/PQsvXQSIggU?si=MOYc0_JtE9v1fjhH",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998938803207,
+        "song_title": "Live at Pinkpop",
+        "year": 1995,
+        "artist_name": "Biohazard",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/qWnLeNfGVPo?si=iuX5I-CTHcHpTp5V",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769998960170388,
+        "song_title": "Live at Pinkpop",
+        "year": 1995,
+        "artist_name": "Sinéad O'Connor",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/Qu3flgla0-Q?si=TTMBqrYABie13aeu",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999028170885,
+        "song_title": "Live at Pinkpop",
+        "year": 1995,
+        "artist_name": "Slash's Snakepit",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/Tcn8Ryh4JGE?si=-Up2W2orEm7YOhiO",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999073183255,
+        "song_title": "Live at Pinkpop",
+        "year": 1995,
+        "artist_name": "Live",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/HYWBh7tgAgQ?si=WNKa9w5iBShNzkmw",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999076989755,
+        "song_title": "Live at Pinkpop",
+        "year": 1995,
+        "artist_name": "Bad Religion",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/H_2o6eooKzQ?si=8NjtiwB_00-WPBi3",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    },
+    {
+        "id": 1769999150855812,
+        "song_title": "Live at Pinkpop",
+        "year": 1995,
+        "artist_name": "Faith No More",
+        "artist_genre": "",
+        "youtube_link": "https://youtu.be/J0p7E1PFKT0?si=LrpgHW6eJoU8U8Yt",
+        "duration": null,
+        "duration_seconds": 0,
+        "video_type": "unknown",
+        "video_tags": []
+    }
 ]
