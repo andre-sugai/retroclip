@@ -9,6 +9,8 @@ import {
   TOTAL_PROGRAMS,
   GENRE_MAP,
   PINKPOP_VIDEOS,
+  KISS_FM_VIDEO,
+  RADIO_89FM_VIDEO,
 } from './services/imvdbService';
 import { Sector1Player } from './components/Sector1Player';
 import { Sector2Search } from './components/Sector2Search';
@@ -474,7 +476,25 @@ const App: React.FC = () => {
   };
 
   // Logic: Next Video
+  // Logic: Next Video
   const handleNext = () => {
+    // Trigger tuning static if next (or looped) video is a stream
+    const currentIdx = state.queue.findIndex(
+      (v) => v.id === state.currentVideo?.id
+    );
+    const nextIdx = currentIdx + 1;
+
+    let targetVideo = null;
+    if (nextIdx < state.queue.length) {
+       targetVideo = state.queue[nextIdx];
+    } else if (state.queue.length > 0 && state.queue[0].source === 'stream') {
+       targetVideo = state.queue[0];
+    }
+
+    if (targetVideo && targetVideo.source === 'stream') {
+        setIsTuning(true);
+    }
+
     setState((prev) => {
       const currentIndex = prev.queue.findIndex(
         (v) => v.id === prev.currentVideo?.id
@@ -488,6 +508,14 @@ const App: React.FC = () => {
           isPlaying: true,
         };
       } else {
+        // Loop for Radios (if current video is a stream)
+        if (prev.queue.length > 0 && prev.queue[0].source === 'stream') {
+           return {
+              ...prev,
+              currentVideo: prev.queue[0],
+              isPlaying: true
+           };
+        }
         // End of playlist
         return {
           ...prev,
@@ -591,6 +619,10 @@ const App: React.FC = () => {
       } else if (genreId === 'pinkpop') {
         // Load Pinkpop videos
         filteredQueue = [...PINKPOP_VIDEOS];
+      } else if (genreId === 'kiss_fm') {
+        filteredQueue = [KISS_FM_VIDEO, RADIO_89FM_VIDEO];
+      } else if (genreId === 'radio_89fm') {
+        filteredQueue = [RADIO_89FM_VIDEO, KISS_FM_VIDEO];
       } else {
         // Map UI Genre ID to matching sub-genres/keywords in artist_genre
         // Uses exported GENRE_MAP from service
@@ -929,7 +961,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.17.0 // ARIA-COMPLIANT
+              V 1.18.0 // ARIA-COMPLIANT
             </p>
           </div>
 
@@ -1044,9 +1076,9 @@ const App: React.FC = () => {
           isMuted={isMuted}
           isPlaying={state.isPlaying}
           hasNext={
-            state.queue.findIndex((v) => v.id === state.currentVideo?.id) <
-            state.queue.length - 1
-          } // Check if next video exists
+            (state.queue.findIndex((v) => v.id === state.currentVideo?.id) <
+            state.queue.length - 1) || (state.queue.length > 0 && state.queue[0].source === 'stream')
+          } // Check if next video exists or if it's a stream (loop)
           forceCaptions={state.currentVideo?.program_name === 'documentarios'}
         />
 

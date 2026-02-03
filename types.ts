@@ -20,7 +20,8 @@ export interface Video {
   // For this demo, we will simulate the streaming ID or parse it if available in a robust app.
   // We will add a property for the embeddable ID we try to resolve.
   embed_id?: string;
-  source?: 'youtube' | 'vimeo' | 'unknown';
+  stream_url?: string;
+  source?: 'youtube' | 'vimeo' | 'stream' | 'unknown';
   artist_genre?: string;
   nationality?: 'BR' | 'INTL';
   is_show?: boolean;

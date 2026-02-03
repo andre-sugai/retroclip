@@ -1,7 +1,117 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Video } from '../types';
-import { Disc3, CircleArrowRight, Play } from 'lucide-react';
+import { Disc3, CircleArrowRight, Play, Radio } from 'lucide-react';
 import { translations, Language } from '../translations';
+
+const StreamPlayer = ({ video, isPlaying, isMuted, onSkip, onVideoPlay }: { video: Video, isPlaying: boolean, isMuted: boolean, onSkip: () => void, onVideoPlay?: () => void }) => {
+  const audioRef = useRef<HTMLAudioElement>(null);
+  const [bars, setBars] = useState<number[]>(new Array(20).fill(20));
+
+  useEffect(() => {
+    if (!isPlaying) return;
+    const interval = setInterval(() => {
+        setBars(prev => prev.map(() => Math.random() * 80 + 10)); 
+    }, 100);
+    return () => clearInterval(interval);
+  }, [isPlaying]);
+  
+  useEffect(() => {
+     if (!audioRef.current) return;
+     if (isPlaying) {
+          const playPromise = audioRef.current.play();
+          if (playPromise !== undefined) {
+             playPromise.catch(error => console.log('Autoplay prevented', error));
+          }
+     } else {
+          audioRef.current.pause();
+     }
+  }, [isPlaying, video]);
+
+  useEffect(() => {
+     if (audioRef.current) {
+         audioRef.current.muted = isMuted;
+     }
+  }, [isMuted]);
+
+  return (
+     <div className="w-full h-full flex items-center justify-center bg-zinc-950 relative overflow-hidden">
+         {/* Background Ambient Glow */}
+         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-amber-900/10 via-zinc-950 to-zinc-950" />
+         
+         {/* Vintage Radio Container */}
+         <div className="relative z-10 w-full max-w-3xl aspect-[16/9] md:h-2/3 bg-zinc-900 rounded-3xl border-8 border-zinc-800 shadow-[0_20px_50px_rgba(0,0,0,0.5)] flex flex-col p-6 overflow-hidden group">
+             {/* Textures */}
+             <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'repeating-linear-gradient(45deg, #000 0, #000 1px, transparent 0, transparent 50%)', backgroundSize: '10px 10px' }} />
+             
+             {/* Top Panel: Speakers & Brand */}
+             <div className="flex-1 flex gap-4 min-h-0 bg-zinc-925 relative z-10">
+                 {/* Left Speaker */}
+                 <div className="w-1/5 bg-black/40 rounded-xl border border-zinc-800" style={{ backgroundImage: 'radial-gradient(circle, #222 1px, transparent 1px)', backgroundSize: '4px 4px' }} />
+                 
+                 {/* Center Display */}
+                 <div className="flex-1 bg-black rounded-xl border-4 border-zinc-700 shadow-inner flex flex-col items-center justify-center p-6 relative overflow-hidden">
+                     {/* Reflection */}
+                     <div className="absolute inset-0 bg-[linear-gradient(135deg,rgba(255,255,255,0.03)_0%,transparent_100%)] pointer-events-none" />
+                     
+                     {/* Digital Frequency Display */}
+                     <div className="text-amber-500 font-mono text-5xl md:text-8xl font-bold tracking-wider drop-shadow-[0_0_15px_rgba(245,158,11,0.4)] mb-2 mt-4">
+                        {video.artist_name.includes('89') ? '89.1' : '92.5'}
+                     </div>
+                     <div className="text-amber-700/80 font-mono text-xs uppercase tracking-[0.5em] mb-auto">MHz FM</div>
+                     
+                     {/* Song Info */}
+                     <div className="w-full text-center z-10 my-4">
+                         <h2 className="text-white font-bold text-xl md:text-3xl tracking-tight mb-2 drop-shadow-md truncate">
+                             {video.artist_name}
+                         </h2>
+                         <div className="flex items-center justify-center gap-2">
+                            <span className="w-2 h-2 rounded-full bg-red-600 animate-pulse shadow-[0_0_8px_red]" />
+                            <p className="text-red-500 text-xs font-bold uppercase tracking-widest text-shadow-sm">ON AIR</p>
+                         </div>
+                     </div>
+
+                     {/* Visualizer Lines */}
+                     <div className="absolute bottom-0 inset-x-0 h-24 flex items-end justify-center gap-1.5 opacity-60 px-12 pb-4">
+                        {bars.map((h, i) => (
+                           <div 
+                              key={i} 
+                              className="flex-1 bg-amber-500/60 rounded-t-[1px] shadow-[0_0_5px_rgba(245,158,11,0.2)] transition-all duration-100 ease-linear"
+                              style={{ height: `${h}%` }} 
+                           />
+                        ))}
+                     </div>
+                 </div>
+
+                 {/* Right Speaker */}
+                 <div className="w-1/5 bg-black/40 rounded-xl border border-zinc-800" style={{ backgroundImage: 'radial-gradient(circle, #222 1px, transparent 1px)', backgroundSize: '4px 4px' }} />
+             </div>
+             
+             {/* Bottom Panel: Controls (Visual only) */}
+             <div className="h-14 mt-4 bg-zinc-850 rounded-lg flex items-center justify-between px-8 border-t border-zinc-700/30">
+                 <div className="flex gap-4">
+                     <div className="w-3 h-3 rounded-full bg-zinc-950 border border-zinc-700 shadow-sm" />
+                     <div className="w-3 h-3 rounded-full bg-zinc-950 border border-zinc-700 shadow-sm" />
+                 </div>
+                 <div className="text-zinc-600 font-mono text-[10px] tracking-widest uppercase">Stereo Sound System</div>
+                 <div className="w-10 h-10 rounded-full bg-zinc-800 border-2 border-zinc-700 shadow-lg relative flex items-center justify-center">
+                     <div className="w-1 h-3 bg-amber-900/50 rounded-full" />
+                 </div>
+             </div>
+         </div>
+
+         <audio 
+             ref={audioRef} 
+             src={video.stream_url || video.embed_id} 
+             playsInline 
+             controls={false}
+             onPlay={() => onVideoPlay && onVideoPlay()}
+             onError={(e) => {
+                 console.error('Audio Stream Error', e);
+             }}
+         />
+     </div>
+  );
+};
 
 declare global {
   interface Window {
@@ -172,7 +282,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
   // 2. Initialize Player & Handle Updates
   useEffect(() => {
     // If we have no video or no API, we can't do anything.
-    if (!currentVideo || !isApiReady) return;
+    if (!currentVideo) return;
 
     // Clear any existing timeouts
     if (globalTimeoutRef.current) {
@@ -183,6 +293,17 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
       clearTimeout(loadingTimeoutRef.current);
       loadingTimeoutRef.current = null;
     }
+
+    // Handle Stream Mode
+    if (currentVideo.source === 'stream') {
+        if (playerInstanceRef.current) {
+            try { playerInstanceRef.current.destroy(); } catch(e){}
+            playerInstanceRef.current = null;
+        }
+        return;
+    }
+
+    if (!isApiReady) return;
 
     // Set a global timeout as ultimate fallback
     // Shows and acoustic performances can be longer, so give them more time
@@ -579,10 +700,23 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
       onMouseEnter={activateInfo}
       onMouseMove={activateInfo}
     >
-      <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black" />
-
-      {/* Transparent layer to prevent clicks on the YouTube iframe */}
-      <div className="absolute inset-0 z-[5] bg-transparent cursor-default" />
+      {currentVideo.source === 'stream' ? (
+          <div className="absolute inset-0 z-0 select-none cursor-default">
+             <StreamPlayer 
+                video={currentVideo} 
+                isPlaying={isPlaying} 
+                isMuted={isMuted} 
+                onSkip={onEnded} 
+                onVideoPlay={onVideoPlay}
+             />
+          </div>
+      ) : (
+          <>
+             <div ref={playerWrapperRef} className="absolute inset-0 z-0 bg-black" />
+             {/* Transparent layer to prevent clicks on the YouTube iframe */}
+             <div className="absolute inset-0 z-[5] bg-transparent cursor-default" />
+          </>
+      )}
 
       <div
         className={`absolute inset-x-0 bottom-0 z-20 h-1/2 bg-gradient-to-t from-black via-black/60 to-transparent pointer-events-none flex flex-col justify-end px-5 pr-20 pt-5 pb-24 md:p-12 transition-opacity duration-700 ${

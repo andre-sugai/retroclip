@@ -329,6 +329,32 @@ export const PINKPOP_VIDEOS = pinkpopData
   })
   .filter((video) => video.embed_id !== '');
 
+export const KISS_FM_VIDEO = {
+  id: 99999999,
+  song_title: 'Ao Vivo',
+  year: new Date().getFullYear(),
+  artist_name: 'Kiss FM',
+  artists: [{ name: 'Kiss FM', slug: 'kiss-fm' }],
+  stream_url: 'https://cloud1.cdnseguro.com:9758/;',
+  source: 'stream',
+  artist_genre: 'Radio',
+  video_type: 'live',
+};
+
+export const RADIO_89FM_VIDEO = {
+  id: 99999998,
+  song_title: 'Ao Vivo',
+  year: new Date().getFullYear(),
+  artist_name: '89 FM - A Rádio Rock',
+  artists: [{ name: '89 FM', slug: '89-fm' }],
+  url: 'https://www.radiorock.com.br',
+  embed_id: '',
+  stream_url: 'https://27223.live.streamtheworld.com:443/RADIO_89FM_SC',
+  source: 'stream',
+  artist_genre: 'Radio',
+  video_type: 'live',
+};
+
 // Brazil Shows Imports
 import show1928BR from '../data/shows/brasil/1928.json';
 import show1969BR from '../data/shows/brasil/1969.json';
