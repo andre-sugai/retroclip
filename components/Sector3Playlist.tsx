@@ -391,38 +391,40 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                 <div className="grid grid-cols-1 gap-3">
                     {/* Kiss FM Button */}
                     <button
-                        onClick={() => {
+                        onClick={(e) => {
+                           e.stopPropagation();
                            if (selectedGenre === 'kiss_fm') return;
                            onSelectGenre('kiss_fm');
                         }}
                         className={`
                           relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
-                          ${currentVideo?.id === 99999999
+                          ${selectedGenre === 'kiss_fm' || currentVideo?.id === 99999999
                             ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
                             : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
                           }
                         `}
                     >
                         KISS FM
-                        {(currentVideo?.id === 99999999) && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                        {(selectedGenre === 'kiss_fm' || currentVideo?.id === 99999999) && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
                     </button>
 
                     {/* 89 FM Button */}
                     <button
-                        onClick={() => {
+                        onClick={(e) => {
+                           e.stopPropagation();
                            if (selectedGenre === 'radio_89fm') return;
                            onSelectGenre('radio_89fm');
                         }}
                         className={`
                           relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
-                          ${currentVideo?.id === 99999998
+                          ${selectedGenre === 'radio_89fm' || currentVideo?.id === 99999998
                             ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
                             : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
                           }
                         `}
                     >
                         89 FM
-                        {(currentVideo?.id === 99999998) && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                        {(selectedGenre === 'radio_89fm' || currentVideo?.id === 99999998) && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
                     </button>
                 </div>
              </div>
