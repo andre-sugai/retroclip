@@ -32,6 +32,7 @@ export const DonationModal: React.FC<DonationModalProps> = ({ isOpen, onClose, l
         {/* Close Button */}
         <button 
           onClick={onClose}
+          aria-label="Close"
           className="absolute top-4 right-4 p-2 rounded-full hover:bg-zinc-200 dark:hover:bg-zinc-800 transition-colors z-10"
         >
           <X className="w-5 h-5 text-muted-foreground" />
@@ -53,7 +54,7 @@ export const DonationModal: React.FC<DonationModalProps> = ({ isOpen, onClose, l
              <div className="w-48 h-48 bg-white rounded-lg flex items-center justify-center overflow-hidden">
                 <img 
                   src="/pix-qrcode.png" 
-                  alt="QR Code PIX" 
+                  alt="QR Code PIX para doação" 
                   className="w-full h-full object-contain"
                   onError={(e) => {
                     console.error('Erro ao carregar QR Code');
@@ -64,15 +65,15 @@ export const DonationModal: React.FC<DonationModalProps> = ({ isOpen, onClose, l
           </div>
 
           <div className="flex flex-col gap-3 w-full">
-            <div 
+            <button 
               onClick={handleCopy}
-              className="text-xs font-mono text-muted-foreground bg-zinc-100 dark:bg-zinc-800/50 py-2 px-4 rounded-lg cursor-pointer hover:bg-zinc-200 dark:hover:bg-zinc-800 transition-colors flex items-center justify-center gap-2"
+              className="text-xs font-mono text-muted-foreground bg-zinc-100 dark:bg-zinc-800/50 py-2 px-4 rounded-lg cursor-pointer hover:bg-zinc-200 dark:hover:bg-zinc-800 transition-colors flex items-center justify-center gap-2 w-full border-none"
             >
                 <span className="truncate">18e7f381-df00-4cc3-99df-9b0ad4565d7e</span>
                 <span className={`text-[10px] px-1.5 py-0.5 rounded ml-auto transition-colors ${copied ? 'bg-green-100 text-green-700' : 'bg-primary/10 text-primary'}`}>
                   {copied ? t.copied : t.copy}
                 </span>
-            </div>
+            </button>
             
             <p className="text-[10px] text-muted-foreground mt-2">
               <Heart className="w-3 h-3 inline-block mr-1 text-red-500 fill-current animate-pulse" />

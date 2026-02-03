@@ -66,9 +66,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
     <div className="flex flex-col flex-1 min-h-0 bg-background overflow-y-auto custom-scrollbar" role="region" aria-label="Playlist">
       
       {/* Header */}
-      <div 
-        className="flex flex-col border-b border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-20 sticky top-0 cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+      <button 
+        className="flex flex-col border-b border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-20 sticky top-0 cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
         onClick={() => setIsCollapsed(!isCollapsed)}
+        aria-expanded={!isCollapsed}
+        aria-controls="genres-grid"
       >
         <div className="px-6 py-3 flex items-center justify-between">
              <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
@@ -78,10 +80,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                 {t.selectGenre}
              </h2>
         </div>
-      </div>
+      </button>
 
       {/* Main Content: Genre Grid */}
       <div 
+        id="genres-grid"
         className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
       >
         <div className="overflow-hidden">
@@ -136,9 +139,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
 
       {/* GRAVADORAS SECTION */}
       {/* Header */}
-      <div 
-        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[48px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+      <button 
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[48px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
         onClick={() => setIsLabelsCollapsed(!isLabelsCollapsed)}
+        aria-expanded={!isLabelsCollapsed}
+        aria-controls="labels-grid"
       >
         <div className="px-6 py-3 flex items-center justify-between">
              <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
@@ -148,10 +153,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                 {t.recordLabels}
              </h2>
         </div>
-      </div>
+      </button>
 
       {/* Labels Content */}
       <div 
+        id="labels-grid"
         className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isLabelsCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
       >
         <div className="overflow-hidden">
@@ -241,9 +247,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
 
       {/* SHOWS SECTION */}
       {/* Header */}
-      <div 
-        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[96px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+      <button 
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[96px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
         onClick={() => setIsShowsCollapsed(!isShowsCollapsed)}
+        aria-expanded={!isShowsCollapsed}
+        aria-controls="shows-grid"
       >
         <div className="px-6 py-3 flex items-center justify-between">
              <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
@@ -253,10 +261,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                 {t.shows}
              </h2>
         </div>
-      </div>
+      </button>
 
       {/* Shows Content */}
       <div 
+        id="shows-grid"
         className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isShowsCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
       >
         <div className="overflow-hidden">
@@ -308,9 +317,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
 
       {/* FESTIVAIS SECTION */}
       {/* Header */}
-      <div 
-        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[144px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+      <button 
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[144px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
         onClick={() => setIsFestivalsCollapsed(!isFestivalsCollapsed)}
+        aria-expanded={!isFestivalsCollapsed}
+        aria-controls="festivals-grid"
       >
         <div className="px-6 py-3 flex items-center justify-between">
              <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
@@ -320,10 +331,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                 FESTIVAIS
              </h2>
         </div>
-      </div>
+      </button>
 
       {/* Festivals Content */}
       <div 
+        id="festivals-grid"
         className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isFestivalsCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
       >
         <div className="overflow-hidden">
@@ -353,9 +365,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
 
       {/* RADIOS SECTION */}
       {/* Header */}
-      <div 
-        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[192px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+      <button 
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[192px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
         onClick={() => setIsRadiosCollapsed(!isRadiosCollapsed)}
+        aria-expanded={!isRadiosCollapsed}
+        aria-controls="radios-grid"
       >
         <div className="px-6 py-3 flex items-center justify-between">
              <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
@@ -365,10 +379,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                 RADIOS
              </h2>
         </div>
-      </div>
+      </button>
 
       {/* Radios Content */}
       <div 
+        id="radios-grid"
         className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isRadiosCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
       >
         <div className="overflow-hidden">
@@ -416,9 +431,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
 
       {/* PROGRAMS SECTION */}
       {/* Header */}
-      <div 
-        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[240px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors"
+      <button 
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[240px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
         onClick={() => setIsProgramsCollapsed(!isProgramsCollapsed)}
+        aria-expanded={!isProgramsCollapsed}
+        aria-controls="programs-grid"
       >
         <div className="px-6 py-3 flex items-center justify-between">
              <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
@@ -428,10 +445,11 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                 Programas
              </h2>
         </div>
-      </div>
+      </button>
 
       {/* Programs Content */}
       <div 
+        id="programs-grid"
         className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isProgramsCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
       >
         <div className="overflow-hidden">

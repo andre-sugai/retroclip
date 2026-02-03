@@ -985,6 +985,7 @@ const App: React.FC = () => {
               size="icon"
               onClick={toggleTheme}
               className="shadow-md rounded-full"
+              aria-label="Toggle Theme" // ARIA-COMPLIANT
             >
               {theme === 'dark' ? (
                 <Sun className="w-4 h-4" />
@@ -997,6 +998,7 @@ const App: React.FC = () => {
               size="icon"
               onClick={toggleMute}
               className="shadow-md rounded-full"
+              aria-label="Toggle Mute" // ARIA-COMPLIANT
             >
               {isMuted ? (
                 <VolumeX className="w-4 h-4" />
@@ -1010,6 +1012,7 @@ const App: React.FC = () => {
               size="icon"
               onClick={toggleFullscreen}
               className="shadow-md rounded-full"
+              aria-label="Toggle Fullscreen" // ARIA-COMPLIANT
             >
               {isFullscreen ? (
                 <Minimize className="w-4 h-4" />
@@ -1025,6 +1028,7 @@ const App: React.FC = () => {
               className="shadow-md rounded-full relative"
               disabled={!state.currentVideo}
               title="Compartilhar clipe"
+              aria-label="Share Video" // ARIA-COMPLIANT
             >
               {showShareCopied ? (
                 <Check className="w-4 h-4 text-green-500" />
@@ -1039,6 +1043,7 @@ const App: React.FC = () => {
               onClick={() => setIsInfoModalOpen(true)}
               className="shadow-md rounded-full"
               title="Informações"
+              aria-label="App Information" // ARIA-COMPLIANT
             >
               <Info className="w-4 h-4" />
             </Button>
@@ -1086,13 +1091,14 @@ const App: React.FC = () => {
 
         {/* Click to Start Overlay - Requires real user click */}
         {showClickToStart && state.hasStarted && (
-          <div
-            className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-black/60 cursor-pointer"
+          <button
+            className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-black/60 cursor-pointer w-full h-full border-none p-0 text-left"
             onClick={() => {
               setShowClickToStart(false);
               // Force play after user interaction
               setState((prev) => ({ ...prev, isPlaying: true }));
             }}
+            aria-label="Click to start video"
           >
             <div className="w-32 h-32 bg-primary rounded-full flex items-center justify-center shadow-2xl transition-transform hover:scale-105 mb-6">
               <svg
@@ -1111,7 +1117,7 @@ const App: React.FC = () => {
                 Click to Start
               </p>
             </div>
-          </div>
+          </button>
         )}
 
         {/* Error Overlay */}
