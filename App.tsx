@@ -486,9 +486,29 @@ const App: React.FC = () => {
   };
 
   // Logic: Next Video
-  // Logic: Next Video
   const handleNext = () => {
-    // Trigger tuning static if next (or looped) video is a stream
+    // Special handling for radio stations
+    if (state.currentVideo?.source === 'stream') {
+      // Determine which radio is currently playing
+      const currentRadioId = state.currentVideo.id;
+      let nextRadioGenre: string;
+      
+      if (currentRadioId === 99999999) { // KISS FM
+        nextRadioGenre = 'radio_89fm';
+      } else if (currentRadioId === 99999998) { // 89 FM
+        nextRadioGenre = 'kiss_fm';
+      } else {
+        // Unknown radio, default to KISS FM
+        nextRadioGenre = 'kiss_fm';
+      }
+      
+      // Trigger the genre selection which will handle the transition
+      handleGenreSelect(nextRadioGenre);
+      return;
+    }
+    
+    // Original logic for non-radio content
+    // Trigger tuning static if next video is a stream
     const currentIdx = state.queue.findIndex(
       (v) => v.id === state.currentVideo?.id
     );
@@ -497,8 +517,6 @@ const App: React.FC = () => {
     let targetVideo = null;
     if (nextIdx < state.queue.length) {
        targetVideo = state.queue[nextIdx];
-    } else if (state.queue.length > 0 && state.queue[0].source === 'stream') {
-       targetVideo = state.queue[0];
     }
 
     if (targetVideo && targetVideo.source === 'stream') {
@@ -518,14 +536,6 @@ const App: React.FC = () => {
           isPlaying: true,
         };
       } else {
-        // Loop for Radios (if current video is a stream)
-        if (prev.queue.length > 0 && prev.queue[0].source === 'stream') {
-           return {
-              ...prev,
-              currentVideo: prev.queue[0],
-              isPlaying: true
-           };
-        }
         // End of playlist
         return {
           ...prev,
@@ -971,7 +981,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.19.1 // ARIA-COMPLIANT
+              V 1.19.2 // ARIA-COMPLIANT
             </p>
           </div>
 
