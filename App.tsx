@@ -8,7 +8,7 @@ import {
   TOTAL_SHOWS,
   TOTAL_PROGRAMS,
   GENRE_MAP,
-  PINKPOP_VIDEOS,
+  loadPinkpopVideos,
   KISS_FM_VIDEO,
   RADIO_89FM_VIDEO,
 } from './services/imvdbService';
@@ -79,6 +79,9 @@ const App: React.FC = () => {
   // Session History State (to avoid repetition)
   const [playedVideoIds, setPlayedVideoIds] = useState<Set<string>>(new Set());
 
+  // Pinkpop Videos State (loaded asynchronously)
+  const [pinkpopVideos, setPinkpopVideos] = useState<Video[]>([]);
+
   // Track Played Videos
   useEffect(() => {
     if (state.currentVideo) {
@@ -114,6 +117,13 @@ const App: React.FC = () => {
     root.classList.remove('light', 'dark');
     root.classList.add(theme);
   }, [theme]);
+
+  // Load Pinkpop videos on mount
+  useEffect(() => {
+    loadPinkpopVideos().then(setPinkpopVideos).catch(err => {
+      console.error('Failed to load Pinkpop videos:', err);
+    });
+  }, []);
 
   const toggleTheme = () => {
     setTheme((prev) => (prev === 'dark' ? 'light' : 'dark'));
@@ -311,7 +321,7 @@ const App: React.FC = () => {
       }
 
       // Add Pinkpop if available
-      if (PINKPOP_VIDEOS && PINKPOP_VIDEOS.length > 0) {
+      if (pinkpopVideos && pinkpopVideos.length > 0) {
         genres.add('pinkpop');
       }
 
@@ -350,7 +360,7 @@ const App: React.FC = () => {
     );
 
     return genres;
-  }, [allVideos]);
+  }, [allVideos, pinkpopVideos]);
 
   // Handle Share
   const handleShare = async () => {
@@ -618,7 +628,7 @@ const App: React.FC = () => {
         );
       } else if (genreId === 'pinkpop') {
         // Load Pinkpop videos
-        filteredQueue = [...PINKPOP_VIDEOS];
+        filteredQueue = [...pinkpopVideos];
       } else if (genreId === 'kiss_fm') {
         filteredQueue = [KISS_FM_VIDEO, RADIO_89FM_VIDEO];
       } else if (genreId === 'radio_89fm') {
@@ -961,7 +971,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.18.2 // ARIA-COMPLIANT
+              V 1.19.0 // ARIA-COMPLIANT
             </p>
           </div>
 

@@ -1,0 +1,95 @@
+[
+  {
+    "id": 227147762614,
+    "song_title": "Rain",
+    "year": 1966,
+    "artist_name": "The Beatles",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=e3t52Ielj48",
+    "imvdb_url": "https://imvdb.com/video/the-beatles/rain",
+    "nationality": "INTL",
+    "video_type": "clip"
+  },
+  {
+    "id": 220548664318,
+    "song_title": "I'm A Believer",
+    "year": 1966,
+    "artist_name": "The Monkees",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=gv2MLlZKarM",
+    "imvdb_url": "https://imvdb.com/video/the-monkees/im-a-believer",
+    "nationality": "INTL",
+    "video_type": "clip"
+  },
+  {
+    "id": 340925319197,
+    "song_title": "Paperback Writer",
+    "year": 1966,
+    "artist_name": "The Beatles",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=jbmqymBOOAc",
+    "imvdb_url": "https://imvdb.com/video/the-beatles/paperback-writer",
+    "nationality": "INTL",
+    "video_type": "clip"
+  },
+  {
+    "id": 601156302370,
+    "song_title": "God Only Knows",
+    "year": 1966,
+    "artist_name": "The Beach Boys",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=lpd4jzKA4SA",
+    "imvdb_url": "https://imvdb.com/video/the-beach-boys/god-only-knows",
+    "nationality": "INTL",
+    "video_type": "clip"
+  },
+  {
+    "id": 142467640581,
+    "song_title": "Happy Jack",
+    "year": 1966,
+    "artist_name": "The Who",
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=52cQeFBU2Kw",
+    "imvdb_url": "https://imvdb.com/video/the-who/happy-jack",
+    "nationality": "INTL",
+    "video_type": "clip"
+  },
+  {
+    "id": "yt_wdCHlJoAP8I",
+    "song_title": "No Milk Today",
+    "year": 1966,
+    "artist_name": "Herman's Hermits",
+    "artist_genre": "Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=wdCHlJoAP8I",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "INTL",
+    "video_type": "clip"
+  },
+  {
+    "id": "yt_Qiv47G_aN4c",
+    "song_title": "Tristeza",
+    "year": 1966,
+    "artist_name": "Baden Powell",
+    "artist_genre": "Live",
+    "youtube_link": "https://www.youtube.com/watch?v=Qiv47G_aN4c",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "BR",
+    "video_type": "clip"
+  },
+  {
+    "id": 1769955186378805,
+    "song_title": "Olympia, Paris",
+    "year": 1966,
+    "artist_name": "The Animals",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=-G5vGZ1r6sQ",
+    "duration": "17:40",
+    "duration_seconds": 1060,
+    "video_type": "live",
+    "video_tags": [],
+    "nationality": "INTL",
+    "is_show": true
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "id": 1769605583401100,
+    "song_title": "I Used To Go To This Bar",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=vc-PsAzH21w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor",
+    "nationality": "INTL"
+  },
+  {
+    "id": 1769605586022650,
+    "song_title": "Monolith",
+    "year": 2026,
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=xpNiC4ywP30",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death Lens",
+    "nationality": "INTL"
+  },
+  {
+    "id": 1769605591659880,
+    "song_title": "\"We Were Never The Same\" (Official Visualizer)",
+    "year": 2026,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=yNfRyuSMiBc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge",
+    "nationality": "INTL"
+  },
+  {
+    "id": 1769605594266815,
+    "song_title": "I Know Where Mark Chen Lives",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gfgQZJQ-zUo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor",
+    "nationality": "INTL"
+  },
+  {
+    "id": 1769605596999881,
+    "song_title": "Power",
+    "year": 2026,
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=APC4zAsYvcs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death Lens",
+    "nationality": "INTL"
+  },
+  {
+    "id": 1769605602264531,
+    "song_title": "Love Is Not Enough",
+    "year": 2026,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=qxelfxGa2oo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge",
+    "nationality": "INTL"
+  },
+  {
+    "id": 1769605626925721,
+    "song_title": "Well, Whatever It Was",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=VSPEr7_gYlw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor",
+    "nationality": "INTL"
+  },
+  {
+    "id": 1769605694895888,
+    "song_title": "All My Friends Are So Depressed",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=NDmJDdFl_jI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor",
+    "nationality": "INTL"
+  },
+  {
+    "id": "yt_dxLAaFxmx5U",
+    "song_title": "RellHaven - First to Blitz (Official Music Video) Shot by @tyfilmz",
+    "year": 2026,
+    "artist_name": "Blitz",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=dxLAaFxmx5U",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "BR",
+    "video_type": "clip"
+  },
+  {
+    "id": "yt_9fVsy6pFUSk",
+    "song_title": "Vivito & Coleando - El Chacal & Ronkalunga (Sigo Vivo Remix) Video Oficial",
+    "year": 2026,
+    "artist_name": "Chakal",
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=9fVsy6pFUSk",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "BR",
+    "video_type": "clip"
+  },
+  {
+    "id": "yt_mdxwZ1wQ9RY",
+    "song_title": "Simba La Rue - 9MILLIMETRI (Official Video)",
+    "year": 2026,
+    "artist_name": "De La Rue",
+    "artist_genre": "Rap",
+    "youtube_link": "https://www.youtube.com/watch?v=mdxwZ1wQ9RY",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "BR",
+    "video_type": "clip"
+  },
+  {
+    "id": "yt_eNZMW-7jckc",
+    "song_title": "🎧 1 HORA DE GROOVE NOVO SOM (Especial Series Premiere)",
+    "year": 2026,
+    "artist_name": "Novo Som",
+    "artist_genre": "Pop",
+    "youtube_link": "https://www.youtube.com/watch?v=eNZMW-7jckc",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "BR",
+    "video_type": "clip"
+  },
+  {
+    "id": "yt_1oLQg_eEACA",
+    "song_title": "Nada É Impossível - Quatro Por Um e Klev Soares (Clipe Oficial)",
+    "year": 2026,
+    "artist_name": "Quatro por Um",
+    "artist_genre": "Gospel",
+    "youtube_link": "https://www.youtube.com/watch?v=1oLQg_eEACA",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "BR",
+    "video_type": "clip"
+  },
+  {
+    "id": "yt_2LJnbqIKig8",
+    "song_title": "TAXI PLANE",
+    "year": 2026,
+    "artist_name": "R\\'e1dio Taxi",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=2LJnbqIKig8",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "BR",
+    "video_type": "clip"
+  },
+  {
+    "id": "yt_Y-HLVtKZmag",
+    "song_title": "Girl from Nowhere: The Reset Official Teaser | Update | Rebecca Patricia Armstrong | New thai drama",
+    "year": 2026,
+    "artist_name": "Restart",
+    "artist_genre": "Pop Rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Y-HLVtKZmag",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "BR",
+    "video_type": "clip"
+  },
+  {
+    "id": "yt_S3CUYXq1Wxg",
+    "song_title": "Frank Sinatra & Antônio Carlos Jobim Medley | Live from A Man and His Music (1967) [Remastered HD]",
+    "year": 2026,
+    "artist_name": "Tom Jobim",
+    "artist_genre": "Bossa Nova",
+    "youtube_link": "https://www.youtube.com/watch?v=S3CUYXq1Wxg",
+    "imvdb_url": null,
+    "source": "YouTube",
+    "nationality": "BR",
+    "video_type": "clip"
+  },
+  {
+    "id": 559470565171,
+    "song_title": "Tiny Desk Concert",
+    "year": 2026,
+    "artist_name": "John Fogerty",
+    "artist_genre": "Rock",
+    "youtube_link": "https://youtu.be/H4uzympZPx0?si=qhr57x8Dwsthg3t6",
+    "nationality": "INTL",
+    "is_show": true,
+    "video_type": "show"
+  },
+  {
+    "id": 423315394819,
+    "song_title": "Beastie Boys - Awesome....I Shot That! Live at Madison Square Garden 9th October 2004",
+    "year": 2026,
+    "artist_name": "Beastie Boys",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=pKLjNcaasUA",
+    "nationality": "INTL",
+    "is_show": true,
+    "video_type": "show"
+  },
+  {
+    "id": 1769605583401100,
+    "song_title": "I Used To Go To This Bar",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=vc-PsAzH21w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor",
+    "nationality": "INTL",
+    "record_label": "epitaph"
+  },
+  {
+    "id": 1769605586022650,
+    "song_title": "Monolith",
+    "year": 2026,
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=xpNiC4ywP30",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death Lens",
+    "nationality": "INTL",
+    "record_label": "epitaph"
+  },
+  {
+    "id": 1769605591659880,
+    "song_title": "\"We Were Never The Same\" (Official Visualizer)",
+    "year": 2026,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=yNfRyuSMiBc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "visualizer",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge",
+    "nationality": "INTL",
+    "record_label": "epitaph"
+  },
+  {
+    "id": 1769605594266815,
+    "song_title": "I Know Where Mark Chen Lives",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=gfgQZJQ-zUo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor",
+    "nationality": "INTL",
+    "record_label": "epitaph"
+  },
+  {
+    "id": 1769605596999881,
+    "song_title": "Power",
+    "year": 2026,
+    "artist_genre": "Metal",
+    "youtube_link": "https://www.youtube.com/watch?v=APC4zAsYvcs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Death Lens",
+    "nationality": "INTL",
+    "record_label": "epitaph"
+  },
+  {
+    "id": 1769605602264531,
+    "song_title": "Love Is Not Enough",
+    "year": 2026,
+    "artist_genre": "Punk",
+    "youtube_link": "https://www.youtube.com/watch?v=qxelfxGa2oo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Converge",
+    "nationality": "INTL",
+    "record_label": "epitaph"
+  },
+  {
+    "id": 1769605626925721,
+    "song_title": "Well, Whatever It Was",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=VSPEr7_gYlw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor",
+    "nationality": "INTL",
+    "record_label": "epitaph"
+  },
+  {
+    "id": 1769605694895888,
+    "song_title": "All My Friends Are So Depressed",
+    "year": 2026,
+    "artist_genre": "Rock Alternativo",
+    "youtube_link": "https://www.youtube.com/watch?v=NDmJDdFl_jI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": [
+      "epitaph"
+    ],
+    "artist": "Joyce Manor",
+    "nationality": "INTL",
+    "record_label": "epitaph"
+  }
+]

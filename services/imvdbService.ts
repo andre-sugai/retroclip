@@ -1,334 +1,111 @@
 import { Video } from '../types';
+import metadata from './metadata.json';
+import metadataIndex from './metadata-index.json';
 
-// Global Clips Imports
-import data1960 from '../data/clipes/global/1960.json';
-import data1963 from '../data/clipes/global/1963.json';
-import data1964 from '../data/clipes/global/1964.json';
-import data1965 from '../data/clipes/global/1965.json';
-import data1966 from '../data/clipes/global/1966.json';
-import data1967 from '../data/clipes/global/1967.json';
-import data1968 from '../data/clipes/global/1968.json';
-import data1969 from '../data/clipes/global/1969.json';
-import data1970 from '../data/clipes/global/1970.json';
-import data1971 from '../data/clipes/global/1971.json';
-import data1972 from '../data/clipes/global/1972.json';
-import data1973 from '../data/clipes/global/1973.json';
-import data1974 from '../data/clipes/global/1974.json';
-import data1975 from '../data/clipes/global/1975.json';
-import data1976 from '../data/clipes/global/1976.json';
-import data1977 from '../data/clipes/global/1977.json';
-import data1978 from '../data/clipes/global/1978.json';
-import data1979 from '../data/clipes/global/1979.json';
-import data1980 from '../data/clipes/global/1980.json';
-import data1981 from '../data/clipes/global/1981.json';
-import data1982 from '../data/clipes/global/1982.json';
-import data1983 from '../data/clipes/global/1983.json';
-import data1984 from '../data/clipes/global/1984.json';
-import data1985 from '../data/clipes/global/1985.json';
-import data1986 from '../data/clipes/global/1986.json';
-import data1987 from '../data/clipes/global/1987.json';
-import data1988 from '../data/clipes/global/1988.json';
-import data1989 from '../data/clipes/global/1989.json';
-import data1990 from '../data/clipes/global/1990.json';
-import data1991 from '../data/clipes/global/1991.json';
-import data1992 from '../data/clipes/global/1992.json';
-import data1993 from '../data/clipes/global/1993.json';
-import data1994 from '../data/clipes/global/1994.json';
-import data1995 from '../data/clipes/global/1995.json';
-import data1996 from '../data/clipes/global/1996.json';
-import data1997 from '../data/clipes/global/1997.json';
-import data1998 from '../data/clipes/global/1998.json';
-import data1999 from '../data/clipes/global/1999.json';
-import data2000 from '../data/clipes/global/2000.json';
-import data2001 from '../data/clipes/global/2001.json';
-import data2002 from '../data/clipes/global/2002.json';
-import data2003 from '../data/clipes/global/2003.json';
-import data2004 from '../data/clipes/global/2004.json';
-import data2005 from '../data/clipes/global/2005.json';
-import data2006 from '../data/clipes/global/2006.json';
-import data2007 from '../data/clipes/global/2007.json';
-import data2008 from '../data/clipes/global/2008.json';
-import data2009 from '../data/clipes/global/2009.json';
-import data2010 from '../data/clipes/global/2010.json';
-import data2011 from '../data/clipes/global/2011.json';
-import data2012 from '../data/clipes/global/2012.json';
-import data2013 from '../data/clipes/global/2013.json';
-import data2014 from '../data/clipes/global/2014.json';
-import data2015 from '../data/clipes/global/2015.json';
-import data2016 from '../data/clipes/global/2016.json';
-import data2017 from '../data/clipes/global/2017.json';
-import data2018 from '../data/clipes/global/2018.json';
-import data2019 from '../data/clipes/global/2019.json';
-import data2020 from '../data/clipes/global/2020.json';
-import data2021 from '../data/clipes/global/2021.json';
-import data2022 from '../data/clipes/global/2022.json';
-import data2023 from '../data/clipes/global/2023.json';
-import data2024 from '../data/clipes/global/2024.json';
-import data2025 from '../data/clipes/global/2025.json';
-import data2026 from '../data/clipes/global/2026.json';
+// ============================================================================
+// CACHE SYSTEM
+// ============================================================================
 
-// Record Labels Imports
-import atlanticData from '../data/clipes/global/atlantic.json';
-import roadRunnerData from '../data/clipes/global/road_runner.json';
-import subpopData from '../data/clipes/global/subpop.json';
-import epitaphData from '../data/clipes/global/epitaph.json';
+const dataCache = new Map<string, any>();
 
-// BR Data Imports
-import data1929BR from '../data/clipes/brasil/1929.json';
-import data1936BR from '../data/clipes/brasil/1936.json';
-import data1949BR from '../data/clipes/brasil/1949.json';
-import data1950BR from '../data/clipes/brasil/1950.json';
-import data1959BR from '../data/clipes/brasil/1959.json';
-import data1960BR from '../data/clipes/brasil/1960.json';
-import data1962BR from '../data/clipes/brasil/1962.json';
-import data1963BR from '../data/clipes/brasil/1963.json';
-import data1966BR from '../data/clipes/brasil/1966.json';
-import data1967BR from '../data/clipes/brasil/1967.json';
-import data1969BR from '../data/clipes/brasil/1969.json';
-import data1970BR from '../data/clipes/brasil/1970.json';
-import data1972BR from '../data/clipes/brasil/1972.json';
-import data1973BR from '../data/clipes/brasil/1973.json';
-import data1974BR from '../data/clipes/brasil/1974.json';
-import data1975BR from '../data/clipes/brasil/1975.json';
-import data1976BR from '../data/clipes/brasil/1976.json';
-import data1977BR from '../data/clipes/brasil/1977.json';
-import data1978BR from '../data/clipes/brasil/1978.json';
-import data1979BR from '../data/clipes/brasil/1979.json';
-import data1980BR from '../data/clipes/brasil/1980.json';
-import data1982BR from '../data/clipes/brasil/1982.json';
-import data1983BR from '../data/clipes/brasil/1983.json';
-import data1984BR from '../data/clipes/brasil/1984.json';
-import data1985BR from '../data/clipes/brasil/1985.json';
-import data1986BR from '../data/clipes/brasil/1986.json';
-import data1987BR from '../data/clipes/brasil/1987.json';
-import data1988BR from '../data/clipes/brasil/1988.json';
-import data1989BR from '../data/clipes/brasil/1989.json';
-import data1990BR from '../data/clipes/brasil/1990.json';
-import data1991BR from '../data/clipes/brasil/1991.json';
-import data1992BR from '../data/clipes/brasil/1992.json';
-import data1993BR from '../data/clipes/brasil/1993.json';
-import data1994BR from '../data/clipes/brasil/1994.json';
-import data1995BR from '../data/clipes/brasil/1995.json';
-import data1996BR from '../data/clipes/brasil/1996.json';
-import data1997BR from '../data/clipes/brasil/1997.json';
-import data1999BR from '../data/clipes/brasil/1999.json';
-import data2000BR from '../data/clipes/brasil/2000.json';
-import data2001BR from '../data/clipes/brasil/2001.json';
-import data2002BR from '../data/clipes/brasil/2002.json';
-import data2003BR from '../data/clipes/brasil/2003.json';
-import data2004BR from '../data/clipes/brasil/2004.json';
-import data2005BR from '../data/clipes/brasil/2005.json';
-import data2006BR from '../data/clipes/brasil/2006.json';
-import data2007BR from '../data/clipes/brasil/2007.json';
-import data2008BR from '../data/clipes/brasil/2008.json';
-import data2009BR from '../data/clipes/brasil/2009.json';
-import data2010BR from '../data/clipes/brasil/2010.json';
-import data2011BR from '../data/clipes/brasil/2011.json';
-import data2012BR from '../data/clipes/brasil/2012.json';
-import data2013BR from '../data/clipes/brasil/2013.json';
-import data2014BR from '../data/clipes/brasil/2014.json';
-import data2015BR from '../data/clipes/brasil/2015.json';
-import data2016BR from '../data/clipes/brasil/2016.json';
-import data2017BR from '../data/clipes/brasil/2017.json';
-import data2018BR from '../data/clipes/brasil/2018.json';
-import data2019BR from '../data/clipes/brasil/2019.json';
-import data2020BR from '../data/clipes/brasil/2020.json';
-import data2021BR from '../data/clipes/brasil/2021.json';
-import data2022BR from '../data/clipes/brasil/2022.json';
-import data2023BR from '../data/clipes/brasil/2023.json';
-import data2024BR from '../data/clipes/brasil/2024.json';
-import data2025BR from '../data/clipes/brasil/2025.json';
-import data2026BR from '../data/clipes/brasil/2026.json';
+// ============================================================================
+// DYNAMIC LOADERS - Now using unified structure
+// ============================================================================
 
-// Programs Imports
-import hermesRenatoData from '../data/programas/hermes_e_renato.json';
-import beavisButtheadData from '../data/programas/beavis_and_butthead.json';
-import documentariosData from '../data/programas/documentarios.json';
+const loadYear = async (year: number) => {
+  const key = `year-${year}`;
+  if (dataCache.has(key)) return dataCache.get(key);
+  
+  try {
+    const data = await import(`../data/videos/${year}.json`);
+    dataCache.set(key, data.default);
+    return data.default;
+  } catch (error) {
+    console.warn(`No data for year ${year}`);
+    return [];
+  }
+};
 
-const PROGRAMS_DATA = [
-  ...hermesRenatoData.map((item) => ({
-    ...item,
-    is_program: true,
-    program_name: 'hermes_renato',
-  })),
-  ...beavisButtheadData.map((item) => ({
-    ...item,
-    is_program: true,
-    program_name: 'beavis_butthead',
-  })),
-  ...documentariosData.map((item) => ({
-    ...item,
-    is_program: true,
-    program_name: 'documentarios',
-  })),
-];
+const loadProgram = async (program: 'hermes_e_renato' | 'beavis_and_butthead' | 'documentarios') => {
+  const key = `program-${program}`;
+  if (dataCache.has(key)) return dataCache.get(key);
+  
+  const data = await import(`../data/programas/${program}.json`);
+  dataCache.set(key, data.default);
+  return data.default;
+};
 
-// Record Labels Data
-const LABELS_DATA = [
-  ...atlanticData.map((item) => ({
-    ...item,
-    record_label: 'atlantic',
-  })),
-  ...roadRunnerData.map((item) => ({
-    ...item,
-    record_label: 'road_runner',
-  })),
-  ...subpopData.map((item) => ({
-    ...item,
-    record_label: 'subpop',
-  })),
-  ...epitaphData.map((item) => ({
-    ...item,
-    record_label: 'epitaph',
-  })),
-];
+// ============================================================================
+// INDEX-BASED LOADERS (New optimized functions)
+// ============================================================================
 
-// Global Shows Imports
-import show1964 from '../data/shows/global/1964.json';
-import show1966 from '../data/shows/global/1966.json';
-import show1968 from '../data/shows/global/1968.json';
-import show1969 from '../data/shows/global/1969.json';
-import show1970 from '../data/shows/global/1970.json';
-import show1971 from '../data/shows/global/1971.json';
-import show1972 from '../data/shows/global/1972.json';
-import show1973 from '../data/shows/global/1973.json';
-import show1974 from '../data/shows/global/1974.json';
-import show1975 from '../data/shows/global/1975.json';
-import show1976 from '../data/shows/global/1976.json';
-import show1977 from '../data/shows/global/1977.json';
-import show1978 from '../data/shows/global/1978.json';
-import show1979 from '../data/shows/global/1979.json';
-import show1980 from '../data/shows/global/1980.json';
-import show1981 from '../data/shows/global/1981.json';
-import show1982 from '../data/shows/global/1982.json';
-import show1983 from '../data/shows/global/1983.json';
-import show1984 from '../data/shows/global/1984.json';
-import show1985 from '../data/shows/global/1985.json';
-import show1986 from '../data/shows/global/1986.json';
-import show1987 from '../data/shows/global/1987.json';
-import show1988 from '../data/shows/global/1988.json';
-import show1990 from '../data/shows/global/1990.json';
-import show1991 from '../data/shows/global/1991.json';
-import show1992 from '../data/shows/global/1992.json';
-import show1993 from '../data/shows/global/1993.json';
-import show1994 from '../data/shows/global/1994.json';
-import show1995 from '../data/shows/global/1995.json';
-import show1996 from '../data/shows/global/1996.json';
-import show1997 from '../data/shows/global/1997.json';
-import show1998 from '../data/shows/global/1998.json';
-import show1999 from '../data/shows/global/1999.json';
-import show2000 from '../data/shows/global/2000.json';
-import show2001 from '../data/shows/global/2001.json';
-import show2002 from '../data/shows/global/2002.json';
-import show2003 from '../data/shows/global/2003.json';
-import show2004 from '../data/shows/global/2004.json';
-import show2005 from '../data/shows/global/2005.json';
-import show2006 from '../data/shows/global/2006.json';
-import show2007 from '../data/shows/global/2007.json';
-import show2008 from '../data/shows/global/2008.json';
-import show2009 from '../data/shows/global/2009.json';
-import show2010 from '../data/shows/global/2010.json';
-import show2011 from '../data/shows/global/2011.json';
-import show2012 from '../data/shows/global/2012.json';
-import show2013 from '../data/shows/global/2013.json';
-import show2014 from '../data/shows/global/2014.json';
-import show2015 from '../data/shows/global/2015.json';
-import show2016 from '../data/shows/global/2016.json';
-import show2017 from '../data/shows/global/2017.json';
-import show2018 from '../data/shows/global/2018.json';
-import show2019 from '../data/shows/global/2019.json';
-import show2020 from '../data/shows/global/2020.json';
-import show2021 from '../data/shows/global/2021.json';
-import show2022 from '../data/shows/global/2022.json';
-import show2023 from '../data/shows/global/2023.json';
-import show2024 from '../data/shows/global/2024.json';
-import show2025 from '../data/shows/global/2025.json';
-import show2026 from '../data/shows/global/2026.json';
+/**
+ * Load videos by genre using index to load only relevant years
+ */
+const loadByGenre = async (genreId: string, region: 'br' | 'intl' | 'all' = 'all') => {
+  const genreInfo = metadataIndex.byGenre[genreId];
+  
+  if (!genreInfo || !genreInfo.years || genreInfo.years.length === 0) {
+    console.warn(`No data found for genre: ${genreId}`);
+    return [];
+  }
+  
+  const videos = [];
+  
+  // Load only years that have this genre
+  for (const year of genreInfo.years) {
+    const yearData = await loadYear(year);
+    videos.push(...yearData);
+  }
+  
+  // Filter by region if needed
+  if (region !== 'all') {
+    const targetNationality = region === 'br' ? 'BR' : 'INTL';
+    return videos.filter(v => v.nationality === targetNationality);
+  }
+  
+  return videos;
+};
 
-const SHOWS_GLOBAL = [
-  ...show1964,
-  ...show1966,
-  ...show1968,
-  ...show1969,
-  ...show1970,
-  ...show1971,
-  ...show1972,
-  ...show1973,
-  ...show1974,
-  ...show1975,
-  ...show1976,
-  ...show1977,
-  ...show1978,
-  ...show1979,
-  ...show1980,
-  ...show1981,
-  ...show1982,
-  ...show1983,
-  ...show1984,
-  ...show1985,
-  ...show1986,
-  ...show1987,
-  ...show1988,
-  ...show1990,
-  ...show1991,
-  ...show1992,
-  ...show1993,
-  ...show1994,
-  ...show1995,
-  ...show1996,
-  ...show1997,
-  ...show1998,
-  ...show1999,
-  ...show2000,
-  ...show2001,
-  ...show2002,
-  ...show2003,
-  ...show2004,
-  ...show2005,
-  ...show2006,
-  ...show2007,
-  ...show2008,
-  ...show2009,
-  ...show2010,
-  ...show2011,
-  ...show2012,
-  ...show2013,
-  ...show2014,
-  ...show2015,
-  ...show2016,
-  ...show2017,
-  ...show2018,
-  ...show2019,
-  ...show2020,
-  ...show2021,
-  ...show2022,
-  ...show2023,
-  ...show2024,
-  ...show2025,
-  ...show2026,
-].map((item) => ({ ...item, is_show: true }));
+/**
+ * Load videos by festival using index
+ */
+const loadByFestival = async (festival: string) => {
+  const festivalInfo = metadataIndex.byFestival[festival];
+  
+  if (!festivalInfo) {
+    console.warn(`No data found for festival: ${festival}`);
+    return [];
+  }
+  
+  const videos = [];
+  
+  // Load from year files that have this festival tag
+  if (festivalInfo.years && festivalInfo.years.length > 0) {
+    for (const year of festivalInfo.years) {
+      const yearData = await loadYear(year);
+      const festivalVideos = yearData.filter(v => 
+        v.festival === festival || (v.video_tags && v.video_tags.includes(festival))
+      );
+      videos.push(...festivalVideos);
+    }
+  }
+  
+  return videos;
+};
 
-// Pinkpop Import
-import pinkpopData from '../data/shows/global/pinkpop_concerts.json';
+// ============================================================================
+// CONSTANTS (from metadata)
+// ============================================================================
 
-export const PINKPOP_VIDEOS = pinkpopData
-  .map((item) => {
-    const url = (item as any).youtube_link || '';
-    const match = url.match(
-      /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/
-    );
-    const videoId = match && match[2].length === 11 ? match[2] : '';
+export const TOTAL_VIDEOS_COUNT = metadataIndex.metadata.totalVideos;
+export const TOTAL_CLIPS = metadataIndex.metadata.totalClips;
+export const TOTAL_SHOWS = metadataIndex.metadata.totalShows;
+export const TOTAL_PROGRAMS = metadataIndex.metadata.totalPrograms;
+export const INTL_VIDEOS_COUNT = metadataIndex.byNationality.INTL.count;
+export const BR_VIDEOS_COUNT = metadataIndex.byNationality.BR.count;
 
-    return {
-      ...item,
-      url, // Ensure Video interface compatibility
-      is_show: true,
-      artists: [{ name: item.artist_name || 'Pinkpop' }],
-      embed_id: videoId,
-    };
-  })
-  .filter((video) => video.embed_id !== '');
-
+// Static exports for radio (these are tiny)
 export const KISS_FM_VIDEO = {
   id: 99999999,
   song_title: 'Ao Vivo',
@@ -355,74 +132,44 @@ export const RADIO_89FM_VIDEO = {
   video_type: 'live',
 };
 
-// Brazil Shows Imports
-import show1928BR from '../data/shows/brasil/1928.json';
-import show1969BR from '../data/shows/brasil/1969.json';
-import show1972BR from '../data/shows/brasil/1972.json';
-import show1976BR from '../data/shows/brasil/1976.json';
-import show1978BR from '../data/shows/brasil/1978.json';
-import show1982BR from '../data/shows/brasil/1982.json';
-import show1986BR from '../data/shows/brasil/1986.json';
-import show1989BR from '../data/shows/brasil/1989.json';
-import show1991BR from '../data/shows/brasil/1991.json';
-import show1992BR from '../data/shows/brasil/1992.json';
-import show1996BR from '../data/shows/brasil/1996.json';
-import show1997BR from '../data/shows/brasil/1997.json';
-import show2004BR from '../data/shows/brasil/2004.json';
-import show2005BR from '../data/shows/brasil/2005.json';
-import show2006BR from '../data/shows/brasil/2006.json';
-import show2007BR from '../data/shows/brasil/2007.json';
-import show2009BR from '../data/shows/brasil/2009.json';
-import show2011BR from '../data/shows/brasil/2011.json';
-import show2012BR from '../data/shows/brasil/2012.json';
-import show2013BR from '../data/shows/brasil/2013.json';
-import show2014BR from '../data/shows/brasil/2014.json';
-import show2015BR from '../data/shows/brasil/2015.json';
-import show2016BR from '../data/shows/brasil/2016.json';
-import show2017BR from '../data/shows/brasil/2017.json';
-import show2018BR from '../data/shows/brasil/2018.json';
-import show2019BR from '../data/shows/brasil/2019.json';
-import show2020BR from '../data/shows/brasil/2020.json';
-import show2021BR from '../data/shows/brasil/2021.json';
-import show2022BR from '../data/shows/brasil/2022.json';
-import show2023BR from '../data/shows/brasil/2023.json';
-import show2024BR from '../data/shows/brasil/2024.json';
-import show2025BR from '../data/shows/brasil/2025.json';
+// ============================================================================
+// PINKPOP VIDEOS (Index-based loading using video_tags)
+// ============================================================================
 
-const SHOWS_BRASIL = [
-  ...show1928BR,
-  ...show1969BR,
-  ...show1972BR,
-  ...show1976BR,
-  ...show1978BR,
-  ...show1982BR,
-  ...show1986BR,
-  ...show1989BR,
-  ...show1991BR,
-  ...show1992BR,
-  ...show1996BR,
-  ...show1997BR,
-  ...show2004BR,
-  ...show2005BR,
-  ...show2006BR,
-  ...show2007BR,
-  ...show2009BR,
-  ...show2011BR,
-  ...show2012BR,
-  ...show2013BR,
-  ...show2014BR,
-  ...show2015BR,
-  ...show2016BR,
-  ...show2017BR,
-  ...show2018BR,
-  ...show2019BR,
-  ...show2020BR,
-  ...show2021BR,
-  ...show2022BR,
-  ...show2023BR,
-  ...show2024BR,
-  ...show2025BR,
-].map((item) => ({ ...item, is_show: true }));
+export const loadPinkpopVideos = async () => {
+  try {
+    // Load all videos with pinkpop tag or festival field from index
+    // This includes:
+    // - Videos from pinkpop.json (169 videos without years)
+    // - Videos from year files with video_tags: ["pinkpop"] (143 videos)
+    const videos = await loadByFestival('pinkpop');
+    
+    return videos
+      .map((item: any) => {
+        const url = item.youtube_link || '';
+        const match = url.match(
+          /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/
+        );
+        const videoId = match && match[2].length === 11 ? match[2] : '';
+
+        return {
+          ...item,
+          url,
+          is_show: true,
+          artists: [{ name: item.artist_name || 'Pinkpop' }],
+          embed_id: videoId,
+        };
+      })
+      .filter((video: any) => video.embed_id !== '');
+  } catch (error) {
+    console.error('Failed to load Pinkpop videos:', error);
+    return [];
+  }
+};
+
+// ============================================================================
+// HELPER FUNCTIONS
+// ============================================================================
 
 const deduplicateData = (items: any[]) => {
   const map = new Map();
@@ -430,7 +177,6 @@ const deduplicateData = (items: any[]) => {
     const id = item.id;
     if (!id) return;
     if (map.has(id)) {
-      // Merge: existing properties + new properties
       map.set(id, { ...map.get(id), ...item });
     } else {
       map.set(id, item);
@@ -439,173 +185,6 @@ const deduplicateData = (items: any[]) => {
   return Array.from(map.values());
 };
 
-const RAW_INTL_DATA = [
-  ...data1960,
-  ...data1963,
-  ...data1964,
-  ...data1965,
-  ...data1966,
-  ...data1967,
-  ...data1968,
-  ...data1969,
-  ...data1970,
-  ...data1971,
-  ...data1972,
-  ...data1973,
-  ...data1974,
-  ...data1975,
-  ...data1976,
-  ...data1977,
-  ...data1978,
-  ...data1979,
-  ...data1980,
-  ...data1981,
-  ...data1982,
-  ...data1983,
-  ...data1984,
-  ...data1985,
-  ...data1986,
-  ...data1987,
-  ...data1988,
-  ...data1989,
-  ...data1990,
-  ...data1991,
-  ...data1992,
-  ...data1993,
-  ...data1994,
-  ...data1995,
-  ...data1996,
-  ...data1997,
-  ...data1998,
-  ...data1999,
-  ...data2000,
-  ...data2001,
-  ...data2002,
-  ...data2003,
-  ...data2004,
-  ...data2005,
-  ...data2006,
-  ...data2007,
-  ...data2008,
-  ...data2009,
-  ...data2010,
-  ...data2011,
-  ...data2012,
-  ...data2013,
-  ...data2014,
-  ...data2015,
-  ...data2016,
-  ...data2017,
-  ...data2018,
-  ...data2019,
-  ...data2020,
-  ...data2021,
-  ...data2022,
-  ...data2023,
-  ...data2024,
-  ...data2025,
-  ...data2026,
-
-  ...LABELS_DATA,
-  ...SHOWS_GLOBAL,
-];
-
-const INTL_DATA = deduplicateData(RAW_INTL_DATA);
-
-const RAW_BR_DATA = [
-  ...data1929BR,
-  ...data1936BR,
-  ...data1949BR,
-  ...data1950BR,
-  ...data1959BR,
-  ...data1960BR,
-  ...data1962BR,
-  ...data1963BR,
-  ...data1966BR,
-  ...data1967BR,
-  ...data1969BR,
-  ...data1970BR,
-  ...data1972BR,
-  ...data1973BR,
-  ...data1974BR,
-  ...data1975BR,
-  ...data1976BR,
-  ...data1977BR,
-  ...data1978BR,
-  ...data1979BR,
-  ...data1980BR,
-  ...data1982BR,
-  ...data1983BR,
-  ...data1984BR,
-  ...data1985BR,
-  ...data1986BR,
-  ...data1987BR,
-  ...data1988BR,
-  ...data1989BR,
-  ...data1990BR,
-  ...data1991BR,
-  ...data1992BR,
-  ...data1993BR,
-  ...data1994BR,
-  ...data1995BR,
-  ...data1996BR,
-  ...data1997BR,
-  ...data1999BR,
-  ...data2000BR,
-  ...data2001BR,
-  ...data2002BR,
-  ...data2003BR,
-  ...data2004BR,
-  ...data2005BR,
-  ...data2006BR,
-  ...data2007BR,
-  ...data2008BR,
-  ...data2009BR,
-  ...data2010BR,
-  ...data2011BR,
-  ...data2012BR,
-  ...data2013BR,
-  ...data2014BR,
-  ...data2015BR,
-  ...data2016BR,
-  ...data2017BR,
-  ...data2018BR,
-  ...data2019BR,
-  ...data2020BR,
-  ...data2021BR,
-  ...data2022BR,
-  ...data2023BR,
-  ...data2024BR,
-  ...data2025BR,
-  ...data2026BR,
-  ...SHOWS_BRASIL,
-  ...PROGRAMS_DATA,
-].map((item) => ({ ...item, nationality: 'BR' }));
-
-const BR_DATA = deduplicateData(RAW_BR_DATA);
-
-// Helper to get dataset by region
-const getDataset = (region: 'br' | 'intl' | 'all') => {
-  if (region === 'br') return BR_DATA;
-  if (region === 'intl') return INTL_DATA;
-  // Deduplicate when combining both (though IDs shouldn't clash between regions ideally, better safe)
-  return deduplicateData([...INTL_DATA, ...BR_DATA]);
-};
-
-const allItems = [...INTL_DATA, ...BR_DATA];
-export const TOTAL_VIDEOS_COUNT = allItems.length;
-export const TOTAL_SHOWS = allItems.filter((i) => (i as any).is_show).length;
-export const TOTAL_PROGRAMS = allItems.filter(
-  (i) => (i as any).is_program
-).length;
-export const TOTAL_CLIPS = TOTAL_VIDEOS_COUNT - TOTAL_SHOWS - TOTAL_PROGRAMS;
-
-export const INTL_VIDEOS_COUNT = INTL_DATA.length;
-export const BR_VIDEOS_COUNT = BR_DATA.length;
-
-/**
- * Helper to extract YouTube ID from various URL formats
- */
 function getYouTubeId(url: string): string | undefined {
   if (!url) return undefined;
   const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
@@ -613,9 +192,6 @@ function getYouTubeId(url: string): string | undefined {
   return match && match[2].length === 11 ? match[2] : undefined;
 }
 
-/**
- * Helper to generate thumbnail URLs
- */
 function getHighQualityThumbnail(videoId: string) {
   return {
     o: `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
@@ -624,9 +200,6 @@ function getHighQualityThumbnail(videoId: string) {
   };
 }
 
-/**
- * Shuffle array
- */
 function shuffleArray<T>(array: T[]): T[] {
   const newArray = [...array];
   for (let i = newArray.length - 1; i > 0; i--) {
@@ -636,9 +209,135 @@ function shuffleArray<T>(array: T[]): T[] {
   return newArray;
 }
 
-/**
- * Main Fetch Function
- */
+// ============================================================================
+// DATA ASSEMBLY - Optimized with index
+// ============================================================================
+
+const getDataset = async (
+  region: 'br' | 'intl' | 'all',
+  type?: 'year' | 'decade' | 'all',
+  value?: string
+) => {
+  // For specific year, only load that year
+  if (type === 'year' && value) {
+    const year = parseInt(value);
+    const yearData = await loadYear(year);
+    
+    // Filter by region
+    if (region === 'br') {
+      return yearData.filter((v: any) => v.nationality === 'BR');
+    } else if (region === 'intl') {
+      return yearData.filter((v: any) => v.nationality === 'INTL');
+    }
+    
+    return yearData;
+  }
+  
+  // For decade, load all years in that decade
+  if (type === 'decade' && value) {
+    const startYear = parseInt(value);
+    const endYear = startYear + 9;
+    const data = [];
+    
+    for (let year = startYear; year <= endYear; year++) {
+      // Check if year exists in index before loading
+      if (metadataIndex.byYear[year]) {
+        const yearData = await loadYear(year);
+        
+        // Filter by region
+        if (region === 'br') {
+          data.push(...yearData.filter((v: any) => v.nationality === 'BR'));
+        } else if (region === 'intl') {
+          data.push(...yearData.filter((v: any) => v.nationality === 'INTL'));
+        } else {
+          data.push(...yearData);
+        }
+      }
+    }
+    
+    return deduplicateData(data);
+  }
+  
+  // For 'all', load everything (expensive, used for initial load)
+  return await loadAllData(region);
+};
+
+// Helper to load all data (used sparingly)
+const loadAllData = async (region: 'br' | 'intl' | 'all') => {
+  const data = [];
+  
+  // Get years from index
+  const years = Object.keys(metadataIndex.byYear).map(y => parseInt(y));
+  
+  // Load years based on region
+  const yearsToLoad = years.filter(year => {
+    const yearInfo = metadataIndex.byYear[year];
+    if (region === 'br') {
+      return yearInfo.nationalities.includes('BR');
+    } else if (region === 'intl') {
+      return yearInfo.nationalities.includes('INTL');
+    }
+    return true; // 'all'
+  });
+  
+  // Load all years in parallel
+  const promises = yearsToLoad.map(async (year) => {
+    const yearData = await loadYear(year);
+    
+    // Filter by region
+    if (region === 'br') {
+      return yearData.filter((v: any) => v.nationality === 'BR');
+    } else if (region === 'intl') {
+      return yearData.filter((v: any) => v.nationality === 'INTL');
+    }
+    return yearData;
+  });
+  
+  const results = await Promise.all(promises);
+  data.push(...results.flat());
+  
+  // Load programs (always BR)
+  if (region === 'br' || region === 'all') {
+    const programs = await Promise.all([
+      loadProgram('hermes_e_renato'),
+      loadProgram('beavis_and_butthead'),
+      loadProgram('documentarios')
+    ]);
+    
+    data.push(...programs.flat());
+  }
+  
+  return deduplicateData(data);
+};
+
+// ============================================================================
+// MAIN FETCH FUNCTIONS
+// ============================================================================
+
+const mapToVideo = (item: any): Video => {
+  const embedId = getYouTubeId(item.youtube_link || '') || getYouTubeId(item.imvdb_url || '');
+  const artistName = String(item.artist || item.artist_name || 'Unknown');
+
+  return {
+    id: item.id,
+    song_title: item.song_title,
+    artists: [
+      { name: artistName, slug: artistName.toLowerCase().replace(/ /g, '-') },
+    ],
+    year: item.year,
+    url: item.imvdb_url,
+    embed_id: embedId,
+    image: embedId ? getHighQualityThumbnail(embedId) : undefined,
+    source: 'youtube',
+    artist_genre: item.artist_genre,
+    nationality: item.nationality || 'INTL',
+    is_show: item.is_show,
+    is_program: item.is_program,
+    program_name: item.program_name,
+    record_label: item.record_label,
+  } as Video;
+};
+
 export const fetchVideosByCriteria = async (
   type: 'year' | 'decade' | 'all',
   value: string,
@@ -647,130 +346,70 @@ export const fetchVideosByCriteria = async (
   // Simulate API delay
   await new Promise((resolve) => setTimeout(resolve, 800));
 
-  const sourceData = getDataset(region);
-  let filtered = sourceData;
-
-  if (type === 'year') {
-    const year = parseInt(value);
-    filtered = sourceData.filter((v: any) => v.year === year);
-  } else if (type === 'decade') {
-    const startYear = parseInt(value);
-    const endYear = startYear + 9;
-    filtered = sourceData.filter(
-      (v: any) => v.year >= startYear && v.year <= endYear
-    );
-  } else if (type === 'all') {
-    // No filtering needed, use all data
-    filtered = sourceData;
-  }
-
+  const sourceData = await getDataset(region, type, value);
+  
   // Map to Video type
-  const mapped = filtered
-    .map((item) => {
-      const i = item as any;
-      const embedId =
-        getYouTubeId(i.youtube_link || '') || getYouTubeId(i.imvdb_url || '');
-      const artistName = String(i.artist || i.artist_name || 'Unknown');
-
-      return {
-        id: i.id,
-        song_title: i.song_title,
-        artists: [
-          {
-            name: artistName,
-            slug: artistName.toLowerCase().replace(/ /g, '-'),
-          },
-        ],
-        year: i.year,
-        url: i.imvdb_url,
-        embed_id: embedId,
-        image: embedId ? getHighQualityThumbnail(embedId) : undefined,
-        source: 'youtube',
-        artist_genre: i.artist_genre,
-        nationality: i.nationality || 'INTL',
-        is_show: i.is_show,
-        is_program: i.is_program,
-        program_name: i.program_name,
-        record_label: i.record_label,
-      } as Video;
-    })
+  const mapped = sourceData
+    .map((item) => mapToVideo(item))
     .filter((v) => v.embed_id); // Only return videos with valid IDs
 
   return shuffleArray(mapped);
 };
 
-/**
- * Fetch a specific video by ID (for deep linking)
- */
 export const fetchVideoById = async (
   id: string | number
 ): Promise<Video | undefined> => {
-  // Simulate API delay
   await new Promise((resolve) => setTimeout(resolve, 500));
 
   console.log(`[Grooovio Fetch] Looking for ID: ${id}`);
-  const allData = getDataset('all');
-  console.log(`[Grooovio Fetch] RAW_DATA length: ${allData.length}`);
-
-  let found = allData.find(
-    (v: any) => v.id && v.id.toString() === id.toString()
-  );
-
-  // If not found by internal ID, try finding by YouTube ID (for deep links from shares)
+  
+  // Try to find in cache first
+  for (const [key, data] of dataCache.entries()) {
+    const found = data.find((v: any) => v.id && v.id.toString() === id.toString());
+    if (found) {
+      console.log(`[Grooovio Fetch] Found in cache: ${key}`);
+      return mapToVideo(found);
+    }
+  }
+  
+  // If not in cache, try to find by YouTube ID in cache
+  for (const [key, data] of dataCache.entries()) {
+    const found = data.find((v: any) => {
+      const yId = getYouTubeId(v.youtube_link || '') || getYouTubeId(v.imvdb_url || '');
+      return yId === id;
+    });
+    if (found) {
+      console.log(`[Grooovio Fetch] Found by YouTube ID in cache: ${key}`);
+      return mapToVideo(found);
+    }
+  }
+  
+  // If not in cache, load all data (expensive fallback for deep links)
+  console.log(`[Grooovio Fetch] Not in cache, loading all data...`);
+  const allData = await getDataset('all');
+  
+  let found = allData.find((v: any) => v.id && v.id.toString() === id.toString());
+  
+  // Try by YouTube ID
   if (!found) {
-    console.log(
-      `[Grooovio Fetch] ID not found, trying matches for YouTube ID: ${id}`
-    );
     found = allData.find((v: any) => {
-      const yId =
-        getYouTubeId(v.youtube_link || '') || getYouTubeId(v.imvdb_url || '');
+      const yId = getYouTubeId(v.youtube_link || '') || getYouTubeId(v.imvdb_url || '');
       return yId === id;
     });
   }
-
+  
   if (!found) {
-    console.warn(`[Grooovio Fetch] Video not found in RAW_DATA for ID: ${id}`);
+    console.warn(`[Grooovio Fetch] Video not found for ID: ${id}`);
     return undefined;
   }
-
-  console.log(`[Grooovio Fetch] Found raw entry:`, found);
-
-  const i = found as any;
-  const embedId =
-    getYouTubeId(i.youtube_link || '') || getYouTubeId(i.imvdb_url || '');
-
-  console.log(`[Grooovio Fetch] Extracted Embed ID: ${embedId}`);
-
-  if (!embedId) {
-    console.warn(`[Grooovio Fetch] Could not extract Embed ID for video ${id}`);
-    return undefined;
-  }
-
-  const artistName = String(i.artist || i.artist_name || 'Unknown');
-
-  return {
-    id: i.id,
-    song_title: i.song_title,
-    artists: [
-      { name: artistName, slug: artistName.toLowerCase().replace(/ /g, '-') },
-    ],
-    year: i.year,
-    url: i.imvdb_url,
-    embed_id: embedId,
-    image: getHighQualityThumbnail(embedId),
-    source: 'youtube',
-    artist_genre: i.artist_genre,
-    nationality: i.nationality || 'INTL',
-    is_show: i.is_show,
-    is_program: i.is_program,
-    program_name: i.program_name,
-    record_label: i.record_label,
-  } as Video;
+  
+  return mapToVideo(found);
 };
 
-/**
- * Calculate genre statistics
- */
+// ============================================================================
+// GENRE MAP
+// ============================================================================
+
 export const GENRE_MAP: Record<string, string[]> = {
   'Rock Alternativo': [
     'Alternative Rock',
@@ -856,57 +495,28 @@ export const GENRE_MAP: Record<string, string[]> = {
   Reggae: ['Reggae', 'Reggaeton'],
 };
 
-/**
- * Calculate genre statistics
- */
-export const getGenreStatistics = (): Record<string, number> => {
-  const allData = getDataset('all');
+// ============================================================================
+// STATISTICS FUNCTIONS - Now using index
+// ============================================================================
 
+export const getGenreStatistics = async (): Promise<Record<string, number>> => {
+  // Return counts directly from index
   const genreCounts: Record<string, number> = {};
-
-  // Initialize counts
-  // Initialize counts
+  
   Object.keys(GENRE_MAP).forEach((genre) => {
-    genreCounts[genre] = 0;
+    genreCounts[genre] = metadataIndex.byGenre[genre]?.count || 0;
   });
-  genreCounts['Clássicos'] = 0;
-
-  // Count videos per genre
-  allData.forEach((video: any) => {
-    const artistGenre = video.artist_genre;
-    const year = video.year;
-
-    if (year && year >= 1960 && year <= 1999) {
-      genreCounts['Clássicos']++;
-    }
-
-    if (artistGenre) {
-      Object.entries(GENRE_MAP).forEach(([genreName, keywords]) => {
-        if (
-          keywords.some(
-            (keyword) =>
-              artistGenre.includes(keyword) || artistGenre === keyword
-          )
-        ) {
-          genreCounts[genreName]++;
-        }
-      });
-    }
-  });
-
+  
+  genreCounts['Clássicos'] = metadataIndex.byGenre['Clássicos']?.count || 0;
+  
   return genreCounts;
 };
 
-/**
- * Get Top Artists by video count
- */
-export const getTopArtists = (limit: number = 5) => {
-  const allData = getDataset('all');
+export const getTopArtists = async (limit: number = 5) => {
+  const allData = await getDataset('all');
   const artistCounts: Record<string, number> = {};
 
   allData.forEach((video: any) => {
-    // Normalize artist name: remove extra spaces and handle "feat." if simple
-    // For now, use the main artist field
     const artist = video.artist || video.artist_name || 'Unknown';
     if (artistCounts[artist]) {
       artistCounts[artist]++;
@@ -921,31 +531,21 @@ export const getTopArtists = (limit: number = 5) => {
     .map(([name, count]) => ({ name, count }));
 };
 
-/**
- * Get Collection Highlights
- */
-export const getCollectionHighlights = () => {
-  const allData = getDataset('all');
+export const getCollectionHighlights = async () => {
+  const allData = await getDataset('all');
 
   // 1. Oldest Video
-  // Filter for valid years (e.g., > 1900) to avoid bad data
   const validYearVideos = allData
     .filter((v: any) => v.year && v.year > 1900)
     .sort((a: any, b: any) => a.year - b.year);
   const oldest = validYearVideos.length > 0 ? validYearVideos[0] : null;
 
-  // 2. Golden Year (Year with most videos)
-  const yearCounts: Record<number, number> = {};
-  allData.forEach((v: any) => {
-    if (v.year) {
-      yearCounts[v.year] = (yearCounts[v.year] || 0) + 1;
-    }
-  });
-
-  const sortedYears = Object.entries(yearCounts).sort((a, b) => b[1] - a[1]);
+  // 2. Golden Year (Year with most videos) - Use index
+  const yearCounts = metadataIndex.byYear;
+  const sortedYears = Object.entries(yearCounts).sort((a, b) => b[1].count - a[1].count);
   const goldenYear =
     sortedYears.length > 0
-      ? { year: parseInt(sortedYears[0][0]), count: sortedYears[0][1] }
+      ? { year: parseInt(sortedYears[0][0]), count: sortedYears[0][1].count }
       : null;
 
   return {

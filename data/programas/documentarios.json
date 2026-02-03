@@ -5,7 +5,9 @@
     "year": 2015,
     "artist_name": "BOTINADA (The Rise of Punk Rock in Brazil)",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=trIAXkc003k"
+    "youtube_link": "https://www.youtube.com/watch?v=trIAXkc003k",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 693144863590,
@@ -13,7 +15,9 @@
     "year": 2017,
     "artist_name": "Marcelo Appezzato",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=L-ntWYaPMiU"
+    "youtube_link": "https://www.youtube.com/watch?v=L-ntWYaPMiU",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 708916116283,
@@ -21,7 +25,9 @@
     "year": 2011,
     "artist_name": "Outra Frequência Labs",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=r540M8wQ4GE"
+    "youtube_link": "https://www.youtube.com/watch?v=r540M8wQ4GE",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 389305002517,
@@ -29,7 +35,9 @@
     "year": 2025,
     "artist_name": "Memória Punk",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=EEJHRoy2gAo"
+    "youtube_link": "https://www.youtube.com/watch?v=EEJHRoy2gAo",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 855114728812,
@@ -37,7 +45,9 @@
     "year": 2023,
     "artist_name": "Mini Doc: Blind Pigs 30 Anos",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=aRqwSpNub_o"
+    "youtube_link": "https://www.youtube.com/watch?v=aRqwSpNub_o",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 373524537699,
@@ -45,7 +55,9 @@
     "year": 2014,
     "artist_name": "TX NOW",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=skGyFowTzew"
+    "youtube_link": "https://www.youtube.com/watch?v=skGyFowTzew",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 716159039551,
@@ -53,7 +65,9 @@
     "year": 2015,
     "artist_name": "Driink03",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=9GvhtOwjHxs"
+    "youtube_link": "https://www.youtube.com/watch?v=9GvhtOwjHxs",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 897651769112,
@@ -61,7 +75,9 @@
     "year": 2016,
     "artist_name": "Observar e Absorver",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=I7arqW5luKc"
+    "youtube_link": "https://www.youtube.com/watch?v=I7arqW5luKc",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 267383199562,
@@ -69,7 +85,9 @@
     "year": 2017,
     "artist_name": "Sabotage",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=59CJ4Be48xc"
+    "youtube_link": "https://www.youtube.com/watch?v=59CJ4Be48xc",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 545559057228,
@@ -77,7 +95,9 @@
     "year": 2021,
     "artist_name": "Amplified - Classic Rock & Music History",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=du_5Iij5CAE"
+    "youtube_link": "https://www.youtube.com/watch?v=du_5Iij5CAE",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 623923189653,
@@ -85,7 +105,9 @@
     "year": 2013,
     "artist_name": "Sabotage Nós",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=7c_r6L1ro5M"
+    "youtube_link": "https://www.youtube.com/watch?v=7c_r6L1ro5M",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 278698033866,
@@ -93,7 +115,9 @@
     "year": 2021,
     "artist_name": "Documentário O Rap Pelo Rap",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=kjyO-DEKjzg"
+    "youtube_link": "https://www.youtube.com/watch?v=kjyO-DEKjzg",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 306566438509,
@@ -101,7 +125,9 @@
     "year": 2022,
     "artist_name": "PUNK DOC",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=pY5NIfL1-hw"
+    "youtube_link": "https://www.youtube.com/watch?v=pY5NIfL1-hw",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 542868986237,
@@ -109,7 +135,9 @@
     "year": 2022,
     "artist_name": "Rastros no Subúrbio",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Nj1R4XazVX8"
+    "youtube_link": "https://www.youtube.com/watch?v=Nj1R4XazVX8",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 803988980883,
@@ -117,7 +145,9 @@
     "year": 2022,
     "artist_name": "Documentário",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Mi5_-hkGJss"
+    "youtube_link": "https://www.youtube.com/watch?v=Mi5_-hkGJss",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 298317628541,
@@ -125,7 +155,9 @@
     "year": 2020,
     "artist_name": "[PT/ES] VIVER PARA LUTAR",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=nMRd4nh3tm0"
+    "youtube_link": "https://www.youtube.com/watch?v=nMRd4nh3tm0",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 281751782062,
@@ -133,7 +165,9 @@
     "year": 2020,
     "artist_name": "Documentário",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=pb6KYRjnWNw"
+    "youtube_link": "https://www.youtube.com/watch?v=pb6KYRjnWNw",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 807454975971,
@@ -141,7 +175,9 @@
     "year": 2022,
     "artist_name": "Documentário Punk",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=5bl94PqtbPk"
+    "youtube_link": "https://www.youtube.com/watch?v=5bl94PqtbPk",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 273505418474,
@@ -149,7 +185,9 @@
     "year": 2015,
     "artist_name": "SUBURBIO-PUNK",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=GTxlan2eRfs"
+    "youtube_link": "https://www.youtube.com/watch?v=GTxlan2eRfs",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 980061363711,
@@ -157,7 +195,9 @@
     "year": 2006,
     "artist_name": "Sandy e Junior",
     "artist_genre": "Heartland Rock",
-    "youtube_link": "https://www.youtube.com/watch?v=jSUfZE5SioE"
+    "youtube_link": "https://www.youtube.com/watch?v=jSUfZE5SioE",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 787459259699,
@@ -165,7 +205,9 @@
     "year": 2014,
     "artist_name": "Guidable",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=HxuwcjVJnHg"
+    "youtube_link": "https://www.youtube.com/watch?v=HxuwcjVJnHg",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 152930044860,
@@ -173,7 +215,9 @@
     "year": 2015,
     "artist_name": "KISMIF IS-UP",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Zk7eDn6YWQs"
+    "youtube_link": "https://www.youtube.com/watch?v=Zk7eDn6YWQs",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 515856777015,
@@ -181,7 +225,9 @@
     "year": 2014,
     "artist_name": "Índios Urbanos",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=326vmilrf3s"
+    "youtube_link": "https://www.youtube.com/watch?v=326vmilrf3s",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 396002618518,
@@ -189,7 +235,9 @@
     "year": 2016,
     "artist_name": "\"Uma Só Voz\"",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=3b5bMfHU1UM"
+    "youtube_link": "https://www.youtube.com/watch?v=3b5bMfHU1UM",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 454140806153,
@@ -197,7 +245,9 @@
     "year": 2017,
     "artist_name": "Antena 3",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=_0oRkY9scs4"
+    "youtube_link": "https://www.youtube.com/watch?v=_0oRkY9scs4",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 401710451162,
@@ -205,7 +255,9 @@
     "year": 2023,
     "artist_name": "Moby",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=W9q1IidazY8"
+    "youtube_link": "https://www.youtube.com/watch?v=W9q1IidazY8",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 961815633501,
@@ -213,7 +265,9 @@
     "year": 2019,
     "artist_name": "Sandro Neiva",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=O3crXcCGKOw"
+    "youtube_link": "https://www.youtube.com/watch?v=O3crXcCGKOw",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 927048376897,
@@ -221,7 +275,9 @@
     "year": 2016,
     "artist_name": "Injetores",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=XPI9WSwWhRw"
+    "youtube_link": "https://www.youtube.com/watch?v=XPI9WSwWhRw",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 692822578111,
@@ -229,7 +285,9 @@
     "year": 2018,
     "artist_name": "R13",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Qa1jID5ziRc"
+    "youtube_link": "https://www.youtube.com/watch?v=Qa1jID5ziRc",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 593512241280,
@@ -237,7 +295,9 @@
     "year": 2023,
     "artist_name": "Sobre Funk",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=xEe_t5xoSeE"
+    "youtube_link": "https://www.youtube.com/watch?v=xEe_t5xoSeE",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 223782732888,
@@ -245,7 +305,9 @@
     "year": 2021,
     "artist_name": "Filme",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=jNhsxhEjwrY"
+    "youtube_link": "https://www.youtube.com/watch?v=jNhsxhEjwrY",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 296667933622,
@@ -253,7 +315,9 @@
     "year": 2018,
     "artist_name": "O Fim do Mundo, Enfim",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=VrpyqtpAEOc"
+    "youtube_link": "https://www.youtube.com/watch?v=VrpyqtpAEOc",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 665523120176,
@@ -261,7 +325,9 @@
     "year": 2013,
     "artist_name": "Red Hot Chili Peppers",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=7c8PR2ctiZ0"
+    "youtube_link": "https://www.youtube.com/watch?v=7c8PR2ctiZ0",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 797378053868,
@@ -269,7 +335,9 @@
     "year": 2014,
     "artist_name": "BIS Docs",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=lQCjXA5v7xc"
+    "youtube_link": "https://www.youtube.com/watch?v=lQCjXA5v7xc",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 858372658867,
@@ -277,7 +345,9 @@
     "year": 2023,
     "artist_name": "Beto Ramone",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=6xfPfp7eoik"
+    "youtube_link": "https://www.youtube.com/watch?v=6xfPfp7eoik",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 412305868699,
@@ -285,7 +355,9 @@
     "year": 2017,
     "artist_name": "Chico Science,  Um Caranguejo Elétrico",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=j299EbU-UnQ"
+    "youtube_link": "https://www.youtube.com/watch?v=j299EbU-UnQ",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 219359638805,
@@ -293,7 +365,9 @@
     "year": 2020,
     "artist_name": "SLAVE TO THE GRIND (2018)",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=JeTVUBn0JnU"
+    "youtube_link": "https://www.youtube.com/watch?v=JeTVUBn0JnU",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 118625956186,
@@ -301,7 +375,9 @@
     "year": 2022,
     "artist_name": "Resonant Peak",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=aG8wFxnI54E"
+    "youtube_link": "https://www.youtube.com/watch?v=aG8wFxnI54E",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 806916701959,
@@ -309,7 +385,9 @@
     "year": 2019,
     "artist_name": "MG METAL WARRIORS",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=VuJ433UNz_8"
+    "youtube_link": "https://www.youtube.com/watch?v=VuJ433UNz_8",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 205295611026,
@@ -317,7 +395,9 @@
     "year": 2011,
     "artist_name": "Fabrício Gabriel The Channel",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=swzlCTzc0zQ"
+    "youtube_link": "https://www.youtube.com/watch?v=swzlCTzc0zQ",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 412384810137,
@@ -325,7 +405,9 @@
     "year": 2022,
     "artist_name": "Black Sabbath",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=A6GTf6rOepQ"
+    "youtube_link": "https://www.youtube.com/watch?v=A6GTf6rOepQ",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 451072631943,
@@ -333,7 +415,9 @@
     "year": 2026,
     "artist_name": "Mitchell Assis",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=1xUn_S9vHuI"
+    "youtube_link": "https://www.youtube.com/watch?v=1xUn_S9vHuI",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 358269548254,
@@ -341,7 +425,9 @@
     "year": 2023,
     "artist_name": "Rush, Beyond the lighted stage",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=NrW-9bpWzqQ"
+    "youtube_link": "https://www.youtube.com/watch?v=NrW-9bpWzqQ",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 590867654717,
@@ -349,7 +435,9 @@
     "year": 2013,
     "artist_name": "Al Schenkel",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=WHynnXO6ldQ"
+    "youtube_link": "https://www.youtube.com/watch?v=WHynnXO6ldQ",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 483318215342,
@@ -357,7 +445,9 @@
     "year": 2013,
     "artist_name": "Efeito Bogary (documentário)",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=skJZr2A9RkA"
+    "youtube_link": "https://www.youtube.com/watch?v=skJZr2A9RkA",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 455156323314,
@@ -365,7 +455,9 @@
     "year": 2013,
     "artist_name": "Al Schenkel",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=C5AFs0RrGZI"
+    "youtube_link": "https://www.youtube.com/watch?v=C5AFs0RrGZI",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 759746343057,
@@ -373,7 +465,9 @@
     "year": 2015,
     "artist_name": "Heavy Metal On Line",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=PzjSI2FSDCs"
+    "youtube_link": "https://www.youtube.com/watch?v=PzjSI2FSDCs",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 965822105061,
@@ -381,7 +475,9 @@
     "year": 2012,
     "artist_name": "fraccinimetal_BOZO",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=vjcdTZgUBb8"
+    "youtube_link": "https://www.youtube.com/watch?v=vjcdTZgUBb8",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 233403330651,
@@ -389,7 +485,9 @@
     "year": 2017,
     "artist_name": "Quem é mais idiota do que eu?",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=OTdqbiFaDfA"
+    "youtube_link": "https://www.youtube.com/watch?v=OTdqbiFaDfA",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 948082146626,
@@ -397,7 +495,9 @@
     "year": 2016,
     "artist_name": "David Gilmour",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=fo043v0d3kw"
+    "youtube_link": "https://www.youtube.com/watch?v=fo043v0d3kw",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 822761491213,
@@ -405,7 +505,9 @@
     "year": 2014,
     "artist_name": "Alex Perdomo",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=EV_FOdMtos0"
+    "youtube_link": "https://www.youtube.com/watch?v=EV_FOdMtos0",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 917523314169,
@@ -413,7 +515,9 @@
     "year": 2013,
     "artist_name": "Luis fernando Bernardi de Souza",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=7YIEhFTymxI"
+    "youtube_link": "https://www.youtube.com/watch?v=7YIEhFTymxI",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 569050123462,
@@ -421,7 +525,9 @@
     "year": 2020,
     "artist_name": "Global Metal",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=FDE2hwyaTS0"
+    "youtube_link": "https://www.youtube.com/watch?v=FDE2hwyaTS0",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 423586119726,
@@ -429,7 +535,9 @@
     "year": 2018,
     "artist_name": "Polyphonic",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=tAbhaguKARw"
+    "youtube_link": "https://www.youtube.com/watch?v=tAbhaguKARw",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 875586384434,
@@ -437,7 +545,9 @@
     "year": 2017,
     "artist_name": "Antena 3",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=w1-dpY9todY"
+    "youtube_link": "https://www.youtube.com/watch?v=w1-dpY9todY",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 390658755414,
@@ -445,7 +555,9 @@
     "year": 2016,
     "artist_name": "Rock Rendez Vous",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=aK-_SYVFD40"
+    "youtube_link": "https://www.youtube.com/watch?v=aK-_SYVFD40",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 873197636217,
@@ -453,7 +565,9 @@
     "year": 2015,
     "artist_name": "KISMIF IS-UP",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Zk7eDn6YWQs"
+    "youtube_link": "https://www.youtube.com/watch?v=Zk7eDn6YWQs",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 182661194496,
@@ -461,7 +575,9 @@
     "year": 2016,
     "artist_name": "Caio Uehbe",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=tzh9CzwJuc0"
+    "youtube_link": "https://www.youtube.com/watch?v=tzh9CzwJuc0",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 994518225639,
@@ -469,7 +585,9 @@
     "year": 2020,
     "artist_name": "Documentário",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=9IMhvCXnADU"
+    "youtube_link": "https://www.youtube.com/watch?v=9IMhvCXnADU",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 982865200750,
@@ -477,7 +595,9 @@
     "year": 2013,
     "artist_name": "Léo Simas Oficial",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Zi5eaBdzVjY"
+    "youtube_link": "https://www.youtube.com/watch?v=Zi5eaBdzVjY",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 901647546141,
@@ -485,7 +605,9 @@
     "year": 2018,
     "artist_name": "Documentário",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=A76mSlasoyE"
+    "youtube_link": "https://www.youtube.com/watch?v=A76mSlasoyE",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 657271062350,
@@ -493,7 +615,9 @@
     "year": 2019,
     "artist_name": "Igor Néder Lopes",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=raB0n4Tj_As"
+    "youtube_link": "https://www.youtube.com/watch?v=raB0n4Tj_As",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 162209805858,
@@ -501,7 +625,9 @@
     "year": 2016,
     "artist_name": "F.O.A.D. Records",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=g2idFNnFhjM"
+    "youtube_link": "https://www.youtube.com/watch?v=g2idFNnFhjM",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 932143044252,
@@ -509,7 +635,9 @@
     "year": 2012,
     "artist_name": "Verdurada",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=K688paVX6nA"
+    "youtube_link": "https://www.youtube.com/watch?v=K688paVX6nA",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 144897524931,
@@ -517,7 +645,9 @@
     "year": 2016,
     "artist_name": "Eu amo tudo o que não presta",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=YWauycnBqoY"
+    "youtube_link": "https://www.youtube.com/watch?v=YWauycnBqoY",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 795221102628,
@@ -525,7 +655,9 @@
     "year": 2018,
     "artist_name": "Caio Nunes da Cruz",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=5Vy3Ga87aSs"
+    "youtube_link": "https://www.youtube.com/watch?v=5Vy3Ga87aSs",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 239200677465,
@@ -533,7 +665,9 @@
     "year": 2020,
     "artist_name": "The Unrecognized Pioneers Of Punk Music",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Vru_cgNnNv4"
+    "youtube_link": "https://www.youtube.com/watch?v=Vru_cgNnNv4",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 216790181842,
@@ -541,7 +675,9 @@
     "year": 2012,
     "artist_name": "Tomás Lombardi",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=B-DA8g7iWuQ"
+    "youtube_link": "https://www.youtube.com/watch?v=B-DA8g7iWuQ",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 308020003287,
@@ -549,7 +685,9 @@
     "year": 2012,
     "artist_name": "BIZZ",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=pg0KuPIXvRE"
+    "youtube_link": "https://www.youtube.com/watch?v=pg0KuPIXvRE",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 766665333418,
@@ -557,7 +695,9 @@
     "year": 2015,
     "artist_name": "Documentário: História do Clube da Esquina",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=SACaczm6gA4"
+    "youtube_link": "https://www.youtube.com/watch?v=SACaczm6gA4",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 228876927359,
@@ -565,7 +705,9 @@
     "year": 2016,
     "artist_name": "DOCUMENTÁRIO Vida de Músico",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=KBMDEa_ISkA"
+    "youtube_link": "https://www.youtube.com/watch?v=KBMDEa_ISkA",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 528934143737,
@@ -573,7 +715,9 @@
     "year": 2015,
     "artist_name": "fabiana silva",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=Qxw7iwMW_rY"
+    "youtube_link": "https://www.youtube.com/watch?v=Qxw7iwMW_rY",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 312939611655,
@@ -581,7 +725,9 @@
     "year": 2018,
     "artist_name": "Renan Casarin",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=JuCIBCwanXs"
+    "youtube_link": "https://www.youtube.com/watch?v=JuCIBCwanXs",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 799813028834,
@@ -589,7 +735,9 @@
     "year": 2017,
     "artist_name": "Pense",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=KURoAqSBtd4"
+    "youtube_link": "https://www.youtube.com/watch?v=KURoAqSBtd4",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 734922696955,
@@ -597,7 +745,9 @@
     "year": 2013,
     "artist_name": "Partícula Elementar",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=HxyDvjs8LCY"
+    "youtube_link": "https://www.youtube.com/watch?v=HxyDvjs8LCY",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 128635435277,
@@ -605,7 +755,9 @@
     "year": 2016,
     "artist_name": "Documentário: Rock Brasil 70",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=y0SOhQCnnCM"
+    "youtube_link": "https://www.youtube.com/watch?v=y0SOhQCnnCM",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 623480988515,
@@ -613,7 +765,9 @@
     "year": 2015,
     "artist_name": "Los Hermanos",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=jlTTZ0yPE4g"
+    "youtube_link": "https://www.youtube.com/watch?v=jlTTZ0yPE4g",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 293015099712,
@@ -621,7 +775,9 @@
     "year": 2018,
     "artist_name": "Canal Brasil",
     "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=LJv_S9BxWr4"
+    "youtube_link": "https://www.youtube.com/watch?v=LJv_S9BxWr4",
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 1769611482802099,
@@ -633,7 +789,9 @@
     "duration": null,
     "duration_seconds": 0,
     "video_type": "unknown",
-    "video_tags": []
+    "video_tags": [],
+    "is_program": true,
+    "program_name": "documentarios"
   },
   {
     "id": 1769612417060079,
@@ -647,6 +805,8 @@
     "video_type": "unknown",
     "video_tags": [
       "epitaph"
-    ]
+    ],
+    "is_program": true,
+    "program_name": "documentarios"
   }
 ]

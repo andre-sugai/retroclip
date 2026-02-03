@@ -189,13 +189,21 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
       role="search"
     >
       {/* Collapsible Header */}
-      <button
-        className="flex flex-col border-b border-border z-20 sticky top-0 cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
+      <div
+        className="flex flex-col border-b border-border z-20 sticky top-0 cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full"
         onClick={() => setIsCollapsed(!isCollapsed)}
+        role="button"
+        tabIndex={0}
+        onKeyDown={(e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            setIsCollapsed(!isCollapsed);
+          }
+        }}
         aria-expanded={!isCollapsed}
         aria-controls="sector2-content"
       >
-        <div className="px-6 py-3 flex items-center justify-between pointer-events-none">
+        <div className="px-6 py-3 flex items-center justify-between">
           <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
             <div className="flex items-center justify-center w-6 h-6 border border-muted-foreground/30 rounded bg-zinc-100 dark:bg-zinc-800">
               {isCollapsed ? (
@@ -209,12 +217,15 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
             </span>
           </h2>
 
-          {/* Language Toggles - Needs pointer-events-auto because parent is button */}
-          <div className="flex gap-2 pointer-events-auto" onClick={(e) => e.stopPropagation()}>
+          {/* Language Toggles */}
+          <div className="flex gap-2">
             <button
               title="Português"
               aria-label="Mudar para Português"
-              onClick={() => onLanguageChange('pt')}
+              onClick={(e) => {
+                e.stopPropagation();
+                onLanguageChange('pt');
+              }}
               className={`w-6 h-4 overflow-hidden rounded-sm shadow-sm ring-1 ring-black/10 transition-transform ${
                 language === 'pt'
                   ? 'ring-primary ring-2 scale-110'
@@ -226,7 +237,10 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
             <button
               title="English"
               aria-label="Switch to English"
-              onClick={() => onLanguageChange('en')}
+              onClick={(e) => {
+                e.stopPropagation();
+                onLanguageChange('en');
+              }}
               className={`w-6 h-4 overflow-hidden rounded-sm shadow-sm ring-1 ring-black/10 transition-transform ${
                 language === 'en'
                   ? 'ring-primary ring-2 scale-110'
@@ -237,7 +251,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
             </button>
           </div>
         </div>
-      </button>
+      </div>
 
       {/* Collapsible Content */}
       <div
