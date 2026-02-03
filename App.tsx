@@ -306,9 +306,9 @@ const App: React.FC = () => {
       if ((video as any).is_program === true) {
         // Add specific program genres based on program_name
         const programName = (video as any).program_name;
-        if (programName === 'hermes_renato') {
+        if (programName === 'hermes_e_renato') {
           genres.add('hermes_renato');
-        } else if (programName === 'beavis_butthead') {
+        } else if (programName === 'beavis_and_butthead') {
           genres.add('beavis_butthead');
         } else if (programName === 'documentarios') {
           genres.add('documentarios');
@@ -594,14 +594,14 @@ const App: React.FC = () => {
         filteredQueue = sourceVideos.filter(
           (video) =>
             (video as any).is_program &&
-            (video as any).program_name === 'hermes_renato'
+            (video as any).program_name === 'hermes_e_renato'
         );
       } else if (genreId === 'beavis_butthead') {
         // Filter videos for Beavis and Butt-Head program
         filteredQueue = sourceVideos.filter(
           (video) =>
             (video as any).is_program &&
-            (video as any).program_name === 'beavis_butthead'
+            (video as any).program_name === 'beavis_and_butthead'
         );
       } else if (genreId === 'documentarios') {
         // Filter videos for Documentários program
@@ -981,7 +981,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.19.2 // ARIA-COMPLIANT
+              V 1.19.3 // ARIA-COMPLIANT
             </p>
           </div>
 
