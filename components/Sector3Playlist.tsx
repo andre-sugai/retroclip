@@ -398,14 +398,14 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                         }}
                         className={`
                           relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
-                          ${selectedGenre === 'kiss_fm' || currentVideo?.id === 99999999
+                          ${selectedGenre === 'kiss_fm'
                             ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
                             : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
                           }
                         `}
                     >
                         KISS FM
-                        {(selectedGenre === 'kiss_fm' || currentVideo?.id === 99999999) && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                        {selectedGenre === 'kiss_fm' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
                     </button>
 
                     {/* 89 FM Button */}
@@ -417,14 +417,14 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
                         }}
                         className={`
                           relative p-4 rounded-lg border text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden
-                          ${selectedGenre === 'radio_89fm' || currentVideo?.id === 99999998
+                          ${selectedGenre === 'radio_89fm'
                             ? 'bg-primary text-primary-foreground border-primary shadow-lg scale-[1.02] ring-2 ring-primary/20 ring-offset-2 ring-offset-background'
                             : 'bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01]'
                           }
                         `}
                     >
                         89 FM
-                        {(selectedGenre === 'radio_89fm' || currentVideo?.id === 99999998) && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
+                        {selectedGenre === 'radio_89fm' && <span className="absolute top-2 right-2 flex h-2 w-2 rounded-full bg-white animate-pulse" />}
                     </button>
                 </div>
              </div>

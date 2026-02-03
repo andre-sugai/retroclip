@@ -630,9 +630,9 @@ const App: React.FC = () => {
         // Load Pinkpop videos
         filteredQueue = [...pinkpopVideos];
       } else if (genreId === 'kiss_fm') {
-        filteredQueue = [KISS_FM_VIDEO, RADIO_89FM_VIDEO];
+        filteredQueue = [KISS_FM_VIDEO];
       } else if (genreId === 'radio_89fm') {
-        filteredQueue = [RADIO_89FM_VIDEO, KISS_FM_VIDEO];
+        filteredQueue = [RADIO_89FM_VIDEO];
       } else {
         // Map UI Genre ID to matching sub-genres/keywords in artist_genre
         // Uses exported GENRE_MAP from service
@@ -971,7 +971,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.19.0 // ARIA-COMPLIANT
+              V 1.19.1 // ARIA-COMPLIANT
             </p>
           </div>
 
