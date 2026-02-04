@@ -16,6 +16,7 @@ import {
   TOTAL_SHOWS,
   TOTAL_PROGRAMS,
   getCountries,
+  getAvailableDecades,
 } from '../services/imvdbService';
 import { translations, Language } from '../translations';
 import { getTotalVisits } from '../services/goatCounterService';
@@ -56,6 +57,21 @@ const FlagUS = () => (
   </svg>
 );
 
+const COUNTRY_NAMES: Record<string, string> = {
+  BR: 'Brasil',
+  US: 'Estados Unidos',
+  GB: 'Reino Unido',
+  CA: 'Canadá',
+  AU: 'Austrália',
+  DE: 'Alemanha',
+  SE: 'Suécia',
+  IT: 'Itália',
+  IE: 'Irlanda',
+  FR: 'França',
+  ES: 'Espanha',
+  INTL: 'Internacional/Desconhecido',
+};
+
 interface Sector2SearchProps {
   onSearch: (type: 'year' | 'decade' | 'all', value: string) => void;
   isLoading: boolean;
@@ -63,7 +79,7 @@ interface Sector2SearchProps {
   onLanguageChange: (lang: Language) => void;
   currentVideo: any | null;
   selectedRegion: string;
-  onRegionChange: (region: string) => void;
+  onRegionChange: (region: string, forceAllMode?: boolean) => void;
 }
 
 export const Sector2Search: React.FC<Sector2SearchProps> = ({
@@ -81,6 +97,16 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
   const [isDonationModalOpen, setIsDonationModalOpen] = useState(false);
   const [visitCount, setVisitCount] = useState<number | null>(null);
   const [showCountryList, setShowCountryList] = useState(false);
+  
+  // Dynamic decades based on selected region
+  const [availableDecades, setAvailableDecades] = useState<string[]>(['1920', '1930', '1940', '1950', '1960', '1970', '1980', '1990', '2000', '2010', '2020']);
+
+  useEffect(() => {
+    // When region changes, update available decades
+    const decades = getAvailableDecades(selectedRegion);
+    setAvailableDecades(decades);
+  }, [selectedRegion]);
+
   const t = translations[language].sector2;
 
   const countries = useMemo(() => getCountries(), []);
@@ -151,7 +177,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
     onSearch(mode, value);
   };
 
-  const quickDecades = ['1920', '1930', '1940', '1950', '1960', '1970', '1980', '1990', '2000', '2010', '2020'];
+  const quickDecades = availableDecades;
 
   return (
     <div
@@ -321,7 +347,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                         // Also trigger play? handled by parent when region changes
                     }}
                     className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
-                      selectedRegion === 'all'
+                      selectedRegion === 'all' && !showCountryList
                         ? 'bg-background shadow-sm text-foreground'
                         : 'text-muted-foreground hover:text-foreground'
                     }`}
@@ -346,11 +372,17 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                 {/* Country List - Horizontal Scroll */}
                 {(showCountryList || (selectedRegion !== 'all' && selectedRegion !== 'intl')) && (
                     <div className="flex gap-2 overflow-x-auto pb-2 -mx-1 px-1 no-scrollbar mask-linear-fade">
-                        {countries.map((country) => (
+                        {countries.map((country) => {
+                            const label = COUNTRY_NAMES[country.code] || country.code;
+                            
+                            return (
                             <button
                                 key={country.code}
                                 type="button"
-                                onClick={() => onRegionChange(country.code)}
+                                onClick={() => {
+                                    onRegionChange(country.code, true);
+                                    setMode('all');
+                                }}
                                 className={`
                                     flex-none px-3 py-1.5 text-xs font-medium rounded-md border transition-all whitespace-nowrap
                                     ${
@@ -360,13 +392,10 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                                     }
                                 `}
                             >
-                                {country.code === 'BR' ? 'Brasil' : 
-                                 country.code === 'US' ? 'Estados Unidos' : 
-                                 country.code === 'GB' ? 'Reino Unido' : 
-                                 country.code} 
+                                {label}
                                 <span className="opacity-50 ml-1 text-[10px]">({country.count})</span>
                             </button>
-                        ))}
+                        )})}
                     </div>
                 )}
               </div>

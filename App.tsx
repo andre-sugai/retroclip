@@ -711,10 +711,19 @@ const App: React.FC = () => {
   };
 
   // Logic: Region Filtering
-  const handleRegionSelect = async (region: string) => {
+  const handleRegionSelect = async (
+    region: string,
+    forceAllMode: boolean = false
+  ) => {
     setSelectedRegion(region);
 
     let searchTarget = lastSearchParams;
+
+    if (forceAllMode) {
+      searchTarget = { type: 'all', value: 'all' };
+      setLastSearchParams(searchTarget);
+      setSelectedGenre(null);
+    }
 
     // Fallback for deep links: use current video's year if no search history
     if (!searchTarget && state.currentVideo?.year) {
@@ -726,39 +735,7 @@ const App: React.FC = () => {
 
     // If we have a past search or a derived one, we re-run it with the new region
     if (searchTarget) {
-      // Check if current decade/year is available in the new region
       let adjustedSearchParams = { ...searchTarget };
-
-      if (searchTarget.type === 'decade') {
-        const availableDecades =
-          region === 'br'
-            ? [
-                '1920',
-                '1930',
-                '1940',
-                '1950',
-                '1960',
-                '1970',
-                '1980',
-                '1990',
-                '2000',
-                '2010',
-                '2020',
-              ]
-            : ['1960', '1970', '1980', '1990', '2000', '2010', '2020'];
-
-        // If current decade is not available in new region, default to 2020
-        if (!availableDecades.includes(searchTarget.value)) {
-          adjustedSearchParams.value = '2020';
-          console.log(
-            `[Grooovio] Decade ${searchTarget.value} not available in ${region}, switching to 2020`
-          );
-        }
-      }
-
-      // Re-use logic similar to handleSearch but we must not reset 'selectedGenre' necessarily,
-      // but for consistency with the new data source, it's safer to re-fetch and apply genre if needed.
-      // For simplicity, let's treat it as a new search but keep the genre if we can.
 
       setIsTuning(true);
       setState((prev) => ({
@@ -775,148 +752,40 @@ const App: React.FC = () => {
           region
         );
         setAllVideos(videos);
-
-        // Update lastSearchParams with adjusted values
         setLastSearchParams(adjustedSearchParams);
 
-        setTimeout(() => {
-          let startQueue = videos;
-
-          // Re-apply current genre if it exists
-          if (selectedGenre) {
-            if (selectedGenre === 'Clássicos') {
-              startQueue = videos.filter(
-                (video) =>
-                  video.year && video.year >= 1960 && video.year <= 1999
+        // Filter by Genre?
+        let startQueue = videos;
+        if (selectedGenre) {
+          const targetGenres = GENRE_MAP[selectedGenre] || [];
+          if (targetGenres.length > 0) {
+            startQueue = videos.filter((video) => {
+              const g = video.artist_genre;
+              return (
+                g &&
+                targetGenres.some(
+                  (target) => g.includes(target) || g === target
+                )
               );
-            } else {
-              const genreMap: Record<string, string[]> = {
-                'Rock Alternativo': [
-                  'Alternative Rock',
-                  'Grunge',
-                  'Indie Rock',
-                  'Post-Grunge',
-                  'Shoegaze',
-                  'Britpop',
-                  'Folk Rock',
-                  'Alternative',
-                ],
-                Punk: ['Punk', 'Pop Punk', 'Ska Punk', 'Hardcore'],
-                Metal: [
-                  'Metal',
-                  'Heavy Metal',
-                  'Thrash Metal',
-                  'Nu Metal',
-                  'Industrial Metal',
-                  'Groove Metal',
-                  'Death Metal',
-                  'Black Metal',
-                ],
-                Rap: [
-                  'Hip Hop',
-                  'Rap',
-                  'Gangsta Rap',
-                  'Alternative Hip Hop',
-                  'Jazz Rap',
-                ],
-                Pop: [
-                  'Pop',
-                  'Pop Rock',
-                  'Synth-pop',
-                  'Teen Pop',
-                  'Dance-Pop',
-                  'Europop',
-                  'Boy Band',
-                  'Girl Group',
-                ],
-                Dance: [
-                  'Dance',
-                  'Eurodance',
-                  'House',
-                  'Techno',
-                  'Trance',
-                  'Electronic',
-                  'Disco',
-                ],
-                Eletronico: [
-                  'Electronic',
-                  'Techno',
-                  'Trance',
-                  'House',
-                  'Big Beat',
-                  'Trip Hop',
-                  'Electronica',
-                  'Industrial',
-                  'Drum and Bass',
-                  'Jungle',
-                ],
-                'Hard Rock': ['Hard Rock', 'Glam Metal', 'Stoner Rock'],
-                Hardcore: ['Hardcore', 'Hardcore Punk', 'Post-Hardcore'],
-                Industrial: [
-                  'Industrial',
-                  'Industrial Metal',
-                  'Industrial Rock',
-                ],
-                'Nu Metal': ['Nu Metal', 'Rap Metal', 'Alternative Metal'],
-                Indie: [
-                  'Indie',
-                  'Indie Rock',
-                  'Indie Pop',
-                  'Garage Rock',
-                  'Shoegaze',
-                  'Britpop',
-                ],
-                Rock: [
-                  'Rock',
-                  'Classic Rock',
-                  'Rock and Roll',
-                  'Southern Rock',
-                ],
-                'R&B': ['R&B', 'Soul', 'Funk', 'Neo-Soul', 'Contemporary R&B'],
-                'Latin Pop': ['Latin Pop', 'Latin', 'Reggaeton', 'Latin Rock'],
-                'K-Pop': ['K-Pop', 'Korean Pop'],
-                Folk: ['Folk', 'Folk Rock', 'Indie Folk', 'Contemporary Folk'],
-                Gótico: [
-                  'Gótico',
-                  'Goth',
-                  'Gothic Rock',
-                  'Dark Wave',
-                  'Post-Punk',
-                  'Ethereal Wave',
-                  'Gothic Metal',
-                ],
-                Ska: ['Ska', 'Ska Punk', 'Two Tone', 'Rocksteady'],
-                Reggae: ['Reggae', 'Reggaeton'],
-              };
-              const targetGenres = genreMap[selectedGenre] || [];
-              if (targetGenres.length > 0) {
-                startQueue = videos.filter((video) => {
-                  const g = video.artist_genre;
-                  return (
-                    g &&
-                    targetGenres.some(
-                      (target) => g.includes(target) || g === target
-                    )
-                  );
-                });
-              }
-            }
+            });
           }
+        }
 
-          // Apply Repetition Logic Check
-          startQueue = getUnplayedVideos(startQueue);
+        // Apply Repetition Logic Check
+        startQueue = getUnplayedVideos(startQueue);
 
-          // Shuffle
-          const shuffle = (array: Video[]) => {
-            const newArr = [...array];
-            for (let i = newArr.length - 1; i > 0; i--) {
-              const j = Math.floor(Math.random() * (i + 1));
-              [newArr[i], newArr[j]] = [newArr[j], newArr[i]];
-            }
-            return newArr;
-          };
-          startQueue = shuffle(startQueue);
+        // Shuffle
+        const shuffle = (array: Video[]) => {
+          const newArr = [...array];
+          for (let i = newArr.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [newArr[i], newArr[j]] = [newArr[j], newArr[i]];
+          }
+          return newArr;
+        };
+        startQueue = shuffle(startQueue);
 
+        setTimeout(() => {
           if (startQueue.length > 0) {
             setState((prev) => ({
               ...prev,
@@ -936,8 +805,8 @@ const App: React.FC = () => {
           }
           setIsTuning(false);
         }, 1000);
-      } catch (e) {
-        console.error(e);
+      } catch (error) {
+        console.error('Error switching region:', error);
         setIsTuning(false);
       }
     }
@@ -979,7 +848,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.20.0 // ARIA-COMPLIANT
+              V 1.20.1 // ARIA-COMPLIANT
             </p>
           </div>
 

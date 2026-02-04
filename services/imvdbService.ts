@@ -355,8 +355,27 @@ export const getCountries = () => {
       count: data.count,
       name: code // Ideally map this to full name
     }))
-    .filter(c => c.count >= 250)
+    .filter(c => c.count >= 20)
     .sort((a, b) => b.count - a.count);
+};
+
+export const getAvailableDecades = (region: string): string[] => {
+  const standardDecades = ['1920', '1930', '1940', '1950', '1960', '1970', '1980', '1990', '2000', '2010', '2020'];
+  
+  if (region === 'all' || !metadataIndex?.byNationality?.[region]) {
+    return standardDecades;
+  }
+
+  const years = metadataIndex.byNationality[region].years;
+  if (!years || !Array.isArray(years)) return standardDecades;
+
+  const decades = new Set<string>();
+  years.forEach((year: number) => {
+    const decade = Math.floor(year / 10) * 10;
+    decades.add(decade.toString());
+  });
+
+  return Array.from(decades).sort();
 };
 
 export const fetchVideoById = async (
