@@ -7243,7 +7243,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524059852312,
@@ -7411,7 +7411,7 @@
     "artist_name": "Pearl Jam",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=PM_VIATPYQc",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -7433,7 +7433,7 @@
     "artist_name": "Social Distortion",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=d2fAo-dupxk",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -7448,7 +7448,7 @@
     "duration_seconds": 3529,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -7465,7 +7465,7 @@
       "HD",
       "Remastered"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -7481,7 +7481,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -7512,7 +7512,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {

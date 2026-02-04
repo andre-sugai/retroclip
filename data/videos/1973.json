@@ -18,7 +18,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=PQYicotlT_M",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/hello-hooray",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=Dl0mPx96ojY",
     "imvdb_url": "https://imvdb.com/video/queen/keep-yourself-alive",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=RcZn2-bGXqQ",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/angie",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=zge6UEwUGn0",
     "imvdb_url": "https://imvdb.com/video/john-lennon/mind-games",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=TL0EoXdpOqg",
     "imvdb_url": "https://imvdb.com/video/abba/ring-ring",
-    "nationality": "INTL",
+    "nationality": "SE",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=sZfZ8uWaOFI",
     "imvdb_url": "https://imvdb.com/video/aerosmith/dream-on",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -106,7 +106,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=L_cQ1udEmGc",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/teenage-lament-74",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -117,7 +117,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=FYui5JyWZt4",
     "imvdb_url": "https://imvdb.com/video/elton-john/harmoney",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -128,7 +128,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=2K7jMLS-7iw",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/angie/2",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -139,7 +139,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=5KK6KVKo0lE",
     "imvdb_url": "https://imvdb.com/video/rod-stewart/oh-no-not-my-baby",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -150,7 +150,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=DohRa9lsx0Q",
     "imvdb_url": "https://imvdb.com/video/stealers-wheel/stuck-in-the-middle-with-you",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -161,7 +161,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=yL6rMomAA40",
     "imvdb_url": "https://imvdb.com/video/earth-and-fire/maybe-tomorrow-maybe-tonight",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -176,7 +176,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=r8pYpii2Atg",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -188,7 +188,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=tBxf_gp2Xho",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "BR",
     "video_type": "clip"
   },
   {
@@ -344,7 +344,7 @@
     "channel": "Raseraa",
     "views": "1.9M",
     "artist_name": "Elvis Presley",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -359,7 +359,7 @@
     "duration_seconds": 4385,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {

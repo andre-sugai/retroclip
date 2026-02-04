@@ -57,7 +57,9 @@
         "R&B"
       ],
       "nationalities": [
-        "INTL"
+        "INTL",
+        "NZ",
+        "US"
       ],
       "hasShows": false,
       "hasClips": true,
@@ -79,7 +81,7 @@
         "Pop"
       ],
       "nationalities": [
-        "INTL"
+        "GB"
       ],
       "hasShows": false,
       "hasClips": true,
@@ -91,6 +93,7 @@
         "Pop"
       ],
       "nationalities": [
+        "GB",
         "INTL"
       ],
       "hasShows": true,
@@ -104,7 +107,8 @@
         "Rock Alternativo"
       ],
       "nationalities": [
-        "INTL"
+        "GB",
+        "US"
       ],
       "hasShows": false,
       "hasClips": true,
@@ -119,7 +123,8 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -133,7 +138,9 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "FR",
+        "GB",
+        "US"
       ],
       "hasShows": false,
       "hasClips": true,
@@ -147,7 +154,8 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -161,7 +169,11 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "IE",
+        "INTL",
+        "NZ",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -177,7 +189,11 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "CA",
+        "GB",
+        "IE",
+        "INTL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -191,7 +207,8 @@
         "Rock Alternativo"
       ],
       "nationalities": [
-        "INTL"
+        "GB",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -206,7 +223,9 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -223,7 +242,10 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -239,8 +261,14 @@
         "Rock Alternativo"
       ],
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "DE",
+        "GB",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -255,8 +283,15 @@
         "Rock Alternativo"
       ],
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "GB",
+        "IE",
+        "SE",
+        "US",
+        "XW"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -271,8 +306,14 @@
         "Rock Alternativo"
       ],
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "GB",
+        "IE",
+        "INTL",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -287,8 +328,14 @@
         "Rock Alternativo"
       ],
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "GB",
+        "INTL",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -304,8 +351,14 @@
         "Rock Alternativo"
       ],
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "GB",
+        "INTL",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -322,8 +375,18 @@
         "Ska"
       ],
       "nationalities": [
+        "AU",
+        "BE",
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "GB",
+        "IE",
+        "INTL",
+        "JM",
+        "JP",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -344,8 +407,17 @@
         "Ska"
       ],
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "FR",
+        "GB",
+        "IE",
+        "INTL",
+        "NZ",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -365,7 +437,20 @@
         "Ska"
       ],
       "nationalities": [
-        "INTL"
+        "AT",
+        "AU",
+        "CA",
+        "CH",
+        "DE",
+        "FR",
+        "GB",
+        "HK",
+        "IE",
+        "INTL",
+        "IT",
+        "NZ",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -386,8 +471,23 @@
         "Ska"
       ],
       "nationalities": [
+        "AT",
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "DE",
+        "ES",
+        "FR",
+        "GB",
+        "IE",
+        "INTL",
+        "IT",
+        "JP",
+        "NL",
+        "PA",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -409,8 +509,22 @@
         "Ska"
       ],
       "nationalities": [
+        "AT",
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "DE",
+        "FR",
+        "GB",
+        "IE",
+        "INTL",
+        "IT",
+        "JP",
+        "NL",
+        "SE",
+        "US",
+        "XW"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -435,7 +549,10 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "NL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -455,7 +572,10 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "CA",
+        "GB",
+        "INTL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -472,8 +592,21 @@
         "Ska"
       ],
       "nationalities": [
+        "AT",
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "DE",
+        "FR",
+        "GB",
+        "IE",
+        "INTL",
+        "IT",
+        "NL",
+        "NO",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -493,8 +626,24 @@
         "Ska"
       ],
       "nationalities": [
+        "AT",
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "DE",
+        "FR",
+        "GB",
+        "GN",
+        "IE",
+        "INTL",
+        "IT",
+        "JP",
+        "NO",
+        "PR",
+        "SE",
+        "US",
+        "XW"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -514,8 +663,27 @@
         "Ska"
       ],
       "nationalities": [
+        "AR",
+        "AT",
+        "AU",
+        "BE",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "CL",
+        "DE",
+        "FR",
+        "GB",
+        "IE",
+        "INTL",
+        "IT",
+        "JM",
+        "JP",
+        "LV",
+        "NO",
+        "PR",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -535,8 +703,26 @@
         "Ska"
       ],
       "nationalities": [
+        "AT",
+        "AU",
+        "BE",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "DE",
+        "DK",
+        "ES",
+        "FR",
+        "GB",
+        "HU",
+        "IE",
+        "INTL",
+        "IT",
+        "JM",
+        "JP",
+        "NL",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -555,7 +741,9 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -576,7 +764,10 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "NO",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -595,7 +786,9 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -615,7 +808,10 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "NO",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -641,7 +837,12 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "CA",
+        "GB",
+        "IE",
+        "INTL",
+        "NL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -663,7 +864,13 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "GB",
+        "IE",
+        "INTL",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -684,8 +891,14 @@
         "Ska"
       ],
       "nationalities": [
+        "AU",
+        "BE",
         "BR",
-        "INTL"
+        "DE",
+        "GB",
+        "INTL",
+        "NL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -706,8 +919,16 @@
         "Ska"
       ],
       "nationalities": [
+        "AR",
+        "AU",
         "BR",
-        "INTL"
+        "DE",
+        "GB",
+        "INTL",
+        "JP",
+        "NL",
+        "NO",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -727,7 +948,11 @@
         "Ska"
       ],
       "nationalities": [
-        "INTL"
+        "CA",
+        "GB",
+        "INTL",
+        "NL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -748,7 +973,12 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "GB",
+        "IE",
+        "INTL",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -776,7 +1006,13 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "GB",
+        "INTL",
+        "NL",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -803,7 +1039,11 @@
       ],
       "nationalities": [
         "BR",
-        "INTL"
+        "DE",
+        "GB",
+        "INTL",
+        "SE",
+        "US"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -828,8 +1068,42 @@
         "Ska"
       ],
       "nationalities": [
+        "AR",
+        "AU",
+        "BE",
         "BR",
-        "INTL"
+        "BS",
+        "CA",
+        "CH",
+        "CO",
+        "DE",
+        "DK",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "IE",
+        "IN",
+        "INTL",
+        "IS",
+        "IT",
+        "JM",
+        "JP",
+        "KR",
+        "MX",
+        "NL",
+        "NO",
+        "NZ",
+        "PK",
+        "PL",
+        "PR",
+        "RO",
+        "RU",
+        "SE",
+        "US",
+        "UY",
+        "XW",
+        "ZA"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -1542,7 +1816,10 @@
       "count": 1343,
       "nationalities": [
         "BR",
-        "INTL"
+        "DE",
+        "GB",
+        "INTL",
+        "US"
       ]
     },
     "Clássicos": {
@@ -1641,8 +1918,36 @@
       ],
       "count": 11499,
       "nationalities": [
+        "AR",
+        "AT",
+        "AU",
+        "BE",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "CL",
+        "DE",
+        "DK",
+        "ES",
+        "FR",
+        "GB",
+        "GN",
+        "HK",
+        "HU",
+        "IE",
+        "INTL",
+        "IT",
+        "JM",
+        "JP",
+        "LV",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PR",
+        "SE",
+        "US",
+        "XW"
       ]
     },
     "Pop": {
@@ -1782,8 +2087,32 @@
       ],
       "count": 11465,
       "nationalities": [
+        "AT",
+        "AU",
+        "BE",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "CO",
+        "DE",
+        "DK",
+        "ES",
+        "FR",
+        "GB",
+        "HK",
+        "IE",
+        "INTL",
+        "IT",
+        "JM",
+        "JP",
+        "NL",
+        "NO",
+        "NZ",
+        "PR",
+        "RO",
+        "RU",
+        "SE",
+        "US"
       ]
     },
     "Rock Alternativo": {
@@ -1917,8 +2246,25 @@
       ],
       "count": 7706,
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "DK",
+        "FR",
+        "GB",
+        "IE",
+        "INTL",
+        "IT",
+        "JP",
+        "NL",
+        "NZ",
+        "PA",
+        "PL",
+        "RU",
+        "SE",
+        "US",
+        "XW"
       ]
     },
     "Rock": {
@@ -2031,8 +2377,16 @@
       ],
       "count": 1859,
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "CH",
+        "DE",
+        "GB",
+        "IE",
+        "INTL",
+        "JP",
+        "US"
       ]
     },
     "Folk": {
@@ -2096,6 +2450,8 @@
       ],
       "count": 346,
       "nationalities": [
+        "CA",
+        "GB",
         "INTL"
       ]
     },
@@ -2218,8 +2574,18 @@
       ],
       "count": 2405,
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "DE",
+        "FI",
+        "GB",
+        "INTL",
+        "IS",
+        "IT",
+        "NL",
+        "NO",
+        "SE",
+        "US"
       ]
     },
     "Hard Rock": {
@@ -2291,7 +2657,10 @@
       ],
       "count": 168,
       "nationalities": [
-        "INTL"
+        "CH",
+        "GB",
+        "INTL",
+        "US"
       ]
     },
     "Punk": {
@@ -2401,8 +2770,18 @@
       ],
       "count": 1256,
       "nationalities": [
+        "AU",
         "BR",
-        "INTL"
+        "CA",
+        "DE",
+        "ES",
+        "GB",
+        "INTL",
+        "IT",
+        "JP",
+        "RU",
+        "SE",
+        "US"
       ]
     },
     "Ska": {
@@ -2486,8 +2865,11 @@
       ],
       "count": 130,
       "nationalities": [
+        "AR",
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "US"
       ]
     },
     "Reggae": {
@@ -2566,7 +2948,11 @@
       "count": 174,
       "nationalities": [
         "BR",
-        "INTL"
+        "DE",
+        "FR",
+        "GB",
+        "INTL",
+        "JM"
       ]
     },
     "Dance": {
@@ -2652,7 +3038,18 @@
       ],
       "count": 1527,
       "nationalities": [
-        "INTL"
+        "BE",
+        "BR",
+        "DE",
+        "ES",
+        "FR",
+        "GB",
+        "INTL",
+        "IS",
+        "NO",
+        "SE",
+        "US",
+        "UY"
       ]
     },
     "Rap": {
@@ -2747,7 +3144,10 @@
       "count": 4443,
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "JP",
+        "US"
       ]
     },
     "Gótico": {
@@ -2811,7 +3211,9 @@
       ],
       "count": 75,
       "nationalities": [
-        "INTL"
+        "GB",
+        "INTL",
+        "JP"
       ]
     },
     "Eletronico": {
@@ -2883,7 +3285,12 @@
       ],
       "count": 246,
       "nationalities": [
-        "INTL"
+        "DE",
+        "GB",
+        "INTL",
+        "IT",
+        "NO",
+        "US"
       ]
     },
     "Indie": {
@@ -2944,7 +3351,10 @@
       "count": 1147,
       "nationalities": [
         "BR",
-        "INTL"
+        "GB",
+        "INTL",
+        "KR",
+        "US"
       ]
     },
     "Latin Pop": {
@@ -2996,12 +3406,129 @@
     }
   },
   "byNationality": {
-    "INTL": {
+    "BR": {
+      "years": [
+        1928,
+        1929,
+        1936,
+        1949,
+        1950,
+        1962,
+        1966,
+        1967,
+        1968,
+        1969,
+        1970,
+        1972,
+        1973,
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1982,
+        1983,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "count": 1868,
+      "genres": [
+        "acousticShow",
+        "Axé",
+        "Bossa Nova",
+        "Choro",
+        "Clássico",
+        "Country",
+        "Desconhecido",
+        "Electronic",
+        "Eletronico",
+        "Forró",
+        "Funk",
+        "Gospel",
+        "Hardcore",
+        "Indie",
+        "Instrumental",
+        "Jazz",
+        "Latino",
+        "Link",
+        "Live",
+        "Metal",
+        "MP ",
+        "MPB",
+        [
+          "MPB",
+          "Latino"
+        ],
+        "Pagode",
+        "Pop",
+        "Pop Punk",
+        "Pop Rock",
+        [
+          "Pop",
+          "Latino"
+        ],
+        "Punk",
+        "R & B",
+        "rap",
+        "Rap",
+        "Reggae",
+        "Regional",
+        "Rock",
+        "rock alternativo",
+        "Rock Alternativo",
+        "Rock, Reggae",
+        "Samba",
+        "Sertanejo",
+        "Ska",
+        "Soul",
+        "World"
+      ]
+    },
+    "US": {
       "years": [
         1960,
-        1963,
-        1964,
-        "1964",
         1965,
         1966,
         1967,
@@ -3019,11 +3546,135 @@
         1978,
         1979,
         1980,
-        "1980",
         1981,
         "1981",
         1982,
         "1982",
+        1983,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ],
+      "count": 1883,
+      "genres": [
+        "Alive Rock",
+        "Alternative",
+        "alternative rock",
+        "Alternative Rock",
+        "american",
+        "Blues Rock",
+        "Bossa Nova",
+        "Choral Rock",
+        "Comedy Rock",
+        "Country",
+        "country rock",
+        "Dance",
+        "Desconhecido",
+        "Desconhecido, Hard Rock",
+        "Desconhecido, Hardcore",
+        "Desconhecido, Industrial",
+        "Desconhecido, Nu Metal",
+        "Desconhecido, Nu Metal, Industrial",
+        "Electroclash",
+        "Electronic",
+        "Eletronico",
+        "Emo",
+        "Experimental",
+        "Folk / Pop",
+        "Funk",
+        "Funk Rock",
+        "Garage Rock",
+        "Grunge",
+        "hard rock",
+        "Hard Rock",
+        "Hardcore",
+        "Heavy Metal",
+        "hip hop",
+        "Hip Hop",
+        "Hip-Hop",
+        "Indie Rock",
+        "Industrial",
+        "industrial rock",
+        "jazz",
+        "Jazz",
+        "king's x",
+        "Metal",
+        "Metal, Hard Rock",
+        "Metal, Hardcore",
+        "Metalcore",
+        "Metalcore, Hardcore",
+        "Neo Soul",
+        "Neo-Psychedelia",
+        "Nu Metal",
+        "pop",
+        "Pop",
+        "Pop / R&B",
+        "Pop Punk",
+        "pop rock",
+        "Pop Rock",
+        "Pop, Hard Rock",
+        "Post-Grunge",
+        "Post-Grunge, Nu Metal",
+        "Post-Hardcore",
+        "Post-Punk Revival",
+        "Progressive Metal",
+        "Punk",
+        "Punk Rock",
+        "Punk, Hardcore",
+        "R&B",
+        "R&B / Pop",
+        "Rap",
+        "Rock",
+        "Rock / Country",
+        "Rock / Hip-Hop",
+        "Rock Alternativo",
+        "Rock Alternativo, Folk",
+        "Rock Alternativo, Gótico",
+        "Rock Alternativo, Hard Rock",
+        "Rock Alternativo, Hardcore",
+        "Rock, Hard Rock",
+        "Rock, Nu Metal",
+        "rockabilly",
+        "Ska",
+        "Ska / Pop",
+        "soul",
+        "stoner rock",
+        "Stoner Rock",
+        "thrash metal",
+        "Toque Industrial"
+      ]
+    },
+    "INTL": {
+      "years": [
+        1960,
+        1964,
+        1969,
+        1970,
+        1972,
+        1973,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
         1983,
         1984,
         1985,
@@ -3039,9 +3690,7 @@
         1994,
         1995,
         1996,
-        "1996",
         1997,
-        "1997",
         1998,
         1999,
         2000,
@@ -3082,7 +3731,7 @@
         "2025",
         2026
       ],
-      "count": 96202,
+      "count": 91774,
       "genres": [
         "A Cappella Metal",
         "Acoustic",
@@ -3090,7 +3739,6 @@
         "acousticShow",
         "Afro-Pop",
         "Afrobeats",
-        "Alive Rock",
         "Alt-Country",
         "Alternative",
         "Alternative Hip Hop",
@@ -3104,7 +3752,6 @@
         "Alternative Rock, Nu Metal",
         "ambient",
         "Ambient",
-        "american",
         "Art Pop",
         "Art Rock",
         "audio drama",
@@ -3184,7 +3831,6 @@
         "edm",
         "Electro Swing",
         "Electroclash",
-        "electronic",
         "Electronic",
         "Electronic / Dancehall",
         "Electronic / Gothic",
@@ -3236,14 +3882,6 @@
         "Glam Metal",
         "Glam Metal, Hard Rock",
         "Glam Rock",
-        [
-          "Glam",
-          "Hard Rock"
-        ],
-        [
-          "Glam",
-          "Hard Rock"
-        ],
         "Gospel",
         "Goth",
         "Goth Pop",
@@ -3321,7 +3959,6 @@
         "Latin Alternative",
         "Latin Pop",
         "Latino",
-        "Live",
         "lounge",
         "Mambo",
         "Mariachi / Punk",
@@ -3345,7 +3982,6 @@
         "Metalcore / Pop Punk",
         "Metalcore, Hardcore",
         "Modern Classical",
-        "MPB",
         "musical",
         "My Dark Cabaret",
         "Neo Soul",
@@ -3430,7 +4066,6 @@
         "Punk Rock",
         "Punk Rock, Hardcore",
         "Punk, Folk",
-        "Punk, Gótico",
         "Punk, Hardcore",
         "queer",
         "R & B",
@@ -3480,11 +4115,6 @@
         "Rock, Hard Rock",
         "Rock, K-Pop",
         "Rock, Nu Metal",
-        [
-          "Rock",
-          "New Wave"
-        ],
-        "rockabilly",
         "Rockabilly",
         "Roots Rock",
         "screamo",
@@ -3510,7 +4140,6 @@
         "special purpose artist",
         "Spoken Word",
         "Stoner Metal",
-        "stoner rock",
         "Stoner Rock",
         "swing",
         "Symphonic Metal",
@@ -3518,14 +4147,11 @@
         "Syntax Pop",
         "Synth-pop",
         "Synthpop",
-        "Synthpop, Industrial",
         "Synthwave",
         "Tango / Electronic",
         "Technical Death Metal",
         "Techno",
-        "thrash metal",
         "Thrash Metal",
-        "Toque Industrial",
         "Trance",
         "Trip Hop",
         "UK Garage",
@@ -3537,19 +4163,33 @@
         "World, Gótico"
       ]
     },
-    "BR": {
+    "NZ": {
       "years": [
-        1928,
-        1929,
-        1936,
-        1949,
-        1950,
-        1962,
+        1960,
+        1969,
+        1980,
+        1981,
+        2002
+      ],
+      "count": 8,
+      "genres": [
+        "Desconhecido",
+        "Pop",
+        "Rock Alternativo"
+      ]
+    },
+    "GB": {
+      "years": [
+        1963,
+        1964,
+        "1964",
+        1965,
         1966,
         1967,
         1968,
         1969,
         1970,
+        1971,
         1972,
         1973,
         1974,
@@ -3559,7 +4199,10 @@
         1978,
         1979,
         1980,
+        "1980",
+        1981,
         1982,
+        "1982",
         1983,
         1984,
         1985,
@@ -3574,86 +4217,689 @@
         1994,
         1995,
         1996,
+        "1996",
+        1997,
+        "1997",
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ],
+      "count": 1582,
+      "genres": [
+        "acousticShow",
+        "Alternative Rock",
+        "Big Beat",
+        "Britpop",
+        "Classical Crossover",
+        "Dance",
+        "Desconhecido",
+        "Desconhecido, Gótico",
+        "Desconhecido, Hard Rock",
+        "Downtempo",
+        "electronic",
+        "Electronic",
+        "Eletronico",
+        "Folk",
+        "Folk Rock",
+        [
+          "Glam",
+          "Hard Rock"
+        ],
+        [
+          "Glam",
+          "Hard Rock"
+        ],
+        "Hip-Hop",
+        "Indie Folk",
+        "Indie Rock",
+        "Metal",
+        "Metal, Hard Rock",
+        "Neo Soul",
+        "Pop",
+        "Pop / Disco",
+        "Pop Rock",
+        "Post-Hardcore",
+        "Post-Punk",
+        "progressive rock",
+        "Punk",
+        "Punk, Gótico",
+        "Rap",
+        "Reggae",
+        "Rock",
+        "Rock Alternativo",
+        "Rock Alternativo, Gótico",
+        "Rock Alternativo, Hard Rock",
+        "Rock Alternativo, Industrial",
+        "Rock, Hard Rock",
+        "Ska",
+        "Ska Punk",
+        "Trance",
+        "Trip Hop",
+        "UK Garage"
+      ]
+    },
+    "FR": {
+      "years": [
+        1967,
+        1980,
+        1981,
+        1982,
+        1983,
+        1986,
+        1987,
+        1988,
+        1989,
+        2002
+      ],
+      "count": 53,
+      "genres": [
+        "Desconhecido",
+        "Eletronico",
+        "House",
+        "New Wave",
+        "Pop",
+        "Reggae",
+        "Rock Alternativo"
+      ]
+    },
+    "IE": {
+      "years": [
+        1969,
+        1970,
+        1975,
+        1976,
+        1979,
+        1980,
+        1981,
+        1982,
+        1983,
+        1986,
+        1987,
+        1988,
+        1989,
+        1994,
+        1995,
+        1999,
+        2002
+      ],
+      "count": 59,
+      "genres": [
+        "Alternative Rock, Folk",
+        "Desconhecido",
+        "New Age",
+        "Pop",
+        "Pop Rock, Folk",
+        "Rock",
+        "Rock Alternativo"
+      ]
+    },
+    "CA": {
+      "years": [
+        1970,
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1983,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989,
+        1994,
+        1995,
+        1998,
+        1999,
+        2000,
+        2002
+      ],
+      "count": 153,
+      "genres": [
+        "alternative rock",
+        "Alternative Rock",
+        "Country",
+        "Desconhecido",
+        "Desconhecido, Folk",
+        "Eletronico",
+        "Hip-Hop",
+        "Pop",
+        "Pop Punk",
+        "Post-Grunge, Hard Rock",
+        "Rock",
+        "Rock Alternativo"
+      ]
+    },
+    "SE": {
+      "years": [
+        1973,
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1983,
+        1986,
+        1987,
+        1988,
+        1989,
+        1995,
+        2000,
+        2001,
+        2002
+      ],
+      "count": 87,
+      "genres": [
+        "alternative rock",
+        "Desconhecido",
+        "Desconhecido, Nu Metal",
+        "Eurodance",
+        "Indie Rock",
+        "Metal",
+        "Metal, Hard Rock",
+        "Pop",
+        "Pop / Dance",
+        "Post-Hardcore",
+        "Rock Alternativo, Hard Rock"
+      ]
+    },
+    "DE": {
+      "years": [
+        1974,
+        1975,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1983,
+        1986,
+        1987,
+        1988,
+        1989,
+        1995,
+        1996,
         1997,
         1999,
         2000,
         2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025,
-        2026
+        2002
       ],
-      "count": 1852,
+      "count": 142,
       "genres": [
-        "acousticShow",
-        "Axé",
-        "Bossa Nova",
-        "Choro",
-        "Clássico",
-        "Country",
+        "Dance",
+        "Desconhecido",
+        "Desconhecido, Industrial, Gótico",
+        "Desconhecido, Nu Metal",
+        "Electronic",
+        "Eletronico",
+        "Eurodance",
+        "Funk",
+        "Hip-Hop",
+        "Industrial Metal, Nu Metal",
+        "Metal",
+        "Metal, Hard Rock",
+        "Pop",
+        "Punk",
+        "Punk Rock",
+        "Reggae",
+        "Rock Alternativo",
+        [
+          "Rock",
+          "New Wave"
+        ],
+        "Soul",
+        "Techno",
+        "Trance"
+      ]
+    },
+    "AU": {
+      "years": [
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1983,
+        1986,
+        1987,
+        1988,
+        1989,
+        1996,
+        1997,
+        2002
+      ],
+      "count": 147,
+      "genres": [
+        "Desconhecido",
+        "Desconhecido, Nu Metal",
+        "Eletronico",
+        "Metal, Hard Rock",
+        "Pop",
+        "Punk, Gótico",
+        "Rock",
+        "Rock Alternativo"
+      ]
+    },
+    "CH": {
+      "years": [
+        1974,
+        1981,
+        1982,
+        1983,
+        1986,
+        1987,
+        1988,
+        1989,
+        2002
+      ],
+      "count": 26,
+      "genres": [
         "Desconhecido",
         "Eletronico",
-        "Forró",
-        "Funk",
-        "Gospel",
-        "Hardcore",
-        "Indie",
-        "Instrumental",
-        "Jazz",
-        "Latino",
-        "Link",
-        "Live",
-        "Metal",
-        "MP ",
-        "MPB",
-        [
-          "MPB",
-          "Latino"
-        ],
-        "Pagode",
+        "Hard Rock",
         "Pop",
-        "Pop Punk",
-        "Pop Rock",
-        [
-          "Pop",
-          "Latino"
-        ],
-        "Punk",
-        "R & B",
-        "rap",
+        "Rock"
+      ]
+    },
+    "XW": {
+      "years": [
+        1975,
+        1983,
+        1987,
+        2002
+      ],
+      "count": 5,
+      "genres": [
+        "Desconhecido",
+        "Rock Alternativo"
+      ]
+    },
+    "JP": {
+      "years": [
+        1979,
+        1982,
+        1983,
+        1987,
+        1988,
+        1989,
+        1997,
+        2002
+      ],
+      "count": 22,
+      "genres": [
+        "Desconhecido",
+        "Desconhecido, Gótico",
+        "Eletronico",
+        "Hardcore",
+        "Hip-Hop",
+        "J-Pop",
         "Rap",
-        "Reggae",
-        "Regional",
         "Rock",
-        "rock alternativo",
+        "Rock Alternativo"
+      ]
+    },
+    "BE": {
+      "years": [
+        1979,
+        1988,
+        1989,
+        1996,
+        2002
+      ],
+      "count": 14,
+      "genres": [
+        "Desconhecido",
+        "Eletronico",
+        "Pop",
+        "Trance"
+      ]
+    },
+    "JM": {
+      "years": [
+        1979,
+        1988,
+        1989,
+        2002
+      ],
+      "count": 8,
+      "genres": [
+        "Desconhecido",
+        "Pop",
+        "Reggae"
+      ]
+    },
+    "IT": {
+      "years": [
+        1981,
+        1982,
+        1983,
+        1986,
+        1987,
+        1988,
+        1989,
+        2002
+      ],
+      "count": 60,
+      "genres": [
+        "Desconhecido",
+        "Desconhecido, Industrial, Gótico",
+        "Eletronico",
+        "Grunge",
+        "Indie Rock",
+        "Metal",
+        "Pop",
+        "Pop Rock",
+        "Punk",
         "Rock Alternativo",
-        "Rock, Reggae",
-        "Samba",
-        "Sertanejo",
-        "Ska",
-        "Soul",
-        "World"
+        "Ska Punk"
+      ]
+    },
+    "HK": {
+      "years": [
+        1981
+      ],
+      "count": 1,
+      "genres": [
+        "Pop"
+      ]
+    },
+    "AT": {
+      "years": [
+        1981,
+        1982,
+        1983,
+        1986,
+        1987,
+        1988,
+        1989
+      ],
+      "count": 13,
+      "genres": [
+        "Desconhecido",
+        "Pop"
+      ]
+    },
+    "ES": {
+      "years": [
+        1982,
+        1989,
+        2002
+      ],
+      "count": 28,
+      "genres": [
+        "Desconhecido",
+        "Eurodance",
+        "Latin Pop",
+        "Pop",
+        "Punk"
+      ]
+    },
+    "NL": {
+      "years": [
+        1982,
+        1983,
+        1984,
+        1986,
+        1989,
+        1994,
+        1996,
+        1997,
+        1998,
+        2000,
+        2002
+      ],
+      "count": 16,
+      "genres": [
+        "Desconhecido",
+        "Pop",
+        "Rock Alternativo",
+        "Rock Alternativo, Gótico",
+        "Symphonic Metal, Gótico"
+      ]
+    },
+    "PA": {
+      "years": [
+        1982
+      ],
+      "count": 1,
+      "genres": [
+        "Rock Alternativo"
+      ]
+    },
+    "NO": {
+      "years": [
+        1986,
+        1987,
+        1988,
+        1991,
+        1993,
+        1997,
+        2002
+      ],
+      "count": 24,
+      "genres": [
+        "Black Metal",
+        "Desconhecido",
+        "Electronic",
+        "Gothic Metal, Gótico",
+        "Pop",
+        "Synthpop, Industrial"
+      ]
+    },
+    "PR": {
+      "years": [
+        1987,
+        1988,
+        2002
+      ],
+      "count": 12,
+      "genres": [
+        "Desconhecido",
+        "Latin Pop",
+        "Pop"
+      ]
+    },
+    "GN": {
+      "years": [
+        1987
+      ],
+      "count": 1,
+      "genres": [
+        "Desconhecido"
+      ]
+    },
+    "LV": {
+      "years": [
+        1988
+      ],
+      "count": 1,
+      "genres": [
+        "Desconhecido"
+      ]
+    },
+    "AR": {
+      "years": [
+        1988,
+        1997,
+        2002
+      ],
+      "count": 3,
+      "genres": [
+        "Desconhecido",
+        "Ska"
+      ]
+    },
+    "CL": {
+      "years": [
+        1988
+      ],
+      "count": 1,
+      "genres": [
+        "Desconhecido"
+      ]
+    },
+    "DK": {
+      "years": [
+        1989,
+        2002
+      ],
+      "count": 13,
+      "genres": [
+        "Desconhecido",
+        "Hip-Hop",
+        "Indie Rock",
+        "Pop"
+      ]
+    },
+    "HU": {
+      "years": [
+        1989
+      ],
+      "count": 1,
+      "genres": [
+        "Desconhecido"
+      ]
+    },
+    "IS": {
+      "years": [
+        2002
+      ],
+      "count": 10,
+      "genres": [
+        "Desconhecido",
+        "Electronic",
+        "Electronica",
+        "Rap Rock, Nu Metal"
+      ]
+    },
+    "RO": {
+      "years": [
+        2002
+      ],
+      "count": 4,
+      "genres": [
+        "Desconhecido",
+        "Pop Rock"
+      ]
+    },
+    "CO": {
+      "years": [
+        2002
+      ],
+      "count": 5,
+      "genres": [
+        "Latin Pop"
+      ]
+    },
+    "UY": {
+      "years": [
+        2002
+      ],
+      "count": 3,
+      "genres": [
+        "Desconhecido",
+        "Tango / Electronic"
+      ]
+    },
+    "PL": {
+      "years": [
+        2002
+      ],
+      "count": 2,
+      "genres": [
+        "Desconhecido",
+        "Indie Rock"
+      ]
+    },
+    "RU": {
+      "years": [
+        2002
+      ],
+      "count": 4,
+      "genres": [
+        "Alternative Rock",
+        "Desconhecido, Hardcore",
+        "Pop"
+      ]
+    },
+    "MX": {
+      "years": [
+        2002
+      ],
+      "count": 11,
+      "genres": [
+        "Desconhecido"
+      ]
+    },
+    "PK": {
+      "years": [
+        2002
+      ],
+      "count": 1,
+      "genres": [
+        "Desconhecido"
+      ]
+    },
+    "FI": {
+      "years": [
+        2002
+      ],
+      "count": 4,
+      "genres": [
+        "Desconhecido",
+        "Symphonic Metal"
+      ]
+    },
+    "IN": {
+      "years": [
+        2002
+      ],
+      "count": 1,
+      "genres": [
+        "Desconhecido"
+      ]
+    },
+    "KR": {
+      "years": [
+        2002
+      ],
+      "count": 1,
+      "genres": [
+        "Garage Rock"
+      ]
+    },
+    "BS": {
+      "years": [
+        2002
+      ],
+      "count": 1,
+      "genres": [
+        "Desconhecido"
+      ]
+    },
+    "ZA": {
+      "years": [
+        2002
+      ],
+      "count": 1,
+      "genres": [
+        "Desconhecido"
       ]
     }
   },
@@ -3891,7 +5137,7 @@
     "totalClips": 95927,
     "totalShows": 924,
     "totalPrograms": 1203,
-    "lastGenerated": "2026-02-03T18:25:13.498Z",
+    "lastGenerated": "2026-02-04T01:09:40.665Z",
     "dataVersion": "2.0"
   }
 }

@@ -9731,7 +9731,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=RqgWsAtnRzY",
     "imvdb_url": "https://imvdb.com/video/mustard-plug/everything-girl",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -9743,7 +9743,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=K7l5ZeVVoCA",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -9755,7 +9755,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=EkA0ieeE90A",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "BR",
     "video_type": "clip"
   },
   {
@@ -9767,7 +9767,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=MB5bljSSCeI",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "BR",
     "video_type": "clip"
   },
   {
@@ -9787,7 +9787,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524097328168,
@@ -9806,7 +9806,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769606296832564,
@@ -10121,7 +10121,7 @@
     "artist_name": "The Cranberries",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=xweRJNcDfOY",
-    "nationality": "INTL",
+    "nationality": "IE",
     "is_show": true,
     "video_type": "show"
   },
@@ -10132,7 +10132,7 @@
     "artist_name": "R.E.M.",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=DurDZkK58VE",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -10147,7 +10147,7 @@
     "duration_seconds": 5243,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -10161,7 +10161,7 @@
     "duration_seconds": 6848,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -10175,7 +10175,7 @@
     "duration_seconds": 6437,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -10191,7 +10191,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -10207,7 +10207,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -10223,7 +10223,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -10239,7 +10239,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -10255,7 +10255,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "CA",
     "is_show": true
   },
   {
@@ -10286,7 +10286,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -10306,7 +10306,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -10338,7 +10338,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "DE",
     "record_label": "epitaph"
   },
   {
@@ -10354,7 +10354,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "CA",
     "record_label": "epitaph"
   },
   {
@@ -10386,7 +10386,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "record_label": "epitaph"
   },
   {
@@ -10402,7 +10402,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "DE",
     "record_label": "epitaph"
   },
   {
@@ -10418,7 +10418,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -10434,7 +10434,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -10450,7 +10450,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -10466,7 +10466,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   }
 ]

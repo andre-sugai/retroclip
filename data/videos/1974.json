@@ -7,7 +7,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=oU7rqB9E_0M",
     "imvdb_url": "https://imvdb.com/video/queen/liar",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Eletronico",
     "youtube_link": "https://www.youtube.com/watch?v=ugBX6H0Z2hc",
     "imvdb_url": "https://imvdb.com/video/kraftwerk/autobahn",
-    "nationality": "INTL",
+    "nationality": "DE",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=uj5ZZ_Ey510",
     "imvdb_url": "https://imvdb.com/video/rod-stewart/farewell",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=BAf2S6ij2gk",
     "imvdb_url": "https://imvdb.com/video/queen/killer-queen",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=Sj_9CiNkkn4",
     "imvdb_url": "https://imvdb.com/video/abba/waterloo",
-    "nationality": "INTL",
+    "nationality": "SE",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=SrXswIbWA7Y",
     "imvdb_url": "https://imvdb.com/video/george-harrison/ding-dong-ding-dong",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=DGFvlnCq-ts",
     "imvdb_url": "https://imvdb.com/video/john-lennon/9-dream",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -84,7 +84,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=L6Je0yXHpkw",
     "imvdb_url": "https://imvdb.com/video/billy-joel/travelin-prayer",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -95,7 +95,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=biaGJ_4rEzE",
     "imvdb_url": "https://imvdb.com/video/acdc/can-i-sit-next-to-you-girl",
-    "nationality": "INTL",
+    "nationality": "AU",
     "video_type": "clip"
   },
   {
@@ -106,7 +106,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=vjWebKavfuI",
     "imvdb_url": "https://imvdb.com/video/john-lennon/whatever-gets-you-through-the-night",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -117,7 +117,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=eUJ_ifjKopM",
     "imvdb_url": "https://imvdb.com/video/sparks/this-town-aint-big-enough-for-both-of-us/2",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -129,7 +129,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=CjXlzk_onHk",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "BR",
     "video_type": "clip"
   },
   {
@@ -144,7 +144,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=tqketmsRz1E",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -206,7 +206,7 @@
     "duration_seconds": 3315,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -220,7 +220,7 @@
     "duration_seconds": 3831,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -234,7 +234,7 @@
     "duration_seconds": 4629,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "CH",
     "is_show": true
   },
   {
@@ -248,7 +248,7 @@
     "duration_seconds": 2343,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "CA",
     "is_show": true
   },
   {
@@ -262,7 +262,7 @@
     "duration_seconds": 6013,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -276,7 +276,7 @@
     "duration_seconds": 3754,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -290,7 +290,7 @@
     "duration_seconds": 3757,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   }
 ]

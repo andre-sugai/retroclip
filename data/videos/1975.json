@@ -7,7 +7,7 @@
     "artist_genre": "Eletronico",
     "youtube_link": "https://www.youtube.com/watch?v=XbgvvzVvNSI",
     "imvdb_url": "https://imvdb.com/video/kraftwerk/antenna",
-    "nationality": "INTL",
+    "nationality": "DE",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=_CsJCa2TlXU",
     "imvdb_url": "https://imvdb.com/video/abba/abba-",
-    "nationality": "INTL",
+    "nationality": "SE",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=cvChjHcABPA",
     "imvdb_url": "https://imvdb.com/video/abba/sos",
-    "nationality": "INTL",
+    "nationality": "SE",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=ROTHKx6oS3g",
     "imvdb_url": "https://imvdb.com/video/sesame-street/frazzle",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Eletronico",
     "youtube_link": "https://www.youtube.com/watch?v=eaScyfSHc-Y",
     "imvdb_url": "https://imvdb.com/video/kraftwerk/radioactivity",
-    "nationality": "INTL",
+    "nationality": "DE",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=zW2-_01i48w",
     "imvdb_url": "https://imvdb.com/video/rod-stewart/sailing",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/stylus/summer-breeze",
-    "nationality": "INTL",
+    "nationality": "AU",
     "video_type": "clip"
   },
   {
@@ -84,7 +84,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=EFMD7Usflbg",
     "imvdb_url": "https://imvdb.com/video/kiss/rock-and-roll-all-nite",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -95,7 +95,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=UEMPMTivqOk",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/department-of-youth",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -106,7 +106,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
     "imvdb_url": "https://imvdb.com/video/queen/bohemian-rhapsody",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -117,7 +117,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=Mo40aTe_3JM",
     "imvdb_url": "https://imvdb.com/video/10cc/im-not-in-love",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -128,7 +128,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=XBw25CrUS-o",
     "imvdb_url": "https://imvdb.com/video/bee-gees/jive-talkin",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -139,7 +139,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=_CsJCa2TlXU",
     "imvdb_url": "https://imvdb.com/video/abba/bang-a-boomerang",
-    "nationality": "INTL",
+    "nationality": "SE",
     "video_type": "clip"
   },
   {
@@ -150,7 +150,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=nEVDZl5UvN4",
     "imvdb_url": "https://imvdb.com/video/rush-2/fly-by-night",
-    "nationality": "INTL",
+    "nationality": "CA",
     "video_type": "clip"
   },
   {
@@ -161,7 +161,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=Nnjh-zp6pP4",
     "imvdb_url": "https://imvdb.com/video/acdc/high-voltage",
-    "nationality": "INTL",
+    "nationality": "AU",
     "video_type": "clip"
   },
   {
@@ -172,7 +172,7 @@
     "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=YwSZvHqf9qM",
     "imvdb_url": "https://imvdb.com/video/bob-dylan/tangled-up-in-blue",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -183,7 +183,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=O4_ghOG9JQM",
     "imvdb_url": "https://imvdb.com/video/john-lennon/stand-by-me",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -194,7 +194,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=unfzfe8f9NI",
     "imvdb_url": "https://imvdb.com/video/abba/mamma-mia",
-    "nationality": "INTL",
+    "nationality": "SE",
     "video_type": "clip"
   },
   {
@@ -205,7 +205,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=nMrZPcPl1GM",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/welcome-to-my-nightmare",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -216,7 +216,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=F4bI1HafEHs",
     "imvdb_url": "https://imvdb.com/video/earth-and-fire/thanks-for-the-love",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -227,7 +227,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=ljLWLwlyF_I",
     "imvdb_url": "https://imvdb.com/video/the-whispers/olivia-lost-and-turned-out",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -238,7 +238,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=pMyGnFsYriM",
     "imvdb_url": "https://imvdb.com/video/the-whispers/lets-go-all-the-way",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -249,7 +249,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=tW3HN_pvbE4",
     "imvdb_url": "https://imvdb.com/video/abba/i-do-i-do-i-do-i-do-i-do",
-    "nationality": "INTL",
+    "nationality": "SE",
     "video_type": "clip"
   },
   {
@@ -287,7 +287,7 @@
     "duration_seconds": 5219,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -301,7 +301,7 @@
     "duration_seconds": 3526,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -315,7 +315,7 @@
     "duration_seconds": 3036,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -329,7 +329,7 @@
     "duration_seconds": 2260,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -343,7 +343,7 @@
     "duration_seconds": 2545,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "XW",
     "is_show": true
   },
   {
@@ -357,7 +357,7 @@
     "duration_seconds": 3516,
     "video_type": "official_video",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -371,7 +371,7 @@
     "duration_seconds": 2610,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -385,7 +385,7 @@
     "duration_seconds": 1508,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -399,7 +399,7 @@
     "duration_seconds": 1816,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -413,7 +413,7 @@
     "duration_seconds": 818,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -427,7 +427,7 @@
     "duration_seconds": 601,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -441,7 +441,7 @@
     "duration_seconds": 7118,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "IE",
     "is_show": true
   },
   {
@@ -455,7 +455,7 @@
     "duration_seconds": 4030,
     "video_type": "official_video",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -469,7 +469,7 @@
     "duration_seconds": 2813,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -483,7 +483,7 @@
     "duration_seconds": 12266,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   }
 ]

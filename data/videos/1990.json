@@ -1603,7 +1603,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=rog8ou-ZepE",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -1615,7 +1615,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=uph0CERrjPM",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "BR",
     "video_type": "clip"
   },
   {
@@ -1635,7 +1635,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "GB"
   },
   {
     "id": 1769523606699602,
@@ -1654,7 +1654,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523796265437,
@@ -1761,7 +1761,7 @@
     "duration_seconds": 2494,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -1775,7 +1775,7 @@
     "duration_seconds": 3140,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -1806,7 +1806,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "GB",
     "record_label": "atlantic"
   },
   {
@@ -1826,7 +1826,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -1862,7 +1862,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   }
 ]

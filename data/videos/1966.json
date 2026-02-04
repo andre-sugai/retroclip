@@ -7,7 +7,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=e3t52Ielj48",
     "imvdb_url": "https://imvdb.com/video/the-beatles/rain",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=gv2MLlZKarM",
     "imvdb_url": "https://imvdb.com/video/the-monkees/im-a-believer",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=jbmqymBOOAc",
     "imvdb_url": "https://imvdb.com/video/the-beatles/paperback-writer",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=lpd4jzKA4SA",
     "imvdb_url": "https://imvdb.com/video/the-beach-boys/god-only-knows",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=52cQeFBU2Kw",
     "imvdb_url": "https://imvdb.com/video/the-who/happy-jack",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -63,7 +63,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=wdCHlJoAP8I",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -89,7 +89,7 @@
     "duration_seconds": 1060,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   }
 ]

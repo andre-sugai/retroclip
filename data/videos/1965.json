@@ -7,7 +7,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/yesterday",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/help",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/day-tripper",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/i-feel-fine",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/day-tripper",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/ticket-to-ride",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Rock Alternativo, Folk",
     "youtube_link": "https://www.youtube.com/watch?v=MGxjIBEZvx0",
     "imvdb_url": "https://imvdb.com/video/bob-dylan/subterranean-homesick-blues",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -84,7 +84,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/ticket-to-ride",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -95,7 +95,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=Qyclqo_AV2M",
     "imvdb_url": "https://imvdb.com/video/the-beatles/we-can-work-it-out",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -106,7 +106,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=OcguLZaMelE",
     "imvdb_url": "https://imvdb.com/video/sam-the-sham-and-the-pharaohs-1/wooly-bully",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   }
 ]

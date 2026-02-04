@@ -4928,7 +4928,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=zlqbt1PQ1ek",
     "imvdb_url": "https://imvdb.com/video/madness/shame-scandal",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -10773,7 +10773,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=8uI_4Uc-XKY",
     "imvdb_url": "https://imvdb.com/video/the-cat-empire/the-car-song",
-    "nationality": "INTL",
+    "nationality": "AU",
     "video_type": "clip"
   },
   {
@@ -13792,7 +13792,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=ot0UDplL0fo",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -13804,7 +13804,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=-2z3YwCrGMc",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "ES",
     "video_type": "clip"
   },
   {
@@ -13824,7 +13824,7 @@
     "quality": "720p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523131564710,
@@ -13843,7 +13843,7 @@
     "quality": "360p",
     "is_low_quality": true,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523308938737,
@@ -13862,7 +13862,7 @@
     "quality": "256p",
     "is_low_quality": true,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "JM"
   },
   {
     "id": 1769523394713452,
@@ -13881,7 +13881,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523503314498,
@@ -13900,7 +13900,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "AU"
   },
   {
     "id": 1769523617976244,
@@ -13919,7 +13919,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523637896114,
@@ -13938,7 +13938,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523640707925,
@@ -13957,7 +13957,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523643855608,
@@ -13995,7 +13995,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523712206534,
@@ -14014,7 +14014,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "JM"
   },
   {
     "id": 1769523739877172,
@@ -14033,7 +14033,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523748801748,
@@ -14052,7 +14052,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523762253589,
@@ -14071,7 +14071,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523842625835,
@@ -14090,7 +14090,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523884586690,
@@ -14109,7 +14109,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "GB"
   },
   {
     "id": 1769523947992735,
@@ -14128,7 +14128,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523961976759,
@@ -14147,7 +14147,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523967918557,
@@ -14166,7 +14166,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523973462891,
@@ -14185,7 +14185,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524011444261,
@@ -14204,7 +14204,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524028665185,
@@ -14223,7 +14223,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524036846695,
@@ -14242,7 +14242,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524039546991,
@@ -14261,7 +14261,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524130764296,
@@ -14280,7 +14280,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524150908879,
@@ -14299,7 +14299,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524158785374,
@@ -14318,7 +14318,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "SE"
   },
   {
     "id": 1769524176184836,
@@ -14337,7 +14337,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524179018682,
@@ -14375,7 +14375,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769609699349191,
@@ -14684,7 +14684,7 @@
     "duration_seconds": 3115,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -14700,7 +14700,7 @@
     "video_tags": [
       "HD"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -14714,7 +14714,7 @@
     "duration_seconds": 7205,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -14728,7 +14728,7 @@
     "duration_seconds": 8226,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -14742,7 +14742,7 @@
     "duration_seconds": 3611,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -14756,7 +14756,7 @@
     "duration_seconds": 2664,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -14772,7 +14772,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -14788,7 +14788,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "is_show": true
   },
   {
@@ -14804,7 +14804,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "is_show": true
   },
   {
@@ -14835,7 +14835,7 @@
     "quality": "720p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -14855,7 +14855,7 @@
     "quality": "360p",
     "is_low_quality": true,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -14875,7 +14875,7 @@
     "quality": "256p",
     "is_low_quality": true,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "JM",
     "record_label": "atlantic"
   },
   {
@@ -14895,7 +14895,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -14915,7 +14915,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "AU",
     "record_label": "atlantic"
   },
   {
@@ -14935,7 +14935,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -14955,7 +14955,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -14975,7 +14975,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15015,7 +15015,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15035,7 +15035,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "JM",
     "record_label": "atlantic"
   },
   {
@@ -15055,7 +15055,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15075,7 +15075,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15095,7 +15095,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15115,7 +15115,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15135,7 +15135,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "GB",
     "record_label": "atlantic"
   },
   {
@@ -15155,7 +15155,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15175,7 +15175,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15195,7 +15195,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15215,7 +15215,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15235,7 +15235,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15255,7 +15255,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15275,7 +15275,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15295,7 +15295,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15315,7 +15315,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15335,7 +15335,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15355,7 +15355,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "SE",
     "record_label": "atlantic"
   },
   {
@@ -15375,7 +15375,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15415,7 +15415,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15447,7 +15447,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -15463,7 +15463,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -15479,7 +15479,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -15495,7 +15495,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "record_label": "epitaph"
   },
   {
@@ -15511,7 +15511,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "SE",
     "record_label": "epitaph"
   },
   {
@@ -15527,7 +15527,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "DE",
     "record_label": "epitaph"
   },
   {
@@ -15543,7 +15543,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "CA",
     "record_label": "epitaph"
   },
   {
@@ -15559,7 +15559,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -15575,7 +15575,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -15591,7 +15591,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "SE",
     "record_label": "epitaph"
   },
   {
@@ -15607,7 +15607,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -15623,7 +15623,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "SE",
     "record_label": "epitaph"
   },
   {
@@ -15655,7 +15655,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -15671,7 +15671,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "DE",
     "record_label": "epitaph"
   },
   {
@@ -15687,7 +15687,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "record_label": "epitaph"
   },
   {
@@ -15703,7 +15703,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "record_label": "epitaph"
   },
   {
@@ -15719,7 +15719,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -15735,7 +15735,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -15751,7 +15751,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   }
 ]

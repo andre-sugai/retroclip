@@ -7082,7 +7082,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=6-Kmlghawk4",
     "imvdb_url": "https://imvdb.com/video/the-mighty-mighty-bosstones/detroit-rock-city",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -7093,7 +7093,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=Hawvh4Bo8fk",
     "imvdb_url": "https://imvdb.com/video/the-mighty-mighty-bosstones/kinder-words",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -7104,7 +7104,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=KzYbgUB8S9A",
     "imvdb_url": "https://imvdb.com/video/the-mighty-mighty-bosstones/hell-of-a-hat",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -7138,7 +7138,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=6Ejga4kJUts",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "IE",
     "video_type": "clip"
   },
   {
@@ -7150,7 +7150,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=vhgDHNRGPTQ",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -7170,7 +7170,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "GB"
   },
   {
     "id": 1769523851017148,
@@ -7189,7 +7189,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769609282590309,
@@ -7287,7 +7287,7 @@
     "artist_name": "Blind Melon",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=GFLX_37n1wA",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -7302,7 +7302,7 @@
     "duration_seconds": 7389,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -7316,7 +7316,7 @@
     "duration_seconds": 6232,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -7330,7 +7330,7 @@
     "duration_seconds": 0,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -7344,7 +7344,7 @@
     "duration_seconds": 5270,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -7358,7 +7358,7 @@
     "duration_seconds": 5072,
     "video_type": "official_video",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -7372,7 +7372,7 @@
     "duration_seconds": 2986,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -7402,7 +7402,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "is_show": true
   },
   {
@@ -7418,7 +7418,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -7434,7 +7434,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -7450,7 +7450,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -7470,7 +7470,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "GB",
     "record_label": "atlantic"
   },
   {
@@ -7490,7 +7490,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -7506,7 +7506,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -7522,7 +7522,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "CA",
     "record_label": "epitaph"
   },
   {
@@ -7538,7 +7538,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   }
 ]

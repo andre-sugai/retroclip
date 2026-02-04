@@ -7,7 +7,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=WhGbWCH6IPE",
     "imvdb_url": "https://imvdb.com/video/bee-gees/massachusetts",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=Wc2hq3vbO7w",
     "imvdb_url": "https://imvdb.com/video/bee-gees/world",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=Sq9oR9x171w",
     "imvdb_url": "https://imvdb.com/video/the-doors/people-are-strange",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=_dR0_noZ1XE",
     "imvdb_url": "https://imvdb.com/video/the-doors/love-me-two-times",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=rblYSKz_VnI",
     "imvdb_url": "https://imvdb.com/video/the-beatles/hello-goodbye",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=M_yWyBjDEaU",
     "imvdb_url": "https://imvdb.com/video/the-doors/light-my-fire",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=ai2As4XFZDY",
     "imvdb_url": "https://imvdb.com/video/brigitte-bardot/harley-davidson",
-    "nationality": "INTL",
+    "nationality": "FR",
     "video_type": "clip"
   },
   {
@@ -84,7 +84,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=Bu4SvPN6ifw",
     "imvdb_url": "https://imvdb.com/video/tommy-james-and-the-shondells/she",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -95,7 +95,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=QMmDBRDA0Fc",
     "imvdb_url": "https://imvdb.com/video/brigitte-bardot/comic-strip",
-    "nationality": "INTL",
+    "nationality": "FR",
     "video_type": "clip"
   },
   {
@@ -106,7 +106,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=XrWqDv3Kfsg",
     "imvdb_url": "https://imvdb.com/video/bee-gees/to-love-somebody",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -117,7 +117,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=9muzyOd4Lh8",
     "imvdb_url": "https://imvdb.com/video/the-moody-blues/nights-in-white-satin",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -128,7 +128,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=usNsCeOV4GM",
     "imvdb_url": "https://imvdb.com/video/the-beatles/a-day-in-the-life",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -139,7 +139,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=S43YhQ_eGTw",
     "imvdb_url": "https://imvdb.com/video/bee-gees/new-york-mining-disaster-1941",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -150,7 +150,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/all-you-need-is-love",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -161,7 +161,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=zzxHx-mOqRI",
     "imvdb_url": "https://imvdb.com/video/the-doors/break-on-through-to-the-other-side",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -173,7 +173,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=NldPFVKYmiw",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -185,7 +185,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=PFWu4RP85z8",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {

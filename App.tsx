@@ -55,9 +55,7 @@ const App: React.FC = () => {
   const t = translations[language];
 
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null);
-  const [selectedRegion, setSelectedRegion] = useState<'br' | 'intl' | 'all'>(
-    'all'
-  ); // Default to Mix
+  const [selectedRegion, setSelectedRegion] = useState<string>('all'); // Default to Global/All
   const [allVideos, setAllVideos] = useState<Video[]>([]); // Store full unfiltered list
   const [lastSearchParams, setLastSearchParams] = useState<{
     type: 'year' | 'decade' | 'all';
@@ -713,7 +711,7 @@ const App: React.FC = () => {
   };
 
   // Logic: Region Filtering
-  const handleRegionSelect = async (region: 'br' | 'intl' | 'all') => {
+  const handleRegionSelect = async (region: string) => {
     setSelectedRegion(region);
 
     let searchTarget = lastSearchParams;
@@ -981,7 +979,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.19.3 // ARIA-COMPLIANT
+              V 1.20.0 // ARIA-COMPLIANT
             </p>
           </div>
 

@@ -18,7 +18,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=x0awe6OJB0o",
     "imvdb_url": "https://imvdb.com/video/cat-stevens-2/moonshadow",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=ctmaapt68Lg",
     "imvdb_url": "https://imvdb.com/video/earth-and-fire/storm-and-thunder",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=1i4EnjRKVQw",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/elected",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=N_J-hmyAS6c",
     "imvdb_url": "https://imvdb.com/video/the-moody-blues/im-just-a-singer-in-a-rock-and-roll-band",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -113,7 +113,7 @@
     "duration_seconds": 2588,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -127,7 +127,7 @@
     "duration_seconds": 1379,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -141,7 +141,7 @@
     "duration_seconds": 3803,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -155,7 +155,7 @@
     "duration_seconds": 3520,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {

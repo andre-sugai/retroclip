@@ -16,10 +16,7 @@ console.log('🔍 Generating metadata index...\n');
 const index = {
   byYear: {},
   byGenre: {},
-  byNationality: {
-    INTL: { years: new Set(), count: 0, genres: new Set() },
-    BR: { years: new Set(), count: 0, genres: new Set() }
-  },
+  byNationality: {},
   byFestival: {},
   byLabel: {},
   byProgram: {},
@@ -139,7 +136,15 @@ function processVideo(video, sourceFile) {
   }
   
   // Index by nationality
-  if (nationality && index.byNationality[nationality]) {
+  if (nationality) {
+    if (!index.byNationality[nationality]) {
+      index.byNationality[nationality] = {
+        years: new Set(),
+        count: 0,
+        genres: new Set()
+      };
+    }
+    
     index.byNationality[nationality].count++;
     if (year) index.byNationality[nationality].years.add(year);
     if (artistGenre) index.byNationality[nationality].genres.add(artistGenre);

@@ -634,7 +634,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=YkJEiuYUiSg",
     "imvdb_url": "https://imvdb.com/video/sublime-2/stp",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -1437,7 +1437,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=CeMeDihwyrg",
     "imvdb_url": "https://imvdb.com/video/sublime-2/date-rape",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -4517,7 +4517,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=emacKIsR5_8",
     "imvdb_url": "https://imvdb.com/video/voodoo-glow-skulls/randy-gordo",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -8378,7 +8378,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=9FKIvlN4KB8",
     "imvdb_url": "https://imvdb.com/video/dance-hall-crashers/enough",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -8390,7 +8390,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=N4oG4NUuhZk",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "DE",
     "video_type": "clip"
   },
   {
@@ -8548,7 +8548,7 @@
     "artist_name": "Nailbomb",
     "artist_genre": "Industrial",
     "youtube_link": "https://www.youtube.com/watch?v=ipFYtuBmlHU",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -8563,7 +8563,7 @@
     "duration_seconds": 6996,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8577,7 +8577,7 @@
     "duration_seconds": 7409,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -8593,7 +8593,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "CA",
     "is_show": true
   },
   {
@@ -8609,7 +8609,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8625,7 +8625,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8641,7 +8641,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "IE",
     "is_show": true
   },
   {
@@ -8657,7 +8657,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8673,7 +8673,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8689,7 +8689,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8705,7 +8705,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8721,7 +8721,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "DE",
     "record_label": "epitaph"
   },
   {
@@ -8737,7 +8737,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -8753,7 +8753,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -8769,7 +8769,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -8785,7 +8785,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {
@@ -8801,7 +8801,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "SE",
     "record_label": "epitaph"
   }
 ]

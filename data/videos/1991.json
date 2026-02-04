@@ -1250,7 +1250,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=0B61XAN2Ujw",
     "imvdb_url": "https://imvdb.com/video/fishbone/sunless-saturday",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -2812,7 +2812,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=QV5Nkah8nP8",
     "imvdb_url": "https://imvdb.com/video/fishbone/everyday-sunshine",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -3384,7 +3384,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=H_Q__p6uDJ8",
     "imvdb_url": "https://imvdb.com/video/fishbone/fight-the-youth",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -6014,7 +6014,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=L6-uJLteKek",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -6026,7 +6026,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=m47Is4ipcF8",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "BR",
     "video_type": "clip"
   },
   {
@@ -6046,7 +6046,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524217367532,
@@ -6065,7 +6065,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769608189047840,
@@ -6101,7 +6101,7 @@
     "artist_name": "Metallica",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=SsnxAVBGep4",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -6112,7 +6112,7 @@
     "artist_name": "Nirvana",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=Z53nb74H7Vc",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -6127,7 +6127,7 @@
     "duration_seconds": 5274,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -6141,7 +6141,7 @@
     "duration_seconds": 3831,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -6155,7 +6155,7 @@
     "duration_seconds": 4314,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -6169,7 +6169,7 @@
     "duration_seconds": 2682,
     "video_type": "official_video",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -6202,7 +6202,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -6222,7 +6222,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -6238,7 +6238,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "NO",
     "record_label": "epitaph"
   }
 ]

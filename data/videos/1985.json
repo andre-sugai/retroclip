@@ -293,7 +293,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=jtXoHC9210s",
     "imvdb_url": "https://imvdb.com/video/madness/uncle-sam",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -1976,7 +1976,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=RZF4moOxOjI",
     "imvdb_url": "https://imvdb.com/video/fishbone/modern-industry",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -2812,7 +2812,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=MJCaFe1yamg",
     "imvdb_url": "https://imvdb.com/video/fishbone/party-at-ground-zero",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -4565,7 +4565,7 @@
     "artist_name": "Madonna",
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=KrG8okV9R3w",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -4576,7 +4576,7 @@
     "artist_name": "Stevie Ray Vaughan",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=YBrRJY_V1lc",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -4591,7 +4591,7 @@
     "duration_seconds": 6206,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -4605,7 +4605,7 @@
     "duration_seconds": 5221,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -4619,7 +4619,7 @@
     "duration_seconds": 6206,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -4633,7 +4633,7 @@
     "duration_seconds": 4722,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -4647,7 +4647,7 @@
     "duration_seconds": 3571,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -4661,7 +4661,7 @@
     "duration_seconds": 5620,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -4693,7 +4693,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "CA",
     "record_label": "epitaph"
   }
 ]

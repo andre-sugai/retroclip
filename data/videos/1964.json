@@ -7,7 +7,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/a-hard-days-night",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=srwxJUXPHvE",
     "imvdb_url": "https://imvdb.com/video/the-beatles/cant-buy-me-love",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -41,7 +41,7 @@
     "channel": "Kane McCarthy",
     "views": "7.8M",
     "artist_name": "The Beatles",
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true,
     "video_type": "show"
   }

@@ -304,7 +304,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=AEYN5w4T_aM",
     "imvdb_url": "https://imvdb.com/video/sublime-2/santeria",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -5254,7 +5254,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=0Uc3ZrmhDN4",
     "imvdb_url": "https://imvdb.com/video/sublime-2/what-i-got",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -8576,7 +8576,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=IIHTiblafps",
     "imvdb_url": "https://imvdb.com/video/less-than-jake/dopeman",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -8587,7 +8587,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=OJITRDBEbp4",
     "imvdb_url": "https://imvdb.com/video/goldfinger-7/here-in-your-bedroom",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -8597,7 +8597,7 @@
     "artist_name": "The Eat",
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=CutkrPSFNn4",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -8617,7 +8617,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524102760235,
@@ -8636,7 +8636,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "GB"
   },
   {
     "id": "yt_QNJL6nfu__Q",
@@ -8715,7 +8715,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=n_04G_-bOAs",
     "artist_name": "Oasis",
     "is_show": true,
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "show"
   },
   {
@@ -8725,7 +8725,7 @@
     "artist_name": "KISS ",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=mGarleVlICU",
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true,
     "video_type": "show"
   },
@@ -8738,7 +8738,7 @@
     "channel": "Mark Knopfler",
     "views": "2.3M",
     "artist_name": "Mark Knopfler",
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true,
     "video_type": "show"
   },
@@ -8753,7 +8753,7 @@
     "duration_seconds": 6640,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -8767,7 +8767,7 @@
     "duration_seconds": 5191,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "DE",
     "is_show": true
   },
   {
@@ -8781,7 +8781,7 @@
     "duration_seconds": 3488,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "AU",
     "is_show": true
   },
   {
@@ -8795,7 +8795,7 @@
     "duration_seconds": 3955,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8811,7 +8811,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8827,7 +8827,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -8859,7 +8859,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "is_show": true
   },
   {
@@ -8891,7 +8891,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -8907,7 +8907,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -8923,7 +8923,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "BR",
     "is_show": true
   },
   {
@@ -8939,7 +8939,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -8955,7 +8955,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "BE",
     "is_show": true
   },
   {
@@ -8986,7 +8986,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -9006,7 +9006,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "GB",
     "record_label": "atlantic"
   }
 ]

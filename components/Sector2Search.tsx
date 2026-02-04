@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo, useEffect, useRef } from 'react';
 import {
   Calendar,
   Film,
@@ -15,6 +15,7 @@ import {
   TOTAL_CLIPS,
   TOTAL_SHOWS,
   TOTAL_PROGRAMS,
+  getCountries,
 } from '../services/imvdbService';
 import { translations, Language } from '../translations';
 import { getTotalVisits } from '../services/goatCounterService';
@@ -61,8 +62,8 @@ interface Sector2SearchProps {
   language: Language;
   onLanguageChange: (lang: Language) => void;
   currentVideo: any | null;
-  selectedRegion: 'br' | 'intl' | 'all';
-  onRegionChange: (region: 'br' | 'intl' | 'all') => void;
+  selectedRegion: string;
+  onRegionChange: (region: string) => void;
 }
 
 export const Sector2Search: React.FC<Sector2SearchProps> = ({
@@ -79,33 +80,32 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
   const [mode, setMode] = useState<'year' | 'decade' | 'all'>('all');
   const [isDonationModalOpen, setIsDonationModalOpen] = useState(false);
   const [visitCount, setVisitCount] = useState<number | null>(null);
+  const [showCountryList, setShowCountryList] = useState(false);
   const t = translations[language].sector2;
 
-  // Sync value when region changes and current decade is not available
+  const countries = useMemo(() => getCountries(), []);
+
+  // Show country list if a specific country is selected (not 'all' and not 'intl')
+  // OR if user manually toggled it open
+  // Note: 'Global' maps to 'all'.
+  
+  // Ref to visit widget
+  const widgetRef = useRef<HTMLDivElement>(null);
+
+  // Sync value when region changes and current decade is not available...
+  // Simplified logic: ensure value is somewhat valid.
   React.useEffect(() => {
     if (mode === 'decade') {
-      const availableDecades =
-        selectedRegion === 'br'
-          ? [
-              '1920',
-              '1930',
-              '1940',
-              '1950',
-              '1960',
-              '1970',
-              '1980',
-              '1990',
-              '2000',
-              '2010',
-              '2020',
-            ]
-          : ['1960', '1970', '1980', '1990', '2000', '2010', '2020'];
-
-      if (!availableDecades.includes(value)) {
-        setValue('2020');
+      const decades = ['1960', '1970', '1980', '1990', '2000', '2010', '2020'];
+      
+      // If we restrict decades by region, we would check here.
+      // For now, allow all decades, but maybe check if data exists?
+      // Keeping it simple.
+      if (!decades.includes(value) && selectedRegion === 'all') {
+         // Default if invalid
       }
     }
-  }, [selectedRegion, mode, value]);
+  }, [mode, value, selectedRegion]);
 
   React.useEffect(() => {
     // Fetch total visits from GoatCounter
@@ -113,8 +113,6 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
       setVisitCount(count);
     });
   }, []);
-
-  const widgetRef = React.useRef<HTMLDivElement>(null);
 
   React.useEffect(() => {
     if (visitCount !== null && widgetRef.current) {
@@ -148,40 +146,12 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
     }
   }, [visitCount]);
 
-  // Adjust value when region changes to ensure it's within valid range
-  React.useEffect(() => {
-    const currentYear = parseInt(value);
-    if (!isNaN(currentYear)) {
-      if (selectedRegion !== 'br' && currentYear < 1950) {
-        // If switching away from BR and value is below 1950, adjust to 1950
-        setValue('1950');
-      }
-      // If switching to BR, values from 1920 are allowed, so no adjustment needed
-    }
-  }, [selectedRegion]);
-
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     onSearch(mode, value);
   };
 
-  // Determine available decades based on region
-  const quickDecades =
-    selectedRegion === 'br'
-      ? [
-          '1920',
-          '1930',
-          '1940',
-          '1950',
-          '1960',
-          '1970',
-          '1980',
-          '1990',
-          '2000',
-          '2010',
-          '2020',
-        ]
-      : ['1960', '1970', '1980', '1990', '2000', '2010', '2020'];
+  const quickDecades = ['1920', '1930', '1940', '1950', '1960', '1970', '1980', '1990', '2000', '2010', '2020'];
 
   return (
     <div
@@ -274,9 +244,9 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                       {currentVideo.artists?.map((a: any) => a.name).join(', ')}
                     </span>{' '}
                     <span className="opacity-70">({currentVideo.year})</span>
-                    {currentVideo.nationality === 'BR' && (
+                    {currentVideo.nationality && (
                       <span className="ml-2 text-[10px] bg-green-500/20 text-green-500 px-1 rounded">
-                        BR
+                        {currentVideo.nationality}
                       </span>
                     )}
                   </>
@@ -342,44 +312,63 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                 <label className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-2">
                   {t.signalSource}
                 </label>
-                <div className="grid grid-cols-3 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
+                <div className="grid grid-cols-2 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
                   <button
                     type="button"
-                    onClick={() => onRegionChange('intl')}
-                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
-                      selectedRegion === 'intl'
-                        ? 'bg-background shadow-sm text-foreground'
-                        : 'text-muted-foreground hover:text-foreground'
-                    }`}
-                    title="Apenas internacionais"
-                  >
-                    Global
-                  </button>
-                  <button
-                    type="button"
-                    onClick={() => onRegionChange('br')}
-                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
-                      selectedRegion === 'br'
-                        ? 'bg-background shadow-sm text-foreground'
-                        : 'text-muted-foreground hover:text-foreground'
-                    }`}
-                    title="Apenas nacionais"
-                  >
-                    Brasil
-                  </button>
-                  <button
-                    type="button"
-                    onClick={() => onRegionChange('all')}
+                    onClick={() => {
+                        onRegionChange('all');
+                        setShowCountryList(false);
+                        // Also trigger play? handled by parent when region changes
+                    }}
                     className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
                       selectedRegion === 'all'
                         ? 'bg-background shadow-sm text-foreground'
                         : 'text-muted-foreground hover:text-foreground'
                     }`}
-                    title="Misturado"
+                    title="Músicas de todos os países"
                   >
-                    Mix
+                    Global
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setShowCountryList(!showCountryList)}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                      selectedRegion !== 'all' || showCountryList
+                        ? 'bg-background shadow-sm text-foreground'
+                        : 'text-muted-foreground hover:text-foreground'
+                    }`}
+                    title="Escolher país"
+                  >
+                    Países {selectedRegion !== 'all' && `(${selectedRegion})`}
                   </button>
                 </div>
+
+                {/* Country List - Horizontal Scroll */}
+                {(showCountryList || (selectedRegion !== 'all' && selectedRegion !== 'intl')) && (
+                    <div className="flex gap-2 overflow-x-auto pb-2 -mx-1 px-1 no-scrollbar mask-linear-fade">
+                        {countries.map((country) => (
+                            <button
+                                key={country.code}
+                                type="button"
+                                onClick={() => onRegionChange(country.code)}
+                                className={`
+                                    flex-none px-3 py-1.5 text-xs font-medium rounded-md border transition-all whitespace-nowrap
+                                    ${
+                                        selectedRegion === country.code
+                                            ? 'bg-yellow-400 hover:bg-yellow-500 text-black border-yellow-400 shadow-md scale-105'
+                                            : 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 hover:bg-zinc-200 dark:hover:bg-zinc-700'
+                                    }
+                                `}
+                            >
+                                {country.code === 'BR' ? 'Brasil' : 
+                                 country.code === 'US' ? 'Estados Unidos' : 
+                                 country.code === 'GB' ? 'Reino Unido' : 
+                                 country.code} 
+                                <span className="opacity-50 ml-1 text-[10px]">({country.count})</span>
+                            </button>
+                        ))}
+                    </div>
+                )}
               </div>
 
               {/* Mode Toggles */}
@@ -431,28 +420,6 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
               {mode === 'decade' && (
                 <div className="flex gap-2 overflow-x-auto pb-2 -mx-1 px-1 no-scrollbar mask-linear-fade">
                   {quickDecades.map((decade) => {
-                    const availableDecades =
-                      selectedRegion === 'br'
-                        ? [
-                            '1920',
-                            '1960',
-                            '1970',
-                            '1980',
-                            '1990',
-                            '2000',
-                            '2010',
-                            '2020',
-                          ]
-                        : [
-                            '1960',
-                            '1970',
-                            '1980',
-                            '1990',
-                            '2000',
-                            '2010',
-                            '2020',
-                          ];
-                    const isAvailable = availableDecades.includes(decade);
                     const isSelected = value === decade;
                     return (
                       <button
@@ -467,9 +434,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                                 ${
                                   isSelected
                                     ? 'bg-yellow-400 hover:bg-yellow-500 text-black border-yellow-400 shadow-md scale-105'
-                                    : isAvailable
-                                    ? 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 hover:bg-primary hover:text-primary-foreground hover:border-primary'
-                                    : 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 opacity-50 cursor-not-allowed'
+                                    : 'bg-zinc-100 dark:bg-zinc-800 text-muted-foreground border-zinc-200 dark:border-zinc-700 hover:bg-primary hover:text-primary-foreground hover:border-primary'
                                 }
                             `}
                         {...(isSelected
@@ -495,7 +460,7 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                     <div className="relative group flex-1">
                       <input
                         type="number"
-                        min={selectedRegion === 'br' ? '1920' : '1950'}
+                        min="1920"
                         max="2026"
                         step={mode === 'decade' ? 10 : 1}
                         value={value}

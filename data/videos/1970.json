@@ -7,7 +7,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=I8GvDLDYhNM",
     "imvdb_url": "https://imvdb.com/video/the-jackson-5/abc",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=5jvmxSW1aCE",
     "imvdb_url": "https://imvdb.com/video/earth-and-fire/wild-and-excitng",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=EqP3wT5lpa4",
     "imvdb_url": "https://imvdb.com/video/john-lennon/instant-karma",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=vX_fEzeCgzo",
     "imvdb_url": "https://imvdb.com/video/bee-gees/lonely-days",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=yG0oBPtyNb0",
     "imvdb_url": "https://imvdb.com/video/mungo-jerry/in-the-summertime",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=Aae_RHRptRg",
     "imvdb_url": "https://imvdb.com/video/creedence-clearwater-revival/lookin-out-my-back-door",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=QR-X4pCwL_o",
     "imvdb_url": "https://imvdb.com/video/the-jackson-5/the-love-you-save",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -84,7 +84,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=7WY0WJZUqYw",
     "imvdb_url": "https://imvdb.com/video/earth-and-fire/ruby-is-the-one",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -96,7 +96,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=HgR7YJpOoPE",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "BR",
     "video_type": "clip"
   },
   {
@@ -108,7 +108,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=wCCfc2vAuDU",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -120,7 +120,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=P6zaCV4niKk",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -146,7 +146,7 @@
     "duration_seconds": 2599,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -160,7 +160,7 @@
     "duration_seconds": 3798,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "IE",
     "is_show": true
   },
   {
@@ -174,7 +174,7 @@
     "duration_seconds": 2489,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -188,7 +188,7 @@
     "duration_seconds": 0,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -202,7 +202,7 @@
     "duration_seconds": 3720,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -216,7 +216,7 @@
     "duration_seconds": 2734,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -230,7 +230,7 @@
     "duration_seconds": 2504,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -244,7 +244,7 @@
     "duration_seconds": 1796,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "CA",
     "is_show": true
   },
   {
@@ -258,7 +258,7 @@
     "duration_seconds": 713,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {

@@ -7,7 +7,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=fsH7mVmFBec",
     "imvdb_url": "https://imvdb.com/video/fleetwood-mac/dragonfly",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=RtvlBS4PMF0",
     "imvdb_url": "https://imvdb.com/video/john-lennon/power-to-the-people",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=DVg2EJvvlF8",
     "imvdb_url": "https://imvdb.com/video/john-lennon/imagine",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=oQBa2pTr9GU",
     "imvdb_url": "https://imvdb.com/video/john-lennon/gimme-some-truth",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=yQTimc3nf7g",
     "imvdb_url": "https://imvdb.com/video/earth-and-fire/invitation",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=uAIwDbzzUEY",
     "imvdb_url": "https://imvdb.com/video/rod-stewart/maggie-may",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Metal, Hard Rock",
     "youtube_link": "https://www.youtube.com/watch?v=jXZcJojTucg",
     "imvdb_url": "https://imvdb.com/video/alice-cooper/im-eighteen",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -84,7 +84,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=uBymk_wAWpU",
     "imvdb_url": "https://imvdb.com/video/billy-joel/everybody-loves-you-now/2",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -98,7 +98,7 @@
     "duration_seconds": 2554,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -112,7 +112,7 @@
     "duration_seconds": 1469,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -126,7 +126,7 @@
     "duration_seconds": 1809,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -140,7 +140,7 @@
     "duration_seconds": 1796,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   }
 ]

@@ -7,7 +7,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/something",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=NvzeG-5cP3U",
     "imvdb_url": "https://imvdb.com/video/bee-gees/tomorrow-tomorrow",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=h9nE2spOw_o",
     "imvdb_url": "https://imvdb.com/video/the-archies/sugar-sugar",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/get-back",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=vdqTzuxytu0",
     "imvdb_url": "https://imvdb.com/video/the-beatles/get-back",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=L832Jj7C0DA",
     "imvdb_url": "https://imvdb.com/video/john-lennon/cold-turkey",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -84,7 +84,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=0bR4L0Y94AQ",
     "imvdb_url": "https://imvdb.com/video/the-jackson-5/whos-lovin-you",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -95,7 +95,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=SHX5VcfQaWc",
     "imvdb_url": "https://imvdb.com/video/earth-and-fire/seasons",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -106,7 +106,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=kjxSCAalsBE",
     "imvdb_url": "https://imvdb.com/video/5th-dimension/age-of-aquariuslet-the-sunshine-in",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -117,7 +117,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=s3Q80mk7bxE",
     "imvdb_url": "https://imvdb.com/video/the-jackson-5/i-want-you-back",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -128,7 +128,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=OJWOtL-PZiE",
     "imvdb_url": "https://imvdb.com/video/fleetwood-mac/man-of-the-world",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -139,7 +139,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=v-1OgNqBkVE",
     "imvdb_url": "https://imvdb.com/video/the-beatles/the-ballad-of-john-and-yoko",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -151,7 +151,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=3cfHKmQ2ZzI",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "NZ",
     "video_type": "clip"
   },
   {
@@ -177,7 +177,7 @@
     "duration_seconds": 1915,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -191,7 +191,7 @@
     "duration_seconds": 2846,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -205,7 +205,7 @@
     "duration_seconds": 3281,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "IE",
     "is_show": true
   },
   {
@@ -219,7 +219,7 @@
     "duration_seconds": 1997,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -233,7 +233,7 @@
     "duration_seconds": 4854,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -247,7 +247,7 @@
     "duration_seconds": 2703,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {

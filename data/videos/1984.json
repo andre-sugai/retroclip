@@ -161,7 +161,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=ZMbw7BYDG5U",
     "imvdb_url": "https://imvdb.com/video/madness/michael-caine",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -513,7 +513,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=qezXWcpKkOY",
     "imvdb_url": "https://imvdb.com/video/madness/one-better-day",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -964,7 +964,7 @@
     "artist_genre": "Ska",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-untouchables-1/free-yourself",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -4121,7 +4121,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=XEcvNvjtSzs",
     "imvdb_url": "https://imvdb.com/video/the-specials/alcohol",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -4132,7 +4132,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=AgcTvoWjZJU",
     "imvdb_url": "https://imvdb.com/video/the-specials/nelson-mandela",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -4143,7 +4143,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=hi_uV6ojDSs",
     "imvdb_url": "https://imvdb.com/video/the-specials/what-i-like-most-about-you-is-your-girlfriend",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -4195,7 +4195,7 @@
     "duration_seconds": 3886,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -4209,7 +4209,7 @@
     "duration_seconds": 3773,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -4223,7 +4223,7 @@
     "duration_seconds": 3433,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -4237,7 +4237,7 @@
     "duration_seconds": 8226,
     "video_type": "official_video",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -4251,7 +4251,7 @@
     "duration_seconds": 4013,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -4265,7 +4265,7 @@
     "duration_seconds": 5275,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -4279,7 +4279,7 @@
     "duration_seconds": 5483,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "NL",
     "is_show": true
   },
   {
@@ -4295,7 +4295,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   }
 ]

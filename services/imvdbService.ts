@@ -214,7 +214,7 @@ function shuffleArray<T>(array: T[]): T[] {
 // ============================================================================
 
 const getDataset = async (
-  region: 'br' | 'intl' | 'all',
+  region: string,
   type?: 'year' | 'decade' | 'all',
   value?: string
 ) => {
@@ -224,10 +224,8 @@ const getDataset = async (
     const yearData = await loadYear(year);
     
     // Filter by region
-    if (region === 'br') {
-      return yearData.filter((v: any) => v.nationality === 'BR');
-    } else if (region === 'intl') {
-      return yearData.filter((v: any) => v.nationality === 'INTL');
+    if (region !== 'all') {
+      return yearData.filter((v: any) => v.nationality === region);
     }
     
     return yearData;
@@ -245,10 +243,8 @@ const getDataset = async (
         const yearData = await loadYear(year);
         
         // Filter by region
-        if (region === 'br') {
-          data.push(...yearData.filter((v: any) => v.nationality === 'BR'));
-        } else if (region === 'intl') {
-          data.push(...yearData.filter((v: any) => v.nationality === 'INTL'));
+        if (region !== 'all') {
+          data.push(...yearData.filter((v: any) => v.nationality === region));
         } else {
           data.push(...yearData);
         }
@@ -263,7 +259,7 @@ const getDataset = async (
 };
 
 // Helper to load all data (used sparingly)
-const loadAllData = async (region: 'br' | 'intl' | 'all') => {
+const loadAllData = async (region: string) => {
   const data = [];
   
   // Get years from index
@@ -272,10 +268,8 @@ const loadAllData = async (region: 'br' | 'intl' | 'all') => {
   // Load years based on region
   const yearsToLoad = years.filter(year => {
     const yearInfo = metadataIndex.byYear[year];
-    if (region === 'br') {
-      return yearInfo.nationalities.includes('BR');
-    } else if (region === 'intl') {
-      return yearInfo.nationalities.includes('INTL');
+    if (region !== 'all') {
+      return yearInfo.nationalities.includes(region);
     }
     return true; // 'all'
   });
@@ -285,10 +279,8 @@ const loadAllData = async (region: 'br' | 'intl' | 'all') => {
     const yearData = await loadYear(year);
     
     // Filter by region
-    if (region === 'br') {
-      return yearData.filter((v: any) => v.nationality === 'BR');
-    } else if (region === 'intl') {
-      return yearData.filter((v: any) => v.nationality === 'INTL');
+    if (region !== 'all') {
+      return yearData.filter((v: any) => v.nationality === region);
     }
     return yearData;
   });
@@ -297,7 +289,7 @@ const loadAllData = async (region: 'br' | 'intl' | 'all') => {
   data.push(...results.flat());
   
   // Load programs (always BR)
-  if (region === 'br' || region === 'all') {
+  if (region === 'BR' || region === 'all') {
     const programs = await Promise.all([
       loadProgram('hermes_e_renato'),
       loadProgram('beavis_and_butthead'),
@@ -341,7 +333,7 @@ const mapToVideo = (item: any): Video => {
 export const fetchVideosByCriteria = async (
   type: 'year' | 'decade' | 'all',
   value: string,
-  region: 'br' | 'intl' | 'all' = 'intl'
+  region: string = 'all'
 ): Promise<Video[]> => {
   // Simulate API delay
   await new Promise((resolve) => setTimeout(resolve, 800));
@@ -354,6 +346,17 @@ export const fetchVideosByCriteria = async (
     .filter((v) => v.embed_id); // Only return videos with valid IDs
 
   return shuffleArray(mapped);
+};
+
+export const getCountries = () => {
+  return Object.entries(metadataIndex.byNationality)
+    .map(([code, data]: [string, any]) => ({
+      code,
+      count: data.count,
+      name: code // Ideally map this to full name
+    }))
+    .filter(c => c.count >= 250)
+    .sort((a, b) => b.count - a.count);
 };
 
 export const fetchVideoById = async (

@@ -953,7 +953,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=rmadSGJCzo8",
     "imvdb_url": "https://imvdb.com/video/sublime-2/badfish",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -8114,7 +8114,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=rUECTg-TpmE",
     "imvdb_url": "https://imvdb.com/video/the-mighty-mighty-bosstones/wrong-thing-right-then",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -9148,7 +9148,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=7DoQ1vrird8",
     "imvdb_url": "https://imvdb.com/video/voodoo-glow-skulls/left-for-dead",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -9292,7 +9292,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=bn8QPRYWAdk",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -9304,7 +9304,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=NdYWuo9OFAw",
     "imvdb_url": null,
     "source": "YouTube",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -9324,7 +9324,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523520091359,
@@ -9343,7 +9343,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523703402606,
@@ -9362,7 +9362,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "CA"
   },
   {
     "id": 1769523790683284,
@@ -9381,7 +9381,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769611042762031,
@@ -9425,7 +9425,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -9441,7 +9441,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "is_show": true
   },
   {
@@ -9457,7 +9457,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -9473,7 +9473,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -9489,7 +9489,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -9505,7 +9505,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {
@@ -9521,7 +9521,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -9537,7 +9537,7 @@
     "video_tags": [
       "pinkpop"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "is_show": true
   },
   {
@@ -9557,7 +9557,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -9577,7 +9577,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -9597,7 +9597,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "CA",
     "record_label": "atlantic"
   },
   {
@@ -9617,7 +9617,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -9633,7 +9633,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "NL",
     "record_label": "epitaph"
   }
 ]

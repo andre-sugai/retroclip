@@ -7,7 +7,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=4chmOU5J9Gg",
     "imvdb_url": "https://imvdb.com/video/bee-gees/i-started-a-joke",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -18,7 +18,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=BGLGzRXY5Bw",
     "imvdb_url": "https://imvdb.com/video/the-beatles/revolution",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -29,7 +29,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=xvqeSJlgaNk",
     "imvdb_url": "https://imvdb.com/video/the-monkees/daydream-believer",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=dYTWNa3KRSI",
     "imvdb_url": "https://imvdb.com/video/bee-gees/harry-braff",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=A_MjCqQoLLA",
     "imvdb_url": "https://imvdb.com/video/the-beatles/hey-jude",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=kHBV2yfqEEQ",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/child-of-the-moon",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -73,7 +73,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=FSTvEhp64Lo",
     "imvdb_url": "https://imvdb.com/video/bee-gees/ive-gotta-get-a-message-to-you",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -84,7 +84,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=uW24rmJLlM0",
     "imvdb_url": "https://imvdb.com/video/the-foundations-1/build-me-up-buttercup",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -95,7 +95,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=NCtzkaL2t_Y",
     "imvdb_url": "https://imvdb.com/video/the-beatles/dont-let-me-down",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -106,7 +106,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=lDQ2Rd0PHm4",
     "imvdb_url": "https://imvdb.com/video/creedence-clearwater-revival/heard-it-through-the-grapevine",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -120,7 +120,7 @@
     "duration_seconds": 5622,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   }
 ]
