@@ -8631,7 +8631,7 @@
     "artist_genre": "Ska",
     "youtube_link": "https://www.youtube.com/watch?v=sQTyjatRw5Q",
     "imvdb_url": "https://imvdb.com/video/five-iron-frenzy/a-flowery-song",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -10223,7 +10223,7 @@
     "duration_seconds": 7251,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -10505,7 +10505,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "epitaph"
   },
   {

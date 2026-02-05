@@ -414,7 +414,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=VzlofSthVwc",
     "imvdb_url": "https://imvdb.com/video/kate-bush/breathing",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -535,7 +535,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=6xckBwPdo1c",
     "imvdb_url": "https://imvdb.com/video/kate-bush/babooshka",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -821,7 +821,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=QOZDKlpybZE",
     "imvdb_url": "https://imvdb.com/video/kate-bush/army-dreamers",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -865,7 +865,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=GA27aQZCQMk",
     "imvdb_url": "https://imvdb.com/video/david-bowie/fashion",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -1470,7 +1470,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=9pTHbZKhjXY",
     "imvdb_url": "https://imvdb.com/video/robin-lane-and-the-chartbusters/when-things-go-wrong",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -1602,7 +1602,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=CMThz7eQ6K0",
     "imvdb_url": "https://imvdb.com/video/david-bowie/ashes-to-ashes",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -1784,7 +1784,7 @@
     "duration_seconds": 2627,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -1798,7 +1798,7 @@
     "duration_seconds": 6539,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -1882,7 +1882,7 @@
     "duration_seconds": 2950,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "DE",
     "is_show": true
   },
   {

@@ -7115,7 +7115,7 @@
     "artist_genre": "Punk",
     "youtube_link": "https://www.youtube.com/watch?v=2WOx4U3sCuQ",
     "imvdb_url": "https://imvdb.com/video/rancid/nihilism",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -7126,7 +7126,7 @@
     "artist_genre": "Punk",
     "youtube_link": "https://www.youtube.com/watch?v=Rvuae0Y-Spg",
     "imvdb_url": "https://imvdb.com/video/rancid/salvation",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -7276,7 +7276,7 @@
     "artist_name": "Pink Floyd",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=MLie88A7SZU",
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true,
     "video_type": "show"
   },
@@ -7386,7 +7386,7 @@
     "duration_seconds": 4348,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {

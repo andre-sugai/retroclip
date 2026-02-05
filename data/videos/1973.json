@@ -7,7 +7,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=v--IqqusnNQ",
     "imvdb_url": "https://imvdb.com/video/david-bowie/life-on-mars",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -84,7 +84,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=G8sdsW93ThQ",
     "imvdb_url": "https://imvdb.com/video/david-bowie/ziggy-stardust",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -95,7 +95,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=cYMCLz5PQVw",
     "imvdb_url": "https://imvdb.com/video/david-bowie/space-oddity/2",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -375,7 +375,7 @@
     "video_tags": [
       "HD"
     ],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   }
 ]

@@ -216,7 +216,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=-1pMMIe4hb4",
     "imvdb_url": "https://imvdb.com/video/kate-bush/wuthering-heights",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -282,7 +282,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=XR4KnfcgLm0",
     "imvdb_url": "https://imvdb.com/video/kate-bush/hammer-horror",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -315,7 +315,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=qfNtPbHkp0U",
     "imvdb_url": "https://imvdb.com/video/kate-bush/them-heavy-people",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -700,7 +700,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=NAj8suae3WY",
     "imvdb_url": "https://imvdb.com/video/kate-bush/the-man-with-the-child-in-his-eyes",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -806,7 +806,7 @@
     "duration_seconds": 2526,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {

@@ -62,7 +62,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=qojnL2isSdc",
     "imvdb_url": "https://imvdb.com/video/rockestra/lucille",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -172,7 +172,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=UMhFyWEMlD4",
     "imvdb_url": "https://imvdb.com/video/david-bowie/boys-keep-swinging",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -403,7 +403,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=J8fFVOoqepc",
     "imvdb_url": "https://imvdb.com/video/pink-floyd/comfortably-numb",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -722,7 +722,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=0ar7vovnH5I",
     "imvdb_url": "https://imvdb.com/video/kate-bush/wow",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -810,7 +810,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=QgPUxjQOk-w",
     "imvdb_url": "https://imvdb.com/video/david-bowie/dj",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -1327,7 +1327,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=QEJjASV20kc",
     "imvdb_url": "https://imvdb.com/video/david-bowie/look-back-in-anger",
-    "nationality": "INTL",
+    "nationality": "GB",
     "video_type": "clip"
   },
   {
@@ -1518,7 +1518,7 @@
     "duration_seconds": 4719,
     "video_type": "official_video",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "US",
     "is_show": true
   },
   {

@@ -13976,7 +13976,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769523694624243,
@@ -14356,7 +14356,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL"
+    "nationality": "US"
   },
   {
     "id": 1769524240631054,
@@ -14670,7 +14670,7 @@
     "duration_seconds": 2826,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "INTL",
+    "nationality": "GB",
     "is_show": true
   },
   {
@@ -14995,7 +14995,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15395,7 +15395,7 @@
     "quality": "480p",
     "is_low_quality": false,
     "availability_status": "public",
-    "nationality": "INTL",
+    "nationality": "US",
     "record_label": "atlantic"
   },
   {
@@ -15639,7 +15639,7 @@
     "video_tags": [
       "epitaph"
     ],
-    "nationality": "INTL",
+    "nationality": "AU",
     "record_label": "epitaph"
   },
   {
