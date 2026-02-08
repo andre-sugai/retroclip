@@ -1,0 +1,297 @@
+[2026-02-08 14:16:48] Starting year extraction script...
+[2026-02-08 14:16:48] Loaded 154 videos from /Users/andresugai/Desktop/PROJETOS/retroclip/data/videos/pinkpop2.json
+[2026-02-08 14:16:48] Created backup at /Users/andresugai/Desktop/PROJETOS/retroclip/data/videos/pinkpop2.json.year_backup
+[2026-02-08 14:16:48] [1/154] Processing: The Cure - 'Lovecats' [HD] 
+[2026-02-08 14:16:51]   ✓ Found Year: 2012 (from title: 'The Cure - 'Lovecats' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:16:53] [2/154] Processing: Radiohead - 'The National Anthem' [HD] 
+[2026-02-08 14:16:55]   ✓ Found Year: 2001 (from title: 'Radiohead - 'The National Anthem' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:16:57] [3/154] Processing: Ed Sheeran - 'Give Me Love' [HD] 
+[2026-02-08 14:17:00]   ✓ Found Year: 2014 (from title: 'Ed Sheeran - 'Give Me Love' [HD] | Live at Pinkpop 2014')
+[2026-02-08 14:17:02] [4/154] Processing: Faith No More - 'We Care a Lot' [HD] 
+[2026-02-08 14:17:04]   ✓ Found Year: 1995 (from title: 'Faith No More - 'We Care a Lot' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:17:06] [5/154] Processing: Keane - 'Crystal Ball' [HD] 
+[2026-02-08 14:17:08]   ✓ Found Year: 2012 (from title: 'Keane - 'Crystal Ball' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:17:10] [6/154] Processing: Faith No More - 'Introduce Yourself' [HD] 
+[2026-02-08 14:17:12]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Introduce Yourself' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:17:14] [7/154] Processing: Radiohead - 'In Limbo' [HD] 
+[2026-02-08 14:17:16]   ✓ Found Year: 2001 (from title: 'Radiohead - 'In Limbo' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:17:18] [8/154] Processing: Manic Street Preachers - 'Found That Soul' [HD] 
+[2026-02-08 14:17:20]   ✓ Found Year: 2001 (from title: 'Manic Street Preachers - 'Found That Soul' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:17:22] [9/154] Processing: Ed Sheeran - 'Fire' [HD] 
+[2026-02-08 14:17:24]   ✓ Found Year: 2014 (from title: 'Ed Sheeran - 'Fire' [HD] | Live at Pinkpop 2014')
+[2026-02-08 14:17:26] [10/154] Processing: Robbie Williams - 'Hey Jude' [HD] 
+[2026-02-08 14:17:28]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Hey Jude' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:17:30] [11/154] Processing: Massive Attack - 'Risingson' [HD] 
+[2026-02-08 14:17:33]   ✓ Found Year: 2003 (from title: 'Massive Attack - 'Risingson' [HD] | Live at Pinkpop 2003')
+[2026-02-08 14:17:35] [12/154] Processing: Smashing Pumkins - 'Disarm' [HD] 
+[2026-02-08 14:17:37]   ✓ Found Year: 1994 (from title: 'Smashing Pumkins - 'Disarm' [HD] | Live at Pinkpop 1994')
+[2026-02-08 14:17:39] [13/154] Processing: Manic Street Preachers - 'So Why So Sad' [HD] 
+[2026-02-08 14:17:41]   ✓ Found Year: 2001 (from title: 'Manic Street Preachers - 'So Why So Sad' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:17:43] [14/154] Processing: The Cure - 'Let's Go To Bed' [HD] 
+[2026-02-08 14:17:45]   ✓ Found Year: 2012 (from title: 'The Cure - 'Let's Go To Bed' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:17:47] [15/154] Processing: Keane - 'Is It Any Wonder?' [HD] 
+[2026-02-08 14:17:49]   ✓ Found Year: 2012 (from title: 'Keane - 'Is It Any Wonder?' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:17:51] [16/154] Processing: Robbie Williams - 'Lazy Days' [HD] 
+[2026-02-08 14:17:54]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Lazy Days' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:17:56] [17/154] Processing: Faith No More - 'Be Aggressive' [HD] 
+[2026-02-08 14:17:58]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Be Aggressive' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:18:00] [18/154] Processing: Keane - 'This Is The Last Time' [HD] 
+[2026-02-08 14:18:02]   ✓ Found Year: 2012 (from title: 'Keane - 'This Is The Last Time' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:18:04] [19/154] Processing: The Cure - 'Boys Don't Cry' [HD] 
+[2026-02-08 14:18:07]   ✓ Found Year: 2012 (from title: 'The Cure - 'Boys Don't Cry' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:18:09] [20/154] Processing: Manic Street Preachers - 'If You Tolerate This Your Children Will Be Next' 
+[2026-02-08 14:18:11]   ✓ Found Year: 2001 (from title: 'Manic Street Preachers - 'If You Tolerate This Your Children Will Be Next' | Live at Pinkpop 2001')
+[2026-02-08 14:18:13] [21/154] Processing: The Cure - 'Close To Me' [HD] 
+[2026-02-08 14:18:15]   ✓ Found Year: 2012 (from title: 'The Cure - 'Close To Me' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:18:17] [22/154] Processing: Faithless  - 'Insomnia' [HD] 
+[2026-02-08 14:18:20]   ✓ Found Year: 1999 (from title: 'Faithless  - 'Insomnia' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:18:22] [23/154] Processing: Keane - 'Bedshaped' [HD] 
+[2026-02-08 14:18:24]   ✓ Found Year: 2012 (from title: 'Keane - 'Bedshaped' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:18:26] [24/154] Processing: Massive Attack - 'Teardrop (with Dot Allison)' [HD] 
+[2026-02-08 14:18:29]   ✓ Found Year: 2003 (from title: 'Massive Attack - 'Teardrop (with Dot Allison)' [HD] | Live at Pinkpop 2003')
+[2026-02-08 14:18:31] [25/154] Processing: Radiohead - 'Morning Bell' [HD] 
+[2026-02-08 14:18:33]   ✓ Found Year: 2001 (from title: 'Radiohead - 'Morning Bell' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:18:35] [26/154] Processing: Radiohead - 'No Surprises' [HD] 
+[2026-02-08 14:18:38]   ✓ Found Year: 2001 (from title: 'Radiohead - 'No Surprises' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:18:40] [27/154] Processing: Keane - 'Somewhere Only We Know' [HD] 
+[2026-02-08 14:18:41]   ✓ Found Year: 2012 (from title: 'Keane - 'Somewhere Only We Know' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:18:43] [28/154] Processing: Manic Street Preachers - 'The Masses Against the Classes' [HD] 
+[2026-02-08 14:18:45]   ✓ Found Year: 2001 (from title: 'Manic Street Preachers - 'The Masses Against the Classes' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:18:47] [29/154] Processing: Moloko - 'The Time Is Now' [HD] 
+[2026-02-08 14:18:50]   ✓ Found Year: 2004 (from title: 'Moloko - 'The Time Is Now' [HD] | Live at Pinkpop 2004')
+[2026-02-08 14:18:52] [30/154] Processing: Radiohead - 'Lucky' [HD] 
+[2026-02-08 14:18:54]   ✓ Found Year: 2001 (from title: 'Radiohead - 'Lucky' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:18:56] [31/154] Processing: Faithless  - 'Salva Mea' [HD] 
+[2026-02-08 14:18:58]   ✓ Found Year: 1999 (from title: 'Faithless  - 'Salva Mea' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:19:00] [32/154] Processing: Ed Sheeran - The A Team [HD] 
+[2026-02-08 14:19:02]   ✓ Found Year: 2014 (from title: 'Ed Sheeran - The A Team [HD] | Live at Pinkpop 2014')
+[2026-02-08 14:19:04] [33/154] Processing: Robbie Williams - 'Old Before I Die' [HD] 
+[2026-02-08 14:19:07]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Old Before I Die' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:19:09] [34/154] Processing: Red Hot Chili Peppers - Snow (Hey Oh) [HD] 
+[2026-02-08 14:19:11]   ✓ Found Year: 2006 (from title: 'Red Hot Chili Peppers - Snow (Hey Oh) [HD] | Live at Pinkpop 2006')
+[2026-02-08 14:19:13] [35/154] Processing: Massive Attack - 'Unfinished Sympathy (with Deborah Miller)' [HD] 
+[2026-02-08 14:19:15]   ✓ Found Year: 2003 (from title: 'Massive Attack - 'Unfinished Sympathy (with Deborah Miller)' [HD] | Live at Pinkpop 2003')
+[2026-02-08 14:19:17] [36/154] Processing: Red Hot Chili Peppers - Scar Tissue [HD] 
+[2026-02-08 14:19:19]   ✓ Found Year: 2006 (from title: 'Red Hot Chili Peppers - Scar Tissue [HD] | Live at Pinkpop 2006')
+[2026-02-08 14:19:21] [37/154] Processing: Faith No More - 'Evidence' [HD] 
+[2026-02-08 14:19:24]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Evidence' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:19:26] [38/154] Processing: Rammstein - 'Du riechst so gut' [HD] 
+[2026-02-08 14:19:28]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Du riechst so gut' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:19:30] [39/154] Processing: The Cure - 'Why Can't I Be You' [HD] 
+[2026-02-08 14:19:32]   ✓ Found Year: 2012 (from title: 'The Cure - 'Why Can't I Be You' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:19:34] [40/154] Processing: Manic Street Preachers - 'Motorcycle Emptiness' [HD] 
+[2026-02-08 14:19:36]   ✓ Found Year: 2001 (from title: 'Manic Street Preachers - 'Motorcycle Emptiness' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:19:38] [41/154] Processing: Evanescence - 'Bring Me To Life' [HD] 
+[2026-02-08 14:19:40]   ✓ Found Year: 2003 (from title: 'Evanescence - 'Bring Me To Life' [HD] | Live at Pinkpop 2003')
+[2026-02-08 14:19:42] [42/154] Processing: Limp Bizkit - 'Rollin' (Air Raid Vehicle)' [HD] 
+[2026-02-08 14:19:44]   ✓ Found Year: 2001 (from title: 'Limp Bizkit - 'Rollin' (Air Raid Vehicle)' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:19:46] [43/154] Processing: Keane - 'Everybody's Changing' [HD] 
+[2026-02-08 14:19:48]   ✓ Found Year: 2012 (from title: 'Keane - 'Everybody's Changing' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:19:50] [44/154] Processing: Within Temptation - 'Ice Queen' [HD] 
+[2026-02-08 14:19:52]   ✓ Found Year: 2005 (from title: 'Within Temptation - 'Ice Queen' [HD] | Live at Pinkpop 2005')
+[2026-02-08 14:19:54] [45/154] Processing: Radiohead - 'Exit Music (For a Film)' [HD] 
+[2026-02-08 14:19:57]   ✓ Found Year: 2001 (from title: 'Radiohead - 'Exit Music (For a Film)' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:19:59] [46/154] Processing: Limp Bizkit - 'Take a Look Around' [HD] 
+[2026-02-08 14:20:01]   ✓ Found Year: 2001 (from title: 'Limp Bizkit - 'Take a Look Around' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:20:03] [47/154] Processing: Faithless  - 'God Is A DJ' [HD] 
+[2026-02-08 14:20:05]   ✓ Found Year: 1999 (from title: 'Faithless  - 'God Is A DJ' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:20:07] [48/154] Processing: Garbage - In Concert [HD] 
+[2026-02-08 14:20:09]   ✓ Found Year: 1998 (from title: 'Garbage - In Concert [HD] | Live at Pinkpop 1998')
+[2026-02-08 14:20:11] [49/154] Processing: Rammstein - 'Sehnsucht' [HD] 
+[2026-02-08 14:20:14]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Sehnsucht' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:20:16] [50/154] Processing: The Cure - 'Play For Today' [HD] 
+[2026-02-08 14:20:18]   ✓ Found Year: 2012 (from title: 'The Cure - 'Play For Today' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:20:20] [51/154] Processing: Smashing Pumkins - 'Rocket' [HD] 
+[2026-02-08 14:20:22]   ✓ Found Year: 1994 (from title: 'Smashing Pumkins - 'Rocket' [HD] | Live at Pinkpop 1994')
+[2026-02-08 14:20:24] [52/154] Processing: Muse - 'Stockholm Syndrome' [HD] 
+[2026-02-08 14:20:26]   ✓ Found Year: 2004 (from title: 'Muse - 'Stockholm Syndrome' [HD] | Live at Pinkpop 2004')
+[2026-02-08 14:20:28] [53/154] Processing: Linkin Park - 'Faint' [HD] 
+[2026-02-08 14:20:31]   ✓ Found Year: 2007 (from title: 'Linkin Park - 'Faint' [HD] | Live at Pinkpop 2007')
+[2026-02-08 14:20:33] [54/154] Processing: Ed Sheeran - 'You Need Me, I Don't Need You' [HD] 
+[2026-02-08 14:20:35]   ✓ Found Year: 2014 (from title: 'Ed Sheeran - 'You Need Me, I Don't Need You' [HD] | Live at Pinkpop 2014')
+[2026-02-08 14:20:37] [55/154] Processing: Robbie Williams - 'No Regrets' [HD] 
+[2026-02-08 14:20:39]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'No Regrets' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:20:41] [56/154] Processing: Faith No More - 'Get Out' [HD] 
+[2026-02-08 14:20:44]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Get Out' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:20:46] [58/154] Processing: Red Hot Chili Peppers - Can't Stop [HD] 
+[2026-02-08 14:20:48]   ✓ Found Year: 2006 (from title: 'Red Hot Chili Peppers - Can't Stop [HD] | Live at Pinkpop 2006')
+[2026-02-08 14:20:50] [59/154] Processing: Evanescence - 'Everybody's Fool' [HD] 
+[2026-02-08 14:20:52]   ✓ Found Year: 2003 (from title: 'Evanescence - 'Everybody's Fool' [HD] | Live at Pinkpop 2003')
+[2026-02-08 14:20:54] [60/154] Processing: Smashing Pumkins - 'Geek U.S.A.' [HD] 
+[2026-02-08 14:20:56]   ✓ Found Year: 1994 (from title: 'Smashing Pumkins - 'Geek U.S.A.' [HD] | Live at Pinkpop 1994')
+[2026-02-08 14:20:58] [61/154] Processing: Sepultura - 'Refuse/Resist' [HD] 
+[2026-02-08 14:21:00]   ✓ Found Year: 1996 (from title: 'Sepultura - 'Refuse/Resist' [HD] | Live at Pinkpop 1996')
+[2026-02-08 14:21:02] [62/154] Processing: Faith No More - 'What a Day' [HD] 
+[2026-02-08 14:21:04]   ✓ Found Year: 1995 (from title: 'Faith No More - 'What a Day' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:21:06] [63/154] Processing: Linkin Park - Numb [HD] 
+[2026-02-08 14:21:08]   ✓ Found Year: 2007 (from title: 'Linkin Park - Numb [HD] | Live at Pinkpop 2007')
+[2026-02-08 14:21:10] [64/154] Processing: Muse - 'Hysteria' [HD] 
+[2026-02-08 14:21:12]   ✓ Found Year: 2004 (from title: 'Muse - 'Hysteria' [HD] | Live at Pinkpop 2004')
+[2026-02-08 14:21:14] [65/154] Processing: Rammstein - 'Heirate mich' [HD] 
+[2026-02-08 14:21:16]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Heirate mich' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:21:18] [66/154] Processing: The Cure - 'Friday I'm In Love' [HD] 
+[2026-02-08 14:21:20]   ✓ Found Year: 2012 (from title: 'The Cure - 'Friday I'm In Love' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:21:22] [67/154] Processing: Soundgarden - 'Spoonman' [HD] 
+[2026-02-08 14:21:25]   ✓ Found Year: 2012 (from title: 'Soundgarden - 'Spoonman' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:21:27] [68/154] Processing: Red Hot Chili Peppers - By The Way [HD] 
+[2026-02-08 14:21:29]   ✓ Found Year: 2006 (from title: 'Red Hot Chili Peppers - By The Way [HD] | Live at Pinkpop 2006')
+[2026-02-08 14:21:31] [70/154] Processing: Within Temptation - 'Memories' [HD] 
+[2026-02-08 14:21:33]   ✓ Found Year: 2005 (from title: 'Within Temptation - 'Memories' [HD] | Live at Pinkpop 2005')
+[2026-02-08 14:21:35] [71/154] Processing: Robbie Williams - 'Man Machine' [HD] 
+[2026-02-08 14:21:38]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Man Machine' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:21:40] [72/154] Processing: Ed Sheeran - Thinking Out Loud [HD] 
+[2026-02-08 14:21:42]   ✓ Found Year: 2014 (from title: 'Ed Sheeran - Thinking Out Loud [HD] | Live at Pinkpop 2014')
+[2026-02-08 14:21:44] [73/154] Processing: Faith No More - 'Caralho Voador' [HD] 
+[2026-02-08 14:21:46]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Caralho Voador' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:21:48] [74/154] Processing: Rammstein - 'Asche zu Asche' [HD] 
+[2026-02-08 14:21:51]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Asche zu Asche' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:21:53] [75/154] Processing: Soundgarden - 'Fell On Black Days' [HD] 
+[2026-02-08 14:21:55]   ✓ Found Year: 2012 (from title: 'Soundgarden - 'Fell On Black Days' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:21:57] [76/154] Processing: Muse - 'Time Is Running Out' [HD] 
+[2026-02-08 14:21:59]   ✓ Found Year: 2004 (from title: 'Muse - 'Time Is Running Out' [HD] | Live at Pinkpop 2004')
+[2026-02-08 14:22:01] [77/154] Processing: Smashing Pumkins - 'Drown' [HD] 
+[2026-02-08 14:22:03]   ✓ Found Year: 1994 (from title: 'Smashing Pumkins - 'Drown' [HD] | Live at Pinkpop 1994')
+[2026-02-08 14:22:05] [79/154] Processing: Red Hot Chili Peppers - Californication [HD] 
+[2026-02-08 14:22:07]   ✓ Found Year: 2006 (from title: 'Red Hot Chili Peppers - Californication [HD] | Live at Pinkpop 2006')
+[2026-02-08 14:22:09] [80/154] Processing: Linkin Park - What I've Done [HD] 
+[2026-02-08 14:22:12]   ✓ Found Year: 2007 (from title: 'Linkin Park - What I've Done [HD] | Live at Pinkpop 2007')
+[2026-02-08 14:22:14] [81/154] Processing: Lou Reed - In Concert [HD] 
+[2026-02-08 14:22:16]   ✓ Found Year: 1992 (from title: 'Lou Reed - In Concert [HD] | Live at Pinkpop 1992')
+[2026-02-08 14:22:18] [82/154] Processing: Within Temptation - 'Angels' [HD] 
+[2026-02-08 14:22:20]   ✓ Found Year: 2005 (from title: 'Within Temptation - 'Angels' [HD] | Live at Pinkpop 2005')
+[2026-02-08 14:22:22] [83/154] Processing: Evanescence - 'Going Under' [HD] 
+[2026-02-08 14:22:24]   ✓ Found Year: 2003 (from title: 'Evanescence - 'Going Under' [HD] | Live at Pinkpop 2003')
+[2026-02-08 14:22:26] [84/154] Processing: Red Hot Chili Peppers - 'Otherside' [HD] 
+[2026-02-08 14:22:29]   ✓ Found Year: 2006 (from title: 'Red Hot Chili Peppers - 'Otherside' [HD] | Live at Pinkpop 2006')
+[2026-02-08 14:22:31] [85/154] Processing: Radiohead - Creep [HD] 
+[2026-02-08 14:22:33]   ✓ Found Year: 1996 (from title: 'Radiohead - Creep [HD] | Live at Pinkpop 1996')
+[2026-02-08 14:22:35] [86/154] Processing: Rammstein - 'Rammstein' [HD] 
+[2026-02-08 14:22:37]   ✓ Found Year: 1997 (from title: 'Rammstein - Full Concert [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:22:39] [87/154] Processing: Robbie Williams - 'Song 2' [HD] 
+[2026-02-08 14:22:41]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Song 2' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:22:43] [88/154] Processing: Therapy? - In Concert [HD] 
+[2026-02-08 14:22:46]   ✓ Found Year: 1994 (from title: 'Therapy? - In Concert [HD] | Live at Pinkpop 1994')
+[2026-02-08 14:22:48] [89/154] Processing: Moloko - Sing It Back [HD] 
+[2026-02-08 14:22:50]   ✓ Found Year: 2004 (from title: 'Moloko - Sing It Back [HD] | Live at Pinkpop 2004')
+[2026-02-08 14:22:52] [90/154] Processing: Faith No More - 'Ricochet' [HD] 
+[2026-02-08 14:22:55]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Ricochet' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:22:57] [91/154] Processing: Soundgarden - 'Black Hole Sun' [HD] 
+[2026-02-08 14:22:59]   ✓ Found Year: 2012 (from title: 'Soundgarden - 'Black Hole Sun' [HD] | Live at Pinkpop 2012')
+[2026-02-08 14:23:01] [92/154] Processing: Linkin Park - In The End [HD] 
+[2026-02-08 14:23:03]   ✓ Found Year: 2007 (from title: 'Linkin Park - In The End [HD] | Live at Pinkpop 2007')
+[2026-02-08 14:23:05] [93/154] Processing: Rammstein - 'Bestrafe Mich' [HD] 
+[2026-02-08 14:23:07]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Bestrafe Mich' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:23:09] [96/154] Processing: Red Hot Chili Peppers - Under The Bridge [HD] 
+[2026-02-08 14:23:12]   ✓ Found Year: 2006 (from title: 'Red Hot Chili Peppers - Under The Bridge [HD] | Live at Pinkpop 2006')
+[2026-02-08 14:23:14] [97/154] Processing: Faith No More - 'Digging The Grave' [HD] 
+[2026-02-08 14:23:16]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Digging The Grave' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:23:18] [98/154] Processing: Rammstein - 'Der Meister' [HD] 
+[2026-02-08 14:23:20]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Der Meister' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:23:22] [100/154] Processing: Rammstein - 'Seemann' [HD] 
+[2026-02-08 14:23:24]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Seemann' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:23:26] [101/154] Processing: Robbie Williams - 'Should I Stay or Should I Go' [HD] 
+[2026-02-08 14:23:28]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Should I Stay or Should I Go' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:23:30] [102/154] Processing: Faith No More - 'Caffeine' [HD] 
+[2026-02-08 14:23:33]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Caffeine' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:23:35] [103/154] Processing: Soundgarden - 'Jesus Christ Pose' [HD] 
+[2026-02-08 14:23:36]   ✓ Found Year: 1992 (from title: 'Soundgarden - 'Jesus Christ Pose' [HD] | Live at Pinkpop 1992')
+[2026-02-08 14:23:38] [104/154] Processing: Faith No More - 'Easy' [HD] 
+[2026-02-08 14:23:40]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Easy' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:23:42] [105/154] Processing: Rammstein - 'Laichzeit' [HD] 
+[2026-02-08 14:23:45]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Laichzeit' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:23:47] [106/154] Processing: Alanis Morissette - 'Ironic' [HD] 
+[2026-02-08 14:23:49]   ✓ Found Year: 1999 (from title: 'Alanis Morissette - 'Ironic' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:23:51] [108/154] Processing: Radiohead - 'Lift' [HD] 
+[2026-02-08 14:23:53]   ✓ Found Year: 1996 (from title: 'Radiohead - 'Lift' [HD] | Live at Pinkpop 1996')
+[2026-02-08 14:23:55] [109/154] Processing: Rammstein - 'Tier' [HD] 
+[2026-02-08 14:23:57]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Tier' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:23:59] [110/154] Processing: Smashing Pumkins - 'Silverf*ck' [HD] 
+[2026-02-08 14:24:02]   ✓ Found Year: 1994 (from title: 'Smashing Pumkins - 'Silverf*ck' [HD] | Live at Pinkpop 1994')
+[2026-02-08 14:24:04] [111/154] Processing: Rammstein - 'Engel' [HD] 
+[2026-02-08 14:24:06]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Engel' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:24:08] [112/154] Processing: Faith No More - 'Midlife Crisis' [HD] 
+[2026-02-08 14:24:10]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Midlife Crisis' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:24:12] [113/154] Processing: Radiohead - 'Street Spirit' [HD] 
+[2026-02-08 14:24:14]   ✓ Found Year: 1996 (from title: 'Radiohead - 'Street Spirit' [HD] | Live at Pinkpop 1996')
+[2026-02-08 14:24:16] [115/154] Processing: Sepultura - 'Roots Bloody Roots' [HD] 
+[2026-02-08 14:24:19]   ✓ Found Year: 1996 (from title: 'Sepultura - 'Roots Bloody Roots' [HD] | Live at Pinkpop 1996')
+[2026-02-08 14:24:21] [116/154] Processing: Faith No More - 'Epic' [HD] 
+[2026-02-08 14:24:23]   ✓ Found Year: 1995 (from title: 'Faith No More - 'Epic' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:24:25] [117/154] Processing: Skunk Anansie - 'Selling Jesus' [HD] 
+[2026-02-08 14:24:27]   ✓ Found Year: 1996 (from title: 'Skunk Anansie - 'Selling Jesus' [HD] | Live at Pinkpop 1996')
+[2026-02-08 14:24:29] [118/154] Processing: Faith No More - 'King For a Day' [HD] 
+[2026-02-08 14:24:31]   ✓ Found Year: 1995 (from title: 'Faith No More - 'King For a Day' [HD] | Live at Pinkpop 1995')
+[2026-02-08 14:24:33] [119/154] Processing: The Offspring - 'Why Don't You Get A Job' [HD] 
+[2026-02-08 14:24:35]   ✓ Found Year: 2001 (from title: 'The Offspring - 'Why Don't You Get A Job' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:24:37] [120/154] Processing: Robbie Williams - 'Back For Good' [HD] 
+[2026-02-08 14:24:39]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Back For Good' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:24:41] [121/154] Processing: The Offspring - 'What Happened To You?' [HD] 
+[2026-02-08 14:24:44]   ✓ Found Year: 2001 (from title: 'The Offspring - 'What Happened To You?' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:24:46] [122/154] Processing: Smashing Pumkins - 'I Am One' [HD] 
+[2026-02-08 14:24:48]   ✓ Found Year: 1994 (from title: 'Smashing Pumkins - 'I Am One' [HD] | Live at Pinkpop 1994')
+[2026-02-08 14:24:50] [124/154] Processing: Rammstein - 'Wollt Ihr das Bett in Flammen sehen?' [HD] 
+[2026-02-08 14:24:53]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Wollt Ihr das Bett in Flammen sehen?' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:24:55] [125/154] Processing: Lou Reed - 'Vicious' [HD] 
+[2026-02-08 14:24:57]   ✓ Found Year: 1992 (from title: 'Lou Reed - 'Vicious' [HD] | Live at Pinkpop 1992')
+[2026-02-08 14:24:59] [126/154] Processing: Robbie Williams - 'Angels' [HD] 
+[2026-02-08 14:25:01]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Angels' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:25:03] [127/154] Processing: The Offspring - 'Gone Away' [HD] 
+[2026-02-08 14:25:05]   ✓ Found Year: 2001 (from title: 'The Offspring - 'Gone Away' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:25:07] [128/154] Processing: Audience footage of Pinkpop 1992 
+[2026-02-08 14:25:09]   ✓ Found Year: 1992 (from title: 'Audience footage of Pinkpop 1992 | Live at Pinkpop 1992')
+[2026-02-08 14:25:11] [129/154] Processing: Lenny Kravitz - 'Are You Gonna Go My Way' [HD] 
+[2026-02-08 14:25:14]   ✓ Found Year: 1993 (from title: 'Lenny Kravitz - 'Are You Gonna Go My Way' [HD] | Live at Pinkpop 1993')
+[2026-02-08 14:25:16] [130/154] Processing: Robbie Williams - 'Millennium' [HD] 
+[2026-02-08 14:25:18]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Millennium' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:25:20] [131/154] Processing: The Offspring - 'Self Esteem' [HD] 
+[2026-02-08 14:25:22]   ✓ Found Year: 2001 (from title: 'The Offspring - 'Self Esteem' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:25:24] [132/154] Processing: Doe Maar - Smoorverliefd [HD] 
+[2026-02-08 14:25:26]   ✓ Found Year: 1982 (from title: 'Doe Maar - Smoorverliefd [HD] | Live at Pinkpop 1982')
+[2026-02-08 14:25:28] [133/154] Processing: Sinead O'Connor - 'Troy' 
+[2026-02-08 14:25:31]   ✓ Found Year: 1988 (from title: 'Sinead O'Connor - 'Troy' | Live at Pinkpop 1988')
+[2026-02-08 14:25:33] [134/154] Processing: The Offspring - 'Pretty Fly for a White Guy' [HD] 
+[2026-02-08 14:25:35]   ✓ Found Year: 2001 (from title: 'The Offspring - 'Pretty Fly for a White Guy' [HD] | Live at Pinkpop 2001')
+[2026-02-08 14:25:37] [135/154] Processing: Simple Minds - 'Promised You A Miracle' 
+[2026-02-08 14:25:38]   Error fetching title: Command '['yt-dlp', '--print', 'title', '--no-playlist', 'https://www.youtube.com/watch?v= Live at Pinkpop 1983']' returned non-zero exit status 1.
+[2026-02-08 14:25:38]   ✗ Failed to fetch video title
+[2026-02-08 14:25:40] [136/154] Processing: Lenny Kravitz - 'Let Love Rule' [HD] 
+[2026-02-08 14:25:43]   ✓ Found Year: 1993 (from title: 'Lenny Kravitz - 'Let Love Rule' [HD] | Live at Pinkpop 1993')
+[2026-02-08 14:25:45] [137/154] Processing: Robbie Williams - 'Let Me Entertain You' [HD] 
+[2026-02-08 14:25:46]   ✓ Found Year: 1999 (from title: 'Robbie Williams - 'Let Me Entertain You' [HD] | Live at Pinkpop 1999')
+[2026-02-08 14:25:49] [138/154] Processing: The Police - 'Roxanne' [HD] 
+[2026-02-08 14:25:50]   ✓ Found Year: 1978 (from title: 'The Police - 'Roxanne' [HD] | Live at Pinkpop 1978')
+[2026-02-08 14:25:52] [139/154] Processing: Welcome to the official Pinkpop Archive YouTube channel!
+[2026-02-08 14:25:55]   ✗ Could not find year in title: 'Welcome to the official Pinkpop Archive YouTube channel!'
+[2026-02-08 14:25:57] [140/154] Processing: Dire Straits - 'Lady Writer' 
+[2026-02-08 14:25:58]   Error fetching title: Command '['yt-dlp', '--print', 'title', '--no-playlist', 'https://www.youtube.com/watch?v= Live at Pinkpop 1978']' returned non-zero exit status 1.
+[2026-02-08 14:25:58]   ✗ Failed to fetch video title
+[2026-02-08 14:26:00] [144/154] Processing: Mink Deville - 'Love and Emotion' 
+[2026-02-08 14:26:03]   ✓ Found Year: 1982 (from title: 'Mink Deville - 'Love and Emotion' | Live at Pinkpop 1982')
+[2026-02-08 14:26:05] [145/154] Processing: Fishbone – 'Party At Ground Zero' [HD] 
+[2026-02-08 14:26:07]   ✓ Found Year: 1989 (from title: 'Fishbone – 'Party At Ground Zero' [HD] | Live at Pinkpop 1989')
+[2026-02-08 14:26:09] [146/154] Processing: Lenny Kravitz - 'Sister' 
+[2026-02-08 14:26:11]   ✓ Found Year: 1993 (from title: 'Lenny Kravitz - 'Sister' | Live at Pinkpop 1993')
+[2026-02-08 14:26:13] [147/154] Processing: The Specials - 'Too Much Too Young' 
+[2026-02-08 14:26:15]   ✓ Found Year: 1980 (from title: 'The Specials - 'Too Much Too Young' | Live at Pinkpop 1980')
+[2026-02-08 14:26:17] [148/154] Processing: The Black Crowes - 'Sunflower' 
+[2026-02-08 14:26:19]   ✓ Found Year: 1993 (from title: 'The Black Crowes - 'Sunflower' | Live at Pinkpop 1993')
+[2026-02-08 14:26:21] [149/154] Processing: Red Hot Chili Peppers - Californication 
+[2026-02-08 14:26:23]   ✓ Found Year: 2006 (from title: 'Red Hot Chili Peppers - Californication [HD] | Live at Pinkpop 2006')
+[2026-02-08 14:26:25] [150/154] Processing: Red Hot Chili Peppers - Otherside 
+[2026-02-08 14:26:28]   ✓ Found Year: 2006 (from title: 'Red Hot Chili Peppers - 'Otherside' [HD] | Live at Pinkpop 2006')
+[2026-02-08 14:26:30] [151/154] Processing: Radiohead - Creep 
+[2026-02-08 14:26:32]   ✓ Found Year: 1996 (from title: 'Radiohead - Creep [HD] | Live at Pinkpop 1996')
+[2026-02-08 14:26:34] [152/154] Processing: Rammstein - Rammstein 
+[2026-02-08 14:26:37]   ✓ Found Year: 1997 (from title: 'Rammstein - Full Concert [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:26:39] [153/154] Processing: Rammstein - Der Meister 
+[2026-02-08 14:26:41]   ✓ Found Year: 1997 (from title: 'Rammstein - 'Der Meister' [HD] | Live at Pinkpop 1997')
+[2026-02-08 14:26:43] [154/154] Processing: Moloko - Sing It Back 
+[2026-02-08 14:26:45]   ✓ Found Year: 2004 (from title: 'Moloko - Sing It Back [HD] | Live at Pinkpop 2004')
+[2026-02-08 14:26:47] ================================================================================
+[2026-02-08 14:26:47] SUMMARY
+[2026-02-08 14:26:47] ================================================================================
+[2026-02-08 14:26:47] Total videos processed: 154
+[2026-02-08 14:26:47] Updated years: 139
+[2026-02-08 14:26:47] Skipped (already set): 12
+[2026-02-08 14:26:47] Failed to update: 3
+[2026-02-08 14:26:47] ================================================================================

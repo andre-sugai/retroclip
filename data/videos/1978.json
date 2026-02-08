@@ -150,7 +150,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=3T1c7GkzRQQ",
     "imvdb_url": "https://imvdb.com/video/police-the/roxanne",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -194,7 +194,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=ptDz5BwAgXQ",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/respectable",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -326,7 +326,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=MX6MvV8cbh8",
     "imvdb_url": "https://imvdb.com/video/police-the/so-lonely",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -568,7 +568,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=VyK1bZZ7E-s",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/faraway-eyes",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -623,7 +623,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=hic-dnps6MU",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/miss-you",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -656,7 +656,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=nH0vjLwMyc4",
     "imvdb_url": "https://imvdb.com/video/police-the/cant-stand-losing-you",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -835,5 +835,29 @@
     "nationality": "BR",
     "is_show": true,
     "video_type": "show"
+  },
+  {
+    "id": 1770330293518163,
+    "song_title": "Roxanne",
+    "year": 1978,
+    "artist_name": "The Police",
+    "artist_genre": "new wave, rock, pop rock",
+    "youtube_link": "https://www.youtube.com/watch?v=TY8ZmCpEK68",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330301201012,
+    "song_title": "Lady Writer",
+    "year": 1978,
+    "artist_name": "Dire Straits",
+    "artist_genre": "rock, soft rock, classic rock",
+    "youtube_link": "https://youtu.be/FelIIIc0lUY?si=0XrSVvrsfrg-lDCU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

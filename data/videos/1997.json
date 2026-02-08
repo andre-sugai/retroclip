@@ -1019,7 +1019,7 @@
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/indochine/satellite",
     "artist": "Indochine",
-    "nationality": "INTL",
+    "nationality": "FR",
     "video_type": "clip"
   },
   {
@@ -1481,7 +1481,7 @@
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/matchbox-twenty/push",
     "artist": "Matchbox Twenty",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -2614,7 +2614,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=RZgBhyU4IvQ",
     "imvdb_url": "https://imvdb.com/video/bob-dylan/not-dark-yet",
     "artist": "Bob Dylan",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -5980,7 +5980,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=Abbu5hcH0kk",
     "imvdb_url": "https://imvdb.com/video/bob-dylan/love-sick",
     "artist": "Bob Dylan",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -6211,7 +6211,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=C-Naa1HXeDQ",
     "imvdb_url": "https://imvdb.com/video/matchbox-twenty/3-am",
     "artist": "Matchbox Twenty",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -6453,7 +6453,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=9hO-83CIVKM",
     "imvdb_url": "https://imvdb.com/video/bob-dylan/cold-irons-bound",
     "artist": "Bob Dylan",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -7223,7 +7223,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=BinwuzZVjnE",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/anybody-seen-my-baby",
     "artist": "The Rolling Stones",
-    "nationality": "INTL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -9258,7 +9258,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=d2FwTprUij4",
     "imvdb_url": "https://imvdb.com/video/toad-the-wet-sprocket/come-down",
     "artist": "Toad The Wet Sprocket",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -10555,5 +10555,173 @@
     ],
     "nationality": "GB",
     "record_label": "epitaph"
+  },
+  {
+    "id": 1770329862280981,
+    "song_title": "Du riechst so gut",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=UdTTgiLOhG8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329898269207,
+    "song_title": "Sehnsucht",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=y3S_RYqBD3I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329955030665,
+    "song_title": "Heirate mich",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=OppyHbmpalk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329984004458,
+    "song_title": "Asche zu Asche",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=DHnMEPWUMYI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330036921888,
+    "song_title": "Rammstein",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=EsGgoC59GsQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330069266655,
+    "song_title": "Bestrafe Mich",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=oeRlISIWX3w",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330094875835,
+    "song_title": "Der Meister",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=CGSSAwLurXg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330105522302,
+    "song_title": "Seemann",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=AfjGsUi_Fw0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330125054393,
+    "song_title": "Laichzeit",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=83SkGFIj91A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330146512421,
+    "song_title": "Tier",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=5KhQ8qtaS5c",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330162875948,
+    "song_title": "Engel",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=-zsuQrkiYTc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330242918918,
+    "song_title": "Wollt Ihr das Bett in Flammen sehen?",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=wxENsp1NLKU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330337018354,
+    "song_title": "Rammstein",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=EsGgoC59GsQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330343056146,
+    "song_title": "Der Meister",
+    "year": 1997,
+    "artist_name": "Rammstein",
+    "artist_genre": "industrial metal, german, neue deutsche härte",
+    "youtube_link": "https://www.youtube.com/watch?v=CGSSAwLurXg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

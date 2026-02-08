@@ -1766,7 +1766,7 @@
     "artist_genre": "New Wave",
     "youtube_link": "https://www.youtube.com/watch?v=oiBuYVa6b6k",
     "imvdb_url": "https://imvdb.com/video/indochine/un-jour-dans-notre-vie",
-    "nationality": "INTL",
+    "nationality": "FR",
     "video_type": "clip"
   },
   {
@@ -5636,7 +5636,7 @@
     "artist_genre": "Alternative Rock",
     "youtube_link": "https://www.youtube.com/watch?v=fK7bwIVrQFs",
     "imvdb_url": "https://imvdb.com/video/toad-the-wet-sprocket/somethings-always-wrong",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -5646,7 +5646,7 @@
     "artist_genre": "Alternative Rock",
     "youtube_link": "https://www.youtube.com/watch?v=_c5ln9wP0TA",
     "imvdb_url": "https://imvdb.com/video/toad-the-wet-sprocket/fall-down",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -5841,7 +5841,7 @@
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=84PETdu743A",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/you-got-me-rocking",
-    "nationality": "INTL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -5851,7 +5851,7 @@
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=hH_j_GjNKaY",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/out-of-tears",
-    "nationality": "INTL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -6911,7 +6911,7 @@
     "artist_genre": "Rock",
     "youtube_link": "https://www.youtube.com/watch?v=Te6VBiRjhqA",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/love-is-strong",
-    "nationality": "INTL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -7344,7 +7344,7 @@
     "duration_seconds": 5270,
     "video_type": "unknown",
     "video_tags": [],
-    "nationality": "GB",
+    "nationality": "EN",
     "is_show": true
   },
   {
@@ -7540,5 +7540,101 @@
     ],
     "nationality": "US",
     "record_label": "epitaph"
+  },
+  {
+    "id": 1770329783285206,
+    "song_title": "Disarm",
+    "year": 1994,
+    "artist_name": "Smashing Pumkins",
+    "artist_genre": "alternative rock, neo-psychedelia, shoegaze",
+    "youtube_link": "https://youtu.be/oXiCOkJD6sA?si=ti9rEk613xA7McsJ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329902078575,
+    "song_title": "Rocket",
+    "year": 1994,
+    "artist_name": "Smashing Pumkins",
+    "artist_genre": "alternative rock, neo-psychedelia, shoegaze",
+    "youtube_link": "https://www.youtube.com/watch?v=qIq47GhJcdg",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329929670080,
+    "song_title": "Geek U.S.A.",
+    "year": 1994,
+    "artist_name": "Smashing Pumkins",
+    "artist_genre": "alternative rock, neo-psychedelia, shoegaze",
+    "youtube_link": "https://www.youtube.com/watch?v=f7tMygTdt0Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329997699604,
+    "song_title": "Drown",
+    "year": 1994,
+    "artist_name": "Smashing Pumkins",
+    "artist_genre": "alternative rock, neo-psychedelia, shoegaze",
+    "youtube_link": "https://www.youtube.com/watch?v=HPA29yQNPHo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330040858665,
+    "song_title": "In Concert",
+    "year": 1994,
+    "artist_name": "Therapy?",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=O0AraE27ZhU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330136744492,
+    "song_title": "Hummer",
+    "year": 1994,
+    "artist_name": "Smashing Pumkins",
+    "artist_genre": "alternative rock, neo-psychedelia, shoegaze",
+    "youtube_link": "https://youtu.be/qwNpipZp9tc?si=XQpHrp_pvQbdeqKF",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330150556993,
+    "song_title": "Silverf*ck",
+    "year": 1994,
+    "artist_name": "Smashing Pumkins",
+    "artist_genre": "alternative rock, neo-psychedelia, shoegaze",
+    "youtube_link": "https://www.youtube.com/watch?v=d3cpy8JIXyw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330237107116,
+    "song_title": "I Am One",
+    "year": 1994,
+    "artist_name": "Smashing Pumkins",
+    "artist_genre": "alternative rock, neo-psychedelia, shoegaze",
+    "youtube_link": "https://www.youtube.com/watch?v=DAPmjMig2fk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

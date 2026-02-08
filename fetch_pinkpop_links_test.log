@@ -1,0 +1,78 @@
+[2026-02-08 12:31:36] ================================================================================
+[2026-02-08 12:31:36] Starting YouTube link fetching process (TEST MODE)
+[2026-02-08 12:31:36] ================================================================================
+[2026-02-08 12:31:36] Loaded 3 entries from /Users/andresugai/Desktop/PROJETOS/retroclip/data/videos/pinkpop2_test.json
+[2026-02-08 12:31:36] 
+[1/3] Processing: The Cure - 'Lovecats' [HD]
+[2026-02-08 12:31:38]   ✗ No results found
+[2026-02-08 12:31:40] 
+[2/3] Processing: Radiohead - 'The National Anthem' [HD]
+[2026-02-08 12:31:40]   ✗ No results found
+[2026-02-08 12:31:42] 
+[3/3] Processing: Ed Sheeran - 'Give Me Love' [HD]
+[2026-02-08 12:31:42]   ✗ No results found
+[2026-02-08 12:31:42] 
+================================================================================
+[2026-02-08 12:31:42] SUMMARY
+[2026-02-08 12:31:42] ================================================================================
+[2026-02-08 12:31:42] Total videos: 3
+[2026-02-08 12:31:42] Successfully updated: 0
+[2026-02-08 12:31:42] Failed: 3
+[2026-02-08 12:31:42] Success rate: 0.0%
+[2026-02-08 12:31:42] ================================================================================
+[2026-02-08 12:32:49] ================================================================================
+[2026-02-08 12:32:49] Starting YouTube link fetching process (TEST MODE)
+[2026-02-08 12:32:49] ================================================================================
+[2026-02-08 12:32:49] Loaded 3 entries from /Users/andresugai/Desktop/PROJETOS/retroclip/data/videos/pinkpop2_test.json
+[2026-02-08 12:32:49] 
+[1/3] Processing: The Cure - 'Lovecats' [HD]
+[2026-02-08 12:32:52]   ✓ Found: The Cure - 'Lovecats' [HD] 
+[2026-02-08 12:32:52]     URL: https://www.youtube.com/watch?v= Live at Pinkpop 2012
+[2026-02-08 12:32:52]   💾 Progress saved (1/3 updated)
+[2026-02-08 12:32:54] 
+[2/3] Processing: Radiohead - 'The National Anthem' [HD]
+[2026-02-08 12:32:57]   ✓ Found: Radiohead - 'The National Anthem' [HD] 
+[2026-02-08 12:32:57]     URL: https://www.youtube.com/watch?v= Live at Pinkpop 2001
+[2026-02-08 12:32:57]   💾 Progress saved (2/3 updated)
+[2026-02-08 12:32:59] 
+[3/3] Processing: Ed Sheeran - 'Give Me Love' [HD]
+[2026-02-08 12:33:02]   ✓ Found: Ed Sheeran - 'Give Me Love' [HD] 
+[2026-02-08 12:33:02]     URL: https://www.youtube.com/watch?v= Live at Pinkpop 2014
+[2026-02-08 12:33:02]   💾 Progress saved (3/3 updated)
+[2026-02-08 12:33:02] 
+================================================================================
+[2026-02-08 12:33:02] SUMMARY
+[2026-02-08 12:33:02] ================================================================================
+[2026-02-08 12:33:02] Total videos: 3
+[2026-02-08 12:33:02] Successfully updated: 3
+[2026-02-08 12:33:02] Failed: 0
+[2026-02-08 12:33:02] Success rate: 100.0%
+[2026-02-08 12:33:02] ================================================================================
+[2026-02-08 12:34:02] ================================================================================
+[2026-02-08 12:34:02] Starting YouTube link fetching process (TEST MODE)
+[2026-02-08 12:34:02] ================================================================================
+[2026-02-08 12:34:02] Loaded 3 entries from /Users/andresugai/Desktop/PROJETOS/retroclip/data/videos/pinkpop2_test.json
+[2026-02-08 12:34:02] 
+[1/3] Processing: The Cure - 'Lovecats' [HD]
+[2026-02-08 12:34:05]   ✓ Found: The Cure - 'Lovecats' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:34:05]     URL: https://www.youtube.com/watch?v=xDvH8NyRlss
+[2026-02-08 12:34:05]   💾 Progress saved (1/3 updated)
+[2026-02-08 12:34:07] 
+[2/3] Processing: Radiohead - 'The National Anthem' [HD]
+[2026-02-08 12:34:11]   ✓ Found: Radiohead - 'The National Anthem' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:34:11]     URL: https://www.youtube.com/watch?v=3gj80b1wjc0
+[2026-02-08 12:34:11]   💾 Progress saved (2/3 updated)
+[2026-02-08 12:34:13] 
+[3/3] Processing: Ed Sheeran - 'Give Me Love' [HD]
+[2026-02-08 12:34:16]   ✓ Found: Ed Sheeran - 'Give Me Love' [HD] | Live at Pinkpop 2014
+[2026-02-08 12:34:16]     URL: https://www.youtube.com/watch?v=rQ0NNtUtnH0
+[2026-02-08 12:34:16]   💾 Progress saved (3/3 updated)
+[2026-02-08 12:34:16] 
+================================================================================
+[2026-02-08 12:34:16] SUMMARY
+[2026-02-08 12:34:16] ================================================================================
+[2026-02-08 12:34:16] Total videos: 3
+[2026-02-08 12:34:16] Successfully updated: 3
+[2026-02-08 12:34:16] Failed: 0
+[2026-02-08 12:34:16] Success rate: 100.0%
+[2026-02-08 12:34:16] ================================================================================

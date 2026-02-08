@@ -61,6 +61,7 @@ const COUNTRY_NAMES: Record<string, string> = {
   BR: 'Brasil',
   US: 'Estados Unidos',
   GB: 'Reino Unido',
+  EN: 'Inglaterra',
   CA: 'Canadá',
   AU: 'Austrália',
   DE: 'Alemanha',

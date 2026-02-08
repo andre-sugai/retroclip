@@ -1,0 +1,803 @@
+[2026-02-08 12:34:26] ================================================================================
+[2026-02-08 12:34:26] Starting YouTube link fetching process
+[2026-02-08 12:34:26] ================================================================================
+[2026-02-08 12:34:26] Loaded 172 entries from /Users/andresugai/Desktop/PROJETOS/retroclip/data/videos/pinkpop2.json
+[2026-02-08 12:34:26] 
+[1/172] Processing: The Cure - 'Lovecats' [HD]
+[2026-02-08 12:34:29]   ✓ Found: The Cure - 'Lovecats' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:34:29]     URL: https://www.youtube.com/watch?v=xDvH8NyRlss
+[2026-02-08 12:34:29]   💾 Progress saved (1/172 updated)
+[2026-02-08 12:34:31] 
+[2/172] Processing: Radiohead - 'The National Anthem' [HD]
+[2026-02-08 12:34:34]   ✓ Found: Radiohead - 'The National Anthem' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:34:34]     URL: https://www.youtube.com/watch?v=3gj80b1wjc0
+[2026-02-08 12:34:34]   💾 Progress saved (2/172 updated)
+[2026-02-08 12:34:36] 
+[3/172] Processing: Ed Sheeran - 'Give Me Love' [HD]
+[2026-02-08 12:34:39]   ✓ Found: Ed Sheeran - 'Give Me Love' [HD] | Live at Pinkpop 2014
+[2026-02-08 12:34:39]     URL: https://www.youtube.com/watch?v=rQ0NNtUtnH0
+[2026-02-08 12:34:39]   💾 Progress saved (3/172 updated)
+[2026-02-08 12:34:41] 
+[4/172] Processing: Faith No More - 'We Care a Lot' [HD]
+[2026-02-08 12:34:44]   ✓ Found: Faith No More - 'We Care a Lot' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:34:44]     URL: https://www.youtube.com/watch?v=UH4-LRLyC5s
+[2026-02-08 12:34:44]   💾 Progress saved (4/172 updated)
+[2026-02-08 12:34:46] 
+[5/172] Processing: Keane - 'Crystal Ball' [HD]
+[2026-02-08 12:34:49]   ✓ Found: Keane - 'Crystal Ball' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:34:49]     URL: https://www.youtube.com/watch?v=Q0uYyEpOSfs
+[2026-02-08 12:34:49]   💾 Progress saved (5/172 updated)
+[2026-02-08 12:34:51] 
+[6/172] Processing: Faith No More - 'Introduce Yourself' [HD]
+[2026-02-08 12:34:54]   ✓ Found: Faith No More - 'Introduce Yourself' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:34:54]     URL: https://www.youtube.com/watch?v=mn_mdyYg-bw
+[2026-02-08 12:34:54]   💾 Progress saved (6/172 updated)
+[2026-02-08 12:34:56] 
+[7/172] Processing: Radiohead - 'In Limbo' [HD]
+[2026-02-08 12:34:59]   ✓ Found: Radiohead - 'In Limbo' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:34:59]     URL: https://www.youtube.com/watch?v=0_PWSUgNyHI
+[2026-02-08 12:34:59]   💾 Progress saved (7/172 updated)
+[2026-02-08 12:35:01] 
+[8/172] Processing: Manic Street Preachers - 'Found That Soul' [HD]
+[2026-02-08 12:35:04]   ✓ Found: Manic Street Preachers - 'Found That Soul' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:35:04]     URL: https://www.youtube.com/watch?v=aukIE2_54v8
+[2026-02-08 12:35:05]   💾 Progress saved (8/172 updated)
+[2026-02-08 12:35:07] 
+[9/172] Processing: Ed Sheeran - 'Fire' [HD]
+[2026-02-08 12:35:09]   ✓ Found: Ed Sheeran - 'Fire' [HD] | Live at Pinkpop 2014
+[2026-02-08 12:35:09]     URL: https://www.youtube.com/watch?v=muzaRKA9zrA
+[2026-02-08 12:35:09]   💾 Progress saved (9/172 updated)
+[2026-02-08 12:35:11] 
+[10/172] Processing: Robbie Williams - 'Hey Jude' [HD]
+[2026-02-08 12:35:14]   ✓ Found: Robbie Williams - 'Hey Jude' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:35:14]     URL: https://www.youtube.com/watch?v=txIc5mgJfU0
+[2026-02-08 12:35:14]   💾 Progress saved (10/172 updated)
+[2026-02-08 12:35:16] 
+[11/172] Processing: Massive Attack - 'Risingson' [HD]
+[2026-02-08 12:35:19]   ✓ Found: Massive Attack - 'Risingson' [HD] | Live at Pinkpop 2003
+[2026-02-08 12:35:19]     URL: https://www.youtube.com/watch?v=3A0ol4Chpgk
+[2026-02-08 12:35:19]   💾 Progress saved (11/172 updated)
+[2026-02-08 12:35:21] 
+[12/172] Processing: Smashing Pumkins - 'Disarm' [HD]
+[2026-02-08 12:35:24]   ✗ Found video but not from Pinkpop Archive (uploader: Tiago Eusébio)
+[2026-02-08 12:35:26] 
+[13/172] Processing: Manic Street Preachers - 'So Why So Sad' [HD]
+[2026-02-08 12:35:29]   ✓ Found: Manic Street Preachers - 'So Why So Sad' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:35:29]     URL: https://www.youtube.com/watch?v=zXxInEISSLI
+[2026-02-08 12:35:29]   💾 Progress saved (12/172 updated)
+[2026-02-08 12:35:31] 
+[14/172] Processing: The Cure - 'Let's Go To Bed' [HD]
+[2026-02-08 12:35:36]   ✓ Found: The Cure - 'Let's Go To Bed' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:35:36]     URL: https://www.youtube.com/watch?v=VH5tfNXOURo
+[2026-02-08 12:35:36]   💾 Progress saved (13/172 updated)
+[2026-02-08 12:35:38] 
+[15/172] Processing: Keane - 'Is It Any Wonder?' [HD]
+[2026-02-08 12:35:41]   ✓ Found: Keane - 'Is It Any Wonder?' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:35:41]     URL: https://www.youtube.com/watch?v=sBiIxVZxVcE
+[2026-02-08 12:35:41]   💾 Progress saved (14/172 updated)
+[2026-02-08 12:35:43] 
+[16/172] Processing: Robbie Williams - 'Lazy Days' [HD]
+[2026-02-08 12:35:46]   ✓ Found: Robbie Williams - 'Lazy Days' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:35:46]     URL: https://www.youtube.com/watch?v=xy_Ux77JKRY
+[2026-02-08 12:35:46]   💾 Progress saved (15/172 updated)
+[2026-02-08 12:35:48] 
+[17/172] Processing: Faith No More - 'Be Aggressive' [HD]
+[2026-02-08 12:35:52]   ✓ Found: Faith No More - 'Be Aggressive' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:35:52]     URL: https://www.youtube.com/watch?v=ehkIu-V-rtY
+[2026-02-08 12:35:52]   💾 Progress saved (16/172 updated)
+[2026-02-08 12:35:54] 
+[18/172] Processing: Keane - 'This Is The Last Time' [HD]
+[2026-02-08 12:35:57]   ✓ Found: Keane - 'This Is The Last Time' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:35:57]     URL: https://www.youtube.com/watch?v=YlksD5AweTw
+[2026-02-08 12:35:57]   💾 Progress saved (17/172 updated)
+[2026-02-08 12:35:59] 
+[19/172] Processing: The Cure - 'Boys Don't Cry' [HD]
+[2026-02-08 12:36:02]   ✗ Found video but not from Pinkpop Archive (uploader: 3voor12)
+[2026-02-08 12:36:04] 
+[20/172] Processing: Manic Street Preachers - 'If You Tolerate This Your Children Will Be Next'
+[2026-02-08 12:36:07]   ✓ Found: Manic Street Preachers - 'If You Tolerate This Your Children Will Be Next' | Live at Pinkpop 2001
+[2026-02-08 12:36:07]     URL: https://www.youtube.com/watch?v=KSXx6Axquyc
+[2026-02-08 12:36:07]   💾 Progress saved (18/172 updated)
+[2026-02-08 12:36:09] 
+[21/172] Processing: The Cure - 'Close To Me' [HD]
+[2026-02-08 12:36:12]   ✓ Found: The Cure - 'Close To Me' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:36:12]     URL: https://www.youtube.com/watch?v=D_virF4edIE
+[2026-02-08 12:36:12]   💾 Progress saved (19/172 updated)
+[2026-02-08 12:36:14] 
+[22/172] Processing: Faithless  - 'Insomnia' [HD]
+[2026-02-08 12:36:18]   ✓ Found: Faithless  - 'Insomnia' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:36:18]     URL: https://www.youtube.com/watch?v=8szJhLN8v8E
+[2026-02-08 12:36:18]   💾 Progress saved (20/172 updated)
+[2026-02-08 12:36:20] 
+[23/172] Processing: Keane - 'Bedshaped' [HD]
+[2026-02-08 12:36:23]   ✓ Found: Keane - 'Bedshaped' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:36:23]     URL: https://www.youtube.com/watch?v=DOQqx_ZsfCs
+[2026-02-08 12:36:23]   💾 Progress saved (21/172 updated)
+[2026-02-08 12:36:25] 
+[24/172] Processing: Massive Attack - 'Teardrop (with Dot Allison)' [HD]
+[2026-02-08 12:36:28]   ✓ Found: Massive Attack - 'Teardrop (with Dot Allison)' [HD] | Live at Pinkpop 2003
+[2026-02-08 12:36:28]     URL: https://www.youtube.com/watch?v=RA16cCfiOiA
+[2026-02-08 12:36:28]   💾 Progress saved (22/172 updated)
+[2026-02-08 12:36:30] 
+[25/172] Processing: Radiohead - 'Morning Bell' [HD]
+[2026-02-08 12:36:33]   ✓ Found: Radiohead - 'Morning Bell' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:36:33]     URL: https://www.youtube.com/watch?v=vxJa5NFjlko
+[2026-02-08 12:36:33]   💾 Progress saved (23/172 updated)
+[2026-02-08 12:36:35] 
+[26/172] Processing: Radiohead - 'No Surprises' [HD]
+[2026-02-08 12:36:38]   ✓ Found: Radiohead - 'No Surprises' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:36:38]     URL: https://www.youtube.com/watch?v=p-t9EUQWiUU
+[2026-02-08 12:36:38]   💾 Progress saved (24/172 updated)
+[2026-02-08 12:36:40] 
+[27/172] Processing: Keane - 'Somewhere Only We Know' [HD]
+[2026-02-08 12:36:44]   ✓ Found: Keane - 'Somewhere Only We Know' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:36:44]     URL: https://www.youtube.com/watch?v=D_fpEwdyOac
+[2026-02-08 12:36:44]   💾 Progress saved (25/172 updated)
+[2026-02-08 12:36:46] 
+[28/172] Processing: Manic Street Preachers - 'The Masses Against the Classes' [HD]
+[2026-02-08 12:36:49]   ✓ Found: Manic Street Preachers - 'The Masses Against the Classes' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:36:49]     URL: https://www.youtube.com/watch?v=NUb18R7U-Mo
+[2026-02-08 12:36:49]   💾 Progress saved (26/172 updated)
+[2026-02-08 12:36:51] 
+[29/172] Processing: Moloko - 'The Time Is Now' [HD]
+[2026-02-08 12:36:55]   ✓ Found: Moloko - 'The Time Is Now' [HD] | Live at Pinkpop 2004
+[2026-02-08 12:36:55]     URL: https://www.youtube.com/watch?v=ciE7WDye4wY
+[2026-02-08 12:36:55]   💾 Progress saved (27/172 updated)
+[2026-02-08 12:36:57] 
+[30/172] Processing: Radiohead - 'Lucky' [HD]
+[2026-02-08 12:37:00]   ✓ Found: Radiohead - 'Lucky' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:37:00]     URL: https://www.youtube.com/watch?v=MnMyQqChVDk
+[2026-02-08 12:37:00]   💾 Progress saved (28/172 updated)
+[2026-02-08 12:37:02] 
+[31/172] Processing: Faithless  - 'Salva Mea' [HD]
+[2026-02-08 12:37:05]   ✓ Found: Faithless  - 'Salva Mea' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:37:05]     URL: https://www.youtube.com/watch?v=kupztW6ctAk
+[2026-02-08 12:37:05]   💾 Progress saved (29/172 updated)
+[2026-02-08 12:37:07] 
+[32/172] Processing: Ed Sheeran - The A Team [HD]
+[2026-02-08 12:37:11]   ✓ Found: Ed Sheeran - The A Team [HD] | Live at Pinkpop 2014
+[2026-02-08 12:37:11]     URL: https://www.youtube.com/watch?v=mzBV5BeSCRc
+[2026-02-08 12:37:11]   💾 Progress saved (30/172 updated)
+[2026-02-08 12:37:13] 
+[33/172] Processing: Robbie Williams - 'Old Before I Die' [HD]
+[2026-02-08 12:37:17]   ✓ Found: Robbie Williams - 'Old Before I Die' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:37:17]     URL: https://www.youtube.com/watch?v=ioWIoH9qxTQ
+[2026-02-08 12:37:17]   💾 Progress saved (31/172 updated)
+[2026-02-08 12:37:19] 
+[34/172] Processing: Red Hot Chili Peppers - Snow (Hey Oh) [HD]
+[2026-02-08 12:37:22]   ✓ Found: Red Hot Chili Peppers - Snow (Hey Oh) [HD] | Live at Pinkpop 2006
+[2026-02-08 12:37:22]     URL: https://www.youtube.com/watch?v=oYieyikPWjw
+[2026-02-08 12:37:22]   💾 Progress saved (32/172 updated)
+[2026-02-08 12:37:24] 
+[35/172] Processing: Massive Attack - 'Unfinished Sympathy (with Deborah Miller)' [HD]
+[2026-02-08 12:37:27]   ✓ Found: Massive Attack - 'Unfinished Sympathy (with Deborah Miller)' [HD] | Live at Pinkpop 2003
+[2026-02-08 12:37:27]     URL: https://www.youtube.com/watch?v=9VClwN_0nCs
+[2026-02-08 12:37:27]   💾 Progress saved (33/172 updated)
+[2026-02-08 12:37:29] 
+[36/172] Processing: Red Hot Chili Peppers - Scar Tissue [HD]
+[2026-02-08 12:37:32]   ✗ Found video but not from Pinkpop Archive (uploader: Ayhan Altin)
+[2026-02-08 12:37:34] 
+[37/172] Processing: Faith No More - 'Evidence' [HD]
+[2026-02-08 12:37:37]   ✓ Found: Faith No More - 'Evidence' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:37:37]     URL: https://www.youtube.com/watch?v=liMM4ggPPgA
+[2026-02-08 12:37:37]   💾 Progress saved (34/172 updated)
+[2026-02-08 12:37:39] 
+[38/172] Processing: Rage Against The Machine - 'Freedom' [HD]
+[2026-02-08 12:37:43]   ✗ Found video but not from Pinkpop Archive (uploader: Dime bag Santos)
+[2026-02-08 12:37:45] 
+[39/172] Processing: Rammstein - 'Du riechst so gut' [HD]
+[2026-02-08 12:37:48]   ✓ Found: Rammstein - 'Du riechst so gut' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:37:48]     URL: https://www.youtube.com/watch?v=UdTTgiLOhG8
+[2026-02-08 12:37:48]   💾 Progress saved (35/172 updated)
+[2026-02-08 12:37:50] 
+[40/172] Processing: The Cure - 'Why Can't I Be You' [HD]
+[2026-02-08 12:37:53]   ✓ Found: The Cure - 'Why Can't I Be You' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:37:53]     URL: https://www.youtube.com/watch?v=PlTe7xRvc5Y
+[2026-02-08 12:37:53]   💾 Progress saved (36/172 updated)
+[2026-02-08 12:37:55] 
+[41/172] Processing: Manic Street Preachers - 'Motorcycle Emptiness' [HD]
+[2026-02-08 12:37:58]   ✓ Found: Manic Street Preachers - 'Motorcycle Emptiness' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:37:58]     URL: https://www.youtube.com/watch?v=-5PCQP2SfIY
+[2026-02-08 12:37:58]   💾 Progress saved (37/172 updated)
+[2026-02-08 12:38:00] 
+[42/172] Processing: Evanescence - 'Bring Me To Life' [HD]
+[2026-02-08 12:38:04]   ✓ Found: Evanescence - 'Bring Me To Life' [HD] | Live at Pinkpop 2003
+[2026-02-08 12:38:04]     URL: https://www.youtube.com/watch?v=ZMey2LDtX7I
+[2026-02-08 12:38:04]   💾 Progress saved (38/172 updated)
+[2026-02-08 12:38:06] 
+[43/172] Processing: Limp Bizkit - 'Rollin' (Air Raid Vehicle)' [HD]
+[2026-02-08 12:38:09]   ✓ Found: Limp Bizkit - 'Rollin' (Air Raid Vehicle)' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:38:09]     URL: https://www.youtube.com/watch?v=NSo1x9MNM3A
+[2026-02-08 12:38:09]   💾 Progress saved (39/172 updated)
+[2026-02-08 12:38:11] 
+[44/172] Processing: Keane - 'Everybody's Changing' [HD]
+[2026-02-08 12:38:14]   ✓ Found: Keane - 'Everybody's Changing' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:38:14]     URL: https://www.youtube.com/watch?v=8me_qG1SSgM
+[2026-02-08 12:38:14]   💾 Progress saved (40/172 updated)
+[2026-02-08 12:38:16] 
+[45/172] Processing: Within Temptation - 'Ice Queen' [HD]
+[2026-02-08 12:38:20]   ✓ Found: Within Temptation - 'Ice Queen' [HD] | Live at Pinkpop 2005
+[2026-02-08 12:38:20]     URL: https://www.youtube.com/watch?v=j4NhKN6DFTQ
+[2026-02-08 12:38:20]   💾 Progress saved (41/172 updated)
+[2026-02-08 12:38:22] 
+[46/172] Processing: Radiohead - 'Exit Music (For a Film)' [HD]
+[2026-02-08 12:38:25]   ✓ Found: Radiohead - 'Exit Music (For a Film)' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:38:25]     URL: https://www.youtube.com/watch?v=HADWnWFs0lE
+[2026-02-08 12:38:25]   💾 Progress saved (42/172 updated)
+[2026-02-08 12:38:27] 
+[47/172] Processing: Limp Bizkit - 'Take a Look Around' [HD]
+[2026-02-08 12:38:31]   ✓ Found: Limp Bizkit - 'Take a Look Around' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:38:31]     URL: https://www.youtube.com/watch?v=EtD6NEvr4g4
+[2026-02-08 12:38:31]   💾 Progress saved (43/172 updated)
+[2026-02-08 12:38:33] 
+[48/172] Processing: Faithless  - 'God Is A DJ' [HD]
+[2026-02-08 12:38:36]   ✓ Found: Faithless  - 'God Is A DJ' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:38:36]     URL: https://www.youtube.com/watch?v=1GCm5TARBiQ
+[2026-02-08 12:38:36]   💾 Progress saved (44/172 updated)
+[2026-02-08 12:38:38] 
+[49/172] Processing: Garbage - In Concert [HD]
+[2026-02-08 12:38:42]   ✓ Found: Garbage - In Concert [HD] | Live at Pinkpop 1998
+[2026-02-08 12:38:42]     URL: https://www.youtube.com/watch?v=kqU7yNn6quU
+[2026-02-08 12:38:42]   💾 Progress saved (45/172 updated)
+[2026-02-08 12:38:44] 
+[50/172] Processing: Rammstein - 'Sehnsucht' [HD]
+[2026-02-08 12:38:47]   ✓ Found: Rammstein - 'Sehnsucht' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:38:47]     URL: https://www.youtube.com/watch?v=y3S_RYqBD3I
+[2026-02-08 12:38:47]   💾 Progress saved (46/172 updated)
+[2026-02-08 12:38:49] 
+[51/172] Processing: The Cure - 'Play For Today' [HD]
+[2026-02-08 12:38:53]   ✓ Found: The Cure - 'Play For Today' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:38:53]     URL: https://www.youtube.com/watch?v=4BHlGhqohpQ
+[2026-02-08 12:38:53]   💾 Progress saved (47/172 updated)
+[2026-02-08 12:38:55] 
+[52/172] Processing: Smashing Pumkins - 'Rocket' [HD]
+[2026-02-08 12:38:58]   ✓ Found: Smashing Pumkins - 'Rocket' [HD] | Live at Pinkpop 1994
+[2026-02-08 12:38:58]     URL: https://www.youtube.com/watch?v=qIq47GhJcdg
+[2026-02-08 12:38:58]   💾 Progress saved (48/172 updated)
+[2026-02-08 12:39:00] 
+[53/172] Processing: Muse - 'Stockholm Syndrome' [HD]
+[2026-02-08 12:39:03]   ✓ Found: Muse - 'Stockholm Syndrome' [HD] | Live at Pinkpop 2004
+[2026-02-08 12:39:03]     URL: https://www.youtube.com/watch?v=aFuluB9ym1U
+[2026-02-08 12:39:03]   💾 Progress saved (49/172 updated)
+[2026-02-08 12:39:05] 
+[54/172] Processing: Linkin Park - 'Faint' [HD]
+[2026-02-08 12:39:09]   ✓ Found: Linkin Park - 'Faint' [HD] | Live at Pinkpop 2007
+[2026-02-08 12:39:09]     URL: https://www.youtube.com/watch?v=w6i-lj0gql8
+[2026-02-08 12:39:09]   💾 Progress saved (50/172 updated)
+[2026-02-08 12:39:11] 
+[55/172] Processing: Ed Sheeran - 'You Need Me, I Don't Need You' [HD]
+[2026-02-08 12:39:14]   ✓ Found: Ed Sheeran - 'You Need Me, I Don't Need You' [HD] | Live at Pinkpop 2014
+[2026-02-08 12:39:14]     URL: https://www.youtube.com/watch?v=g5Dm7ESKDcE
+[2026-02-08 12:39:14]   💾 Progress saved (51/172 updated)
+[2026-02-08 12:39:16] 
+[56/172] Processing: Robbie Williams - 'No Regrets' [HD]
+[2026-02-08 12:39:19]   ✓ Found: Robbie Williams - 'No Regrets' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:39:19]     URL: https://www.youtube.com/watch?v=Res5HBZ-eg8
+[2026-02-08 12:39:19]   💾 Progress saved (52/172 updated)
+[2026-02-08 12:39:21] 
+[57/172] Processing: Faith No More - 'Get Out' [HD]
+[2026-02-08 12:39:24]   ✓ Found: Faith No More - 'Get Out' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:39:24]     URL: https://www.youtube.com/watch?v=P97zZ6vvdto
+[2026-02-08 12:39:24]   💾 Progress saved (53/172 updated)
+[2026-02-08 12:39:26] 
+[58/172] Processing: The Cure - 'A Forest' [HD]
+[2026-02-08 12:39:30]   ✗ Found video but not from Pinkpop Archive (uploader: 3voor12)
+[2026-02-08 12:39:32] 
+[59/172] Processing: Red Hot Chili Peppers - Can't Stop [HD]
+[2026-02-08 12:39:36]   ✓ Found: Red Hot Chili Peppers - Can't Stop [HD] | Live at Pinkpop 2006
+[2026-02-08 12:39:36]     URL: https://www.youtube.com/watch?v=KGch0eqngMs
+[2026-02-08 12:39:36]   💾 Progress saved (54/172 updated)
+[2026-02-08 12:39:38] 
+[60/172] Processing: Evanescence - 'Everybody's Fool' [HD]
+[2026-02-08 12:39:41]   ✓ Found: Evanescence - 'Everybody's Fool' [HD] | Live at Pinkpop 2003
+[2026-02-08 12:39:41]     URL: https://www.youtube.com/watch?v=n50vNFI_yWM
+[2026-02-08 12:39:41]   💾 Progress saved (55/172 updated)
+[2026-02-08 12:39:43] 
+[61/172] Processing: Smashing Pumkins - 'Geek U.S.A.' [HD]
+[2026-02-08 12:39:46]   ✓ Found: Smashing Pumkins - 'Geek U.S.A.' [HD] | Live at Pinkpop 1994
+[2026-02-08 12:39:46]     URL: https://www.youtube.com/watch?v=f7tMygTdt0Y
+[2026-02-08 12:39:46]   💾 Progress saved (56/172 updated)
+[2026-02-08 12:39:48] 
+[62/172] Processing: Sepultura - 'Refuse/Resist' [HD]
+[2026-02-08 12:39:51]   ✓ Found: Sepultura - 'Refuse/Resist' [HD] | Live at Pinkpop 1996
+[2026-02-08 12:39:51]     URL: https://www.youtube.com/watch?v=hLMP1PbwVwM
+[2026-02-08 12:39:51]   💾 Progress saved (57/172 updated)
+[2026-02-08 12:39:53] 
+[63/172] Processing: Faith No More - 'What a Day' [HD]
+[2026-02-08 12:39:57]   ✓ Found: Faith No More - 'What a Day' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:39:57]     URL: https://www.youtube.com/watch?v=yvZEyqBwh3A
+[2026-02-08 12:39:57]   💾 Progress saved (58/172 updated)
+[2026-02-08 12:39:59] 
+[64/172] Processing: Linkin Park - Numb [HD]
+[2026-02-08 12:40:02]   ✓ Found: Linkin Park - Numb [HD] | Live at Pinkpop 2007
+[2026-02-08 12:40:02]     URL: https://www.youtube.com/watch?v=jWoFbBCGp1A
+[2026-02-08 12:40:02]   💾 Progress saved (59/172 updated)
+[2026-02-08 12:40:04] 
+[65/172] Processing: Muse - 'Hysteria' [HD]
+[2026-02-08 12:40:08]   ✓ Found: Muse - 'Hysteria' [HD] | Live at Pinkpop 2004
+[2026-02-08 12:40:08]     URL: https://www.youtube.com/watch?v=TnyhvmJJYQM
+[2026-02-08 12:40:08]   💾 Progress saved (60/172 updated)
+[2026-02-08 12:40:10] 
+[66/172] Processing: Rage Against The Machine - 'Fistful of Steel' [HD]
+[2026-02-08 12:40:13]   ✗ Found video but not from Pinkpop Archive (uploader: Raymond JE)
+[2026-02-08 12:40:15] 
+[67/172] Processing: Rammstein - 'Heirate mich' [HD]
+[2026-02-08 12:40:18]   ✓ Found: Rammstein - 'Heirate mich' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:40:18]     URL: https://www.youtube.com/watch?v=OppyHbmpalk
+[2026-02-08 12:40:18]   💾 Progress saved (61/172 updated)
+[2026-02-08 12:40:20] 
+[68/172] Processing: The Cure - 'Friday I'm In Love' [HD]
+[2026-02-08 12:40:24]   ✓ Found: The Cure - 'Friday I'm In Love' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:40:24]     URL: https://www.youtube.com/watch?v=xgI0IWLugPo
+[2026-02-08 12:40:24]   💾 Progress saved (62/172 updated)
+[2026-02-08 12:40:26] 
+[69/172] Processing: Soundgarden - 'Spoonman' [HD]
+[2026-02-08 12:40:29]   ✓ Found: Soundgarden - 'Spoonman' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:40:29]     URL: https://www.youtube.com/watch?v=NBwZ7wae9Dw
+[2026-02-08 12:40:29]   💾 Progress saved (63/172 updated)
+[2026-02-08 12:40:31] 
+[70/172] Processing: Red Hot Chili Peppers - By The Way [HD]
+[2026-02-08 12:40:34]   ✓ Found: Red Hot Chili Peppers - By The Way [HD] | Live at Pinkpop 2006
+[2026-02-08 12:40:34]     URL: https://www.youtube.com/watch?v=uf32OsYQlUA
+[2026-02-08 12:40:34]   💾 Progress saved (64/172 updated)
+[2026-02-08 12:40:36] 
+[71/172] Processing: Robbie Williams - 'Strong' [HD]
+[2026-02-08 12:40:39]   ✗ Found video but not from Pinkpop Archive (uploader: ChrisB)
+[2026-02-08 12:40:41] 
+[72/172] Processing: Within Temptation - 'Memories' [HD]
+[2026-02-08 12:40:45]   ✓ Found: Within Temptation - 'Memories' [HD] | Live at Pinkpop 2005
+[2026-02-08 12:40:45]     URL: https://www.youtube.com/watch?v=sPlANuRHdAw
+[2026-02-08 12:40:45]   💾 Progress saved (65/172 updated)
+[2026-02-08 12:40:47] 
+[73/172] Processing: Robbie Williams - 'Man Machine' [HD]
+[2026-02-08 12:40:50]   ✓ Found: Robbie Williams - 'Man Machine' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:40:50]     URL: https://www.youtube.com/watch?v=FYGo2KlIcUY
+[2026-02-08 12:40:50]   💾 Progress saved (66/172 updated)
+[2026-02-08 12:40:52] 
+[74/172] Processing: Ed Sheeran - Thinking Out Loud [HD]
+[2026-02-08 12:40:55]   ✓ Found: Ed Sheeran - Thinking Out Loud [HD] | Live at Pinkpop 2014
+[2026-02-08 12:40:55]     URL: https://www.youtube.com/watch?v=zKrL_fo5FNk
+[2026-02-08 12:40:55]   💾 Progress saved (67/172 updated)
+[2026-02-08 12:40:57] 
+[75/172] Processing: Faith No More - 'Caralho Voador' [HD]
+[2026-02-08 12:41:00]   ✓ Found: Faith No More - 'Caralho Voador' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:41:00]     URL: https://www.youtube.com/watch?v=hKZXDrcP1os
+[2026-02-08 12:41:00]   💾 Progress saved (68/172 updated)
+[2026-02-08 12:41:02] 
+[76/172] Processing: Rammstein - 'Asche zu Asche' [HD]
+[2026-02-08 12:41:05]   ✓ Found: Rammstein - 'Asche zu Asche' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:41:05]     URL: https://www.youtube.com/watch?v=DHnMEPWUMYI
+[2026-02-08 12:41:05]   💾 Progress saved (69/172 updated)
+[2026-02-08 12:41:07] 
+[77/172] Processing: Soundgarden - 'Fell On Black Days' [HD]
+[2026-02-08 12:41:11]   ✓ Found: Soundgarden - 'Fell On Black Days' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:41:11]     URL: https://www.youtube.com/watch?v=ZlWaKNd3NL4
+[2026-02-08 12:41:11]   💾 Progress saved (70/172 updated)
+[2026-02-08 12:41:13] 
+[78/172] Processing: Muse - 'Time Is Running Out' [HD]
+[2026-02-08 12:41:16]   ✓ Found: Muse - 'Time Is Running Out' [HD] | Live at Pinkpop 2004
+[2026-02-08 12:41:16]     URL: https://www.youtube.com/watch?v=8raKO7rDwkQ
+[2026-02-08 12:41:16]   💾 Progress saved (71/172 updated)
+[2026-02-08 12:41:18] 
+[79/172] Processing: Rage Against The Machine - 'Bombtrack' [HD]
+[2026-02-08 12:41:21]   ✗ Found video but not from Pinkpop Archive (uploader: Rage Against the Machine)
+[2026-02-08 12:41:23] 
+[80/172] Processing: Smashing Pumkins - 'Drown' [HD]
+[2026-02-08 12:41:26]   ✓ Found: Smashing Pumkins - 'Drown' [HD] | Live at Pinkpop 1994
+[2026-02-08 12:41:26]     URL: https://www.youtube.com/watch?v=HPA29yQNPHo
+[2026-02-08 12:41:26]   💾 Progress saved (72/172 updated)
+[2026-02-08 12:41:28] 
+[81/172] Processing: Muse - 'Plug In Baby' [HD]
+[2026-02-08 12:41:32]   ✗ Found video but not from Pinkpop Archive (uploader: Muse)
+[2026-02-08 12:41:34] 
+[82/172] Processing: Red Hot Chili Peppers - Californication [HD]
+[2026-02-08 12:41:37]   ✓ Found: Red Hot Chili Peppers - Californication [HD] | Live at Pinkpop 2006
+[2026-02-08 12:41:37]     URL: https://www.youtube.com/watch?v=F7UlxddSfyw
+[2026-02-08 12:41:37]   💾 Progress saved (73/172 updated)
+[2026-02-08 12:41:39] 
+[83/172] Processing: Linkin Park - What I've Done [HD]
+[2026-02-08 12:41:42]   ✓ Found: Linkin Park - What I've Done [HD] | Live at Pinkpop 2007
+[2026-02-08 12:41:42]     URL: https://www.youtube.com/watch?v=D6VOrAlNrWs
+[2026-02-08 12:41:42]   💾 Progress saved (74/172 updated)
+[2026-02-08 12:41:44] 
+[84/172] Processing: Lou Reed - In Concert [HD]
+[2026-02-08 12:41:47]   ✓ Found: Lou Reed - In Concert [HD] | Live at Pinkpop 1992
+[2026-02-08 12:41:47]     URL: https://www.youtube.com/watch?v=b8sZ6HV6IIA
+[2026-02-08 12:41:47]   💾 Progress saved (75/172 updated)
+[2026-02-08 12:41:49] 
+[85/172] Processing: Within Temptation - 'Angels' [HD]
+[2026-02-08 12:41:52]   ✓ Found: Within Temptation - 'Angels' [HD] | Live at Pinkpop 2005
+[2026-02-08 12:41:52]     URL: https://www.youtube.com/watch?v=6Xb-i_o_EYk
+[2026-02-08 12:41:52]   💾 Progress saved (76/172 updated)
+[2026-02-08 12:41:54] 
+[86/172] Processing: Evanescence - 'Going Under' [HD]
+[2026-02-08 12:41:58]   ✓ Found: Evanescence - 'Going Under' [HD] | Live at Pinkpop 2003
+[2026-02-08 12:41:58]     URL: https://www.youtube.com/watch?v=hW_oC6buisY
+[2026-02-08 12:41:58]   💾 Progress saved (77/172 updated)
+[2026-02-08 12:42:00] 
+[87/172] Processing: Red Hot Chili Peppers - 'Otherside' [HD]
+[2026-02-08 12:42:03]   ✓ Found: Red Hot Chili Peppers - 'Otherside' [HD] | Live at Pinkpop 2006
+[2026-02-08 12:42:03]     URL: https://www.youtube.com/watch?v=RWdhIo7Ch6k
+[2026-02-08 12:42:03]   💾 Progress saved (78/172 updated)
+[2026-02-08 12:42:05] 
+[88/172] Processing: Rage Against The Machine -Improved audio! -  In Concert [HD]
+[2026-02-08 12:42:08]   ✗ Found video but not from Pinkpop Archive (uploader: Dulces sueños)
+[2026-02-08 12:42:10] 
+[89/172] Processing: Radiohead - Creep [HD]
+[2026-02-08 12:42:13]   ✓ Found: Radiohead - Creep [HD] | Live at Pinkpop 1996
+[2026-02-08 12:42:13]     URL: https://www.youtube.com/watch?v=Eohw2uwuIT0
+[2026-02-08 12:42:13]   💾 Progress saved (79/172 updated)
+[2026-02-08 12:42:15] 
+[90/172] Processing: Rammstein - 'Rammstein' [HD]
+[2026-02-08 12:42:18]   ✓ Found: Rammstein - Full Concert [HD] | Live at Pinkpop 1997
+[2026-02-08 12:42:18]     URL: https://www.youtube.com/watch?v=EsGgoC59GsQ
+[2026-02-08 12:42:18]   💾 Progress saved (80/172 updated)
+[2026-02-08 12:42:20] 
+[91/172] Processing: Robbie Williams - 'Song 2' [HD]
+[2026-02-08 12:42:23]   ✓ Found: Robbie Williams - 'Song 2' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:42:23]     URL: https://www.youtube.com/watch?v=MKZ1tqyp2Ys
+[2026-02-08 12:42:23]   💾 Progress saved (81/172 updated)
+[2026-02-08 12:42:25] 
+[92/172] Processing: Therapy? - In Concert [HD]
+[2026-02-08 12:42:28]   ✓ Found: Therapy? - In Concert [HD] | Live at Pinkpop 1994
+[2026-02-08 12:42:28]     URL: https://www.youtube.com/watch?v=O0AraE27ZhU
+[2026-02-08 12:42:28]   💾 Progress saved (82/172 updated)
+[2026-02-08 12:42:30] 
+[93/172] Processing: Moloko - Sing It Back [HD]
+[2026-02-08 12:42:34]   ✓ Found: Moloko - Sing It Back [HD] | Live at Pinkpop 2004
+[2026-02-08 12:42:34]     URL: https://www.youtube.com/watch?v=JWYiYhskl6M
+[2026-02-08 12:42:34]   💾 Progress saved (83/172 updated)
+[2026-02-08 12:42:36] 
+[94/172] Processing: Rage Against The Machine - 'Take the Power Back' [HD]
+[2026-02-08 12:42:39]   ✗ Found video but not from Pinkpop Archive (uploader: Rage Against the Machine)
+[2026-02-08 12:42:41] 
+[95/172] Processing: Faith No More - 'Ricochet' [HD]
+[2026-02-08 12:42:44]   ✓ Found: Faith No More - 'Ricochet' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:42:44]     URL: https://www.youtube.com/watch?v=U-mymMk64iI
+[2026-02-08 12:42:44]   💾 Progress saved (84/172 updated)
+[2026-02-08 12:42:46] 
+[96/172] Processing: Soundgarden - 'Black Hole Sun' [HD]
+[2026-02-08 12:42:49]   ✓ Found: Soundgarden - 'Black Hole Sun' [HD] | Live at Pinkpop 2012
+[2026-02-08 12:42:49]     URL: https://www.youtube.com/watch?v=vN_AhUrHkRI
+[2026-02-08 12:42:49]   💾 Progress saved (85/172 updated)
+[2026-02-08 12:42:51] 
+[97/172] Processing: Linkin Park - In The End [HD]
+[2026-02-08 12:42:55]   ✓ Found: Linkin Park - In The End [HD] | Live at Pinkpop 2007
+[2026-02-08 12:42:55]     URL: https://www.youtube.com/watch?v=k0WHJO6x-AU
+[2026-02-08 12:42:55]   💾 Progress saved (86/172 updated)
+[2026-02-08 12:42:57] 
+[98/172] Processing: Rammstein - 'Bestrafe Mich' [HD]
+[2026-02-08 12:43:00]   ✓ Found: Rammstein - 'Bestrafe Mich' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:43:00]     URL: https://www.youtube.com/watch?v=oeRlISIWX3w
+[2026-02-08 12:43:00]   💾 Progress saved (87/172 updated)
+[2026-02-08 12:43:02] 
+[99/172] Processing: Ed Sheeran - Sing [HD]
+[2026-02-08 12:43:06]   ✗ Found video but not from Pinkpop Archive (uploader: 3voor12)
+[2026-02-08 12:43:08] 
+[100/172] Processing: Soundgarden - 'Rusty Cage' [HD]
+[2026-02-08 12:43:11]   ✗ Found video but not from Pinkpop Archive (uploader: Oscar Hidalgo)
+[2026-02-08 12:43:13] 
+[101/172] Processing: Red Hot Chili Peppers - Under The Bridge [HD]
+[2026-02-08 12:43:16]   ✓ Found: Red Hot Chili Peppers - Under The Bridge [HD] | Live at Pinkpop 2006
+[2026-02-08 12:43:16]     URL: https://www.youtube.com/watch?v=kkN0BEVABZQ
+[2026-02-08 12:43:16]   💾 Progress saved (88/172 updated)
+[2026-02-08 12:43:18] 
+[102/172] Processing: Faith No More - 'Digging The Grave' [HD]
+[2026-02-08 12:43:22]   ✓ Found: Faith No More - 'Digging The Grave' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:43:22]     URL: https://www.youtube.com/watch?v=xHljQES7nFE
+[2026-02-08 12:43:22]   💾 Progress saved (89/172 updated)
+[2026-02-08 12:43:24] 
+[103/172] Processing: Rammstein - 'Der Meister' [HD]
+[2026-02-08 12:43:27]   ✓ Found: Rammstein - 'Der Meister' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:43:27]     URL: https://www.youtube.com/watch?v=CGSSAwLurXg
+[2026-02-08 12:43:27]   💾 Progress saved (90/172 updated)
+[2026-02-08 12:43:29] 
+[104/172] Processing: Crowded House - 'Weather With You' [HD]
+[2026-02-08 12:43:32]   ✗ Found video but not from Pinkpop Archive (uploader: 3voor12)
+[2026-02-08 12:43:34] 
+[105/172] Processing: Rammstein - 'Seemann' [HD]
+[2026-02-08 12:43:37]   ✓ Found: Rammstein - 'Seemann' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:43:37]     URL: https://www.youtube.com/watch?v=AfjGsUi_Fw0
+[2026-02-08 12:43:37]   💾 Progress saved (91/172 updated)
+[2026-02-08 12:43:39] 
+[106/172] Processing: Robbie Williams - 'Should I Stay or Should I Go' [HD]
+[2026-02-08 12:43:42]   ✓ Found: Robbie Williams - 'Should I Stay or Should I Go' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:43:42]     URL: https://www.youtube.com/watch?v=9EprvB068pc
+[2026-02-08 12:43:42]   💾 Progress saved (92/172 updated)
+[2026-02-08 12:43:44] 
+[107/172] Processing: Faith No More - 'Caffeine' [HD]
+[2026-02-08 12:43:48]   ✓ Found: Faith No More - 'Caffeine' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:43:48]     URL: https://www.youtube.com/watch?v=9CuiM0zwkws
+[2026-02-08 12:43:48]   💾 Progress saved (93/172 updated)
+[2026-02-08 12:43:50] 
+[108/172] Processing: Soundgarden - 'Jesus Christ Pose' [HD]
+[2026-02-08 12:43:53]   ✓ Found: Soundgarden - 'Jesus Christ Pose' [HD] | Live at Pinkpop 1992
+[2026-02-08 12:43:53]     URL: https://www.youtube.com/watch?v=Ck49aD-x7HM
+[2026-02-08 12:43:53]   💾 Progress saved (94/172 updated)
+[2026-02-08 12:43:55] 
+[109/172] Processing: Faith No More - 'Easy' [HD]
+[2026-02-08 12:43:58]   ✓ Found: Faith No More - 'Easy' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:43:58]     URL: https://www.youtube.com/watch?v=v6UwV-VLIkE
+[2026-02-08 12:43:58]   💾 Progress saved (95/172 updated)
+[2026-02-08 12:44:00] 
+[110/172] Processing: Rammstein - 'Laichzeit' [HD]
+[2026-02-08 12:44:04]   ✓ Found: Rammstein - 'Laichzeit' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:44:04]     URL: https://www.youtube.com/watch?v=83SkGFIj91A
+[2026-02-08 12:44:04]   💾 Progress saved (96/172 updated)
+[2026-02-08 12:44:06] 
+[111/172] Processing: Alanis Morissette - 'Ironic' [HD]
+[2026-02-08 12:44:09]   ✓ Found: Alanis Morissette - 'Ironic' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:44:09]     URL: https://www.youtube.com/watch?v=UO4qJ81LqZ8
+[2026-02-08 12:44:09]   💾 Progress saved (97/172 updated)
+[2026-02-08 12:44:11] 
+[112/172] Processing: Smashing Pumkins - 'Hummer' [HD]
+[2026-02-08 12:44:14]   ✗ Found video but not from Pinkpop Archive (uploader: 90`s Live Archive)
+[2026-02-08 12:44:16] 
+[113/172] Processing: Radiohead - 'Lift' [HD]
+[2026-02-08 12:44:19]   ✓ Found: Radiohead - 'Lift' [HD] | Live at Pinkpop 1996
+[2026-02-08 12:44:19]     URL: https://www.youtube.com/watch?v=P20r9blqt2I
+[2026-02-08 12:44:19]   💾 Progress saved (98/172 updated)
+[2026-02-08 12:44:21] 
+[114/172] Processing: Rammstein - 'Tier' [HD]
+[2026-02-08 12:44:24]   ✓ Found: Rammstein - 'Tier' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:44:24]     URL: https://www.youtube.com/watch?v=5KhQ8qtaS5c
+[2026-02-08 12:44:24]   💾 Progress saved (99/172 updated)
+[2026-02-08 12:44:26] 
+[115/172] Processing: Rage Against The Machine - 'People of the Sun' [HD]
+[2026-02-08 12:44:29]   ✗ Found video but not from Pinkpop Archive (uploader: edybtt Music)
+[2026-02-08 12:44:31] 
+[116/172] Processing: Smashing Pumkins - 'Silverf*ck' [HD]
+[2026-02-08 12:44:35]   ✓ Found: Smashing Pumkins - 'Silverf*ck' [HD] | Live at Pinkpop 1994
+[2026-02-08 12:44:35]     URL: https://www.youtube.com/watch?v=d3cpy8JIXyw
+[2026-02-08 12:44:35]   💾 Progress saved (100/172 updated)
+[2026-02-08 12:44:37] 
+[117/172] Processing: Rammstein - 'Engel' [HD]
+[2026-02-08 12:44:40]   ✓ Found: Rammstein - 'Engel' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:44:40]     URL: https://www.youtube.com/watch?v=-zsuQrkiYTc
+[2026-02-08 12:44:40]   💾 Progress saved (101/172 updated)
+[2026-02-08 12:44:42] 
+[118/172] Processing: Rage Against The Machine - 'Bullet in the Head' [HD]
+[2026-02-08 12:44:46]   ✗ Found video but not from Pinkpop Archive (uploader: Raymond JE)
+[2026-02-08 12:44:48] 
+[119/172] Processing: Faith No More - 'Midlife Crisis' [HD]
+[2026-02-08 12:44:51]   ✓ Found: Faith No More - 'Midlife Crisis' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:44:51]     URL: https://www.youtube.com/watch?v=py1u0k3d6kw
+[2026-02-08 12:44:51]   💾 Progress saved (102/172 updated)
+[2026-02-08 12:44:53] 
+[120/172] Processing: Radiohead - 'Street Spirit' [HD]
+[2026-02-08 12:44:56]   ✓ Found: Radiohead - 'Street Spirit' [HD] | Live at Pinkpop 1996
+[2026-02-08 12:44:56]     URL: https://www.youtube.com/watch?v=9z4A4moWerE
+[2026-02-08 12:44:56]   💾 Progress saved (103/172 updated)
+[2026-02-08 12:44:58] 
+[121/172] Processing: Soundgarden - 'Slaves & Bulldozers' [HD]
+[2026-02-08 12:45:01]   ✗ Found video but not from Pinkpop Archive (uploader: bsodrive -)
+[2026-02-08 12:45:03] 
+[122/172] Processing: Sepultura - 'Roots Bloody Roots' [HD]
+[2026-02-08 12:45:07]   ✓ Found: Sepultura - 'Roots Bloody Roots' [HD] | Live at Pinkpop 1996
+[2026-02-08 12:45:07]     URL: https://www.youtube.com/watch?v=PkMQ-jZ2Svc
+[2026-02-08 12:45:07]   💾 Progress saved (104/172 updated)
+[2026-02-08 12:45:09] 
+[123/172] Processing: Faith No More - 'Epic' [HD]
+[2026-02-08 12:45:12]   ✓ Found: Faith No More - 'Epic' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:45:12]     URL: https://www.youtube.com/watch?v=JNZ1-p_Fv2M
+[2026-02-08 12:45:12]   💾 Progress saved (105/172 updated)
+[2026-02-08 12:45:14] 
+[124/172] Processing: Skunk Anansie - 'Selling Jesus' [HD]
+[2026-02-08 12:45:17]   ✓ Found: Skunk Anansie - 'Selling Jesus' [HD] | Live at Pinkpop 1996
+[2026-02-08 12:45:17]     URL: https://www.youtube.com/watch?v=s8BdxG6T1gk
+[2026-02-08 12:45:17]   💾 Progress saved (106/172 updated)
+[2026-02-08 12:45:19] 
+[125/172] Processing: Rage Against The Machine - 'Killing in the Name' [HD]
+[2026-02-08 12:45:22]   ✗ Found video but not from Pinkpop Archive (uploader: 4K Video Enhancer)
+[2026-02-08 12:45:24] 
+[126/172] Processing: Faith No More - 'King For a Day' [HD]
+[2026-02-08 12:45:27]   ✓ Found: Faith No More - 'King For a Day' [HD] | Live at Pinkpop 1995
+[2026-02-08 12:45:27]     URL: https://www.youtube.com/watch?v=Dj_manrHwB4
+[2026-02-08 12:45:27]   💾 Progress saved (107/172 updated)
+[2026-02-08 12:45:29] 
+[127/172] Processing: The Offspring - 'Why Don't You Get A Job' [HD]
+[2026-02-08 12:45:32]   ✓ Found: The Offspring - 'Why Don't You Get A Job' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:45:32]     URL: https://www.youtube.com/watch?v=14x_HJE995M
+[2026-02-08 12:45:32]   💾 Progress saved (108/172 updated)
+[2026-02-08 12:45:34] 
+[128/172] Processing: Robbie Williams - 'Back For Good' [HD]
+[2026-02-08 12:45:37]   ✓ Found: Robbie Williams - 'Back For Good' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:45:37]     URL: https://www.youtube.com/watch?v=SFgq9WQWCgg
+[2026-02-08 12:45:37]   💾 Progress saved (109/172 updated)
+[2026-02-08 12:45:39] 
+[129/172] Processing: The Offspring - 'What Happened To You?' [HD]
+[2026-02-08 12:45:43]   ✓ Found: The Offspring - 'What Happened To You?' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:45:43]     URL: https://www.youtube.com/watch?v=OqvSf7SxgIQ
+[2026-02-08 12:45:43]   💾 Progress saved (110/172 updated)
+[2026-02-08 12:45:45] 
+[130/172] Processing: Smashing Pumkins - 'I Am One' [HD]
+[2026-02-08 12:45:48]   ✓ Found: Smashing Pumkins - 'I Am One' [HD] | Live at Pinkpop 1994
+[2026-02-08 12:45:48]     URL: https://www.youtube.com/watch?v=DAPmjMig2fk
+[2026-02-08 12:45:48]   💾 Progress saved (111/172 updated)
+[2026-02-08 12:45:50] 
+[131/172] Processing: PJ Harvey - 'O Stella' [HD]
+[2026-02-08 12:45:53]   ✗ Found video but not from Pinkpop Archive (uploader: 90`s Live Archive)
+[2026-02-08 12:45:55] 
+[132/172] Processing: Rammstein - 'Wollt Ihr das Bett in Flammen sehen?' [HD]
+[2026-02-08 12:45:58]   ✓ Found: Rammstein - 'Wollt Ihr das Bett in Flammen sehen?' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:45:58]     URL: https://www.youtube.com/watch?v=wxENsp1NLKU
+[2026-02-08 12:45:58]   💾 Progress saved (112/172 updated)
+[2026-02-08 12:46:00] 
+[133/172] Processing: Lou Reed - 'Vicious' [HD]
+[2026-02-08 12:46:03]   ✓ Found: Lou Reed - 'Vicious' [HD] | Live at Pinkpop 1992
+[2026-02-08 12:46:03]     URL: https://www.youtube.com/watch?v=tEP6t8rTQLc
+[2026-02-08 12:46:03]   💾 Progress saved (113/172 updated)
+[2026-02-08 12:46:05] 
+[134/172] Processing: Robbie Williams - 'Angels' [HD]
+[2026-02-08 12:46:08]   ✓ Found: Robbie Williams - 'Angels' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:46:08]     URL: https://www.youtube.com/watch?v=rT296-lMrLI
+[2026-02-08 12:46:08]   💾 Progress saved (114/172 updated)
+[2026-02-08 12:46:10] 
+[135/172] Processing: The Offspring - 'Gone Away' [HD]
+[2026-02-08 12:46:13]   ✓ Found: The Offspring - 'Gone Away' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:46:13]     URL: https://www.youtube.com/watch?v=DFCynFLtqSY
+[2026-02-08 12:46:13]   💾 Progress saved (115/172 updated)
+[2026-02-08 12:46:15] 
+[136/172] Processing: Audience footage of Pinkpop 1992
+[2026-02-08 12:46:18]   ✓ Found: Audience footage of Pinkpop 1992 | Live at Pinkpop 1992
+[2026-02-08 12:46:18]     URL: https://www.youtube.com/watch?v=NFLrf6OzvEk
+[2026-02-08 12:46:18]   💾 Progress saved (116/172 updated)
+[2026-02-08 12:46:20] 
+[137/172] Processing: Lenny Kravitz - 'Are You Gonna Go My Way' [HD]
+[2026-02-08 12:46:23]   ✓ Found: Lenny Kravitz - 'Are You Gonna Go My Way' [HD] | Live at Pinkpop 1993
+[2026-02-08 12:46:23]     URL: https://www.youtube.com/watch?v=kNE8ryfMrm4
+[2026-02-08 12:46:23]   💾 Progress saved (117/172 updated)
+[2026-02-08 12:46:25] 
+[138/172] Processing: Robbie Williams - 'Millennium' [HD]
+[2026-02-08 12:46:29]   ✓ Found: Robbie Williams - 'Millennium' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:46:29]     URL: https://www.youtube.com/watch?v=S8MJh9wvHYE
+[2026-02-08 12:46:29]   💾 Progress saved (118/172 updated)
+[2026-02-08 12:46:31] 
+[139/172] Processing: The Offspring - 'Self Esteem' [HD]
+[2026-02-08 12:46:34]   ✓ Found: The Offspring - 'Self Esteem' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:46:34]     URL: https://www.youtube.com/watch?v=YtSWZ6lOlME
+[2026-02-08 12:46:34]   💾 Progress saved (119/172 updated)
+[2026-02-08 12:46:36] 
+[140/172] Processing: Doe Maar - Smoorverliefd [HD]
+[2026-02-08 12:46:39]   ✓ Found: Doe Maar - Smoorverliefd [HD] | Live at Pinkpop 1982
+[2026-02-08 12:46:39]     URL: https://www.youtube.com/watch?v=Oo3_ztL-31c
+[2026-02-08 12:46:39]   💾 Progress saved (120/172 updated)
+[2026-02-08 12:46:41] 
+[141/172] Processing: Sinead O'Connor - 'Troy'
+[2026-02-08 12:46:46]   ✓ Found: Sinead O'Connor - 'Troy' | Live at Pinkpop 1988
+[2026-02-08 12:46:46]     URL: https://www.youtube.com/watch?v=acjbfp5hTts
+[2026-02-08 12:46:46]   💾 Progress saved (121/172 updated)
+[2026-02-08 12:46:48] 
+[142/172] Processing: The Offspring - 'Pretty Fly for a White Guy' [HD]
+[2026-02-08 12:46:51]   ✓ Found: The Offspring - 'Pretty Fly for a White Guy' [HD] | Live at Pinkpop 2001
+[2026-02-08 12:46:51]     URL: https://www.youtube.com/watch?v=1eig3dkmgQ0
+[2026-02-08 12:46:51]   💾 Progress saved (122/172 updated)
+[2026-02-08 12:46:53] 
+[143/172] Processing: Simple Minds - 'Promised You A Miracle'
+[2026-02-08 12:46:56]   ✗ Found video but not from Pinkpop Archive (uploader: BlackLabelMF)
+[2026-02-08 12:46:58] 
+[144/172] Processing: Lenny Kravitz - 'Let Love Rule' [HD]
+[2026-02-08 12:47:01]   ✓ Found: Lenny Kravitz - 'Let Love Rule' [HD] | Live at Pinkpop 1993
+[2026-02-08 12:47:01]     URL: https://www.youtube.com/watch?v=02pm4GDiOaA
+[2026-02-08 12:47:01]   💾 Progress saved (123/172 updated)
+[2026-02-08 12:47:03] 
+[145/172] Processing: Robbie Williams - 'Let Me Entertain You' [HD]
+[2026-02-08 12:47:06]   ✓ Found: Robbie Williams - 'Let Me Entertain You' [HD] | Live at Pinkpop 1999
+[2026-02-08 12:47:06]     URL: https://www.youtube.com/watch?v=MOGWxkGdRs8
+[2026-02-08 12:47:06]   💾 Progress saved (124/172 updated)
+[2026-02-08 12:47:08] 
+[146/172] Processing: The Police - 'Roxanne' [HD]
+[2026-02-08 12:47:12]   ✓ Found: The Police - 'Roxanne' [HD] | Live at Pinkpop 1978
+[2026-02-08 12:47:12]     URL: https://www.youtube.com/watch?v=TY8ZmCpEK68
+[2026-02-08 12:47:12]   💾 Progress saved (125/172 updated)
+[2026-02-08 12:47:14] 
+[147/172] Processing: Welcome to the official Pinkpop Archive YouTube channel!
+[2026-02-08 12:47:18]   ✓ Found: Welcome to the official Pinkpop Archive YouTube channel!
+[2026-02-08 12:47:18]     URL: https://www.youtube.com/watch?v=ItshHPiKwX0
+[2026-02-08 12:47:18]   💾 Progress saved (126/172 updated)
+[2026-02-08 12:47:20] 
+[148/172] Processing: Dire Straits - 'Lady Writer'
+[2026-02-08 12:47:23]   ✗ Found video but not from Pinkpop Archive (uploader: Eddy Doolittle)
+[2026-02-08 12:47:25] 
+[149/172] Processing: The Black Crowes - 'Thorn'
+[2026-02-08 12:47:29]   ✗ Found video but not from Pinkpop Archive (uploader: Raymond JE)
+[2026-02-08 12:47:31] 
+[150/172] Processing: Herman Brood - 'Groovin'
+[2026-02-08 12:47:34]   ✗ Found video but not from Pinkpop Archive (uploader: opalousas)
+[2026-02-08 12:47:36] 
+[151/172] Processing: J. Geils Band - 'Love Stinks'
+[2026-02-08 12:47:38]   ✗ Found video but not from Pinkpop Archive (uploader: vurhagen)
+[2026-02-08 12:47:40] 
+[152/172] Processing: Mink Deville - 'Love and Emotion'
+[2026-02-08 12:47:43]   ✓ Found: Mink Deville - 'Love and Emotion' | Live at Pinkpop 1982
+[2026-02-08 12:47:43]     URL: https://www.youtube.com/watch?v=mMw72nGuS3Q
+[2026-02-08 12:47:43]   💾 Progress saved (127/172 updated)
+[2026-02-08 12:47:45] 
+[153/172] Processing: Fishbone – 'Party At Ground Zero' [HD]
+[2026-02-08 12:47:48]   ✓ Found: Fishbone – 'Party At Ground Zero' [HD] | Live at Pinkpop 1989
+[2026-02-08 12:47:48]     URL: https://www.youtube.com/watch?v=gvzEf2zl5-A
+[2026-02-08 12:47:48]   💾 Progress saved (128/172 updated)
+[2026-02-08 12:47:50] 
+[154/172] Processing: Lenny Kravitz - 'Sister'
+[2026-02-08 12:47:54]   ✓ Found: Lenny Kravitz - 'Sister' | Live at Pinkpop 1993
+[2026-02-08 12:47:54]     URL: https://www.youtube.com/watch?v=h1YGT7ekmuo
+[2026-02-08 12:47:54]   💾 Progress saved (129/172 updated)
+[2026-02-08 12:47:56] 
+[155/172] Processing: The Specials - 'Too Much Too Young'
+[2026-02-08 12:47:59]   ✓ Found: The Specials - 'Too Much Too Young' | Live at Pinkpop 1980
+[2026-02-08 12:47:59]     URL: https://www.youtube.com/watch?v=TkirtT72vjA
+[2026-02-08 12:47:59]   💾 Progress saved (130/172 updated)
+[2026-02-08 12:48:01] 
+[156/172] Processing: The Black Crowes - 'Sunflower'
+[2026-02-08 12:48:04]   ✓ Found: The Black Crowes - 'Sunflower' | Live at Pinkpop 1993
+[2026-02-08 12:48:04]     URL: https://www.youtube.com/watch?v=DHXE_YmvRAw
+[2026-02-08 12:48:04]   💾 Progress saved (131/172 updated)
+[2026-02-08 12:48:06] 
+[157/172] Processing: Red Hot Chili Peppers - Californication
+[2026-02-08 12:48:10]   ✓ Found: Red Hot Chili Peppers - Californication [HD] | Live at Pinkpop 2006
+[2026-02-08 12:48:10]     URL: https://www.youtube.com/watch?v=F7UlxddSfyw
+[2026-02-08 12:48:10]   💾 Progress saved (132/172 updated)
+[2026-02-08 12:48:12] 
+[158/172] Processing: Red Hot Chili Peppers - Otherside
+[2026-02-08 12:48:15]   ✓ Found: Red Hot Chili Peppers - 'Otherside' [HD] | Live at Pinkpop 2006
+[2026-02-08 12:48:15]     URL: https://www.youtube.com/watch?v=RWdhIo7Ch6k
+[2026-02-08 12:48:15]   💾 Progress saved (133/172 updated)
+[2026-02-08 12:48:17] 
+[159/172] Processing: Rage Against The Machine - Killing In The Name Of
+[2026-02-08 12:48:21]   ✗ Found video but not from Pinkpop Archive (uploader: 4K Video Enhancer)
+[2026-02-08 12:48:23] 
+[160/172] Processing: Radiohead - Creep
+[2026-02-08 12:48:27]   ✓ Found: Radiohead - Creep [HD] | Live at Pinkpop 1996
+[2026-02-08 12:48:27]     URL: https://www.youtube.com/watch?v=Eohw2uwuIT0
+[2026-02-08 12:48:27]   💾 Progress saved (134/172 updated)
+[2026-02-08 12:48:29] 
+[161/172] Processing: Rammstein - Rammstein
+[2026-02-08 12:48:32]   ✓ Found: Rammstein - Full Concert [HD] | Live at Pinkpop 1997
+[2026-02-08 12:48:32]     URL: https://www.youtube.com/watch?v=EsGgoC59GsQ
+[2026-02-08 12:48:32]   💾 Progress saved (135/172 updated)
+[2026-02-08 12:48:34] 
+[162/172] Processing: Avicii - Wake Me Up
+[2026-02-08 12:48:38]   ✗ Found video but not from Pinkpop Archive (uploader: CJM)
+[2026-02-08 12:48:40] 
+[163/172] Processing: Red Hot Chili Peppers - Give It Away
+[2026-02-08 12:48:43]   ✗ Found video but not from Pinkpop Archive (uploader: Golden Decades)
+[2026-02-08 12:48:45] 
+[164/172] Processing: Rammstein - Der Meister
+[2026-02-08 12:48:48]   ✓ Found: Rammstein - 'Der Meister' [HD] | Live at Pinkpop 1997
+[2026-02-08 12:48:48]     URL: https://www.youtube.com/watch?v=CGSSAwLurXg
+[2026-02-08 12:48:48]   💾 Progress saved (136/172 updated)
+[2026-02-08 12:48:50] 
+[165/172] Processing: Moloko - Sing It Back
+[2026-02-08 12:48:53]   ✓ Found: Moloko - Sing It Back [HD] | Live at Pinkpop 2004
+[2026-02-08 12:48:53]     URL: https://www.youtube.com/watch?v=JWYiYhskl6M
+[2026-02-08 12:48:53]   💾 Progress saved (137/172 updated)
+[2026-02-08 12:48:55] 
+[166/172] Processing: Claw Boys Claw
+[2026-02-08 12:48:58]   ✗ Found video but not from Pinkpop Archive (uploader: Eddy Doolittle)
+[2026-02-08 12:49:00] 
+[167/172] Processing: Red Devils
+[2026-02-08 12:49:04]   ✗ Found video but not from Pinkpop Archive (uploader: Giannis Pachidis)
+[2026-02-08 12:49:06] 
+[168/172] Processing: The Jayhawks
+[2026-02-08 12:49:08]   ✗ Found video but not from Pinkpop Archive (uploader: Jojo Jam)
+[2026-02-08 12:49:10] 
+[169/172] Processing: Thelonious Monster
+[2026-02-08 12:49:13]   ✗ Found video but not from Pinkpop Archive (uploader: Strapazki)
+[2026-02-08 12:49:15] 
+[170/172] Processing: Living Colour
+[2026-02-08 12:49:19]   ✗ Found video but not from Pinkpop Archive (uploader: Living Colour)
+[2026-02-08 12:49:21] 
+[171/172] Processing: Rage Against The Machine
+[2026-02-08 12:49:23]   ✗ Found video but not from Pinkpop Archive (uploader: Dulces sueños)
+[2026-02-08 12:49:25] 
+[172/172] Processing: Bettie Serveert
+[2026-02-08 12:49:28]   ✗ Found video but not from Pinkpop Archive (uploader: 90`s Live Archive)
+[2026-02-08 12:49:28] 
+================================================================================
+[2026-02-08 12:49:28] SUMMARY
+[2026-02-08 12:49:28] ================================================================================
+[2026-02-08 12:49:28] Total videos: 172
+[2026-02-08 12:49:28] Successfully updated: 137
+[2026-02-08 12:49:28] Failed: 35
+[2026-02-08 12:49:28] Success rate: 79.7%
+[2026-02-08 12:49:28] ================================================================================

@@ -80,7 +80,7 @@
         "Pop"
       ],
       "nationalities": [
-        "GB"
+        "EN"
       ],
       "hasShows": false,
       "hasClips": true,
@@ -93,7 +93,7 @@
       ],
       "nationalities": [
         "BR",
-        "GB"
+        "EN"
       ],
       "hasShows": true,
       "hasClips": true,
@@ -106,7 +106,7 @@
         "Rock Alternativo"
       ],
       "nationalities": [
-        "GB",
+        "EN",
         "US"
       ],
       "hasShows": false,
@@ -122,6 +122,7 @@
       ],
       "nationalities": [
         "BR",
+        "EN",
         "GB",
         "US"
       ],
@@ -137,6 +138,7 @@
       ],
       "nationalities": [
         "BR",
+        "EN",
         "FR",
         "GB",
         "US"
@@ -153,6 +155,7 @@
       ],
       "nationalities": [
         "BR",
+        "EN",
         "GB",
         "US"
       ],
@@ -168,6 +171,7 @@
       ],
       "nationalities": [
         "BR",
+        "EN",
         "GB",
         "IE",
         "NZ",
@@ -328,6 +332,7 @@
         "BR",
         "CA",
         "DE",
+        "EN",
         "GB",
         "SE",
         "US"
@@ -350,6 +355,7 @@
         "BR",
         "CA",
         "DE",
+        "EN",
         "GB",
         "SE",
         "US"
@@ -374,6 +380,7 @@
         "BR",
         "CA",
         "DE",
+        "EN",
         "GB",
         "IE",
         "JM",
@@ -404,6 +411,7 @@
         "BR",
         "CA",
         "DE",
+        "EN",
         "FR",
         "GB",
         "IE",
@@ -434,6 +442,7 @@
         "CA",
         "CH",
         "DE",
+        "EN",
         "FR",
         "GB",
         "HK",
@@ -468,6 +477,7 @@
         "CA",
         "CH",
         "DE",
+        "EN",
         "ES",
         "FR",
         "GB",
@@ -506,6 +516,7 @@
         "CA",
         "CH",
         "DE",
+        "EN",
         "FR",
         "GB",
         "IE",
@@ -563,6 +574,8 @@
       "nationalities": [
         "BR",
         "CA",
+        "EN",
+        "FR",
         "GB",
         "INTL",
         "US"
@@ -588,6 +601,7 @@
         "CA",
         "CH",
         "DE",
+        "EN",
         "FR",
         "GB",
         "IE",
@@ -701,6 +715,7 @@
         "CH",
         "DE",
         "DK",
+        "EN",
         "ES",
         "FR",
         "GB",
@@ -731,6 +746,7 @@
       ],
       "nationalities": [
         "BR",
+        "FR",
         "GB",
         "INTL",
         "US"
@@ -754,6 +770,7 @@
       ],
       "nationalities": [
         "BR",
+        "FR",
         "GB",
         "INTL",
         "NO",
@@ -798,6 +815,7 @@
       ],
       "nationalities": [
         "BR",
+        "FR",
         "GB",
         "INTL",
         "NO",
@@ -828,6 +846,7 @@
       "nationalities": [
         "BR",
         "CA",
+        "FR",
         "GB",
         "IE",
         "INTL",
@@ -856,6 +875,7 @@
         "BR",
         "CA",
         "DE",
+        "EN",
         "GB",
         "IE",
         "INTL",
@@ -885,6 +905,8 @@
         "BE",
         "BR",
         "DE",
+        "EN",
+        "FR",
         "GB",
         "INTL",
         "NL",
@@ -913,6 +935,7 @@
         "AU",
         "BR",
         "DE",
+        "FR",
         "GB",
         "INTL",
         "JP",
@@ -965,6 +988,7 @@
         "BR",
         "CA",
         "DE",
+        "FR",
         "GB",
         "IE",
         "INTL",
@@ -1069,6 +1093,7 @@
         "CO",
         "DE",
         "DK",
+        "EN",
         "ES",
         "FI",
         "FR",
@@ -1130,6 +1155,7 @@
         "CZ",
         "DE",
         "DK",
+        "EN",
         "ES",
         "FI",
         "FR",
@@ -1255,6 +1281,7 @@
         "CA",
         "DE",
         "ES",
+        "FR",
         "GB",
         "INTL",
         "JM",
@@ -1300,6 +1327,7 @@
         "DE",
         "DK",
         "EE",
+        "EN",
         "ES",
         "FI",
         "FR",
@@ -1515,6 +1543,7 @@
         "DE",
         "DK",
         "EE",
+        "EN",
         "ER",
         "ES",
         "FI",
@@ -1598,6 +1627,7 @@
         "DK",
         "DO",
         "EE",
+        "EN",
         "ES",
         "FI",
         "FR",
@@ -1683,6 +1713,7 @@
         "DZ",
         "EE",
         "EG",
+        "EN",
         "ES",
         "FI",
         "FR",
@@ -1776,6 +1807,7 @@
         "DO",
         "EE",
         "EG",
+        "EN",
         "ES",
         "FI",
         "FO",
@@ -2011,6 +2043,7 @@
         "DK",
         "DO",
         "EE",
+        "EN",
         "ES",
         "ET",
         "FI",
@@ -2651,6 +2684,7 @@
         "DO",
         "EE",
         "EG",
+        "EN",
         "ES",
         "FI",
         "FO",
@@ -2925,6 +2959,7 @@
         "CZ",
         "DE",
         "DK",
+        "EN",
         "ES",
         "FI",
         "FO",
@@ -3333,6 +3368,7 @@
         "CL",
         "DE",
         "DK",
+        "EN",
         "ES",
         "FR",
         "GB",
@@ -3511,6 +3547,7 @@
         "DK",
         "DZ",
         "EE",
+        "EN",
         "ER",
         "ES",
         "FI",
@@ -3701,6 +3738,7 @@
         "CZ",
         "DE",
         "DK",
+        "EN",
         "ES",
         "FI",
         "FR",
@@ -3848,6 +3886,7 @@
         "CZ",
         "DE",
         "DK",
+        "EN",
         "ES",
         "FI",
         "FR",
@@ -4297,6 +4336,7 @@
         "CH",
         "DE",
         "DK",
+        "EN",
         "ES",
         "FR",
         "GB",
@@ -5571,12 +5611,60 @@
         "Unknown"
       ]
     },
-    "GB": {
+    "EN": {
       "years": [
         1963,
         1964,
         "1964",
         1965,
+        1966,
+        1967,
+        1968,
+        1969,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1983,
+        1985,
+        1986,
+        1989,
+        1995,
+        1996,
+        2002,
+        2003,
+        2006,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "count": 88,
+      "genres": [
+        "acousticShow",
+        "Britpop",
+        "Desconhecido",
+        "Indie Rock",
+        "Pop",
+        "Punk",
+        "Rock",
+        "Rock Alternativo",
+        "Rock Alternativo, Gótico"
+      ]
+    },
+    "GB": {
+      "years": [
         1966,
         1967,
         1968,
@@ -5648,9 +5736,8 @@
         2024,
         2025
       ],
-      "count": 13580,
+      "count": 13514,
       "genres": [
-        "acousticShow",
         "Afrobeats",
         "Alternative",
         "Alternative Metal, Rock Alt",
@@ -5803,13 +5890,22 @@
         1981,
         1982,
         1983,
+        1985,
         1986,
         1987,
         1988,
         1989,
+        1990,
+        1991,
+        1993,
+        1994,
+        1996,
+        1997,
+        1999,
         2002,
         2003,
         2004,
+        2005,
         2006,
         2007,
         2008,
@@ -5831,7 +5927,7 @@
         2024,
         2025
       ],
-      "count": 2319,
+      "count": 2334,
       "genres": [
         "Bossa Nova",
         "Chanson",
@@ -6098,7 +6194,7 @@
         2025,
         2026
       ],
-      "count": 16555,
+      "count": 16711,
       "genres": [
         "Acoustic",
         "acousticShow",
@@ -7082,7 +7178,7 @@
         2025,
         "2025"
       ],
-      "count": 1126,
+      "count": 1117,
       "genres": [
         "Alternative Rock",
         "Dance",
@@ -8924,20 +9020,6 @@
         "Desconhecido"
       ]
     },
-    "EN": {
-      "years": [
-        2013,
-        2015,
-        2016,
-        2017,
-        2021,
-        2022
-      ],
-      "count": 9,
-      "genres": [
-        "Desconhecido"
-      ]
-    },
     "TN": {
       "years": [
         2013,
@@ -9652,11 +9734,11 @@
     }
   },
   "metadata": {
-    "totalVideos": 98049,
-    "totalClips": 95922,
+    "totalVideos": 98224,
+    "totalClips": 96097,
     "totalShows": 924,
     "totalPrograms": 1203,
-    "lastGenerated": "2026-02-08T14:31:06.538Z",
+    "lastGenerated": "2026-02-08T15:37:20.367Z",
     "dataVersion": "2.0"
   }
 }

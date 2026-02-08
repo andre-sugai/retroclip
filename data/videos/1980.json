@@ -887,7 +887,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=9iw_BE_X9sA",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/emotional-rescue/2",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -953,7 +953,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=FR3r0z3_oig",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/emotional-rescue",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -1228,7 +1228,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=jo34VhfcetU",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/shes-so-cold",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -1459,7 +1459,7 @@
     "artist_genre": "Punk, Gótico",
     "youtube_link": "https://www.youtube.com/watch?v=zuuObGsB0No",
     "imvdb_url": "https://imvdb.com/video/joy-division/love-will-tear-us-apart",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -1503,7 +1503,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=KNIZofPB8ZM",
     "imvdb_url": "https://imvdb.com/video/police-the/dont-stand-so-close-to-me",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -1580,7 +1580,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=q95DApyvm0Y",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/where-the-boys-go",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -1668,7 +1668,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/down-in-the-hole",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -1734,7 +1734,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=7v2GDbEmjGE",
     "imvdb_url": "https://imvdb.com/video/police-the/de-do-do-do-de-da-da-da",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -1854,7 +1854,7 @@
     "duration_seconds": 4766,
     "video_type": "live",
     "video_tags": [],
-    "nationality": "GB",
+    "nationality": "EN",
     "is_show": true
   },
   {
@@ -1926,5 +1926,29 @@
     "video_tags": [],
     "nationality": "US",
     "is_show": true
+  },
+  {
+    "id": 1770330314920264,
+    "song_title": "Love Stinks",
+    "year": 1980,
+    "artist_name": "J. Geils Band",
+    "artist_genre": "blues rock, rock, pop rock",
+    "youtube_link": "https://youtu.be/l6N4Bm2eneM?si=Oiw0wiZZNWIirbVL",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330322964750,
+    "song_title": "Too Much Too Young",
+    "year": 1980,
+    "artist_name": "The Specials",
+    "artist_genre": "ska, 2 tone, reggae",
+    "youtube_link": "https://www.youtube.com/watch?v=TkirtT72vjA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

@@ -931,7 +931,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=GIAyBi00kPE",
     "imvdb_url": "https://imvdb.com/video/indochine/drugstar",
     "artist": "Indochine",
-    "nationality": "INTL",
+    "nationality": "FR",
     "video_type": "clip"
   },
   {
@@ -2955,7 +2955,7 @@
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/indochine/kissing-my-song",
     "artist": "Indochine",
-    "nationality": "INTL",
+    "nationality": "FR",
     "video_type": "clip"
   },
   {
@@ -3186,7 +3186,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=Pb_LtVkOMIg",
     "imvdb_url": "https://imvdb.com/video/matchbox-twenty/long-day",
     "artist": "Matchbox Twenty",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -8715,7 +8715,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=n_04G_-bOAs",
     "artist_name": "Oasis",
     "is_show": true,
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "show"
   },
   {
@@ -9008,5 +9008,101 @@
     "availability_status": "public",
     "nationality": "GB",
     "record_label": "atlantic"
+  },
+  {
+    "id": 1770329939419254,
+    "song_title": "Refuse/Resist",
+    "year": 1996,
+    "artist_name": "Sepultura",
+    "artist_genre": "thrash metal, groove metal, heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=hLMP1PbwVwM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330034996709,
+    "song_title": "Creep",
+    "year": 1996,
+    "artist_name": "Radiohead",
+    "artist_genre": "alternative rock, art rock, rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Eohw2uwuIT0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330096916605,
+    "song_title": "Weather With You",
+    "year": 1996,
+    "artist_name": "Crowded House",
+    "artist_genre": "pop rock, alternative rock, soft rock",
+    "youtube_link": "https://youtu.be/G4TUtImPDls?si=2WtYB-y_5BpY6y6W",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330138742437,
+    "song_title": "Lift",
+    "year": 1996,
+    "artist_name": "Radiohead",
+    "artist_genre": "alternative rock, art rock, rock",
+    "youtube_link": "https://www.youtube.com/watch?v=P20r9blqt2I",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330176648072,
+    "song_title": "Street Spirit",
+    "year": 1996,
+    "artist_name": "Radiohead",
+    "artist_genre": "alternative rock, art rock, rock",
+    "youtube_link": "https://www.youtube.com/watch?v=9z4A4moWerE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330196255937,
+    "song_title": "Roots Bloody Roots",
+    "year": 1996,
+    "artist_name": "Sepultura",
+    "artist_genre": "thrash metal, groove metal, heavy metal",
+    "youtube_link": "https://www.youtube.com/watch?v=PkMQ-jZ2Svc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330215858820,
+    "song_title": "Selling Jesus",
+    "year": 1996,
+    "artist_name": "Skunk Anansie",
+    "artist_genre": "alternative rock, rock, uk",
+    "youtube_link": "https://www.youtube.com/watch?v=s8BdxG6T1gk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330334892277,
+    "song_title": "Creep",
+    "year": 1996,
+    "artist_name": "Radiohead",
+    "artist_genre": "alternative rock, art rock, rock",
+    "youtube_link": "https://www.youtube.com/watch?v=Eohw2uwuIT0",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

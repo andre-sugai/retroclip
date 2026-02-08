@@ -2955,7 +2955,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=sX7apbmwNJE",
     "imvdb_url": "https://imvdb.com/video/the-cult/star",
     "artist": "The Cult",
-    "nationality": "INTL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -3076,7 +3076,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=QVc29bYIvCM",
     "imvdb_url": "https://imvdb.com/video/joy-division/shes-lost-control",
     "artist": "Joy Division",
-    "nationality": "INTL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -7135,7 +7135,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=xejQogXzrPw",
     "imvdb_url": "https://imvdb.com/video/toad-the-wet-sprocket/good-intentions",
     "artist": "Toad The Wet Sprocket",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -7641,7 +7641,7 @@
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/i-go-wild/2",
     "artist": "The Rolling Stones",
-    "nationality": "INTL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -7718,7 +7718,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=aRYokc3VBC4",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/like-a-rolling-stone",
     "artist": "The Rolling Stones",
-    "nationality": "INTL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -8004,7 +8004,7 @@
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/i-go-wild",
     "artist": "The Rolling Stones",
-    "nationality": "INTL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -8158,7 +8158,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=7JjZMjPaF30",
     "imvdb_url": "https://imvdb.com/video/toad-the-wet-sprocket/fly-from-heaven",
     "artist": "Toad The Wet Sprocket",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -8803,5 +8803,173 @@
     ],
     "nationality": "SE",
     "record_label": "epitaph"
+  },
+  {
+    "id": 1770329744277598,
+    "song_title": "We Care a Lot",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=UH4-LRLyC5s",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329752134586,
+    "song_title": "Introduce Yourself",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=mn_mdyYg-bw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329795240805,
+    "song_title": "Be Aggressive",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=ehkIu-V-rtY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329858388940,
+    "song_title": "Evidence",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=liMM4ggPPgA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329915965017,
+    "song_title": "Get Out",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=P97zZ6vvdto",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329941375038,
+    "song_title": "What a Day",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=yvZEyqBwh3A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329982060606,
+    "song_title": "Caralho Voador",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=hKZXDrcP1os",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330053799155,
+    "song_title": "Ricochet",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=U-mymMk64iI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330092955716,
+    "song_title": "Digging The Grave",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=xHljQES7nFE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330110061734,
+    "song_title": "Caffeine",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=9CuiM0zwkws",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330123058899,
+    "song_title": "Easy",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=v6UwV-VLIkE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330174673654,
+    "song_title": "Midlife Crisis",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=py1u0k3d6kw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330202077185,
+    "song_title": "Epic",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=JNZ1-p_Fv2M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330219673586,
+    "song_title": "King For a Day",
+    "year": 1995,
+    "artist_name": "Faith No More",
+    "artist_genre": "alternative metal, alternative rock, funk metal",
+    "youtube_link": "https://www.youtube.com/watch?v=Dj_manrHwB4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

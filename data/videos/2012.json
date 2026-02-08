@@ -8851,7 +8851,7 @@
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=mGbfaqP_mDI",
     "imvdb_url": "https://imvdb.com/video/bush/the-afterlife",
-    "nationality": "NL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -9379,7 +9379,7 @@
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=Feh8_WJQDEg",
     "imvdb_url": "https://imvdb.com/video/bush-1/thuggin",
-    "nationality": "NL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -44979,7 +44979,7 @@
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=TtQCsDN6NHM",
     "imvdb_url": "https://imvdb.com/video/bush/baby-come-home",
-    "nationality": "NL",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -49416,7 +49416,7 @@
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=L3FfSyzXM44",
     "imvdb_url": "https://imvdb.com/video/the-heavy-1/cant-play-dead",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -66162,7 +66162,7 @@
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=08h0IVs4RKQ",
     "imvdb_url": "https://imvdb.com/video/the-heavy-1/what-makes-a-good-man",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -66459,7 +66459,7 @@
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=1DWiB7ZuLvI",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/doom-and-gloom",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -73296,7 +73296,7 @@
     "artist_name": "Oasis",
     "artist_genre": "Desconhecido",
     "youtube_link": "https://www.youtube.com/watch?v=lT6kVTqjFDE",
-    "nationality": "GB",
+    "nationality": "EN",
     "is_show": true,
     "video_type": "show"
   },
@@ -75819,5 +75819,209 @@
     ],
     "nationality": "US",
     "record_label": "epitaph"
+  },
+  {
+    "id": 1770329738476411,
+    "song_title": "Lovecats",
+    "year": 2012,
+    "artist_name": "The Cure",
+    "artist_genre": "new wave, gothic rock, post-punk",
+    "youtube_link": "https://www.youtube.com/watch?v=xDvH8NyRlss",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329750080228,
+    "song_title": "Crystal Ball",
+    "year": 2012,
+    "artist_name": "Keane",
+    "artist_genre": "alternative rock, piano rock, post-britpop",
+    "youtube_link": "https://www.youtube.com/watch?v=Q0uYyEpOSfs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329789143340,
+    "song_title": "Lets Go To Bed",
+    "year": 2012,
+    "artist_name": "The Cure",
+    "artist_genre": "new wave, gothic rock, post-punk",
+    "youtube_link": "https://www.youtube.com/watch?v=VH5tfNXOURo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329791091483,
+    "song_title": "Is It Any Wonder?",
+    "year": 2012,
+    "artist_name": "Keane",
+    "artist_genre": "alternative rock, piano rock, post-britpop",
+    "youtube_link": "https://www.youtube.com/watch?v=sBiIxVZxVcE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329801457064,
+    "song_title": "This Is The Last Time",
+    "year": 2012,
+    "artist_name": "Keane",
+    "artist_genre": "alternative rock, piano rock, post-britpop",
+    "youtube_link": "https://www.youtube.com/watch?v=YlksD5AweTw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329803698606,
+    "song_title": "Boys Dont Cry",
+    "year": 2012,
+    "artist_name": "The Cure",
+    "artist_genre": "new wave, gothic rock, post-punk",
+    "youtube_link": "https://youtu.be/NCgsxtkIi5s?si=yMbYLJFs2A3nEdcK",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329807630288,
+    "song_title": "Close To Me",
+    "year": 2012,
+    "artist_name": "The Cure",
+    "artist_genre": "new wave, gothic rock, post-punk",
+    "youtube_link": "https://www.youtube.com/watch?v=D_virF4edIE",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329811459997,
+    "song_title": "Bedshaped",
+    "year": 2012,
+    "artist_name": "Keane",
+    "artist_genre": "alternative rock, piano rock, post-britpop",
+    "youtube_link": "https://www.youtube.com/watch?v=DOQqx_ZsfCs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329831027066,
+    "song_title": "Somewhere Only We Know",
+    "year": 2012,
+    "artist_name": "Keane",
+    "artist_genre": "alternative rock, piano rock, post-britpop",
+    "youtube_link": "https://www.youtube.com/watch?v=D_fpEwdyOac",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329868225174,
+    "song_title": "Why Cant I Be You",
+    "year": 2012,
+    "artist_name": "The Cure",
+    "artist_genre": "new wave, gothic rock, post-punk",
+    "youtube_link": "https://www.youtube.com/watch?v=PlTe7xRvc5Y",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329876499393,
+    "song_title": "Everybodys Changing",
+    "year": 2012,
+    "artist_name": "Keane",
+    "artist_genre": "alternative rock, piano rock, post-britpop",
+    "youtube_link": "https://www.youtube.com/watch?v=8me_qG1SSgM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329900207681,
+    "song_title": "Play For Today",
+    "year": 2012,
+    "artist_name": "The Cure",
+    "artist_genre": "new wave, gothic rock, post-punk",
+    "youtube_link": "https://www.youtube.com/watch?v=4BHlGhqohpQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329917896966,
+    "song_title": "A Forest",
+    "year": 2012,
+    "artist_name": "The Cure",
+    "artist_genre": "new wave, gothic rock, post-punk",
+    "youtube_link": "https://youtu.be/gJYCnL9xNsY?si=IFRnWDWw7KgHW2qZ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329960816391,
+    "song_title": "Friday Im In Love",
+    "year": 2012,
+    "artist_name": "The Cure",
+    "artist_genre": "new wave, gothic rock, post-punk",
+    "youtube_link": "https://www.youtube.com/watch?v=xgI0IWLugPo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329964648146,
+    "song_title": "Spoonman",
+    "year": 2012,
+    "artist_name": "Soundgarden",
+    "artist_genre": "grunge, alternative rock, alternative metal",
+    "youtube_link": "https://www.youtube.com/watch?v=NBwZ7wae9Dw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329991817880,
+    "song_title": "Fell On Black Days",
+    "year": 2012,
+    "artist_name": "Soundgarden",
+    "artist_genre": "grunge, alternative rock, alternative metal",
+    "youtube_link": "https://www.youtube.com/watch?v=ZlWaKNd3NL4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330064999919,
+    "song_title": "Black Hole Sun",
+    "year": 2012,
+    "artist_name": "Soundgarden",
+    "artist_genre": "grunge, alternative rock, alternative metal",
+    "youtube_link": "https://www.youtube.com/watch?v=vN_AhUrHkRI",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

@@ -18,7 +18,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=BGLGzRXY5Bw",
     "imvdb_url": "https://imvdb.com/video/the-beatles/revolution",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -51,7 +51,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=A_MjCqQoLLA",
     "imvdb_url": "https://imvdb.com/video/the-beatles/hey-jude",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Rock Alternativo",
     "youtube_link": "https://www.youtube.com/watch?v=kHBV2yfqEEQ",
     "imvdb_url": "https://imvdb.com/video/the-rolling-stones/child-of-the-moon",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -95,7 +95,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=NCtzkaL2t_Y",
     "imvdb_url": "https://imvdb.com/video/the-beatles/dont-let-me-down",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {

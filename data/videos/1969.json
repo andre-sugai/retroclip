@@ -7,7 +7,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/something",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -40,7 +40,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/get-back",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -62,7 +62,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=vdqTzuxytu0",
     "imvdb_url": "https://imvdb.com/video/the-beatles/get-back",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -139,7 +139,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=v-1OgNqBkVE",
     "imvdb_url": "https://imvdb.com/video/the-beatles/the-ballad-of-john-and-yoko",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {

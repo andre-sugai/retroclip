@@ -19033,5 +19033,53 @@
     ],
     "nationality": "US",
     "record_label": "epitaph"
+  },
+  {
+    "id": 1770329909960684,
+    "song_title": "Faint",
+    "year": 2007,
+    "artist_name": "Linkin Park",
+    "artist_genre": "nu metal, rock, rap rock",
+    "youtube_link": "https://www.youtube.com/watch?v=w6i-lj0gql8",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329943404674,
+    "song_title": "Numb",
+    "year": 2007,
+    "artist_name": "Linkin Park",
+    "artist_genre": "nu metal, rock, rap rock",
+    "youtube_link": "https://www.youtube.com/watch?v=jWoFbBCGp1A",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330011597064,
+    "song_title": "What Ive Done",
+    "year": 2007,
+    "artist_name": "Linkin Park",
+    "artist_genre": "nu metal, rock, rap rock",
+    "youtube_link": "https://www.youtube.com/watch?v=D6VOrAlNrWs",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330067281066,
+    "song_title": "In The End",
+    "year": 2007,
+    "artist_name": "Linkin Park",
+    "artist_genre": "nu metal, rock, rap rock",
+    "youtube_link": "https://www.youtube.com/watch?v=k0WHJO6x-AU",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

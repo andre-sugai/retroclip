@@ -553,6 +553,32 @@ export const getTopArtists = async (limit: number = 5) => {
     .map(([name, count]) => ({ name, count }));
 };
 
+export const getAllArtists = async () => {
+  // Use the index for instant results instead of loading all data
+  if (metadataIndex.byArtist) {
+    return Object.entries(metadataIndex.byArtist)
+      .map(([name, data]: [string, any]) => ({ name, count: data.count }))
+      .sort((a, b) => a.name.localeCompare(b.name)); // Already sorted in index, but ensure it
+  }
+  
+  // Fallback to loading all data if index doesn't have artists yet
+  const allData = await getDataset('all');
+  const artistCounts: Record<string, number> = {};
+
+  allData.forEach((video: any) => {
+    const artist = video.artist || video.artist_name || 'Unknown';
+    if (artistCounts[artist]) {
+      artistCounts[artist]++;
+    } else {
+      artistCounts[artist] = 1;
+    }
+  });
+
+  return Object.entries(artistCounts)
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => a.name.localeCompare(b.name)); // Sort alphabetically
+};
+
 export const getCollectionHighlights = async () => {
   const allData = await getDataset('all');
 

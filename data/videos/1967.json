@@ -51,7 +51,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=rblYSKz_VnI",
     "imvdb_url": "https://imvdb.com/video/the-beatles/hello-goodbye",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -128,7 +128,7 @@
     "artist_genre": "Pop",
     "youtube_link": "https://www.youtube.com/watch?v=usNsCeOV4GM",
     "imvdb_url": "https://imvdb.com/video/the-beatles/a-day-in-the-life",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {
@@ -150,7 +150,7 @@
     "artist_genre": "Pop",
     "youtube_link": null,
     "imvdb_url": "https://imvdb.com/video/the-beatles/all-you-need-is-love",
-    "nationality": "GB",
+    "nationality": "EN",
     "video_type": "clip"
   },
   {

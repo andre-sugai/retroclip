@@ -12882,5 +12882,89 @@
     ],
     "nationality": "US",
     "record_label": "epitaph"
+  },
+  {
+    "id": 1770329834965971,
+    "song_title": "The Time Is Now",
+    "year": 2004,
+    "artist_name": "Moloko",
+    "artist_genre": "house, acid jazz, alternative dance",
+    "youtube_link": "https://www.youtube.com/watch?v=ciE7WDye4wY",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329904079376,
+    "song_title": "Stockholm Syndrome",
+    "year": 2004,
+    "artist_name": "Muse",
+    "artist_genre": "alternative rock, rock, progressive rock",
+    "youtube_link": "https://www.youtube.com/watch?v=aFuluB9ym1U",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329951108618,
+    "song_title": "Hysteria",
+    "year": 2004,
+    "artist_name": "Muse",
+    "artist_genre": "alternative rock, rock, progressive rock",
+    "youtube_link": "https://www.youtube.com/watch?v=TnyhvmJJYQM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770329993780719,
+    "song_title": "Time Is Running Out",
+    "year": 2004,
+    "artist_name": "Muse",
+    "artist_genre": "alternative rock, rock, progressive rock",
+    "youtube_link": "https://www.youtube.com/watch?v=8raKO7rDwkQ",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330007719403,
+    "song_title": "Plug In Baby",
+    "year": 2004,
+    "artist_name": "Muse",
+    "artist_genre": "alternative rock, rock, progressive rock",
+    "youtube_link": "https://youtu.be/Edt-4YvCLZk?si=MIHbGk71xojxB4ow",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330049438913,
+    "song_title": "Sing It Back",
+    "year": 2004,
+    "artist_name": "Moloko",
+    "artist_genre": "house, acid jazz, alternative dance",
+    "youtube_link": "https://www.youtube.com/watch?v=JWYiYhskl6M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330345044714,
+    "song_title": "Sing It Back",
+    "year": 2004,
+    "artist_name": "Moloko",
+    "artist_genre": "house, acid jazz, alternative dance",
+    "youtube_link": "https://www.youtube.com/watch?v=JWYiYhskl6M",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

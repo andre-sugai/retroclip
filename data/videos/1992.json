@@ -5100,7 +5100,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=zxQVN8NF3ac",
     "imvdb_url": "https://imvdb.com/video/toad-the-wet-sprocket/hold-her-down",
     "artist": "Toad The Wet Sprocket",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -6123,7 +6123,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=12bM1CqHoBY",
     "imvdb_url": "https://imvdb.com/video/toad-the-wet-sprocket/walk-on-the-ocean",
     "artist": "Toad The Wet Sprocket",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -6222,7 +6222,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=AVYYpNaSs2Y",
     "imvdb_url": "https://imvdb.com/video/toad-the-wet-sprocket/all-i-want",
     "artist": "Toad The Wet Sprocket",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -7551,5 +7551,89 @@
     "festival": "pinkpop",
     "nationality": "INTL",
     "is_show": true
+  },
+  {
+    "id": 1770330013550671,
+    "song_title": "In Concert",
+    "year": 1992,
+    "artist_name": "Lou Reed",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=b8sZ6HV6IIA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330081073812,
+    "song_title": "Rusty Cage",
+    "year": 1992,
+    "artist_name": "Soundgarden",
+    "artist_genre": "grunge, alternative rock, alternative metal",
+    "youtube_link": "https://youtu.be/rtn-Jz2xrsI?si=MdQUl2PfyEsMk2Ie",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330120987187,
+    "song_title": "Jesus Christ Pose",
+    "year": 1992,
+    "artist_name": "Soundgarden",
+    "artist_genre": "grunge, alternative rock, alternative metal",
+    "youtube_link": "https://www.youtube.com/watch?v=Ck49aD-x7HM",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330178672968,
+    "song_title": "Slaves & Bulldozers",
+    "year": 1992,
+    "artist_name": "Soundgarden",
+    "artist_genre": "grunge, alternative rock, alternative metal",
+    "youtube_link": "https://youtu.be/-rX6aW1p4ZA?si=Qy7doplEnM4vl-FX",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330239088599,
+    "song_title": "O Stella",
+    "year": 1992,
+    "artist_name": "PJ Harvey",
+    "artist_genre": "alternative rock, indie rock, art rock",
+    "youtube_link": "https://youtu.be/rTpF7T4Z_BA?si=bO8UZpQhgX8fDygn",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330250519997,
+    "song_title": "Vicious",
+    "year": 1992,
+    "artist_name": "Lou Reed",
+    "artist_genre": "rock, art rock, glam rock",
+    "youtube_link": "https://www.youtube.com/watch?v=tEP6t8rTQLc",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330260243781,
+    "song_title": "Audience footage of Pinkpop 1992 ",
+    "year": 1992,
+    "artist_name": "",
+    "artist_genre": "",
+    "youtube_link": "https://www.youtube.com/watch?v=NFLrf6OzvEk",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]

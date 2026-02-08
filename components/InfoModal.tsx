@@ -19,6 +19,7 @@ import {
   getGenreStatistics,
   getTopArtists,
   getCollectionHighlights,
+  getAllArtists,
 } from '../services/imvdbService';
 
 interface InfoModalProps {
@@ -32,7 +33,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
   onClose,
   language,
 }) => {
-  const [activeTab, setActiveTab] = useState<'about' | 'status'>('about');
+  const [activeTab, setActiveTab] = useState<'about' | 'status' | 'artists'>('about');
 
   // Reset tab when closing to ensure optimal performance on next open
   React.useEffect(() => {
@@ -61,11 +62,12 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         'Escolha entre clipes internacionais, brasileiros ou misturados',
         'Compartilhe seus clipes favoritos',
       ],
-      version: 'Versão 1.21.0',
+      version: 'Versão 1.21.3',
       close: 'Fechar',
       tabs: {
         about: 'Sobre',
         status: 'Status',
+        artists: 'Artistas',
       },
       statusTitle: 'Estatísticas do Acervo',
       byDecade: 'Por Década',
@@ -80,6 +82,10 @@ export const InfoModal: React.FC<InfoModalProps> = ({
       international: 'Internacional',
       brazilian: 'Brasileiro',
       total: 'Total',
+      artistsTitle: 'Índice de Artistas',
+      searchArtists: 'Buscar artista...',
+      totalArtists: 'Total de Artistas',
+      clipsLabel: 'clipes',
       releasesFound: 'lançamentos encontrados',
     },
     en: {
@@ -97,11 +103,12 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         'Choose between international, Brazilian or mixed clips',
         'Share your favorite clips',
       ],
-      version: 'Version 1.21.0',
+      version: 'Version 1.21.3',
       close: 'Close',
       tabs: {
         about: 'About',
         status: 'Status',
+        artists: 'Artists',
       },
       statusTitle: 'Collection Statistics',
       byDecade: 'By Decade',
@@ -116,6 +123,10 @@ export const InfoModal: React.FC<InfoModalProps> = ({
       international: 'International',
       brazilian: 'Brazilian',
       total: 'Total',
+      artistsTitle: 'Artist Index',
+      searchArtists: 'Search artist...',
+      totalArtists: 'Total Artists',
+      clipsLabel: 'clips',
       releasesFound: 'releases found',
     },
   };
@@ -150,7 +161,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         <div className="flex border-b border-border">
           <button
             onClick={() => setActiveTab('about')}
-            className={`flex-1 px-6 py-3 text-sm font-medium transition-colors ${
+            className={`flex-1 px-4 py-3 text-sm font-medium transition-colors ${
               activeTab === 'about'
                 ? 'text-primary border-b-2 border-primary bg-primary/5'
                 : 'text-muted-foreground hover:text-foreground hover:bg-muted/50'
@@ -160,13 +171,23 @@ export const InfoModal: React.FC<InfoModalProps> = ({
           </button>
           <button
             onClick={() => setActiveTab('status')}
-            className={`flex-1 px-6 py-3 text-sm font-medium transition-colors ${
+            className={`flex-1 px-4 py-3 text-sm font-medium transition-colors ${
               activeTab === 'status'
                 ? 'text-primary border-b-2 border-primary bg-primary/5'
                 : 'text-muted-foreground hover:text-foreground hover:bg-muted/50'
             }`}
           >
             {t.tabs.status}
+          </button>
+          <button
+            onClick={() => setActiveTab('artists')}
+            className={`flex-1 px-4 py-3 text-sm font-medium transition-colors ${
+              activeTab === 'artists'
+                ? 'text-primary border-b-2 border-primary bg-primary/5'
+                : 'text-muted-foreground hover:text-foreground hover:bg-muted/50'
+            }`}
+          >
+            {t.tabs.artists}
           </button>
         </div>
 
@@ -275,8 +296,10 @@ export const InfoModal: React.FC<InfoModalProps> = ({
                 </p>
               </div>
             </>
-          ) : (
+          ) : activeTab === 'status' ? (
             <StatusContent content={content} language={language} />
+          ) : (
+            <ArtistsContent content={content} language={language} />
           )}
         </div>
 
@@ -553,6 +576,117 @@ const StatusContent: React.FC<{ content: any; language: Language }> = ({
             </div>
           </div>
         )}
+      </div>
+    </>
+  );
+};
+
+// Artists Content Component
+const ArtistsContent: React.FC<{ content: any; language: Language }> = ({
+  content,
+  language,
+}) => {
+  const { artistsTitle, searchArtists, totalArtists, clipsLabel } =
+    content[language];
+
+  const [artists, setArtists] = React.useState<any[]>([]);
+  const [filteredArtists, setFilteredArtists] = React.useState<any[]>([]);
+  const [searchTerm, setSearchTerm] = React.useState('');
+  const [isLoading, setIsLoading] = React.useState(true);
+
+  // Load artists on mount
+  React.useEffect(() => {
+    const timer = setTimeout(async () => {
+      const allArtists = await getAllArtists();
+      setArtists(allArtists);
+      setFilteredArtists(allArtists);
+      setIsLoading(false);
+    }, 100);
+
+    return () => clearTimeout(timer);
+  }, []);
+
+  // Filter artists based on search term
+  React.useEffect(() => {
+    if (searchTerm.trim() === '') {
+      setFilteredArtists(artists);
+    } else {
+      const filtered = artists.filter((artist) =>
+        artist.name.toLowerCase().includes(searchTerm.toLowerCase())
+      );
+      setFilteredArtists(filtered);
+    }
+  }, [searchTerm, artists]);
+
+  if (isLoading) {
+    return (
+      <div className="flex flex-col items-center justify-center py-20 animate-in fade-in duration-300">
+        <div className="w-8 h-8 border-4 border-primary/30 border-t-primary rounded-full animate-spin mb-4"></div>
+        <p className="text-sm text-muted-foreground animate-pulse">
+          Carregando artistas...
+        </p>
+      </div>
+    );
+  }
+
+  return (
+    <>
+      <div>
+        <h3 className="text-lg font-bold mb-4">{artistsTitle}</h3>
+
+        {/* Total Count */}
+        <div className="bg-primary/10 border border-primary/20 rounded-lg p-4 mb-4 text-center">
+          <p className="text-xs text-muted-foreground mb-1">{totalArtists}</p>
+          <p className="text-3xl font-black text-primary">
+            {artists.length.toLocaleString()}
+          </p>
+          <p className="text-xs text-muted-foreground mt-1">
+            artistas catalogados
+          </p>
+        </div>
+
+        {/* Search Input */}
+        <div className="mb-4">
+          <input
+            type="text"
+            placeholder={searchArtists}
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            className="w-full px-3 py-2 bg-muted border border-border rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-primary/50"
+          />
+        </div>
+
+        {/* Results Count */}
+        {searchTerm && (
+          <p className="text-xs text-muted-foreground mb-3">
+            {filteredArtists.length} {language === 'pt' ? 'resultados' : 'results'}
+          </p>
+        )}
+
+        {/* Artist List */}
+        <div className="space-y-1 max-h-[400px] overflow-y-auto custom-scrollbar">
+          {filteredArtists.length > 0 ? (
+            filteredArtists.map((artist, index) => (
+              <div
+                key={index}
+                className="flex items-center justify-between p-2 rounded-md hover:bg-muted/50 transition-colors"
+              >
+                <span className="text-sm font-medium truncate mr-2">
+                  {artist.name}
+                </span>
+                <span className="text-xs font-mono text-muted-foreground whitespace-nowrap">
+                  {artist.count} {clipsLabel}
+                </span>
+              </div>
+            ))
+          ) : (
+            <p className="text-sm text-muted-foreground text-center py-8">
+              {language === 'pt'
+                ? 'Nenhum artista encontrado'
+                : 'No artists found'}
+            </p>
+          )}
+        </div>
       </div>
     </>
   );

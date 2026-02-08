@@ -3604,7 +3604,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=265xQjS8Q9M",
     "imvdb_url": "https://imvdb.com/video/indochine/savoure-le-rouge",
     "artist": "Indochine",
-    "nationality": "INTL",
+    "nationality": "FR",
     "video_type": "clip"
   },
   {
@@ -4187,7 +4187,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=nz542iQchN4",
     "imvdb_url": "https://imvdb.com/video/bob-dylan/blood-in-my-eyes",
     "artist": "Bob Dylan",
-    "nationality": "INTL",
+    "nationality": "US",
     "video_type": "clip"
   },
   {
@@ -6447,5 +6447,77 @@
     ],
     "nationality": "GB",
     "record_label": "epitaph"
+  },
+  {
+    "id": 1770330265950788,
+    "song_title": "Are You Gonna Go My Way",
+    "year": 1993,
+    "artist_name": "Lenny Kravitz",
+    "artist_genre": "rock, hard rock, funk rock",
+    "youtube_link": "https://www.youtube.com/watch?v=kNE8ryfMrm4",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330283836623,
+    "song_title": "Let Love Rule",
+    "year": 1993,
+    "artist_name": "Lenny Kravitz",
+    "artist_genre": "rock, hard rock, funk rock",
+    "youtube_link": "https://www.youtube.com/watch?v=02pm4GDiOaA",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330303142735,
+    "song_title": "Thorn",
+    "year": 1993,
+    "artist_name": "The Black Crowes",
+    "artist_genre": "blues rock, hard rock, southern rock",
+    "youtube_link": "https://youtu.be/KJLv0cqxHK4?si=TXEhrpQIcLydysKO",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330320982637,
+    "song_title": "Sister",
+    "year": 1993,
+    "artist_name": "Lenny Kravitz",
+    "artist_genre": "rock, hard rock, funk rock",
+    "youtube_link": "https://www.youtube.com/watch?v=h1YGT7ekmuo",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330327076381,
+    "song_title": "Sunflower",
+    "year": 1993,
+    "artist_name": "The Black Crowes",
+    "artist_genre": "blues rock, hard rock, southern rock",
+    "youtube_link": "https://www.youtube.com/watch?v=DHXE_YmvRAw",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
+  },
+  {
+    "id": 1770330281479688,
+    "song_title": "Promised You A Miracle",
+    "year": 1983,
+    "artist_name": "Simple Minds",
+    "artist_genre": "new wave, rock, electronic",
+    "youtube_link": "https://youtu.be/2F62g752GoU?si=jaJfZtdvATskEoPL",
+    "duration": null,
+    "duration_seconds": 0,
+    "video_type": "unknown",
+    "video_tags": []
   }
 ]
