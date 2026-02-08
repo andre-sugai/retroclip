@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Video } from '../types';
-import { Disc3, CircleArrowRight, Play, Radio } from 'lucide-react';
+import { Disc3, CircleArrowRight, CircleArrowLeft, Play, Radio } from 'lucide-react';
 import { translations, Language } from '../translations';
 
 const StreamPlayer = ({ video, isPlaying, isMuted, onSkip, onVideoPlay }: { video: Video, isPlaying: boolean, isMuted: boolean, onSkip: () => void, onVideoPlay?: () => void }) => {
@@ -123,12 +123,14 @@ declare global {
 interface Sector1PlayerProps {
   currentVideo: Video | null;
   onEnded: () => void;
+  onPrevious?: () => void;
   isSidebarOpen: boolean;
   language: Language;
   onVideoPlay?: () => void;
   isMuted?: boolean;
   isPlaying?: boolean;
   hasNext?: boolean;
+  hasPrevious?: boolean;
   initialTime?: number;
   onTimeUpdate?: (time: number) => void;
   forceCaptions?: boolean;
@@ -137,11 +139,13 @@ interface Sector1PlayerProps {
 export const Sector1Player: React.FC<Sector1PlayerProps> = ({
   currentVideo,
   onEnded,
+  onPrevious,
   language,
   onVideoPlay,
   isMuted = false,
   isPlaying = false,
   hasNext = false,
+  hasPrevious = false,
   initialTime = 0,
   onTimeUpdate,
   forceCaptions = false,
@@ -818,12 +822,33 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
         </div>
       )}
 
-      {/* Next Button - Bottom Right */}
+      {/* Navigation Buttons - Bottom Right */}
       <div
-        className={`absolute bottom-24 right-8 z-30 transition-opacity duration-700 ${
+        className={`absolute bottom-24 right-8 z-30 flex gap-4 transition-opacity duration-700 ${
           showInfo ? 'opacity-100' : 'opacity-100 md:opacity-0'
         }`}
       >
+        {/* Previous Button */}
+        {hasPrevious && onPrevious && (
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              onPrevious();
+            }}
+            className={`pointer-events-auto text-white transition-all duration-300 hover:scale-110 opacity-100 md:opacity-0 ${
+              showInfo ? 'md:animate-fade-in' : 'md:animate-fade-out'
+            }`}
+            style={{ animationDelay: showInfo ? '0.5s' : '0s' }}
+            aria-label={language === 'pt' ? 'Vídeo anterior' : 'Previous video'}
+          >
+            <CircleArrowLeft
+              className="w-12 h-12 md:w-16 md:h-16 drop-shadow-2xl"
+              strokeWidth={1.5}
+            />
+          </button>
+        )}
+
+        {/* Next Button */}
         <button
           onClick={(e) => {
             e.stopPropagation();

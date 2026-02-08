@@ -545,6 +545,63 @@ const App: React.FC = () => {
     });
   };
 
+  // Logic: Previous Video
+  const handlePrevious = () => {
+    // Special handling for radio stations
+    if (state.currentVideo?.source === 'stream') {
+      // Determine which radio is currently playing
+      const currentRadioId = state.currentVideo.id;
+      let prevRadioGenre: string;
+      
+      if (currentRadioId === 99999999) { // KISS FM
+        prevRadioGenre = 'radio_89fm';
+      } else if (currentRadioId === 99999998) { // 89 FM
+        prevRadioGenre = 'kiss_fm';
+      } else {
+        // Unknown radio, default to 89 FM
+        prevRadioGenre = 'radio_89fm';
+      }
+      
+      // Trigger the genre selection which will handle the transition
+      handleGenreSelect(prevRadioGenre);
+      return;
+    }
+    
+    // Original logic for non-radio content
+    // Trigger tuning static if previous video is a stream
+    const currentIdx = state.queue.findIndex(
+      (v) => v.id === state.currentVideo?.id
+    );
+    const prevIdx = currentIdx - 1;
+
+    let targetVideo = null;
+    if (prevIdx >= 0) {
+       targetVideo = state.queue[prevIdx];
+    }
+
+    if (targetVideo && targetVideo.source === 'stream') {
+        setIsTuning(true);
+    }
+
+    setState((prev) => {
+      const currentIndex = prev.queue.findIndex(
+        (v) => v.id === prev.currentVideo?.id
+      );
+      const prevIndex = currentIndex - 1;
+
+      if (prevIndex >= 0) {
+        return {
+          ...prev,
+          currentVideo: prev.queue[prevIndex],
+          isPlaying: true,
+        };
+      } else {
+        // Beginning of playlist - stay on first video
+        return prev;
+      }
+    });
+  };
+
   // Logic: Genre Filtering
   const handleGenreSelect = async (genreId: string | null) => {
     setSelectedGenre(genreId);
@@ -848,7 +905,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.20.2 // ARIA-COMPLIANT
+              V 1.21.0 // ARIA-COMPLIANT
             </p>
           </div>
 
@@ -962,6 +1019,7 @@ const App: React.FC = () => {
         <Sector1Player
           currentVideo={state.currentVideo}
           onEnded={handleNext}
+          onPrevious={handlePrevious}
           isSidebarOpen={isSidebarOpen}
           language={language}
           onVideoPlay={() => setIsTuning(false)}
@@ -971,6 +1029,9 @@ const App: React.FC = () => {
             (state.queue.findIndex((v) => v.id === state.currentVideo?.id) <
             state.queue.length - 1) || (state.queue.length > 0 && state.queue[0].source === 'stream')
           } // Check if next video exists or if it's a stream (loop)
+          hasPrevious={
+            state.queue.findIndex((v) => v.id === state.currentVideo?.id) > 0
+          } // Check if previous video exists
           forceCaptions={state.currentVideo?.program_name === 'documentarios'}
         />
 
