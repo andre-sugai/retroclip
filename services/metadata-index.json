@@ -209,6 +209,7 @@
         "Rock Alternativo"
       ],
       "nationalities": [
+        "EN",
         "GB",
         "US"
       ],
@@ -243,6 +244,7 @@
       ],
       "nationalities": [
         "BR",
+        "EN",
         "GB",
         "SE",
         "US"
@@ -275,7 +277,7 @@
       "hasPrograms": false
     },
     "1975": {
-      "count": 40,
+      "count": 41,
       "genres": [
         "Metal",
         "Pop",
@@ -309,6 +311,7 @@
         "AU",
         "BR",
         "CA",
+        "EN",
         "GB",
         "IE",
         "INTL",
@@ -342,7 +345,7 @@
       "hasPrograms": false
     },
     "1978": {
-      "count": 74,
+      "count": 76,
       "genres": [
         "Metal",
         "Pop",
@@ -357,6 +360,7 @@
         "DE",
         "EN",
         "GB",
+        "INTL",
         "SE",
         "US"
       ],
@@ -393,7 +397,7 @@
       "hasPrograms": false
     },
     "1980": {
-      "count": 172,
+      "count": 174,
       "genres": [
         "Dance",
         "Hard Rock",
@@ -415,6 +419,7 @@
         "FR",
         "GB",
         "IE",
+        "INTL",
         "NZ",
         "SE",
         "US"
@@ -457,7 +462,7 @@
       "hasPrograms": false
     },
     "1982": {
-      "count": 256,
+      "count": 258,
       "genres": [
         "Dance",
         "Hard Rock",
@@ -495,7 +500,7 @@
       "hasPrograms": false
     },
     "1983": {
-      "count": 299,
+      "count": 300,
       "genres": [
         "Dance",
         "Hard Rock",
@@ -520,6 +525,7 @@
         "FR",
         "GB",
         "IE",
+        "INTL",
         "IT",
         "JP",
         "NL",
@@ -550,6 +556,7 @@
       ],
       "nationalities": [
         "BR",
+        "EN",
         "GB",
         "INTL",
         "NL",
@@ -654,7 +661,7 @@
       "hasPrograms": false
     },
     "1988": {
-      "count": 522,
+      "count": 523,
       "genres": [
         "Folk",
         "Metal",
@@ -676,6 +683,7 @@
         "CH",
         "CL",
         "DE",
+        "EN",
         "FR",
         "GB",
         "IE",
@@ -694,7 +702,7 @@
       "hasPrograms": false
     },
     "1989": {
-      "count": 535,
+      "count": 536,
       "genres": [
         "Eletronico",
         "Metal",
@@ -746,6 +754,7 @@
       ],
       "nationalities": [
         "BR",
+        "EN",
         "FR",
         "GB",
         "INTL",
@@ -770,6 +779,7 @@
       ],
       "nationalities": [
         "BR",
+        "EN",
         "FR",
         "GB",
         "INTL",
@@ -781,7 +791,7 @@
       "hasPrograms": false
     },
     "1992": {
-      "count": 683,
+      "count": 690,
       "genres": [
         "Dance",
         "Eletronico",
@@ -802,7 +812,7 @@
       "hasPrograms": false
     },
     "1993": {
-      "count": 578,
+      "count": 583,
       "genres": [
         "Dance",
         "Metal",
@@ -826,7 +836,7 @@
       "hasPrograms": false
     },
     "1994": {
-      "count": 740,
+      "count": 748,
       "genres": [
         "Dance",
         "Eletronico",
@@ -846,6 +856,7 @@
       "nationalities": [
         "BR",
         "CA",
+        "EN",
         "FR",
         "GB",
         "IE",
@@ -858,7 +869,7 @@
       "hasPrograms": false
     },
     "1995": {
-      "count": 791,
+      "count": 805,
       "genres": [
         "Dance",
         "Eletronico",
@@ -887,7 +898,7 @@
       "hasPrograms": false
     },
     "1996": {
-      "count": 811,
+      "count": 819,
       "genres": [
         "Dance",
         "Eletronico",
@@ -917,7 +928,7 @@
       "hasPrograms": false
     },
     "1997": {
-      "count": 946,
+      "count": 960,
       "genres": [
         "Dance",
         "Eletronico",
@@ -935,6 +946,7 @@
         "AU",
         "BR",
         "DE",
+        "EN",
         "FR",
         "GB",
         "INTL",
@@ -948,7 +960,7 @@
       "hasPrograms": false
     },
     "1998": {
-      "count": 865,
+      "count": 867,
       "genres": [
         "Dance",
         "Eletronico",
@@ -962,8 +974,10 @@
       ],
       "nationalities": [
         "CA",
+        "EN",
         "GB",
         "INTL",
+        "IT",
         "NL",
         "US"
       ],
@@ -972,7 +986,7 @@
       "hasPrograms": false
     },
     "1999": {
-      "count": 937,
+      "count": 953,
       "genres": [
         "Dance",
         "Eletronico",
@@ -987,6 +1001,7 @@
       "nationalities": [
         "BR",
         "CA",
+        "CH",
         "DE",
         "FR",
         "GB",
@@ -1021,9 +1036,11 @@
       "nationalities": [
         "BR",
         "CA",
+        "CH",
         "DE",
         "GB",
         "INTL",
+        "IT",
         "NL",
         "SE",
         "US"
@@ -1033,7 +1050,7 @@
       "hasPrograms": false
     },
     "2001": {
-      "count": 951,
+      "count": 969,
       "genres": [
         "Dance",
         "Eletronico",
@@ -1126,7 +1143,7 @@
       "hasPrograms": false
     },
     "2003": {
-      "count": 1090,
+      "count": 1096,
       "genres": [
         "Dance",
         "Eletronico",
@@ -1189,7 +1206,7 @@
       "hasPrograms": false
     },
     "2004": {
-      "count": 1129,
+      "count": 1136,
       "genres": [
         "Dance",
         "Eletronico",
@@ -1257,7 +1274,7 @@
       "hasPrograms": false
     },
     "2005": {
-      "count": 1365,
+      "count": 1368,
       "genres": [
         "Dance",
         "Eletronico",
@@ -1280,6 +1297,7 @@
         "BR",
         "CA",
         "DE",
+        "EN",
         "ES",
         "FR",
         "GB",
@@ -1294,7 +1312,7 @@
       "hasPrograms": false
     },
     "2006": {
-      "count": 1648,
+      "count": 1657,
       "genres": [
         "Dance",
         "Eletronico",
@@ -1366,7 +1384,7 @@
       "hasPrograms": true
     },
     "2007": {
-      "count": 1631,
+      "count": 1635,
       "genres": [
         "Dance",
         "Eletronico",
@@ -1766,7 +1784,7 @@
       "hasPrograms": true
     },
     "2012": {
-      "count": 6778,
+      "count": 6795,
       "genres": [
         "Dance",
         "Eletronico",
@@ -1998,7 +2016,7 @@
       "hasPrograms": true
     },
     "2014": {
-      "count": 10356,
+      "count": 10361,
       "genres": [
         "Dance",
         "Eletronico",
@@ -2592,6 +2610,7 @@
         "DK",
         "DO",
         "EE",
+        "EN",
         "ES",
         "FI",
         "FR",
@@ -3356,7 +3375,7 @@
         "2010.json",
         "2011.json"
       ],
-      "count": 11499,
+      "count": 11583,
       "nationalities": [
         "AR",
         "AT",
@@ -5281,7 +5300,7 @@
         2025,
         2026
       ],
-      "count": 35930,
+      "count": 35960,
       "genres": [
         "Acoustic Pop",
         "Alive Rock",
@@ -5621,6 +5640,9 @@
         1967,
         1968,
         1969,
+        1971,
+        1973,
+        1976,
         1977,
         1978,
         1979,
@@ -5628,13 +5650,21 @@
         1981,
         1982,
         1983,
+        1984,
         1985,
         1986,
+        1988,
         1989,
+        1990,
+        1991,
+        1994,
         1995,
         1996,
+        1997,
+        1998,
         2002,
         2003,
+        2005,
         2006,
         2009,
         2010,
@@ -5645,12 +5675,13 @@
         2015,
         2016,
         2017,
+        2019,
         2020,
         2021,
         2022,
         2023
       ],
-      "count": 88,
+      "count": 152,
       "genres": [
         "acousticShow",
         "Britpop",
@@ -5658,6 +5689,7 @@
         "Indie Rock",
         "Pop",
         "Punk",
+        "Punk, Gótico",
         "Rock",
         "Rock Alternativo",
         "Rock Alternativo, Gótico"
@@ -5736,7 +5768,7 @@
         2024,
         2025
       ],
-      "count": 13514,
+      "count": 13471,
       "genres": [
         "Afrobeats",
         "Alternative",
@@ -6149,7 +6181,10 @@
       "years": [
         1970,
         1976,
+        1978,
+        1980,
         1982,
+        1983,
         1984,
         1985,
         1986,
@@ -6194,7 +6229,7 @@
         2025,
         2026
       ],
-      "count": 16711,
+      "count": 16634,
       "genres": [
         "Acoustic",
         "acousticShow",
@@ -6202,13 +6237,28 @@
         "Alternative",
         "Alternative Hip Hop",
         "Alternative Metal",
+        "alternative metal, alternative rock, funk metal",
+        "alternative metal, metal, alternative rock",
         "Alternative Metal, Rock Alt",
         "Alternative Rock",
+        "alternative rock, art rock, rock",
+        "alternative rock, britpop, hard rock",
         "Alternative Rock, Folk",
+        "alternative rock, funk rock, rock",
+        "alternative rock, indie rock, art rock",
+        "alternative rock, industrial rock, alternative dance",
+        "alternative rock, irish, pop",
+        "alternative rock, neo-psychedelia, shoegaze",
+        "alternative rock, piano rock, post-britpop",
+        "alternative rock, post-grunge, singer-songwriter",
+        "alternative rock, rock, progressive rock",
+        "alternative rock, rock, uk",
         "Art Pop",
         "Avant-garde",
         "Blues",
         "Blues Rock",
+        "blues rock, hard rock, southern rock",
+        "blues rock, rock, pop rock",
         "Britpop",
         "Classical Crossover",
         "Comedy",
@@ -6224,6 +6274,7 @@
         "Drum & Bass",
         "Drum and Bass",
         "Electronic",
+        "electronic, trip hop, trance",
         "Eletronico",
         "Emo",
         "Eurodance",
@@ -6241,6 +6292,7 @@
         "Goth, Gótico",
         "Groove Metal",
         "Grunge",
+        "grunge, alternative rock, alternative metal",
         "Hardcore",
         "hardcore punk, Hardcore",
         "Heartland Rock",
@@ -6250,6 +6302,7 @@
         "Hip House",
         "Hip-Hop",
         "House",
+        "house, acid jazz, alternative dance",
         "Indie",
         "Indie Pop",
         "Indie Rock",
@@ -6257,6 +6310,7 @@
         "Indie Rock, Gótico",
         "Industrial",
         "Industrial Metal",
+        "industrial metal, german, neue deutsche härte",
         "Industrial Metal, Gótico",
         "Industrial Rock",
         "Industrial, Gótico",
@@ -6277,15 +6331,24 @@
         "Metal, Nu Metal, Reggae",
         "New Age",
         "New Wave",
+        "new wave, gothic rock, post-punk",
+        "new wave, rock, electronic",
+        "new wave, rock, pop rock",
         "Nu Metal",
+        "nu metal, rapcore, rap metal",
+        "nu metal, rock, rap rock",
         "Parody",
         "Pop",
         "Pop Punk",
         "Pop Rock",
+        "pop rock, alternative rock, soft rock",
+        "pop, britpop, pop rock",
         "Pop, Folk",
+        "pop, folk pop, folk",
         "Pop, Hard Rock",
         "Pop, K-Pop",
         "Pop, Reggae",
+        "pop, ska, dutch",
         [
           "Pop",
           "Eletronico"
@@ -6297,6 +6360,7 @@
         "Progressive Metal",
         "Progressive Rock",
         "Punk",
+        "punk rock, pop punk, punk",
         "Punk, Folk",
         "Punk, Hardcore",
         "R&B",
@@ -6314,24 +6378,33 @@
         "Rock Alternativo, Industrial",
         "Rock Alternativo, Nu Metal",
         "Rock Alternativo, Reggae",
+        "rock, art rock, glam rock",
         "Rock, Gótico",
         "Rock, Hard Rock",
+        "rock, hard rock, funk rock",
         "Rock, Nu Metal",
+        "rock, soft rock, classic rock",
         "screamo",
         "Shoegaze",
+        "singer-songwriter, rock, rock and roll",
         "Ska",
         "Ska Punk",
+        "ska, 2 tone, reggae",
         "sludge",
         "Soul",
         "special purpose artist",
         "Spoken Word",
+        "symphonic metal, metal, gothic metal",
         "Synth-pop",
         "Synthpop",
         "Techno",
         "Thrash Metal",
+        "thrash metal, groove metal, heavy metal",
         "Trance",
         "Trip Hop",
+        "trip hop, electronic, downtempo",
         "Unknown",
+        "usa, classic pop and rock",
         "Visual Kei, Gótico",
         "World",
         "World, Gótico"
@@ -6680,6 +6753,8 @@
         1987,
         1988,
         1989,
+        1999,
+        2000,
         2002,
         2003,
         2004,
@@ -6703,7 +6778,7 @@
         2024,
         2025
       ],
-      "count": 277,
+      "count": 280,
       "genres": [
         "Country",
         "Desconhecido",
@@ -6751,7 +6826,7 @@
         2023,
         2024
       ],
-      "count": 295,
+      "count": 294,
       "genres": [
         "Black Metal",
         "Desconhecido",
@@ -6935,6 +7010,8 @@
         1987,
         1988,
         1989,
+        1998,
+        2000,
         2002,
         2003,
         2004,
@@ -6960,7 +7037,7 @@
         2024,
         2025
       ],
-      "count": 3177,
+      "count": 3179,
       "genres": [
         "Afrobeats",
         "Alternative",
@@ -9734,11 +9811,11 @@
     }
   },
   "metadata": {
-    "totalVideos": 98224,
-    "totalClips": 96097,
+    "totalVideos": 98202,
+    "totalClips": 96075,
     "totalShows": 924,
     "totalPrograms": 1203,
-    "lastGenerated": "2026-02-08T15:37:20.367Z",
+    "lastGenerated": "2026-02-10T22:21:57.146Z",
     "dataVersion": "2.0"
   }
 }

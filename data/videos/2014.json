@@ -112708,17 +112708,6 @@
     "video_type": "show"
   },
   {
-    "id": 964364665828,
-    "song_title": "Slade - Full Concert - 08/04/75 - Winterland (OFFICIAL)",
-    "year": 2014,
-    "artist_name": "Slade",
-    "artist_genre": "Desconhecido",
-    "youtube_link": "https://www.youtube.com/watch?v=aqcpx2K2SVA",
-    "nationality": "GB",
-    "is_show": true,
-    "video_type": "show"
-  },
-  {
     "id": 827346195797,
     "song_title": "Tool Live DVD 2014 (Full Concert)",
     "year": 2014,
@@ -112854,7 +112843,7 @@
     "year": 2014,
     "artist_name": "Metallica",
     "artist_genre": "",
-    "youtube_link": "https://www.youtube.com/watch?v=",
+    "youtube_link": "https://youtu.be/Dv_qDjoxWcE?si=xAFhii3MZRxVN90H",
     "duration": null,
     "duration_seconds": 0,
     "video_type": "unknown",

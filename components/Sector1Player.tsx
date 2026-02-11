@@ -312,13 +312,15 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
     // Set a global timeout as ultimate fallback
     // Shows and acoustic performances can be longer, so give them more time
     const isShow = currentVideo.is_show;
+    const isProgram = (currentVideo as any).is_program;
     const isAcoustic =
       currentVideo.artist_genre?.includes('acousticShow') ||
       currentVideo.artist_genre?.includes('acoustic') ||
       currentVideo.song_title?.toLowerCase().includes('acoustic') ||
       currentVideo.song_title?.toLowerCase().includes('acústico');
+    const isLongContent = isShow || isAcoustic || isProgram;
 
-    const maxDuration = isShow || isAcoustic ? 15 * 60 * 1000 : 8 * 60 * 1000; // 15min for shows/acoustic, 8min for regular clips
+    const maxDuration = isLongContent ? 180 * 60 * 1000 : 12 * 60 * 1000; // 3h safety net for long content, 12min for regular clips
 
     globalTimeoutRef.current = setTimeout(() => {
       console.log(
@@ -558,6 +560,13 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
       clearTimeout(player._safetyTimeout);
     }
 
+    // Determine if this is long content (shows, programs, acoustic performances)
+    const isLongContent = currentVideo?.is_show || (currentVideo as any)?.is_program ||
+      currentVideo?.artist_genre?.includes('acousticShow') ||
+      currentVideo?.artist_genre?.includes('acoustic') ||
+      currentVideo?.song_title?.toLowerCase().includes('acoustic') ||
+      currentVideo?.song_title?.toLowerCase().includes('acústico');
+
     player._timeUpdateInterval = setInterval(() => {
       try {
         // Check if player is still valid
@@ -567,6 +576,21 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
         const duration = player.getDuration();
         const playerState = player.getPlayerState();
 
+        // Once we know the real duration, adjust the global timeout accordingly
+        if (duration > 0 && !player._durationKnown) {
+          player._durationKnown = true;
+          if (globalTimeoutRef.current) {
+            clearTimeout(globalTimeoutRef.current);
+          }
+          // Set global timeout to real duration + 60s margin
+          const safetyMargin = isLongContent ? 120 : 60; // 2min margin for long content, 1min for clips
+          globalTimeoutRef.current = setTimeout(() => {
+            console.log(`[Grooovio] Global timeout reached (duration: ${Math.round(duration)}s + ${safetyMargin}s margin), forcing next video`);
+            onEndedRef.current();
+          }, (duration + safetyMargin) * 1000);
+          console.log(`[Grooovio] Adjusted global timeout to ${Math.round(duration + safetyMargin)}s (real duration: ${Math.round(duration)}s, long content: ${isLongContent})`);
+        }
+
         // Safety timeout - if video is longer than expected, force next
         if (duration > 0 && currentTime > duration + 5) {
           console.log('[Grooovio] Video exceeded duration, forcing next');
@@ -575,28 +599,33 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           return;
         }
 
-        // ULTRA aggressive end detection - start checking when 5 seconds remain
-        if (duration > 0 && duration - currentTime <= 5.0) {
+        // End detection - use softer thresholds for long content
+        const nearEndThreshold = isLongContent ? 2.0 : 5.0;
+        if (duration > 0 && duration - currentTime <= nearEndThreshold) {
           console.log(
-            `[Grooovio] Near end detected: ${currentTime}/${duration}, state: ${playerState}`
+            `[Grooovio] Near end detected: ${currentTime.toFixed(1)}/${duration.toFixed(1)}, state: ${playerState}`
           );
 
-          // Set a safety timeout to force advance if nothing else works - MUCH shorter
+          // Set a safety timeout to force advance if nothing else works
           if (!player._safetyTimeout) {
             const remainingTime = Math.max(duration - currentTime, 0.2);
+            const safetyBuffer = isLongContent ? 5.0 : 3.0; // More buffer for long content
             player._safetyTimeout = setTimeout(() => {
               console.log(
                 '[Grooovio] Safety timeout triggered, forcing next video'
               );
               clearInterval(player._timeUpdateInterval);
               onEndedRef.current();
-            }, (remainingTime + 0.5) * 1000); // Add only 0.5 second buffer
+            }, (remainingTime + safetyBuffer) * 1000);
           }
 
-          // MUCH more aggressive - trigger when 2 seconds remain OR if paused with 5 seconds remaining
+          // Trigger next: for long content trust the ENDED event more, only skip at 0.5s
+          // For regular clips, skip at 1s or if paused near end
+          const endThreshold = isLongContent ? 0.5 : 1.0;
+          const pauseEndThreshold = isLongContent ? 2.0 : 5.0;
           if (
-            duration - currentTime <= 2.0 ||
-            (playerState === 2 && duration - currentTime <= 5.0) ||
+            duration - currentTime <= endThreshold ||
+            (playerState === 2 && duration - currentTime <= pauseEndThreshold) ||
             playerState === 0 // Also check if already ended
           ) {
             console.log(
@@ -629,23 +658,17 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
         }
 
         // Check if video has been paused for too long near the end
+        const pauseNearEndThreshold = isLongContent ? 5.0 : 10.0;
         if (
           playerState === 2 &&
           duration > 0 &&
-          duration - currentTime <= 10.0
+          duration - currentTime <= pauseNearEndThreshold
         ) {
           if (!player._pauseStartTime) {
             player._pauseStartTime = Date.now();
           } else {
-            // Be more tolerant with shows and acoustic performances
-            const isShow = currentVideo?.is_show;
-            const isAcoustic =
-              currentVideo?.artist_genre?.includes('acousticShow') ||
-              currentVideo?.artist_genre?.includes('acoustic') ||
-              currentVideo?.song_title?.toLowerCase().includes('acoustic') ||
-              currentVideo?.song_title?.toLowerCase().includes('acústico');
-
-            const pauseThreshold = isShow || isAcoustic ? 30000 : 15000; // 30s for shows/acoustic, 15s for regular
+            // Be more tolerant with long content (shows, programs, acoustic performances)
+            const pauseThreshold = isLongContent ? 30000 : 15000; // 30s for long content, 15s for regular
 
             if (Date.now() - player._pauseStartTime > pauseThreshold) {
               console.log(

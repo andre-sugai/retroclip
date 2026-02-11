@@ -485,5 +485,16 @@
     "video_tags": [],
     "nationality": "GB",
     "is_show": true
+  },
+  {
+    "id": 964364665828,
+    "song_title": "Full Concert - Winterland",
+    "year": 1975,
+    "artist_name": "Slade",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=aqcpx2K2SVA",
+    "nationality": "GB",
+    "is_show": true,
+    "video_type": "show"
   }
 ]
