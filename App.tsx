@@ -11,6 +11,7 @@ import {
   loadPinkpopVideos,
   KISS_FM_VIDEO,
   RADIO_89FM_VIDEO,
+  getAvailableGenresFromIndex,
 } from './services/imvdbService';
 import { Sector1Player } from './components/Sector1Player';
 import { Sector2Search } from './components/Sector2Search';
@@ -35,6 +36,10 @@ import {
 import { translations, Language } from './translations';
 import { TVStatic } from './components/TVStatic';
 import { InfoModal } from './components/InfoModal';
+import { AuthProvider } from './contexts/AuthContext';
+
+import { AuthButton } from './components/AuthButton';
+import { FavoriteButton } from './components/FavoriteButton';
 
 const App: React.FC = () => {
   // Theme State
@@ -49,6 +54,10 @@ const App: React.FC = () => {
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [showShareCopied, setShowShareCopied] = useState(false);
   const [isInfoModalOpen, setIsInfoModalOpen] = useState(false);
+  const [isPlayerInfoVisible, setIsPlayerInfoVisible] = useState(true);
+
+  // State for Mobile Menu
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   // Language State
   const [language, setLanguage] = useState<Language>('pt');
@@ -56,6 +65,7 @@ const App: React.FC = () => {
 
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null);
   const [selectedRegion, setSelectedRegion] = useState<string>('all'); // Default to Global/All
+  const [selectedVideoType, setSelectedVideoType] = useState<'all' | 'clips' | 'live'>('all');
   const [allVideos, setAllVideos] = useState<Video[]>([]); // Store full unfiltered list
   const [lastSearchParams, setLastSearchParams] = useState<{
     type: 'year' | 'decade' | 'all';
@@ -107,6 +117,37 @@ const App: React.FC = () => {
     // If all videos in this set have been played, reset for this context (return all)
     console.log('[Grooovio] All videos in this category have been played. Resetting pool.');
     return videos;
+  };
+
+  // Helper: Filter videos by type
+  const filterByVideoType = (videos: Video[], type: 'all' | 'clips' | 'live'): Video[] => {
+    if (type === 'all') return videos;
+
+    return videos.filter((video) => {
+      if (type === 'live') {
+        // Live performances: video_type is 'live' OR is_live flag OR is_show flag
+        return (
+          (video as any).video_type === 'live' ||
+          (video as any).is_live === true ||
+          video.is_show === true
+        );
+      }
+
+      if (type === 'clips') {
+        // Studio clips: video_type is 'clip' or 'visualizer', or 'unknown' without live/show flags
+        const videoType = (video as any).video_type;
+        const isLive = (video as any).is_live;
+        const isShow = video.is_show;
+
+        return (
+          (videoType === 'clip' || videoType === 'visualizer' || videoType === 'unknown') &&
+          !isLive &&
+          !isShow
+        );
+      }
+
+      return true;
+    });
   };
 
   // Handle Theme Toggle
@@ -263,102 +304,17 @@ const App: React.FC = () => {
     }
   }, []);
 
-  // Load all videos from selected region on mount to populate availableGenres
-  useEffect(() => {
-    const loadInitialVideos = async () => {
-      try {
-        const videos = await fetchVideosByCriteria(
-          'all',
-          'all',
-          selectedRegion
-        );
-        setAllVideos(videos);
-        console.log('[Grooovio] Initial videos loaded:', videos.length);
-        console.log(
-          '[Grooovio] Programs found:',
-          videos.filter((v) => (v as any).is_program === true).length
-        );
-      } catch (error) {
-        console.error('[Grooovio] Failed to load initial videos:', error);
-      }
-    };
+  // NOTE: loadInitialVideos was removed to prevent loading ALL ~97K videos on mount.
+  // Previously, this loaded all videos just to populate genre dropdowns.
+  // Now we use the metadata index (160KB) for genre detection.
 
-    loadInitialVideos();
-  }, [selectedRegion]);
-
-  // Determine available genres based on current video list
+  // Determine available genres from metadata index (NO data loading!)
+  // This reads from the pre-imported 160KB metadata-index.json
   const availableGenres = useMemo(() => {
-    const genres = new Set<string>();
-
-    // Always include 'all'
-    genres.add('all');
-
-    // Check availability in current video list
-    allVideos.forEach((video) => {
-      // Check for shows - ensure we check for truthy value
-      if (video.is_show === true) {
-        genres.add('full_show');
-      }
-
-      // Check for programs
-      if ((video as any).is_program === true) {
-        // Add specific program genres based on program_name
-        const programName = (video as any).program_name;
-        if (programName === 'hermes_e_renato') {
-          genres.add('hermes_renato');
-        } else if (programName === 'beavis_and_butthead') {
-          genres.add('beavis_butthead');
-        } else if (programName === 'documentarios') {
-          genres.add('documentarios');
-        }
-      }
-
-      // Check for record labels
-      if (video.record_label) {
-        genres.add(video.record_label); // Will add 'atlantic', 'road_runner', or 'subpop'
-      }
-
-      // Add Pinkpop if available
-      if (pinkpopVideos && pinkpopVideos.length > 0) {
-        genres.add('pinkpop');
-      }
-
-      // Check for acoustic
-      if (
-        video.artist_genre === 'acousticShow' ||
-        (video.artist_genre && video.artist_genre.includes('acousticShow'))
-      ) {
-        genres.add('acoustic');
-      }
-
-      // Check for standard genres
-      if (video.artist_genre) {
-        Object.entries(GENRE_MAP).forEach(([id, keywords]) => {
-          if (
-            keywords.some(
-              (k) => video.artist_genre.includes(k) || video.artist_genre === k
-            )
-          ) {
-            genres.add(id);
-          }
-        });
-      }
-
-      // Check for Classics
-      if (video.year && video.year >= 1960 && video.year <= 1999) {
-        genres.add('Clássicos');
-      }
-    });
-
-    console.log('[Grooovio] Available genres:', Array.from(genres));
-    console.log('[Grooovio] Total videos in allVideos:', allVideos.length);
-    console.log(
-      '[Grooovio] Shows count:',
-      allVideos.filter((v) => v.is_show === true).length
-    );
-
+    const genres = getAvailableGenresFromIndex();
+    console.log('[Grooovio] Available genres (from index):', Array.from(genres));
     return genres;
-  }, [allVideos, pinkpopVideos]);
+  }, []);
 
   // Handle Share
   const handleShare = async () => {
@@ -411,8 +367,11 @@ const App: React.FC = () => {
         setAllVideos(videos); // Save full list
         setSelectedGenre(null); // Reset filter on new search
 
+        // Apply video type filter
+        let filteredVideos = filterByVideoType(videos, selectedVideoType);
+
         // Initial List is now already filtered by region from service
-        let initialList = getUnplayedVideos(videos);
+        let initialList = getUnplayedVideos(filteredVideos);
 
         // Keep static visible for a moment before starting video
         setTimeout(() => {
@@ -613,12 +572,15 @@ const App: React.FC = () => {
       setIsSidebarOpen(false);
     }
 
-    // Ensure we have videos to filter
+    // Ensure we have videos to filter - load on demand if needed
     let sourceVideos = allVideos;
-    if (sourceVideos.length === 0) {
+    if (sourceVideos.length === 0 && genreId !== 'pinkpop' && genreId !== 'kiss_fm' && genreId !== 'radio_89fm') {
       setIsTuning(true); // visual feedback
       try {
-        const fetched = await fetchVideosByCriteria('all', '');
+        // Load only the relevant data based on context
+        const searchType = lastSearchParams?.type || 'all';
+        const searchValue = lastSearchParams?.value || 'all';
+        const fetched = await fetchVideosByCriteria(searchType, searchValue, selectedRegion);
         if (fetched.length > 0) {
           setAllVideos(fetched);
           sourceVideos = fetched;
@@ -751,6 +713,9 @@ const App: React.FC = () => {
       return newArr;
     };
 
+    // Apply video type filter after genre filtering
+    filteredQueue = filterByVideoType(filteredQueue, selectedVideoType);
+
     const unplayedQueue = getUnplayedVideos(filteredQueue);
     const shuffledFiltered = shuffle(unplayedQueue);
 
@@ -831,6 +796,9 @@ const App: React.FC = () => {
         // Apply Repetition Logic Check
         startQueue = getUnplayedVideos(startQueue);
 
+        // Apply video type filter
+        startQueue = filterByVideoType(startQueue, selectedVideoType);
+
         // Shuffle
         const shuffle = (array: Video[]) => {
           const newArr = [...array];
@@ -869,6 +837,140 @@ const App: React.FC = () => {
     }
   };
 
+  // Logic: Video Type Filtering
+  const handleVideoTypeChange = (type: 'all' | 'clips' | 'live') => {
+    console.log('[Grooovio] Changing video type to:', type);
+    console.log('[Grooovio] Current allVideos length:', allVideos.length);
+    console.log('[Grooovio] Current selectedGenre:', selectedGenre);
+    
+    setSelectedVideoType(type);
+    setShowClickToStart(false);
+    setShowWelcome(false);
+
+    // Re-apply filters with new video type
+    if (allVideos.length > 0) {
+      let filtered = [...allVideos];
+
+      // Apply genre filter if active
+      if (selectedGenre) {
+        if (selectedGenre === 'Clássicos') {
+          filtered = filtered.filter(
+            (video) => video.year && video.year >= 1960 && video.year <= 1999
+          );
+        } else if (selectedGenre === 'full_show') {
+          filtered = filtered.filter((video) => video.is_show);
+        } else if (selectedGenre === 'hermes_renato') {
+          filtered = filtered.filter(
+            (video) =>
+              (video as any).is_program &&
+              (video as any).program_name === 'hermes_e_renato'
+          );
+        } else if (selectedGenre === 'beavis_butthead') {
+          filtered = filtered.filter(
+            (video) =>
+              (video as any).is_program &&
+              (video as any).program_name === 'beavis_and_butthead'
+          );
+        } else if (selectedGenre === 'documentarios') {
+          filtered = filtered.filter(
+            (video) =>
+              (video as any).is_program &&
+              (video as any).program_name === 'documentarios'
+          );
+        } else if (selectedGenre === 'atlantic') {
+          filtered = filtered.filter(
+            (video) => video.record_label === 'atlantic'
+          );
+        } else if (selectedGenre === 'road_runner') {
+          filtered = filtered.filter(
+            (video) => video.record_label === 'road_runner'
+          );
+        } else if (selectedGenre === 'subpop') {
+          filtered = filtered.filter(
+            (video) => video.record_label === 'subpop'
+          );
+        } else if (selectedGenre === 'epitaph') {
+          filtered = filtered.filter(
+            (video) => video.record_label === 'epitaph'
+          );
+        } else if (selectedGenre === 'acoustic') {
+          filtered = filtered.filter(
+            (video) =>
+              video.artist_genre === 'acousticShow' ||
+              (video.artist_genre && video.artist_genre.includes('acousticShow'))
+          );
+        } else if (selectedGenre === 'pinkpop') {
+          filtered = [...pinkpopVideos];
+        } else if (selectedGenre === 'kiss_fm' || selectedGenre === 'radio_89fm') {
+          // Radio stations - don't filter
+          return;
+        } else {
+          const targetGenres = GENRE_MAP[selectedGenre] || [];
+          if (targetGenres.length > 0) {
+            filtered = filtered.filter((video) => {
+              const g = video.artist_genre;
+              return (
+                g &&
+                targetGenres.some((target) => g.includes(target) || g === target)
+              );
+            });
+          }
+        }
+      } else {
+        // Filter out programs when 'All' is selected
+        filtered = filtered.filter((video) => !(video as any).is_program);
+      }
+
+      console.log('[Grooovio] Filtered length after genre/program check:', filtered.length);
+
+      // Apply video type filter
+      filtered = filterByVideoType(filtered, type);
+
+      console.log('[Grooovio] Filtered length after type check:', filtered.length);
+
+      // Shuffle
+      const shuffle = (array: Video[]) => {
+        const newArr = [...array];
+        for (let i = newArr.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [newArr[i], newArr[j]] = [newArr[j], newArr[i]];
+        }
+        return newArr;
+      };
+
+      const unplayed = getUnplayedVideos(filtered);
+      const shuffled = shuffle(unplayed);
+
+      // Trigger tuning effect
+      setIsTuning(true);
+      setState((prev) => ({
+        ...prev,
+        currentVideo: null,
+        isPlaying: false,
+        hasStarted: false,
+      }));
+
+      setTimeout(() => {
+        if (shuffled.length > 0) {
+          setState((prev) => ({
+            ...prev,
+            queue: shuffled,
+            currentVideo: shuffled[0],
+            isPlaying: true,
+            hasStarted: true,
+          }));
+        } else {
+          setState((prev) => ({
+            ...prev,
+            queue: [],
+            error: 'Nenhum vídeo encontrado para este tipo.',
+          }));
+        }
+        setIsTuning(false);
+      }, 1000);
+    }
+  };
+
   // Logic: Select specific video from playlist
   const handleSelectVideo = (video: Video) => {
     setShowClickToStart(false); // Dismiss overlay on interaction
@@ -890,11 +992,12 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="flex h-screen w-screen overflow-hidden bg-background font-sans text-foreground">
-      {/* Welcome Screen */}
-      {showWelcome && (
-        <WelcomeScreen onStart={handleStartJourney} language={language} />
-      )}
+    <AuthProvider>
+      <div className="flex h-screen w-screen overflow-hidden bg-background font-sans text-foreground">
+        {/* Welcome Screen */}
+        {showWelcome && (
+          <WelcomeScreen onStart={handleStartJourney} language={language} />
+        )}
 
       {/* SECTOR 1: Main Video Area */}
       <main className="flex-1 relative flex flex-col min-w-0 transition-all duration-300">
@@ -905,12 +1008,13 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.21.4 // ARIA-COMPLIANT
+              V 1.25.0 // ARIA-COMPLIANT
             </p>
           </div>
 
           {/* Mobile Hamburger Menu */}
-          <div className="md:hidden pointer-events-auto">
+          <div className="md:hidden pointer-events-auto flex items-center gap-2">
+            <AuthButton onSelectVideo={handleSelectVideo} />
             {!isSidebarOpen && (
               <Button
                 variant="primary"
@@ -981,17 +1085,6 @@ const App: React.FC = () => {
               )}
             </Button>
 
-            <Button
-              variant="secondary"
-              size="icon"
-              onClick={() => setIsInfoModalOpen(true)}
-              className="shadow-md rounded-full"
-              title="Informações"
-              aria-label="App Information" // ARIA-COMPLIANT
-            >
-              <Info className="w-4 h-4" />
-            </Button>
-
             {/* Retract Toggle Button */}
             <Button
               variant="primary"
@@ -1013,6 +1106,20 @@ const App: React.FC = () => {
                 <PanelRightOpen className="w-4 h-4" />
               )}
             </Button>
+
+            {/* Auth Button and Favorite Button */}
+            <div className="relative group pointer-events-auto">
+              <AuthButton onSelectVideo={handleSelectVideo} />
+              
+              <div 
+                className={`absolute top-full right-0 pt-4 flex flex-col items-center pointer-events-none md:pointer-events-auto ${
+                  isPlayerInfoVisible ? 'md:animate-fade-in opacity-100' : 'md:animate-fade-out opacity-0'
+                }`}
+                style={{ animationDelay: isPlayerInfoVisible ? '0.5s' : '0s' }}
+              >
+                 <FavoriteButton currentVideo={state.currentVideo} />
+              </div>
+            </div>
           </div>
         </header>
 
@@ -1028,11 +1135,12 @@ const App: React.FC = () => {
           hasNext={
             (state.queue.findIndex((v) => v.id === state.currentVideo?.id) <
             state.queue.length - 1) || (state.queue.length > 0 && state.queue[0].source === 'stream')
-          } // Check if next video exists or if it's a stream (loop)
-          hasPrevious={
-            state.queue.findIndex((v) => v.id === state.currentVideo?.id) > 0
-          } // Check if previous video exists
+          }
+          hasPrevious={state.queue.findIndex((v) => v.id === state.currentVideo?.id) > 0}
+          initialTime={0}
+          onTimeUpdate={(time) => {}}
           forceCaptions={state.currentVideo?.program_name === 'documentarios'}
+          onInfoVisibilityChange={(visible) => setIsPlayerInfoVisible(visible)}
         />
 
         <TVStatic active={isTuning} enableAudio={!showClickToStart} />
@@ -1140,6 +1248,7 @@ const App: React.FC = () => {
                 <Share2 className="w-4 h-4" />
               )}
             </Button>
+            <FavoriteButton currentVideo={state.currentVideo} />
             <Button
               variant="secondary"
               size="icon"
@@ -1164,12 +1273,14 @@ const App: React.FC = () => {
         <div className="flex-none h-auto z-20 relative border-b border-border">
           <Sector2Search
             onSearch={handleSearch}
-            isLoading={state.isLoading}
+            isLoading={state.isLoading || false}
             language={language}
             onLanguageChange={setLanguage}
             currentVideo={state.currentVideo}
             selectedRegion={selectedRegion}
             onRegionChange={handleRegionSelect}
+            selectedVideoType={selectedVideoType}
+            onVideoTypeChange={handleVideoTypeChange}
           />
         </div>
 
@@ -1196,7 +1307,8 @@ const App: React.FC = () => {
         onClose={() => setIsInfoModalOpen(false)}
         language={language}
       />
-    </div>
+      </div>
+    </AuthProvider>
   );
 };
 

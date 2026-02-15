@@ -25,7 +25,7 @@ export const translations = {
         'Refine sua experiência filtrando por gêneros musicais como Rock, Pop, Rap e mais.',
       featureFreeTitle: '100% Gratuito',
       featureFreeDesc:
-        'Explore um acervo com mais de 90 mil clipes. Sem assinaturas, pura música.',
+        'Explore um acervo com mais de 100 mil clipes. Sem assinaturas, pura música.',
       feature4Title: 'Apoie o Projeto',
       feature4Desc:
         'Gostou? Considere me pagar um café para manter o projeto vivo!',
@@ -71,6 +71,10 @@ export const translations = {
         'Temos mais de 90 mil clipes para você! Escolha o gênero e curta',
       totalClips: 'Clipes Catalogados',
       signalSource: 'Músicas',
+      videoType: 'Tipo de Vídeo',
+      videoTypeAll: 'Tudo',
+      videoTypeClips: 'Clipes',
+      videoTypeLive: 'Ao Vivo',
     },
     sector3: {
       selectGenre: 'Estilos',
@@ -189,6 +193,10 @@ export const translations = {
       availabilityNotice: 'Currently only 1994 & 90s data available.',
       totalClips: 'Cataloged Clips',
       signalSource: 'Music Source',
+      videoType: 'Video Type',
+      videoTypeAll: 'All',
+      videoTypeClips: 'Clips',
+      videoTypeLive: 'Live',
     },
     sector3: {
       selectGenre: 'Estilos',

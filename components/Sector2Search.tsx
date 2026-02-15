@@ -81,6 +81,8 @@ interface Sector2SearchProps {
   currentVideo: any | null;
   selectedRegion: string;
   onRegionChange: (region: string, forceAllMode?: boolean) => void;
+  selectedVideoType: 'all' | 'clips' | 'live';
+  onVideoTypeChange: (type: 'all' | 'clips' | 'live') => void;
 }
 
 export const Sector2Search: React.FC<Sector2SearchProps> = ({
@@ -91,6 +93,8 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
   currentVideo,
   selectedRegion,
   onRegionChange,
+  selectedVideoType,
+  onVideoTypeChange,
 }) => {
   const [isCollapsed, setIsCollapsed] = useState(false);
   const [value, setValue] = useState<string>('2000');
@@ -399,6 +403,51 @@ export const Sector2Search: React.FC<Sector2SearchProps> = ({
                         )})}
                     </div>
                 )}
+              </div>
+
+              {/* Video Type Filter */}
+              <div className="flex flex-col gap-2">
+                <label className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-2">
+                  {t.videoType}
+                </label>
+                <div className="grid grid-cols-3 bg-zinc-200 dark:bg-zinc-800 p-1 rounded-lg">
+                  <button
+                    type="button"
+                    onClick={() => onVideoTypeChange('all')}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                      selectedVideoType === 'all'
+                        ? 'bg-background shadow-sm text-foreground'
+                        : 'text-muted-foreground hover:text-foreground'
+                    }`}
+                    title="Todos os tipos de vídeos"
+                  >
+                    {t.videoTypeAll}
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => onVideoTypeChange('clips')}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                      selectedVideoType === 'clips'
+                        ? 'bg-background shadow-sm text-foreground'
+                        : 'text-muted-foreground hover:text-foreground'
+                    }`}
+                    title="Apenas clipes de estúdio"
+                  >
+                    {t.videoTypeClips}
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => onVideoTypeChange('live')}
+                    className={`text-xs font-medium px-2 py-1.5 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                      selectedVideoType === 'live'
+                        ? 'bg-background shadow-sm text-foreground'
+                        : 'text-muted-foreground hover:text-foreground'
+                    }`}
+                    title="Apenas apresentações ao vivo"
+                  >
+                    {t.videoTypeLive}
+                  </button>
+                </div>
               </div>
 
               {/* Mode Toggles */}

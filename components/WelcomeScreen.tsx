@@ -182,11 +182,11 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({
         <div className="max-w-2xl w-full my-auto">
           {/* Logo */}
           <div className="text-center mb-4 md:mb-8">
-            <h1 className="text-4xl md:text-6xl font-black tracking-tighter uppercase mb-1 md:mb-2">
-              Grooov<span className="text-primary">io</span>
+            <h1 className="text-4xl md:text-6xl font-black tracking-tighter uppercase leading-none mb-1 md:mb-2 text-white">
+              Grooovio
             </h1>
             <p className="text-[10px] md:text-sm text-muted-foreground font-mono">
-              V 1.21.4 // ARIA-COMPLIANT
+              V 1.25.0 // ARIA-COMPLIANT
             </p>
           </div>
 

@@ -28,6 +28,8 @@ export interface Video {
   is_program?: boolean;
   program_name?: string;
   record_label?: string;
+  video_type?: 'clip' | 'visualizer' | 'live' | 'unknown';
+  is_live?: boolean;
 }
 
 export interface SearchParams {

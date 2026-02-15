@@ -167,11 +167,11 @@ export const InAppBrowserWarning: React.FC<InAppBrowserWarningProps> = ({
           <div className="space-y-4">
             {/* Logo do Grooovio centralizado */}
             <div className="text-center">
-              <h1 className="text-3xl font-black tracking-tighter uppercase text-white">
-                Grooov<span className="text-primary">io</span>
+              <h1 className="text-3xl font-black tracking-tighter uppercase text-white leading-none">
+                Grooovio
               </h1>
               <p className="text-[10px] text-muted-foreground font-mono mt-1">
-                V 1.21.4 // ARIA-COMPLIANT
+                V 1.25.0 // ARIA-COMPLIANT
               </p>
             </div>
 

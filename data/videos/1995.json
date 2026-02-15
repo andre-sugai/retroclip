@@ -8971,5 +8971,19 @@
     "duration_seconds": 0,
     "video_type": "unknown",
     "video_tags": []
+  },
+  {
+    "id": 195865429326,
+    "song_title": "Live at Pinkpop",
+    "year": 1995,
+    "artist_name": "Rollins Band",
+    "artist_genre": "Desconhecido",
+    "youtube_link": "https://www.youtube.com/watch?v=PQsvXQSIggU",
+    "nationality": "US",
+    "is_show": true,
+    "video_type": "show",
+    "video_tags": [
+      "pinkpop"
+    ]
   }
 ]

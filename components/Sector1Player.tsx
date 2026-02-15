@@ -134,6 +134,7 @@ interface Sector1PlayerProps {
   initialTime?: number;
   onTimeUpdate?: (time: number) => void;
   forceCaptions?: boolean;
+  onInfoVisibilityChange?: (visible: boolean) => void;
 }
 
 export const Sector1Player: React.FC<Sector1PlayerProps> = ({
@@ -149,6 +150,7 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
   initialTime = 0,
   onTimeUpdate,
   forceCaptions = false,
+  onInfoVisibilityChange,
 }) => {
   const playerWrapperRef = useRef<HTMLDivElement>(null);
   const playerInstanceRef = useRef<any>(null);
@@ -163,6 +165,13 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
   // 3. Info Visibility Timer (Refactored for interaction)
   const [showInfo, setShowInfo] = useState(true);
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+  // Sync visibility with parent
+  useEffect(() => {
+    if (onInfoVisibilityChange) {
+      onInfoVisibilityChange(showInfo);
+    }
+  }, [showInfo, onInfoVisibilityChange]);
 
   // 4. Play Overlay for In-App Browsers (Instagram, Facebook, etc.)
   const [showPlayOverlay, setShowPlayOverlay] = useState(false);

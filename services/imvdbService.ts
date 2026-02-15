@@ -3,10 +3,43 @@ import metadata from './metadata.json';
 import metadataIndex from './metadata-index.json';
 
 // ============================================================================
-// CACHE SYSTEM
+// LRU CACHE SYSTEM - Limits memory by evicting oldest entries
 // ============================================================================
 
+const MAX_CACHE_ENTRIES = 10; // Keep at most 10 year/program files in memory
 const dataCache = new Map<string, any>();
+
+/**
+ * Add to cache with LRU eviction.
+ * Map maintains insertion order, so we delete oldest entries when full.
+ */
+function cacheSet(key: string, value: any) {
+  // If key already exists, delete it first so it moves to end (most recent)
+  if (dataCache.has(key)) {
+    dataCache.delete(key);
+  }
+  
+  // Evict oldest entries if cache is full
+  while (dataCache.size >= MAX_CACHE_ENTRIES) {
+    const oldestKey = dataCache.keys().next().value;
+    if (oldestKey) {
+      dataCache.delete(oldestKey);
+      console.log(`[Grooovio Cache] Evicted: ${oldestKey}`);
+    }
+  }
+  
+  dataCache.set(key, value);
+}
+
+function cacheGet(key: string): any | undefined {
+  if (!dataCache.has(key)) return undefined;
+  
+  // Move to end (most recently used)
+  const value = dataCache.get(key);
+  dataCache.delete(key);
+  dataCache.set(key, value);
+  return value;
+}
 
 // ============================================================================
 // DYNAMIC LOADERS - Now using unified structure
@@ -14,11 +47,12 @@ const dataCache = new Map<string, any>();
 
 const loadYear = async (year: number) => {
   const key = `year-${year}`;
-  if (dataCache.has(key)) return dataCache.get(key);
+  const cached = cacheGet(key);
+  if (cached) return cached;
   
   try {
     const data = await import(`../data/videos/${year}.json`);
-    dataCache.set(key, data.default);
+    cacheSet(key, data.default);
     return data.default;
   } catch (error) {
     console.warn(`No data for year ${year}`);
@@ -28,10 +62,11 @@ const loadYear = async (year: number) => {
 
 const loadProgram = async (program: 'hermes_e_renato' | 'beavis_and_butthead' | 'documentarios') => {
   const key = `program-${program}`;
-  if (dataCache.has(key)) return dataCache.get(key);
+  const cached = cacheGet(key);
+  if (cached) return cached;
   
   const data = await import(`../data/programas/${program}.json`);
-  dataCache.set(key, data.default);
+  cacheSet(key, data.default);
   return data.default;
 };
 
@@ -286,7 +321,9 @@ const loadAllData = async (region: string) => {
   });
   
   const results = await Promise.all(promises);
-  data.push(...results.flat());
+  
+  // Safe concatenation for large arrays
+  results.flat().forEach(item => data.push(item));
   
   // Load programs (always BR)
   if (region === 'BR' || region === 'all') {
@@ -327,6 +364,8 @@ const mapToVideo = (item: any): Video => {
     is_program: item.is_program,
     program_name: item.program_name,
     record_label: item.record_label,
+    video_type: item.video_type,
+    is_live: item.is_live,
   } as Video;
 };
 
@@ -406,26 +445,51 @@ export const fetchVideoById = async (
     }
   }
   
-  // If not in cache, load all data (expensive fallback for deep links)
-  console.log(`[Grooovio Fetch] Not in cache, loading all data...`);
-  const allData = await getDataset('all');
+  // OPTIMIZED: Instead of loading ALL data, search year by year
+  // Try each year from the index, starting from most recent (more likely)
+  console.log(`[Grooovio Fetch] Not in cache, searching year by year...`);
+  const years = Object.keys(metadataIndex.byYear).map(y => parseInt(y)).sort((a, b) => b - a);
   
-  let found = allData.find((v: any) => v.id && v.id.toString() === id.toString());
-  
-  // Try by YouTube ID
-  if (!found) {
-    found = allData.find((v: any) => {
-      const yId = getYouTubeId(v.youtube_link || '') || getYouTubeId(v.imvdb_url || '');
-      return yId === id;
-    });
+  for (const year of years) {
+    const yearData = await loadYear(year);
+    
+    let found = yearData.find((v: any) => v.id && v.id.toString() === id.toString());
+    
+    // Try by YouTube ID
+    if (!found) {
+      found = yearData.find((v: any) => {
+        const yId = getYouTubeId(v.youtube_link || '') || getYouTubeId(v.imvdb_url || '');
+        return yId === id;
+      });
+    }
+    
+    if (found) {
+      console.log(`[Grooovio Fetch] Found in year ${year}`);
+      return mapToVideo(found);
+    }
   }
   
-  if (!found) {
-    console.warn(`[Grooovio Fetch] Video not found for ID: ${id}`);
-    return undefined;
+  // Also check programs
+  const programs: Array<'hermes_e_renato' | 'beavis_and_butthead' | 'documentarios'> = ['hermes_e_renato', 'beavis_and_butthead', 'documentarios'];
+  for (const program of programs) {
+    try {
+      const programData = await loadProgram(program);
+      const found = programData.find((v: any) => {
+        if (v.id && v.id.toString() === id.toString()) return true;
+        const yId = getYouTubeId(v.youtube_link || '') || getYouTubeId(v.imvdb_url || '');
+        return yId === id;
+      });
+      if (found) {
+        console.log(`[Grooovio Fetch] Found in program ${program}`);
+        return mapToVideo(found);
+      }
+    } catch (e) {
+      // Program file may not exist
+    }
   }
   
-  return mapToVideo(found);
+  console.warn(`[Grooovio Fetch] Video not found for ID: ${id}`);
+  return undefined;
 };
 
 // ============================================================================
@@ -515,6 +579,59 @@ export const GENRE_MAP: Record<string, string[]> = {
   ],
   Ska: ['Ska', 'Ska Punk', 'Two Tone', 'Rocksteady'],
   Reggae: ['Reggae', 'Reggaeton'],
+};
+
+// ============================================================================
+// INDEX-BASED FUNCTIONS (No data loading required!)
+// ============================================================================
+
+/**
+ * Returns the set of available genre IDs directly from the metadata index.
+ * This avoids loading ANY video data just to determine available genres.
+ * Cost: ~0 MB (reads from already-imported 160KB index)
+ */
+export const getAvailableGenresFromIndex = (): Set<string> => {
+  const genres = new Set<string>();
+  genres.add('all');
+  
+  // Standard genres from index
+  Object.keys(metadataIndex.byGenre).forEach(genre => {
+    if (GENRE_MAP[genre]) {
+      genres.add(genre);
+    }
+  });
+  
+  // Clássicos
+  if (metadataIndex.byGenre['Clássicos']?.count > 0) {
+    genres.add('Clássicos');
+  }
+  
+  // Shows - check if any year has shows
+  const hasShows = Object.values(metadataIndex.byYear).some((y: any) => y.hasShows);
+  if (hasShows) genres.add('full_show');
+  
+  // Programs from index
+  Object.keys(metadataIndex.byProgram).forEach(program => {
+    if (program === 'hermes_e_renato') genres.add('hermes_renato');
+    else if (program === 'beavis_and_butthead') genres.add('beavis_butthead');
+    else if (program === 'documentarios') genres.add('documentarios');
+  });
+  
+  // Labels from index
+  Object.keys(metadataIndex.byLabel).forEach(label => {
+    genres.add(label);
+  });
+  
+  // Festivals from index
+  if (metadataIndex.byFestival.pinkpop) {
+    genres.add('pinkpop');
+  }
+  
+  // Radio stations (always available)
+  genres.add('kiss_fm');
+  genres.add('radio_89fm');
+  
+  return genres;
 };
 
 // ============================================================================

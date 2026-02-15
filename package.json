@@ -1,7 +1,7 @@
 {
   "name": "grooovio---music-video-time-machine",
   "private": true,
-  "version": "1.21.4",
+  "version": "1.25.0",
   "type": "module",
   "scripts": {
     "predev": "node scripts/generate-index.js",
@@ -14,12 +14,15 @@
     "migrate": "node scripts/migrate-to-unified-structure.js"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.95.3",
+    "lucide-react": "^0.562.0",
     "react": "^19.2.3",
-    "react-dom": "^19.2.3",
-    "lucide-react": "^0.562.0"
+    "react-dom": "^19.2.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.0.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"

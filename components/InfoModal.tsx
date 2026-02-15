@@ -62,7 +62,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         'Escolha entre clipes internacionais, brasileiros ou misturados',
         'Compartilhe seus clipes favoritos',
       ],
-      version: 'Versão 1.21.4',
+      version: 'Versão 1.25.0',
       close: 'Fechar',
       tabs: {
         about: 'Sobre',
@@ -103,7 +103,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         'Choose between international, Brazilian or mixed clips',
         'Share your favorite clips',
       ],
-      version: 'Version 1.21.4',
+      version: 'Version 1.25.0',
       close: 'Close',
       tabs: {
         about: 'About',
@@ -144,8 +144,8 @@ export const InfoModal: React.FC<InfoModalProps> = ({
       >
         {/* Header */}
         <div className="flex items-center justify-between p-6 border-b border-border">
-          <h2 className="text-2xl font-black tracking-tight">
-            Grooov<span className="text-primary">io</span>
+          <h2 className="text-2xl font-black tracking-tighter uppercase leading-none">
+            Grooovio
           </h2>
           <Button
             variant="ghost"
