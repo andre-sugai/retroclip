@@ -12,7 +12,8 @@
       "epitaph"
     ],
     "artist": "Joyce Manor",
-    "nationality": "INTL"
+    "nationality": "INTL",
+    "is_live": false
   },
   {
     "id": 1769605586022650,
@@ -27,7 +28,8 @@
       "epitaph"
     ],
     "artist": "Death Lens",
-    "nationality": "INTL"
+    "nationality": "INTL",
+    "is_live": false
   },
   {
     "id": 1769605591659880,
@@ -42,7 +44,8 @@
       "epitaph"
     ],
     "artist": "Converge",
-    "nationality": "INTL"
+    "nationality": "INTL",
+    "is_live": false
   },
   {
     "id": 1769605594266815,
@@ -57,7 +60,8 @@
       "epitaph"
     ],
     "artist": "Joyce Manor",
-    "nationality": "INTL"
+    "nationality": "INTL",
+    "is_live": true
   },
   {
     "id": 1769605596999881,
@@ -72,7 +76,8 @@
       "epitaph"
     ],
     "artist": "Death Lens",
-    "nationality": "INTL"
+    "nationality": "INTL",
+    "is_live": false
   },
   {
     "id": 1769605602264531,
@@ -87,7 +92,8 @@
       "epitaph"
     ],
     "artist": "Converge",
-    "nationality": "INTL"
+    "nationality": "INTL",
+    "is_live": false
   },
   {
     "id": 1769605626925721,
@@ -102,7 +108,8 @@
       "epitaph"
     ],
     "artist": "Joyce Manor",
-    "nationality": "INTL"
+    "nationality": "INTL",
+    "is_live": false
   },
   {
     "id": 1769605694895888,
@@ -117,7 +124,8 @@
       "epitaph"
     ],
     "artist": "Joyce Manor",
-    "nationality": "INTL"
+    "nationality": "INTL",
+    "is_live": false
   },
   {
     "id": "yt_dxLAaFxmx5U",
@@ -129,7 +137,8 @@
     "imvdb_url": null,
     "source": "YouTube",
     "nationality": "BR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": "yt_9fVsy6pFUSk",
@@ -141,7 +150,8 @@
     "imvdb_url": null,
     "source": "YouTube",
     "nationality": "BR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": "yt_mdxwZ1wQ9RY",
@@ -153,7 +163,8 @@
     "imvdb_url": null,
     "source": "YouTube",
     "nationality": "BR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": "yt_eNZMW-7jckc",
@@ -165,7 +176,8 @@
     "imvdb_url": null,
     "source": "YouTube",
     "nationality": "BR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": "yt_1oLQg_eEACA",
@@ -177,7 +189,8 @@
     "imvdb_url": null,
     "source": "YouTube",
     "nationality": "BR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": "yt_2LJnbqIKig8",
@@ -189,7 +202,8 @@
     "imvdb_url": null,
     "source": "YouTube",
     "nationality": "BR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": "yt_Y-HLVtKZmag",
@@ -201,7 +215,8 @@
     "imvdb_url": null,
     "source": "YouTube",
     "nationality": "BR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": "yt_S3CUYXq1Wxg",
@@ -213,7 +228,8 @@
     "imvdb_url": null,
     "source": "YouTube",
     "nationality": "BR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": true
   },
   {
     "id": 559470565171,
@@ -224,7 +240,8 @@
     "youtube_link": "https://youtu.be/H4uzympZPx0?si=qhr57x8Dwsthg3t6",
     "nationality": "US",
     "is_show": true,
-    "video_type": "show"
+    "video_type": "show",
+    "is_live": true
   },
   {
     "id": 423315394819,
@@ -235,7 +252,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=pKLjNcaasUA",
     "nationality": "US",
     "is_show": true,
-    "video_type": "show"
+    "video_type": "show",
+    "is_live": true
   },
   {
     "id": 1769605583401100,
@@ -251,7 +269,8 @@
     ],
     "artist": "Joyce Manor",
     "nationality": "INTL",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769605586022650,
@@ -267,7 +286,8 @@
     ],
     "artist": "Death Lens",
     "nationality": "INTL",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769605591659880,
@@ -283,7 +303,8 @@
     ],
     "artist": "Converge",
     "nationality": "INTL",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769605594266815,
@@ -299,7 +320,8 @@
     ],
     "artist": "Joyce Manor",
     "nationality": "INTL",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": true
   },
   {
     "id": 1769605596999881,
@@ -315,7 +337,8 @@
     ],
     "artist": "Death Lens",
     "nationality": "INTL",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769605602264531,
@@ -331,7 +354,8 @@
     ],
     "artist": "Converge",
     "nationality": "INTL",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769605626925721,
@@ -347,7 +371,8 @@
     ],
     "artist": "Joyce Manor",
     "nationality": "INTL",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769605694895888,
@@ -363,7 +388,8 @@
     ],
     "artist": "Joyce Manor",
     "nationality": "INTL",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1770687245245575,

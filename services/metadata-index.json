@@ -2957,7 +2957,7 @@
       "hasPrograms": true
     },
     "2023": {
-      "count": 1790,
+      "count": 1785,
       "genres": [
         "Dance",
         "Folk",
@@ -5225,7 +5225,7 @@
         2025,
         2026
       ],
-      "count": 2213,
+      "count": 2208,
       "genres": [
         "acousticShow",
         "Axé",
@@ -10758,11 +10758,11 @@
     }
   },
   "metadata": {
-    "totalVideos": 109242,
-    "totalClips": 103577,
+    "totalVideos": 109237,
+    "totalClips": 103572,
     "totalShows": 4462,
     "totalPrograms": 1203,
-    "lastGenerated": "2026-02-14T17:57:01.052Z",
+    "lastGenerated": "2026-02-17T01:23:28.702Z",
     "dataVersion": "2.0"
   }
 }

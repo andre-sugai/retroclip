@@ -133,7 +133,7 @@ export const TermsModal: React.FC<TermsModalProps> = ({ onClose }) => {
             <div className="pt-4 border-t border-zinc-800 text-center">
               <p className="text-xs text-zinc-500 font-mono">
                 Última atualização: 11 de fevereiro de 2026<br />
-                Grooovio V 1.25.0 // ARIA-COMPLIANT
+                Grooovio V 1.25.1 // ARIA-COMPLIANT
               </p>
             </div>
           </div>

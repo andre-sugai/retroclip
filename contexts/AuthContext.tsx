@@ -14,6 +14,7 @@ interface AuthContextType {
   refreshProfile: () => Promise<void>;
   toggleFavorite: (videoId: string | number) => Promise<{ error: Error | null; isFavorite: boolean }>;
   isFavorite: (videoId: string | number) => boolean;
+  resetPassword: (email: string) => Promise<{ error: AuthError | null }>;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
@@ -90,6 +91,14 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       options: {
         data: metadata,
       },
+    });
+    return { error };
+  };
+
+  // Reset password
+  const resetPassword = async (email: string) => {
+    const { error } = await supabase.auth.resetPasswordForEmail(email, {
+      redirectTo: `${window.location.origin}/reset-password`,
     });
     return { error };
   };
@@ -190,6 +199,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     refreshProfile,
     toggleFavorite,
     isFavorite,
+    resetPassword,
   };
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

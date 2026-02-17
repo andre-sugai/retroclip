@@ -58,6 +58,7 @@ export const translations = {
         'Selecione uma frequência (Ano/Década) no Setor 2 e inicie a sequência.',
       nowPlaying: 'Tocando Agora',
       year: 'Ano',
+      nextVideo: 'Próximo',
     },
     sector2: {
       timeMachine: 'Máquina do Tempo',
@@ -181,6 +182,7 @@ export const translations = {
         'Select a frequency (Year/Decade) in Sector 2 and initiate sequence.',
       nowPlaying: 'Now Playing',
       year: 'Year',
+      nextVideo: 'Next',
     },
     sector2: {
       timeMachine: 'Time Machine',

@@ -171,7 +171,7 @@ export const InAppBrowserWarning: React.FC<InAppBrowserWarningProps> = ({
                 Grooovio
               </h1>
               <p className="text-[10px] text-muted-foreground font-mono mt-1">
-                V 1.25.0 // ARIA-COMPLIANT
+                V 1.25.1 // ARIA-COMPLIANT
               </p>
             </div>
 

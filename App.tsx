@@ -109,13 +109,7 @@ const App: React.FC = () => {
     const unplayed = videos.filter((v) => !playedVideoIds.has(v.id));
 
     // If we have unplayed videos, return them
-    if (unplayed.length > 0) {
-      console.log(`[Grooovio] Found ${unplayed.length} unplayed videos out of ${videos.length} candidates.`);
-      return unplayed;
-    }
-
     // If all videos in this set have been played, reset for this context (return all)
-    console.log('[Grooovio] All videos in this category have been played. Resetting pool.');
     return videos;
   };
 
@@ -127,20 +121,20 @@ const App: React.FC = () => {
       if (type === 'live') {
         // Live performances: video_type is 'live' OR is_live flag OR is_show flag
         return (
-          (video as any).video_type === 'live' ||
-          (video as any).is_live === true ||
+          video.video_type === 'live' ||
+          video.is_live === true ||
           video.is_show === true
         );
       }
 
       if (type === 'clips') {
         // Studio clips: video_type is 'clip' or 'visualizer', or 'unknown' without live/show flags
-        const videoType = (video as any).video_type;
-        const isLive = (video as any).is_live;
+        const videoType = video.video_type;
+        const isLive = video.is_live;
         const isShow = video.is_show;
 
         return (
-          (videoType === 'clip' || videoType === 'visualizer' || videoType === 'unknown') &&
+          (videoType === 'clip' || videoType === 'visualizer' || videoType === 'unknown' || !videoType) &&
           !isLive &&
           !isShow
         );
@@ -160,7 +154,7 @@ const App: React.FC = () => {
   // Load Pinkpop videos on mount
   useEffect(() => {
     loadPinkpopVideos().then(setPinkpopVideos).catch(err => {
-      console.error('Failed to load Pinkpop videos:', err);
+      // Silently fail in production or log to error reporting service
     });
   }, []);
 
@@ -207,14 +201,11 @@ const App: React.FC = () => {
       setShowWelcome(false);
 
       const loadDeepLinkedVideo = async () => {
-        console.log(`[Grooovio App] Deep linking to video: ${videoId}`);
         try {
           // 1. Fetch the specific video first
           const video = await fetchVideoById(videoId);
 
           if (video) {
-            console.log(`[Grooovio App] Video found: ${video.song_title}`);
-
             // 2. Determine context for "Up Next" (Year or All)
             const contextType = video.year ? 'year' : 'all';
             const contextValue = video.year ? video.year.toString() : 'all';
@@ -236,9 +227,6 @@ const App: React.FC = () => {
             }));
 
             // 3. Fetch related videos in background to fill the queue
-            console.log(
-              `[Grooovio App] Fetching context: ${contextType} ${contextValue} (${contextRegion})`
-            );
 
             try {
               const relatedVideos = await fetchVideosByCriteria(
@@ -279,7 +267,6 @@ const App: React.FC = () => {
             }
           } else {
             // Not found fallback
-            console.warn('Video not found by ID:', videoId);
             setState((prev) => ({
               ...prev,
               isLoading: false,
@@ -287,8 +274,8 @@ const App: React.FC = () => {
             }));
             setIsTuning(false); // Stop static so error is visible
           }
+
         } catch (e) {
-          console.error('Deep link fetch failed', e);
           setState((prev) => ({
             ...prev,
             isLoading: false,
@@ -312,7 +299,6 @@ const App: React.FC = () => {
   // This reads from the pre-imported 160KB metadata-index.json
   const availableGenres = useMemo(() => {
     const genres = getAvailableGenresFromIndex();
-    console.log('[Grooovio] Available genres (from index):', Array.from(genres));
     return genres;
   }, []);
 
@@ -337,7 +323,7 @@ const App: React.FC = () => {
       setShowShareCopied(true);
       setTimeout(() => setShowShareCopied(false), 2000);
     } catch (err) {
-      console.error('Failed to copy:', err);
+      // Ignore clipboard errors
     }
   };
 
@@ -586,10 +572,10 @@ const App: React.FC = () => {
           sourceVideos = fetched;
         } else {
           setIsTuning(false);
+          setIsTuning(false);
           return; // No videos found
         }
       } catch (error) {
-        console.error('Auto-fetch failed', error);
         setIsTuning(false);
         return;
       }
@@ -610,22 +596,22 @@ const App: React.FC = () => {
         // Filter videos for Hermes & Renato program
         filteredQueue = sourceVideos.filter(
           (video) =>
-            (video as any).is_program &&
-            (video as any).program_name === 'hermes_e_renato'
+            video.is_program &&
+            video.program_name === 'hermes_e_renato'
         );
       } else if (genreId === 'beavis_butthead') {
         // Filter videos for Beavis and Butt-Head program
         filteredQueue = sourceVideos.filter(
           (video) =>
-            (video as any).is_program &&
-            (video as any).program_name === 'beavis_and_butthead'
+            video.is_program &&
+            video.program_name === 'beavis_and_butthead'
         );
       } else if (genreId === 'documentarios') {
         // Filter videos for Documentários program
         filteredQueue = sourceVideos.filter(
           (video) =>
-            (video as any).is_program &&
-            (video as any).program_name === 'documentarios'
+            video.is_program &&
+            video.program_name === 'documentarios'
         );
       } else if (genreId === 'atlantic') {
         // Filter videos for Atlantic Records
@@ -679,7 +665,7 @@ const App: React.FC = () => {
       // Filter out programs when 'All' is selected
       // We want 'All' to be a mix of music clips/shows, but exclude specific programs like Hermes & Renato
       filteredQueue = sourceVideos.filter(
-        (video) => !(video as any).is_program
+        (video) => !video.is_program
       );
     }
 
@@ -1008,7 +994,7 @@ const App: React.FC = () => {
               Grooov<span className="text-primary">io</span>
             </h1>
             <p className="text-[10px] text-muted-foreground font-mono">
-              V 1.25.0 // ARIA-COMPLIANT
+              V 1.25.1 // ARIA-COMPLIANT
             </p>
           </div>
 

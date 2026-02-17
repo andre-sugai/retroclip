@@ -20,7 +20,7 @@ const StreamPlayer = ({ video, isPlaying, isMuted, onSkip, onVideoPlay }: { vide
      if (isPlaying) {
           const playPromise = audioRef.current.play();
           if (playPromise !== undefined) {
-             playPromise.catch(error => console.log('Autoplay prevented', error));
+             playPromise.catch(error => {});
           }
      } else {
           audioRef.current.pause();
@@ -55,14 +55,14 @@ const StreamPlayer = ({ video, isPlaying, isMuted, onSkip, onVideoPlay }: { vide
                      
                      {/* Digital Frequency Display */}
                      <div className="text-amber-500 font-mono text-5xl md:text-8xl font-bold tracking-wider drop-shadow-[0_0_15px_rgba(245,158,11,0.4)] mb-2 mt-4">
-                        {video.artist_name.includes('89') ? '89.1' : '92.5'}
+                        {(video.artists[0]?.name || '').includes('89') ? '89.1' : '92.5'}
                      </div>
                      <div className="text-amber-700/80 font-mono text-xs uppercase tracking-[0.5em] mb-auto">MHz FM</div>
                      
                      {/* Song Info */}
                      <div className="w-full text-center z-10 my-4">
                          <h2 className="text-white font-bold text-xl md:text-3xl tracking-tight mb-2 drop-shadow-md truncate">
-                             {video.artist_name}
+                             {video.artists[0]?.name || 'Unknown'}
                          </h2>
                          <div className="flex items-center justify-center gap-2">
                             <span className="w-2 h-2 rounded-full bg-red-600 animate-pulse shadow-[0_0_8px_red]" />
@@ -203,7 +203,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
     if ('mediaSession' in navigator) {
       navigator.mediaSession.setActionHandler('pause', () => {
         // Do nothing to prevent pausing, or force play if needed
-        console.log('External pause blocked');
         if (
           playerInstanceRef.current &&
           typeof playerInstanceRef.current.playVideo === 'function'
@@ -212,7 +211,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
         }
       });
       navigator.mediaSession.setActionHandler('stop', () => {
-        console.log('External stop blocked');
       });
       navigator.mediaSession.setActionHandler('play', () => {
         if (
@@ -227,9 +225,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
     // 2. Visibility Change (Fix for iOS Safari Freeze)
     const handleVisibilityChange = () => {
       if (document.visibilityState === 'visible') {
-        console.log(
-          '[Grooovio] Tab became visible. Checking playback state...'
-        );
         // Small delay to ensure browser engine is fully woke up
         setTimeout(() => {
           if (
@@ -240,9 +235,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
             const state = playerInstanceRef.current.getPlayerState();
             // If supposed to be playing but isn't (paused=2, unstarted=-1, cued=5)
             if (state === 2 || state === -1 || state === 5) {
-              console.log(
-                '[Grooovio] Auto-resuming after background backgrounding'
-              );
               playerInstanceRef.current.playVideo();
             }
           }
@@ -332,19 +324,11 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
     const maxDuration = isLongContent ? 180 * 60 * 1000 : 12 * 60 * 1000; // 3h safety net for long content, 12min for regular clips
 
     globalTimeoutRef.current = setTimeout(() => {
-      console.log(
-        `[Grooovio] Global timeout reached (${
-          maxDuration / 60000
-        }min), forcing next video`
-      );
       onEndedRef.current();
     }, maxDuration);
 
     // Set a loading timeout to detect videos that fail to load/start
     loadingTimeoutRef.current = setTimeout(() => {
-      console.log(
-        '[Grooovio] Video failed to load within 10 seconds, skipping to next'
-      );
       onEndedRef.current();
     }, 10000); // 10 seconds to load
 
@@ -378,7 +362,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
         },
         events: {
           onReady: (event: any) => {
-            console.log('[Grooovio] Player ready');
 
             // Clear loading timeout since video loaded successfully
             if (loadingTimeoutRef.current) {
@@ -397,13 +380,10 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
                   const state = event.target.getPlayerState();
                   // If not playing after attempt, show overlay
                   if (state !== 1) {
-                    console.log(
-                      '[Grooovio] Autoplay blocked, showing play overlay'
-                    );
                     setShowPlayOverlay(true);
                   }
                 } catch (e) {
-                  console.warn('[Grooovio] Could not check player state');
+                  // Ignore
                 }
               }, 1000);
 
@@ -425,7 +405,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
 
             // 0 = ENDED
             if (event.data === 0) {
-              console.log('[Grooovio] Video ended, triggering next');
               onEndedRef.current();
             }
             // 1 = PLAYING
@@ -441,9 +420,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
             }
           },
           onError: (event: any) => {
-            console.warn(
-              `Video unavailable (Code ${event.data}). Skipping to next...`
-            );
             // Immediately skip to the next video when an error occurs
             setTimeout(() => {
               if (onEndedRef.current) {
@@ -594,15 +570,12 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           // Set global timeout to real duration + 60s margin
           const safetyMargin = isLongContent ? 120 : 60; // 2min margin for long content, 1min for clips
           globalTimeoutRef.current = setTimeout(() => {
-            console.log(`[Grooovio] Global timeout reached (duration: ${Math.round(duration)}s + ${safetyMargin}s margin), forcing next video`);
             onEndedRef.current();
           }, (duration + safetyMargin) * 1000);
-          console.log(`[Grooovio] Adjusted global timeout to ${Math.round(duration + safetyMargin)}s (real duration: ${Math.round(duration)}s, long content: ${isLongContent})`);
         }
 
         // Safety timeout - if video is longer than expected, force next
         if (duration > 0 && currentTime > duration + 5) {
-          console.log('[Grooovio] Video exceeded duration, forcing next');
           clearInterval(player._timeUpdateInterval);
           onEndedRef.current();
           return;
@@ -611,18 +584,12 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
         // End detection - use softer thresholds for long content
         const nearEndThreshold = isLongContent ? 2.0 : 5.0;
         if (duration > 0 && duration - currentTime <= nearEndThreshold) {
-          console.log(
-            `[Grooovio] Near end detected: ${currentTime.toFixed(1)}/${duration.toFixed(1)}, state: ${playerState}`
-          );
 
           // Set a safety timeout to force advance if nothing else works
           if (!player._safetyTimeout) {
             const remainingTime = Math.max(duration - currentTime, 0.2);
             const safetyBuffer = isLongContent ? 5.0 : 3.0; // More buffer for long content
             player._safetyTimeout = setTimeout(() => {
-              console.log(
-                '[Grooovio] Safety timeout triggered, forcing next video'
-              );
               clearInterval(player._timeUpdateInterval);
               onEndedRef.current();
             }, (remainingTime + safetyBuffer) * 1000);
@@ -637,9 +604,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
             (playerState === 2 && duration - currentTime <= pauseEndThreshold) ||
             playerState === 0 // Also check if already ended
           ) {
-            console.log(
-              '[Grooovio] Triggering next video from progress interval'
-            );
             clearInterval(player._timeUpdateInterval);
             if (player._safetyTimeout) {
               clearTimeout(player._safetyTimeout);
@@ -656,7 +620,6 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           currentTime >= duration - 0.5 &&
           playerState !== 1
         ) {
-          console.log('[Grooovio] Video stuck at end, triggering next');
           clearInterval(player._timeUpdateInterval);
           if (player._safetyTimeout) {
             clearTimeout(player._safetyTimeout);
@@ -676,15 +639,9 @@ export const Sector1Player: React.FC<Sector1PlayerProps> = ({
           if (!player._pauseStartTime) {
             player._pauseStartTime = Date.now();
           } else {
-            // Be more tolerant with long content (shows, programs, acoustic performances)
             const pauseThreshold = isLongContent ? 30000 : 15000; // 30s for long content, 15s for regular
 
             if (Date.now() - player._pauseStartTime > pauseThreshold) {
-              console.log(
-                `[Grooovio] Video paused too long near end (${
-                  pauseThreshold / 1000
-                }s), forcing next`
-              );
               clearInterval(player._timeUpdateInterval);
               if (player._safetyTimeout) {
                 clearTimeout(player._safetyTimeout);

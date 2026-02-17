@@ -24,7 +24,6 @@ function cacheSet(key: string, value: any) {
     const oldestKey = dataCache.keys().next().value;
     if (oldestKey) {
       dataCache.delete(oldestKey);
-      console.log(`[Grooovio Cache] Evicted: ${oldestKey}`);
     }
   }
   
@@ -55,7 +54,6 @@ const loadYear = async (year: number) => {
     cacheSet(key, data.default);
     return data.default;
   } catch (error) {
-    console.warn(`No data for year ${year}`);
     return [];
   }
 };
@@ -81,7 +79,6 @@ const loadByGenre = async (genreId: string, region: 'br' | 'intl' | 'all' = 'all
   const genreInfo = metadataIndex.byGenre[genreId];
   
   if (!genreInfo || !genreInfo.years || genreInfo.years.length === 0) {
-    console.warn(`No data found for genre: ${genreId}`);
     return [];
   }
   
@@ -109,7 +106,6 @@ const loadByFestival = async (festival: string) => {
   const festivalInfo = metadataIndex.byFestival[festival];
   
   if (!festivalInfo) {
-    console.warn(`No data found for festival: ${festival}`);
     return [];
   }
   
@@ -147,10 +143,12 @@ export const KISS_FM_VIDEO = {
   year: new Date().getFullYear(),
   artist_name: 'Kiss FM',
   artists: [{ name: 'Kiss FM', slug: 'kiss-fm' }],
+  url: 'https://kissfm.com.br',
+  embed_id: '',
   stream_url: 'https://cloud1.cdnseguro.com:9758/;',
-  source: 'stream',
+  source: 'stream' as const,
   artist_genre: 'Radio',
-  video_type: 'live',
+  video_type: 'live' as const,
 };
 
 export const RADIO_89FM_VIDEO = {
@@ -162,9 +160,9 @@ export const RADIO_89FM_VIDEO = {
   url: 'https://www.radiorock.com.br',
   embed_id: '',
   stream_url: 'https://27223.live.streamtheworld.com:443/RADIO_89FM_SC',
-  source: 'stream',
+  source: 'stream' as const,
   artist_genre: 'Radio',
-  video_type: 'live',
+  video_type: 'live' as const,
 };
 
 // ============================================================================
@@ -422,13 +420,12 @@ export const fetchVideoById = async (
 ): Promise<Video | undefined> => {
   await new Promise((resolve) => setTimeout(resolve, 500));
 
-  console.log(`[Grooovio Fetch] Looking for ID: ${id}`);
-  
+  await new Promise((resolve) => setTimeout(resolve, 500));
+
   // Try to find in cache first
   for (const [key, data] of dataCache.entries()) {
     const found = data.find((v: any) => v.id && v.id.toString() === id.toString());
     if (found) {
-      console.log(`[Grooovio Fetch] Found in cache: ${key}`);
       return mapToVideo(found);
     }
   }
@@ -440,14 +437,12 @@ export const fetchVideoById = async (
       return yId === id;
     });
     if (found) {
-      console.log(`[Grooovio Fetch] Found by YouTube ID in cache: ${key}`);
       return mapToVideo(found);
     }
   }
   
   // OPTIMIZED: Instead of loading ALL data, search year by year
   // Try each year from the index, starting from most recent (more likely)
-  console.log(`[Grooovio Fetch] Not in cache, searching year by year...`);
   const years = Object.keys(metadataIndex.byYear).map(y => parseInt(y)).sort((a, b) => b - a);
   
   for (const year of years) {
@@ -464,7 +459,6 @@ export const fetchVideoById = async (
     }
     
     if (found) {
-      console.log(`[Grooovio Fetch] Found in year ${year}`);
       return mapToVideo(found);
     }
   }
@@ -480,7 +474,6 @@ export const fetchVideoById = async (
         return yId === id;
       });
       if (found) {
-        console.log(`[Grooovio Fetch] Found in program ${program}`);
         return mapToVideo(found);
       }
     } catch (e) {
@@ -488,7 +481,6 @@ export const fetchVideoById = async (
     }
   }
   
-  console.warn(`[Grooovio Fetch] Video not found for ID: ${id}`);
   return undefined;
 };
 
@@ -671,13 +663,6 @@ export const getTopArtists = async (limit: number = 5) => {
 };
 
 export const getAllArtists = async () => {
-  // Use the index for instant results instead of loading all data
-  if (metadataIndex.byArtist) {
-    return Object.entries(metadataIndex.byArtist)
-      .map(([name, data]: [string, any]) => ({ name, count: data.count }))
-      .sort((a, b) => a.name.localeCompare(b.name)); // Already sorted in index, but ensure it
-  }
-  
   // Fallback to loading all data if index doesn't have artists yet
   const allData = await getDataset('all');
   const artistCounts: Record<string, number> = {};
