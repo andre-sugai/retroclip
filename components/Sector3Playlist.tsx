@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Video } from '../types';
-import { Radio, ChevronDown, ChevronUp } from 'lucide-react';
+import { Video, Channel } from '../types';
+import { Radio, ChevronDown, ChevronUp, Plus } from 'lucide-react';
 import { translations, Language } from '../translations';
 
 interface Sector3PlaylistProps {
@@ -16,6 +16,9 @@ interface Sector3PlaylistProps {
   onSelectVideo?: (video: Video) => void;
   language: Language;
   availableGenres: Set<string>;
+  channels: Channel[];
+  onSelectChannel: (channel: Channel) => void;
+  user: any; // User object from auth context
 }
 
 // Map IDs to Translation Keys
@@ -50,7 +53,10 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
   selectedGenre,
   onSelectGenre,
   language,
-  availableGenres
+  availableGenres,
+  channels,
+  onSelectChannel,
+  user
 }) => {
   const t = translations[language].sector3;
   const tGenres = translations[language].sector3.genres;
@@ -60,6 +66,7 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
   const [isFestivalsCollapsed, setIsFestivalsCollapsed] = useState(false);
   const [isProgramsCollapsed, setIsProgramsCollapsed] = useState(false);
   const [isRadiosCollapsed, setIsRadiosCollapsed] = useState(false);
+  const [isChannelsCollapsed, setIsChannelsCollapsed] = useState(false);
 
 
   return (
@@ -431,10 +438,63 @@ export const Sector3Playlist: React.FC<Sector3PlaylistProps> = ({
         </div>
        </div>
 
+      {/* CHANNELS SECTION */}
+      {/* Header */}
+      {user && (
+          <>
+            <button 
+                className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[240px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
+                onClick={() => setIsChannelsCollapsed(!isChannelsCollapsed)}
+                aria-expanded={!isChannelsCollapsed}
+                aria-controls="channels-grid"
+            >
+                <div className="px-6 py-3 flex items-center justify-between">
+                    <h2 className="text-xs font-bold text-muted-foreground uppercase tracking-widest flex items-center gap-3">
+                        <div className="flex items-center justify-center w-6 h-6 border border-muted-foreground/30 rounded bg-zinc-100 dark:bg-zinc-800">
+                        {isChannelsCollapsed ? <ChevronDown className="w-4 h-4" /> : <ChevronUp className="w-4 h-4" />}
+                        </div>
+                        Meus Canais
+                    </h2>
+                </div>
+            </button>
+
+            {/* Channels Content */}
+            <div 
+                id="channels-grid"
+                className={`grid transition-[grid-template-rows] duration-500 ease-in-out ${isChannelsCollapsed ? 'grid-rows-[0fr]' : 'grid-rows-[1fr]'}`}
+            >
+                <div className="overflow-hidden">
+                    <div className="p-4 bg-zinc-50/30 dark:bg-black/20">
+                        <div className="grid grid-cols-1 gap-3">
+                            {channels.length === 0 ? (
+                                <div className="text-center py-4">
+                                    <p className="text-xs text-muted-foreground mb-2">Você ainda não tem canais.</p>
+                                    <p className="text-xs text-muted-foreground opacity-70">
+                                        Crie canais no seu perfil.
+                                    </p>
+                                </div>
+                            ) : (
+                                channels.map(channel => (
+                                    <button
+                                        key={channel.id}
+                                        onClick={() => onSelectChannel(channel)}
+                                        className="relative p-4 rounded-lg border bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 text-muted-foreground hover:border-primary/50 hover:text-primary dark:hover:border-zinc-700 hover:shadow-md hover:scale-[1.01] text-sm font-bold uppercase tracking-widest transition-all duration-300 h-16 flex items-center justify-center text-center overflow-hidden"
+                                    >
+                                        {channel.title}
+                                    </button>
+                                ))
+                            )}
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </>
+      )}
+
       {/* PROGRAMS SECTION */}
       {/* Header */}
       <button 
-        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[240px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
+        className="flex flex-col border-y border-border bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur z-10 sticky top-[288px] cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800/80 transition-colors w-full text-left"
         onClick={() => setIsProgramsCollapsed(!isProgramsCollapsed)}
         aria-expanded={!isProgramsCollapsed}
         aria-controls="programs-grid"

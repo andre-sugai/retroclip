@@ -13884,7 +13884,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=UBjTdLGV8L0",
     "imvdb_url": "https://imvdb.com/video/pop-smoke/demeanor",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 330814059057,
@@ -47807,7 +47808,8 @@
       "epitaph"
     ],
     "nationality": "US",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769608129716608,
@@ -47823,7 +47825,8 @@
       "epitaph"
     ],
     "nationality": "US",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769608132354761,
@@ -47839,7 +47842,8 @@
       "epitaph"
     ],
     "nationality": "US",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769608137742693,
@@ -47855,7 +47859,8 @@
       "epitaph"
     ],
     "nationality": "US",
-    "record_label": "epitaph"
+    "record_label": "epitaph",
+    "is_live": false
   },
   {
     "id": 1769608142766754,

@@ -1,15 +1,24 @@
 import React, { useState, useEffect } from 'react';
-import { Video } from '../types';
+import { Video, Channel } from '../types';
 import { fetchVideoById } from '../services/imvdbService';
-import { Play, X, Camera, Save, LogOut, Edit2 } from 'lucide-react';
+import { Play, X, Camera, Save, LogOut, Edit2, Plus, Tv } from 'lucide-react';
 import { useAuth } from '../contexts/AuthContext';
 
 interface ProfilePanelProps {
   onClose: () => void;
   onSelectVideo?: (video: Video) => void;
+  channels: Channel[];
+  onCreateChannel: () => void;
+  onSelectChannel: (channel: Channel) => void;
 }
 
-export const ProfilePanel: React.FC<ProfilePanelProps> = ({ onClose, onSelectVideo }) => {
+export const ProfilePanel: React.FC<ProfilePanelProps> = ({ 
+  onClose, 
+  onSelectVideo,
+  channels,
+  onCreateChannel,
+  onSelectChannel
+}) => {
   const { user, profile, updateProfile, signOut } = useAuth();
   const [editing, setEditing] = useState(false);
   const [loading, setLoading] = useState(false);
@@ -189,6 +198,53 @@ export const ProfilePanel: React.FC<ProfilePanelProps> = ({ onClose, onSelectVid
                 <p>{profile?.bio || 'Adicione uma bio para se apresentar!'}</p>
               </div>
             )}
+          </div>
+
+          {/* My Channels */}
+          <div className="bg-zinc-800/30 border border-zinc-700 rounded-xl p-4">
+             <div className="flex items-center justify-between mb-3">
+                <h4 className="font-bold text-white flex items-center gap-2">
+                    <Tv className="w-4 h-4 text-amber-500" />
+                    Meus Canais ({channels.length})
+                </h4>
+                <button 
+                    onClick={onCreateChannel}
+                    className="p-1 hover:bg-zinc-700 rounded-full text-amber-500 transition-colors"
+                    title="Criar Novo Canal"
+                >
+                    <Plus className="w-5 h-5" />
+                </button>
+             </div>
+             
+             {channels.length > 0 ? (
+                 <div className="space-y-2">
+                    {channels.map(channel => (
+                        <div 
+                            key={channel.id}
+                            className="flex items-center justify-between p-3 bg-zinc-900/50 hover:bg-zinc-800/80 rounded-lg border border-zinc-800/50 hover:border-zinc-700 transition-all cursor-pointer group"
+                            onClick={() => {
+                                onSelectChannel(channel);
+                                onClose();
+                            }}
+                        >
+                            <span className="text-sm font-medium text-zinc-300 group-hover:text-white truncate">
+                                {channel.title}
+                            </span>
+                            <Play className="w-3 h-3 text-zinc-600 group-hover:text-amber-500 fill-current opacity-0 group-hover:opacity-100 transition-all" />
+                        </div>
+                    ))}
+                 </div>
+             ) : (
+                <div className="text-center py-4 bg-zinc-900/30 rounded-lg border border-dashed border-zinc-800">
+                    <p className="text-xs text-zinc-500 mb-2">Você ainda não tem canais de TV.</p>
+                    <button 
+                        onClick={onCreateChannel}
+                        className="text-xs text-amber-500 hover:text-amber-400 font-bold uppercase tracking-wide"
+                    >
+                        Criar meu primeiro canal
+                    </button>
+                </div>
+             )}
           </div>
 
           {/* Favorite Videos */}

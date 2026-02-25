@@ -7,13 +7,21 @@ import { ProfilePanel } from './ProfilePanel';
 
 type ModalState = 'login' | 'signup' | 'profile' | null;
 
-import { Video } from '../types';
+import { Video, Channel } from '../types';
 
 interface AuthButtonProps {
   onSelectVideo?: (video: Video) => void;
+  channels: Channel[];
+  onCreateChannel: () => void;
+  onSelectChannel: (channel: Channel) => void;
 }
 
-export const AuthButton: React.FC<AuthButtonProps> = ({ onSelectVideo }) => {
+export const AuthButton: React.FC<AuthButtonProps> = ({ 
+  onSelectVideo, 
+  channels, 
+  onCreateChannel, 
+  onSelectChannel 
+}) => {
   const { user, profile } = useAuth();
   const [modalState, setModalState] = useState<ModalState>(null);
 
@@ -66,6 +74,9 @@ export const AuthButton: React.FC<AuthButtonProps> = ({ onSelectVideo }) => {
         <ProfilePanel 
             onClose={() => setModalState(null)} 
             onSelectVideo={onSelectVideo}
+            channels={channels}
+            onCreateChannel={onCreateChannel}
+            onSelectChannel={onSelectChannel}
         />
       )}
     </>

@@ -36,7 +36,13 @@ import {
 import { translations, Language } from './translations';
 import { TVStatic } from './components/TVStatic';
 import { InfoModal } from './components/InfoModal';
-import { AuthProvider } from './contexts/AuthContext';
+import { useAuth } from './contexts/AuthContext';
+import { QueryClient, QueryClientProvider, useQuery } from '@tanstack/react-query';
+import { Channel, Episode } from './types';
+import { fetchChannels, fetchEpisodeItems } from './services/channelService';
+import { ChannelView } from './components/channels/ChannelView';
+import { CreateChannelModal } from './components/channels/CreateChannelModal';
+import { EpisodeEditorModal } from './components/channels/EpisodeEditorModal';
 
 import { AuthButton } from './components/AuthButton';
 import { FavoriteButton } from './components/FavoriteButton';
@@ -46,6 +52,8 @@ const App: React.FC = () => {
   const [theme, setTheme] = useState<'dark' | 'light'>('dark');
   const [isMuted, setIsMuted] = useState(false);
 
+  const { user } = useAuth();
+  
   // Layout State
   // Default to closed on mobile (< 768px), open on desktop
   const [isSidebarOpen, setIsSidebarOpen] = useState(() =>
@@ -55,6 +63,7 @@ const App: React.FC = () => {
   const [showShareCopied, setShowShareCopied] = useState(false);
   const [isInfoModalOpen, setIsInfoModalOpen] = useState(false);
   const [isPlayerInfoVisible, setIsPlayerInfoVisible] = useState(true);
+  const [isCreateChannelModalOpen, setIsCreateChannelModalOpen] = useState(false);
 
   // State for Mobile Menu
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -89,6 +98,107 @@ const App: React.FC = () => {
 
   // Pinkpop Videos State (loaded asynchronously)
   const [pinkpopVideos, setPinkpopVideos] = useState<Video[]>([]);
+
+  // Channels State
+  const [selectedChannel, setSelectedChannel] = useState<Channel | null>(null);
+  const [editingEpisode, setEditingEpisode] = useState<Episode | null>(null);
+
+  const { data: userChannels } = useQuery({
+    queryKey: ['channels', user?.id],
+    queryFn: () => fetchChannels(user!.id),
+    enabled: !!user,
+  });
+
+  // Handle Play Episode
+  const handlePlayEpisode = async (episode: Episode) => {
+     try {
+       setState(prev => ({ ...prev, isLoading: true, error: null }));
+       
+       // Build queue for episode
+       const items = await fetchEpisodeItems(episode.id);
+       
+       const queue: Video[] = [];
+
+       // Helper to create video object
+       // We generate a negative ID to avoid conflicts with real IDs (assuming real IDs are positive)
+       // Using timestamp + index for uniqueness
+       const createVideoObject = (url: string, title: string, index: number): Video => {
+          // Identify source
+          let source: 'youtube' | 'vimeo' = 'youtube';
+          if (url.includes('vimeo')) source = 'vimeo';
+
+          // Extract ID (naive extraction)
+          // You might need a more robust extraction if allowing various URL formats
+          // This is a placeholder. For now assuming simple YouTube/Vimeo ID extraction or just using URL as source for a player that supports it.
+          // BUT: The current player likely expects specific ID formats.
+          // App's fetchVideoById logic suggests it fetches from DB.
+          // Here we are creating "virtual" videos not in the DB.
+          // The current Player components (Sector1Player) likely render YouTube/Vimeo embeds.
+          // If they expect 'id' to be the embed ID, we need to extract it.
+          
+          let embedId = url; // Default fallback
+          if (source === 'youtube') {
+             try {
+                 const urlObj = new URL(url);
+                 if (urlObj.hostname === 'youtu.be') {
+                     embedId = urlObj.pathname.slice(1);
+                 } else {
+                     embedId = urlObj.searchParams.get('v') || embedId;
+                 }
+             } catch(e) {}
+          }
+          // Assuming the player uses `embed_id` or `id` to play.
+          
+          return {
+              id: -1 * (Date.now() + index), // safe negative ID
+              song_title: title,
+              artists: [{ name: 'Episode Segment', slug: 'episode-segment' }],
+              year: new Date().getFullYear(),
+              video_type: 'clip', // or 'unknown'
+              source: source,
+              embed_id: embedId,
+              program_name: '',
+              record_label: '',
+              artist_genre: '',
+              url: url,
+              is_program: false
+          };
+       };
+
+       if (episode.opening_video_url) {
+           queue.push(createVideoObject(episode.opening_video_url, 'Abertura', 0));
+       }
+       if (episode.intro_video_url) {
+           queue.push(createVideoObject(episode.intro_video_url, 'Apresentação', 1));
+       }
+       
+       items.forEach((item, idx) => {
+           queue.push(createVideoObject(item.video_url, `Clipe ${idx + 1}`, idx + 2));
+       });
+
+       if (queue.length > 0) {
+           setState(prev => ({
+               ...prev,
+               queue: queue,
+               currentVideo: queue[0],
+               isLoading: false,
+               isPlaying: true,
+               hasStarted: true
+           }));
+           // Close sidebars if needed
+           if (typeof window !== 'undefined' && window.innerWidth < 768) {
+             setIsSidebarOpen(false);
+           }
+       } else {
+           setState(prev => ({ ...prev, isLoading: false, error: 'Este episódio está vazio.' }));
+       }
+
+     } catch (e) {
+         console.error('Error playing episode:', e);
+         setState(prev => ({ ...prev, isLoading: false, error: 'Erro ao reproduzir episódio.' }));
+     }
+  };
+
 
   // Track Played Videos
   useEffect(() => {
@@ -978,7 +1088,7 @@ const App: React.FC = () => {
   };
 
   return (
-    <AuthProvider>
+
       <div className="flex h-screen w-screen overflow-hidden bg-background font-sans text-foreground">
         {/* Welcome Screen */}
         {showWelcome && (
@@ -1095,7 +1205,18 @@ const App: React.FC = () => {
 
             {/* Auth Button and Favorite Button */}
             <div className="relative group pointer-events-auto">
-              <AuthButton onSelectVideo={handleSelectVideo} />
+              <AuthButton 
+                  onSelectVideo={handleSelectVideo} 
+                  channels={userChannels || []}
+                  onCreateChannel={() => setIsCreateChannelModalOpen(true)}
+                  onSelectChannel={(channel) => {
+                      setSelectedChannel(channel);
+                       // Auto-close sidebar on mobile
+                      if (typeof window !== 'undefined' && window.innerWidth < 768) {
+                        setIsSidebarOpen(false);
+                      }
+                  }}
+              />
               
               <div 
                 className={`absolute top-full right-0 pt-4 flex flex-col items-center pointer-events-none md:pointer-events-auto ${
@@ -1271,20 +1392,38 @@ const App: React.FC = () => {
         </div>
 
         {/* SECTOR 3: Bottom Right (Playlist) */}
-        <Sector3Playlist
-          queue={state.queue}
-          currentVideo={state.currentVideo}
-          onPlay={handlePlay} // Only used if stopped
-          onSkip={handleNext}
-          isPlaying={state.isPlaying}
-          isLoading={state.isLoading}
-          hasStarted={state.hasStarted}
-          selectedGenre={selectedGenre}
-          onSelectGenre={handleGenreSelect}
-          onSelectVideo={handleSelectVideo}
-          language={language}
-          availableGenres={availableGenres}
-        />
+        {selectedChannel ? (
+            <ChannelView
+               channel={selectedChannel}
+               onBack={() => setSelectedChannel(null)}
+               onPlayEpisode={handlePlayEpisode}
+               onEditEpisode={(episode) => setEditingEpisode(episode)}
+            />
+        ) : (
+          <Sector3Playlist
+            queue={state.queue}
+            currentVideo={state.currentVideo}
+            onPlay={handlePlay} // Only used if stopped
+            onSkip={handleNext}
+            isPlaying={state.isPlaying}
+            isLoading={state.isLoading}
+            hasStarted={state.hasStarted}
+            selectedGenre={selectedGenre}
+            onSelectGenre={handleGenreSelect}
+            onSelectVideo={handleSelectVideo}
+            language={language}
+            availableGenres={availableGenres}
+            channels={userChannels || []}
+            onSelectChannel={(channel) => {
+                setSelectedChannel(channel);
+                 // Auto-close sidebar on mobile
+                if (typeof window !== 'undefined' && window.innerWidth < 768) {
+                  setIsSidebarOpen(false);
+                }
+            }}
+            user={user}
+          />
+        )}
       </aside>
 
       {/* Info Modal */}
@@ -1293,8 +1432,22 @@ const App: React.FC = () => {
         onClose={() => setIsInfoModalOpen(false)}
         language={language}
       />
+      
+      {/* Create Channel Modal */}
+      <CreateChannelModal 
+         isOpen={isCreateChannelModalOpen}
+         onClose={() => setIsCreateChannelModalOpen(false)}
+         language={language as any}
+      />
+
+      {/* Episode Editor Modal */}
+      <EpisodeEditorModal 
+         isOpen={!!editingEpisode}
+         onClose={() => setEditingEpisode(null)}
+         episode={editingEpisode}
+         channelId={selectedChannel?.id || ''}
+      />
       </div>
-    </AuthProvider>
   );
 };
 

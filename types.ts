@@ -45,3 +45,29 @@ export interface PlayerState {
   isLoading: boolean;
   error: string | null;
 }
+
+export interface Channel {
+  id: string;
+  user_id: string;
+  title: string;
+  description?: string;
+  created_at: string;
+}
+
+export interface Episode {
+  id: string;
+  channel_id: string;
+  title: string;
+  opening_video_url?: string;
+  intro_video_url?: string;
+  created_at: string;
+  items?: EpisodeItem[];
+}
+
+export interface EpisodeItem {
+  id: string;
+  episode_id: string;
+  video_url: string;
+  order: number;
+  created_at: string;
+}
