@@ -83,7 +83,7 @@ export const ProfilePanel: React.FC<ProfilePanelProps> = ({
                 Grooovio
               </h2>
               <p className="text-xs text-zinc-400 font-mono mt-0.5">
-                V 1.25.2 // ARIA-COMPLIANT
+                V 1.25.3 // ARIA-COMPLIANT
               </p>
             </div>
             <button

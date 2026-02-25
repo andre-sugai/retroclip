@@ -89,7 +89,7 @@ export const LoginModal: React.FC<LoginModalProps> = ({ onClose, onSwitchToSignu
               Grooovio
             </h1>
             <p className="text-xs text-zinc-400 font-mono mt-1">
-              {isResetMode ? 'Recuperação de Senha' : 'V 1.25.2 // ARIA-COMPLIANT'}
+              {isResetMode ? 'Recuperação de Senha' : 'V 1.25.3 // ARIA-COMPLIANT'}
             </p>
           </div>
 

@@ -61840,7 +61840,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=SXjXKT98esw",
     "imvdb_url": "https://imvdb.com/video/daughtry/waiting-for-superman",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 250373390993,
@@ -61851,7 +61852,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=Doiq1cWMAAE",
     "imvdb_url": "https://imvdb.com/video/paigey-cakey/same-way",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 234963901697,
@@ -61862,7 +61864,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=T0_LuSW61GI",
     "imvdb_url": "https://imvdb.com/video/julia-holter/horns-surrounding-me",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 135535247796,
@@ -61884,7 +61887,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=w-F2qEAuVaY",
     "imvdb_url": "https://imvdb.com/video/anna-calvi/suddenly",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 185961072527,
@@ -61895,7 +61899,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=AsCIp29-Meg",
     "imvdb_url": "https://imvdb.com/video/pyramido/ar-av-onad",
     "nationality": "SE",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 236660931040,
@@ -61906,7 +61911,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=Jn-cedHQg2A",
     "imvdb_url": "https://imvdb.com/video/deals-death/point-zero-solution",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 116750685616,
@@ -61917,7 +61923,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=v2_dyP7nYzw",
     "imvdb_url": "https://imvdb.com/video/mama-abama/peugeot",
     "nationality": "INTL",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 278693348927,
@@ -61928,7 +61935,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=OH7WgtuUZVA",
     "imvdb_url": "https://imvdb.com/video/becky-g/built-for-this",
     "nationality": "DE",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 220025533459,
@@ -61939,7 +61947,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=QglMzJT35Og",
     "imvdb_url": "https://imvdb.com/video/midnight-juggernauts/systematic",
     "nationality": "AU",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 207837745737,
@@ -61950,7 +61959,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=7KJ8sGbosD8",
     "imvdb_url": "https://imvdb.com/video/lo-fang/look-away",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 294030444753,
@@ -61972,7 +61982,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=d-lzA09FR0I",
     "imvdb_url": "https://imvdb.com/video/naomi-pilgrim/no-gun",
     "nationality": "SE",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 119406633171,
@@ -61983,7 +61994,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=GGxnCQ2w3sA",
     "imvdb_url": "https://imvdb.com/video/sleepy-sun/the-lane",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 219824917217,
@@ -61994,7 +62006,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=2JuIQ9kQZII",
     "imvdb_url": "https://imvdb.com/video/lake-1/perfect-fit",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 253559278288,
@@ -62005,7 +62018,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=6OK-vidzadk",
     "imvdb_url": "https://imvdb.com/video/danny-darko/visible",
     "nationality": "DE",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 289040795722,
@@ -62016,7 +62030,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=NiW9eQePHhI",
     "imvdb_url": "https://imvdb.com/video/youngin-beez/no-pressure",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 199705197510,
@@ -62027,7 +62042,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=XjwZAa2EjKA",
     "imvdb_url": "https://imvdb.com/video/katy-perry/unconditionally",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 285072507288,
@@ -62038,7 +62054,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=1GZHB0v7y6w",
     "imvdb_url": "https://imvdb.com/video/highasakite/since-last-wednesday",
     "nationality": "NO",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 158959705035,
@@ -62049,7 +62066,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=G8PieH6ChWg",
     "imvdb_url": "https://imvdb.com/video/casey-veggies/the-team",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 202078541055,
@@ -62071,7 +62089,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=tgf_ekShQFs",
     "imvdb_url": "https://imvdb.com/video/zebra-katz/blk-wiccan",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 156517658143,
@@ -62104,7 +62123,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=ZQ_crwtc34k",
     "imvdb_url": "https://imvdb.com/video/fefe-dobson/legacy",
     "nationality": "CA",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 124261039986,
@@ -62115,7 +62135,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=UKNFqiTgoew",
     "imvdb_url": "https://imvdb.com/video/kilter/hold-me",
     "nationality": "AU",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 268687470435,
@@ -62126,7 +62147,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=CPA3lRdie1c",
     "imvdb_url": "https://imvdb.com/video/gaunt-story/companion-waves",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 194466400310,
@@ -62137,7 +62159,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=_c9ZSQZPV7U",
     "imvdb_url": "https://imvdb.com/video/fortress-social-club/dream-girls",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 184624075592,
@@ -62148,7 +62171,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=ANOakkZKTNg",
     "imvdb_url": "https://imvdb.com/video/om-unit/the-road",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 250009485177,
@@ -62159,7 +62183,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=C5JvvdUPcjY",
     "imvdb_url": "https://imvdb.com/video/kove/love-for-you",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 104987040150,
@@ -62181,7 +62206,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=4-mWpknZ6Ls",
     "imvdb_url": "https://imvdb.com/video/bonobo/get-thy-bearings",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 449081974941,
@@ -62192,7 +62218,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=GurkREc-q4I",
     "imvdb_url": "https://imvdb.com/video/in-this-moment/whore",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 436604631901,
@@ -62214,7 +62241,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=v73ECi8ou8g",
     "imvdb_url": "https://imvdb.com/video/august-alsina/numb",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 254813136058,
@@ -62225,7 +62253,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=t_oWGTb0P1g",
     "imvdb_url": "https://imvdb.com/video/woof/still-snorkeling",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 209327097350,
@@ -62236,7 +62265,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=r8VQ7iCF3LY",
     "imvdb_url": "https://imvdb.com/video/big-ups/goes-black",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 650061165719,
@@ -62258,7 +62288,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=yiiDWxk5rek",
     "imvdb_url": "https://imvdb.com/video/waldo-marsha/canals",
     "nationality": "DK",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 746460398287,
@@ -62280,7 +62311,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=AMWQ2GkRl3g",
     "imvdb_url": "https://imvdb.com/video/french-cassettes/boys",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 928635794416,
@@ -62313,7 +62345,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=-CDvFcOp6p8",
     "imvdb_url": "https://imvdb.com/video/palenke-soultribe/move-it",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 261736243030,
@@ -62324,7 +62357,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=xS5dj04Gm8w",
     "imvdb_url": "https://imvdb.com/video/tensi/take-me-ova",
     "nationality": "KR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 115697626942,
@@ -62335,7 +62369,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=m60ew1ez6aY",
     "imvdb_url": "https://imvdb.com/video/andrea-nardinocchi/amare-qualcuno",
     "nationality": "IT",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 869834637465,
@@ -62357,7 +62392,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=a0ul-BghOAs",
     "imvdb_url": "https://imvdb.com/video/phantogram/black-out-days",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 657990455179,
@@ -62368,7 +62404,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=VfRTe565VN0",
     "imvdb_url": "https://imvdb.com/video/gems/tall-mountain",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 589237528547,
@@ -62379,7 +62416,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=Q6w-ZuBlQu8",
     "imvdb_url": "https://imvdb.com/video/nick-mulvey/nick-mulvey",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 266577105872,
@@ -62390,7 +62428,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=IQT_RtyBt9o",
     "imvdb_url": "https://imvdb.com/video/xiu-xiu/youd-be-so-nice",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 236046852514,
@@ -62401,7 +62440,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=-MI3CKL4NMI",
     "imvdb_url": "https://imvdb.com/video/snoop-dogg/smoke-the-weed",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 464457546427,
@@ -62412,7 +62452,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=1ogTxqidSTU",
     "imvdb_url": "https://imvdb.com/video/hustle-gang/kemosabe",
     "nationality": "AT",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 130284976662,
@@ -62434,7 +62475,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=79JpTg7L-1Y",
     "imvdb_url": "https://imvdb.com/video/like-a-storm/nothing-remains",
     "nationality": "CA",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": true
   },
   {
     "id": 228207091274,
@@ -62445,7 +62487,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=9FWgcBfs5A0",
     "imvdb_url": "https://imvdb.com/video/plan-b/candy",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 252841764869,
@@ -62456,7 +62499,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=dfMrsrzxZxc",
     "imvdb_url": "https://imvdb.com/video/krizz-kaliko/why-me",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 167988244390,
@@ -62467,7 +62511,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=3rd25jH4nvQ",
     "imvdb_url": "https://imvdb.com/video/travis-garland/motel-pool",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 576183146297,
@@ -62478,7 +62523,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=MLjXdzLLojs",
     "imvdb_url": "https://imvdb.com/video/alessandra-amoroso/amore-puro",
     "nationality": "IT",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 166014734545,
@@ -62500,7 +62546,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=VW_gBiJm17A",
     "imvdb_url": "https://imvdb.com/video/the-queens/heels-bling",
     "nationality": "PL",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 216447331127,
@@ -62511,7 +62558,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=m9DO3zpdWqw",
     "imvdb_url": "https://imvdb.com/video/james-arthur/recovery",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 165857936511,
@@ -62522,7 +62570,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=MfttyNSCI-g",
     "imvdb_url": "https://imvdb.com/video/hayden-james/permission-to-love",
     "nationality": "DE",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 104482061540,
@@ -62533,7 +62582,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=OXBUl0bZamE",
     "imvdb_url": "https://imvdb.com/video/shadows-and-dust/homely-ground",
     "nationality": "NL",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 120021161559,
@@ -62544,7 +62594,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=yOLI2ImmSrk",
     "imvdb_url": "https://imvdb.com/video/prince-malik/letting-you-know",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 883763819433,
@@ -62566,7 +62617,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=Q-jH-jUfVRo",
     "imvdb_url": "https://imvdb.com/video/ford/music-in-me",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 253325936710,
@@ -62577,7 +62629,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=mw1w1eermSE",
     "imvdb_url": "https://imvdb.com/video/feral-is-kinky/tweet",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 147695731638,
@@ -62588,7 +62641,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=24Q5V1TDoVU",
     "imvdb_url": "https://imvdb.com/video/mike-golden-friends/keep-movin",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 139938275198,
@@ -62599,7 +62653,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=MNt4niVS3M0",
     "imvdb_url": "https://imvdb.com/video/moonshine-bandits/california-country",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 229819991632,
@@ -62610,7 +62665,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=-hTD6uEgTVw",
     "imvdb_url": "https://imvdb.com/video/hoodie-allen/fame-is-for-assholes",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 225151281194,
@@ -62621,7 +62677,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=quppZeNV3f0",
     "imvdb_url": "https://imvdb.com/video/max-2/nothing-without-love",
     "nationality": "DE",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 100756867916,
@@ -62643,7 +62700,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=BQp7z8yYZUI",
     "imvdb_url": "https://imvdb.com/video/donatan/slavic-girls",
     "nationality": "PL",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 247060312074,
@@ -62654,7 +62712,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=3_Z6jS4x5bw",
     "imvdb_url": "https://imvdb.com/video/verses/feel-it-faster",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 189936935713,
@@ -62665,7 +62724,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=vMHdvd3XEyU",
     "imvdb_url": "https://imvdb.com/video/yandel/hasta-abajo",
     "nationality": "PR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 128874514995,
@@ -62676,7 +62736,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=R3rzh7uCeOA",
     "imvdb_url": "https://imvdb.com/video/yandel/hable-de-ti",
     "nationality": "PR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 129355365058,
@@ -62698,7 +62759,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=im4yfSWU7e0",
     "imvdb_url": "https://imvdb.com/video/shystie/control-it",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 198015166775,
@@ -62720,7 +62782,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=m1TdKxtbNmo",
     "imvdb_url": "https://imvdb.com/video/martha-wash/its-my-time",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 252115644895,
@@ -62742,7 +62805,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=IWZaEkU-bc0",
     "imvdb_url": "https://imvdb.com/video/fou-de-toi/heartless",
     "nationality": "JP",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 295230801727,
@@ -62753,7 +62817,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=So57DijOdvU",
     "imvdb_url": "https://imvdb.com/video/kae-sun/when-the-pot",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 503985590001,
@@ -62775,7 +62840,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=qvc7-s07-GA",
     "imvdb_url": "https://imvdb.com/video/cabron/da-o-tare",
     "nationality": "RO",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 284392520858,
@@ -62797,7 +62863,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=41o1xrTGc2U",
     "imvdb_url": "https://imvdb.com/video/frida-sundemo/home",
     "nationality": "SE",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 113029172711,
@@ -62808,7 +62875,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=CASe9l48T3A",
     "imvdb_url": "https://imvdb.com/video/vuvuvultures/stay-still",
     "nationality": "INTL",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 175333764394,
@@ -62819,7 +62887,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=hTCZYZIaxxk",
     "imvdb_url": "https://imvdb.com/video/malika-ayane/e-se-poi",
     "nationality": "IT",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 714337958890,
@@ -62830,7 +62899,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=UNsLHmGmqrk",
     "imvdb_url": "https://imvdb.com/video/mz/juste-une-autre",
     "nationality": "FR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 126972404708,
@@ -62852,7 +62922,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=6D4p5aKkzrs",
     "imvdb_url": "https://imvdb.com/video/danso/bring-me-down",
     "nationality": "INTL",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 156155831772,
@@ -62863,7 +62934,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=8hNTH5jbPNA",
     "imvdb_url": "https://imvdb.com/video/flynt/mon-pote",
     "nationality": "FR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 176978851195,
@@ -62885,7 +62957,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=LueI5-zLlUI",
     "imvdb_url": "https://imvdb.com/video/witchblade/not-enough",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 212238647035,
@@ -62896,7 +62969,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=bkuLR8SMnhc",
     "imvdb_url": "https://imvdb.com/video/alba-lua/when-im-roaming-free",
     "nationality": "FR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 103086922116,
@@ -62907,7 +62981,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=r6FATW9Pf2w",
     "imvdb_url": "https://imvdb.com/video/oskar-linnros/hur-dom-an",
     "nationality": "SE",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 675651436266,
@@ -62918,7 +62993,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=TsRa7M6qBso",
     "imvdb_url": "https://imvdb.com/video/magic-fight/grandchildren",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 574243268172,
@@ -62929,7 +63005,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=yy9FaCigUyg",
     "imvdb_url": "https://imvdb.com/video/brooklynn/take-my-hand",
     "nationality": "INTL",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 248334276141,
@@ -62940,7 +63017,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=P5TGRAg1l0Y",
     "imvdb_url": "https://imvdb.com/video/the-shallows/honestly",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 289909018346,
@@ -62951,7 +63029,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=F_rEHfLgdcY",
     "imvdb_url": "https://imvdb.com/video/maitre-gims/jme-tire",
     "nationality": "FR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 181158370925,
@@ -62962,7 +63041,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=qdD-x9ocK1A",
     "imvdb_url": "https://imvdb.com/video/miss-montreal/heavy-heart",
     "nationality": "NL",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 191026965886,
@@ -62973,7 +63053,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=vuSEIruqbQg",
     "imvdb_url": "https://imvdb.com/video/ayumi-hamasaki/feel-the-love",
     "nationality": "JP",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 403108894446,
@@ -62984,7 +63065,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=L-OR7UGkCb0",
     "imvdb_url": "https://imvdb.com/video/kery-james/post-scriptum",
     "nationality": "DE",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 613698315538,
@@ -62995,7 +63077,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=APm5zZouCwQ",
     "imvdb_url": "https://imvdb.com/video/rockapella/pretty-much-you",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 159372304461,
@@ -63006,7 +63089,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=A2BFc5aa0QA",
     "imvdb_url": "https://imvdb.com/video/red-crow/city-riser",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 147319243830,
@@ -63017,7 +63101,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=mEvNqbHQV4Y",
     "imvdb_url": "https://imvdb.com/video/luis-coronel/somos-ajenos",
     "nationality": "BR",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 250189309819,
@@ -63028,7 +63113,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=3eqm7lPEv5E",
     "imvdb_url": "https://imvdb.com/video/kate-nash/fri-end",
     "nationality": "GB",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 154740171121,
@@ -63039,7 +63125,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=r9y11KNMgso",
     "imvdb_url": "https://imvdb.com/video/the-foundation/hope",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 287617233458,
@@ -63050,7 +63137,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=2mEkfoq9Bek",
     "imvdb_url": "https://imvdb.com/video/louise-burns/emeralds-shatter",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 800010935409,
@@ -63061,7 +63149,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=9c-bsGNcYLw",
     "imvdb_url": "https://imvdb.com/video/marko-mandic/dobar-dan",
     "nationality": "INTL",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 188396333750,
@@ -63072,7 +63161,8 @@
     "youtube_link": "https://www.youtube.com/watch?v=ogxLNlgKM8c",
     "imvdb_url": "https://imvdb.com/video/alan-jackson/amazing-grace",
     "nationality": "US",
-    "video_type": "clip"
+    "video_type": "clip",
+    "is_live": false
   },
   {
     "id": 162662580535,

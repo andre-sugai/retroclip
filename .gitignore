@@ -29,3 +29,6 @@ dist-ssr
 
 # Agent
 .agent/skills
+
+# Local Netlify folder
+.netlify

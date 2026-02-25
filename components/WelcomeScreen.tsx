@@ -186,7 +186,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({
               Grooovio
             </h1>
             <p className="text-[10px] md:text-sm text-muted-foreground font-mono">
-              V 1.25.2 // ARIA-COMPLIANT
+              V 1.25.3 // ARIA-COMPLIANT
             </p>
           </div>
 
